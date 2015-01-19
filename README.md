@@ -7,7 +7,7 @@
 **Project Title :** Traffic Analyzer Dashboard
 
 **Team  :**     Abhinav Agarwalla, Abhinav Jain,
-Kumar Abhinav, Mudit Jain
+Kumar Abhinav, Arnav Jain, Mudit Jain
 
 **Language Used :** Python(Django framework) ,  HTML , JS , CSS
 
