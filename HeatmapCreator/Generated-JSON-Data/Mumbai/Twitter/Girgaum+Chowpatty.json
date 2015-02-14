@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chowpatty Beach",
+               "short_name" : "Chowpatty Beach",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chowpatty Beach",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9560176,
+                  "lng" : 72.8184938
+               },
+               "southwest" : {
+                  "lat" : 18.9500671,
+                  "lng" : 72.80804979999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9542851,
+               "lng" : 72.8127739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9560176,
+                  "lng" : 72.8184938
+               },
+               "southwest" : {
+                  "lat" : 18.9500671,
+                  "lng" : 72.80804979999999
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

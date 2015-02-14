@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Ashok Pathology Lab",
+               "short_name" : "Dr. Ashok Pathology Lab",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Panchkuiyan Road",
+               "short_name" : "Panchkuiyan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ashok Nagar",
+               "short_name" : "Ashok Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shahganj",
+               "short_name" : "Shahganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "282002",
+               "short_name" : "282002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr. Ashok Pathology Lab, Panchkuiyan Road, Ashok Nagar, Shahganj, Agra, Uttar Pradesh 282002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.1838673,
+               "lng" : 77.9974211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1852162802915,
+                  "lng" : 77.99877008029151
+               },
+               "southwest" : {
+                  "lat" : 27.1825183197085,
+                  "lng" : 77.9960721197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashok Vatika",
+               "short_name" : "Ashok Vatika",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "AB Road, Rau Bypass Road",
+               "short_name" : "AB Road, Rau Bypass Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Infront Of Alpa Laboratory",
+               "short_name" : "Infront Of Alpa Laboratory",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pigdambar",
+               "short_name" : "Pigdambar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rau",
+               "short_name" : "Rau",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "453441",
+               "short_name" : "453441",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashok Vatika, AB Road, Rau Bypass Road, Infront Of Alpa Laboratory, Pigdambar, Rau, Indore, Madhya Pradesh 453441, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6244325,
+               "lng" : 75.8028269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6257814802915,
+                  "lng" : 75.80417588029151
+               },
+               "southwest" : {
+                  "lat" : 22.62308351970849,
+                  "lng" : 75.8014779197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

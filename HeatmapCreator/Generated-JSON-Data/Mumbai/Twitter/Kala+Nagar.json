@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kala Nagar",
+               "short_name" : "Kala Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra East",
+               "short_name" : "Bandra East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400051",
+               "short_name" : "400051",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kala Nagar, Bandra East, Mumbai, Maharashtra 400051, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0650765,
+                  "lng" : 72.85518639999999
+               },
+               "southwest" : {
+                  "lat" : 19.0527191,
+                  "lng" : 72.84655189999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0617903,
+               "lng" : 72.85261029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0650765,
+                  "lng" : 72.85518639999999
+               },
+               "southwest" : {
+                  "lat" : 19.0527191,
+                  "lng" : 72.84655189999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

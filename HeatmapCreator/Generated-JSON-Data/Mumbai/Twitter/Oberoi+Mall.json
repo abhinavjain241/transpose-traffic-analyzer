@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oberoi Mall",
+               "short_name" : "Oberoi Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Yashodham",
+               "short_name" : "Yashodham",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Goregaon East",
+               "short_name" : "Goregaon East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400063",
+               "short_name" : "400063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oberoi Mall, Yashodham, Goregaon East, Mumbai, Maharashtra 400063, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1742988,
+                  "lng" : 72.8614116
+               },
+               "southwest" : {
+                  "lat" : 19.1733513,
+                  "lng" : 72.8598839
+               }
+            },
+            "location" : {
+               "lat" : 19.173808,
+               "lng" : 72.8605943
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1751740302915,
+                  "lng" : 72.86199673029149
+               },
+               "southwest" : {
+                  "lat" : 19.1724760697085,
+                  "lng" : 72.85929876970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

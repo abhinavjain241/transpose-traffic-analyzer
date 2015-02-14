@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acharya Prafulla Chandra Roy Road",
+               "short_name" : "APC Roy Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birati",
+               "short_name" : "Birati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700134",
+               "short_name" : "700134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Acharya Prafulla Chandra Roy Road, Birati, Kolkata, West Bengal 700134, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6667765,
+                  "lng" : 88.4361717
+               },
+               "southwest" : {
+                  "lat" : 22.6625387,
+                  "lng" : 88.4270817
+               }
+            },
+            "location" : {
+               "lat" : 22.6643601,
+               "lng" : 88.4317528
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6667765,
+                  "lng" : 88.4361717
+               },
+               "southwest" : {
+                  "lat" : 22.6625387,
+                  "lng" : 88.4270817
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

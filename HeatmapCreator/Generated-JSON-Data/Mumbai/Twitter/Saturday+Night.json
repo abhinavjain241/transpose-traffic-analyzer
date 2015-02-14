@@ -1,0 +1,172 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saturday Night Hill",
+               "short_name" : "Saturday Night Hill",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Basin",
+               "short_name" : "Basin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59632",
+               "short_name" : "59632",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saturday Night Hill, Basin, MT 59632, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.2971514,
+               "lng" : -112.2622317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3048601,
+                  "lng" : -112.2462243
+               },
+               "southwest" : {
+                  "lat" : 46.2894416,
+                  "lng" : -112.2782391
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saturday Night Ledge",
+               "short_name" : "Saturday Night Ledge",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saturday Night Ledge, Massachusetts, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.5334294,
+               "lng" : -70.69115499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.53477838029149,
+                  "lng" : -70.68980601970848
+               },
+               "southwest" : {
+                  "lat" : 42.53208041970849,
+                  "lng" : -70.69250398029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saturday Night Lake",
+               "short_name" : "Saturday Night Lake",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Jasper National Park",
+               "short_name" : "Jasper National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Jasper",
+               "short_name" : "Jasper",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 15",
+               "short_name" : "Division No. 15",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0E",
+               "short_name" : "T0E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saturday Night Lake, Jasper National Park, Jasper, AB T0E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8952343,
+                  "lng" : -118.1734385
+               },
+               "southwest" : {
+                  "lat" : 52.8920147,
+                  "lng" : -118.1876912
+               }
+            },
+            "location" : {
+               "lat" : 52.8936855,
+               "lng" : -118.1796112
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8952343,
+                  "lng" : -118.1734385
+               },
+               "southwest" : {
+                  "lat" : 52.8920147,
+                  "lng" : -118.1876912
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

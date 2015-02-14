@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shershah Road",
+               "short_name" : "Shershah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Patna",
+               "short_name" : "Patna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patna",
+               "short_name" : "Patna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shershah Road, Patna, Bihar, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.6137227,
+                  "lng" : 85.21018359999999
+               },
+               "southwest" : {
+                  "lat" : 25.6015154,
+                  "lng" : 85.1896804
+               }
+            },
+            "location" : {
+               "lat" : 25.6069133,
+               "lng" : 85.1995189
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.6137227,
+                  "lng" : 85.21018359999999
+               },
+               "southwest" : {
+                  "lat" : 25.6015154,
+                  "lng" : 85.1896804
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shershah Road",
+               "short_name" : "Shershah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110002",
+               "short_name" : "110002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shershah Road, New Delhi, Delhi 110002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6113391,
+                  "lng" : 77.2401088
+               },
+               "southwest" : {
+                  "lat" : 28.6092745,
+                  "lng" : 77.2340014
+               }
+            },
+            "location" : {
+               "lat" : 28.6097677,
+               "lng" : 77.23680089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6116557802915,
+                  "lng" : 77.2401088
+               },
+               "southwest" : {
+                  "lat" : 28.6089578197085,
+                  "lng" : 77.2340014
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shershah Road",
+               "short_name" : "Shershah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore District",
+               "short_name" : "Lahore District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shershah Road, Lahore, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4988542,
+                  "lng" : 74.3204176
+               },
+               "southwest" : {
+                  "lat" : 31.4929696,
+                  "lng" : 74.3159223
+               }
+            },
+            "location" : {
+               "lat" : 31.49605039999999,
+               "lng" : 74.31914359999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4988542,
+                  "lng" : 74.3204176
+               },
+               "southwest" : {
+                  "lat" : 31.4929696,
+                  "lng" : 74.3159223
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shershah Road",
+               "short_name" : "Shershah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shershah Road, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2919348,
+                  "lng" : 89.3758191
+               },
+               "southwest" : {
+                  "lat" : 23.2759989,
+                  "lng" : 89.351152
+               }
+            },
+            "location" : {
+               "lat" : 23.2825076,
+               "lng" : 89.3660438
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2919348,
+                  "lng" : 89.3758191
+               },
+               "southwest" : {
+                  "lat" : 23.2759989,
+                  "lng" : 89.351152
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thakur Village",
+               "short_name" : "Thakur Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thakur Village, Kandivali East, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2162752,
+                  "lng" : 72.87869100000002
+               },
+               "southwest" : {
+                  "lat" : 19.2057609,
+                  "lng" : 72.86579209999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2108314,
+               "lng" : 72.874741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2162752,
+                  "lng" : 72.87869100000002
+               },
+               "southwest" : {
+                  "lat" : 19.2057609,
+                  "lng" : 72.86579209999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

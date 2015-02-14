@@ -1,0 +1,315 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatrapati Shivaji Terminus Road",
+               "short_name" : "Chatrapati Shivaji Terminus Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatrapati Shivaji Terminus Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0766721,
+                  "lng" : 72.8857134
+               },
+               "southwest" : {
+                  "lat" : 19.065592,
+                  "lng" : 72.85851
+               }
+            },
+            "location" : {
+               "lat" : 19.0743786,
+               "lng" : 72.870864
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0766721,
+                  "lng" : 72.8857134
+               },
+               "southwest" : {
+                  "lat" : 19.065592,
+                  "lng" : 72.85851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thakkar Bappa Colony Road",
+               "short_name" : "Thakkar Bappa Colony Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400071",
+               "short_name" : "400071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thakkar Bappa Colony Road, Mumbai, Maharashtra 400071, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0643789,
+                  "lng" : 72.894537
+               },
+               "southwest" : {
+                  "lat" : 19.0581266,
+                  "lng" : 72.886363
+               }
+            },
+            "location" : {
+               "lat" : 19.0610565,
+               "lng" : 72.89057459999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0643789,
+                  "lng" : 72.894537
+               },
+               "southwest" : {
+                  "lat" : 19.0581266,
+                  "lng" : 72.886363
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CST Road",
+               "short_name" : "CST Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400024",
+               "short_name" : "400024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CST Road, Kurla, Mumbai, Maharashtra 400024, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.060749,
+                  "lng" : 72.8845482
+               },
+               "southwest" : {
+                  "lat" : 19.0563519,
+                  "lng" : 72.8824357
+               }
+            },
+            "location" : {
+               "lat" : 19.0581166,
+               "lng" : 72.8829901
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.060749,
+                  "lng" : 72.8848409302915
+               },
+               "southwest" : {
+                  "lat" : 19.0563519,
+                  "lng" : 72.8821429697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CST Road",
+               "short_name" : "CST Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phuentsholing",
+               "short_name" : "Phuentsholing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chhukha",
+               "short_name" : "Chhukha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CST Road, Phuentsholing, Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8502772,
+                  "lng" : 89.3969187
+               },
+               "southwest" : {
+                  "lat" : 26.8484477,
+                  "lng" : 89.3919969
+               }
+            },
+            "location" : {
+               "lat" : 26.8500239,
+               "lng" : 89.39438939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8507114302915,
+                  "lng" : 89.3969187
+               },
+               "southwest" : {
+                  "lat" : 26.84801346970849,
+                  "lng" : 89.3919969
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CST Road",
+               "short_name" : "CST Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santacruz East",
+               "short_name" : "Santacruz East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400098",
+               "short_name" : "400098",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CST Road, Santacruz East, Mumbai, Maharashtra 400098, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.077518,
+                  "lng" : 72.86415599999999
+               },
+               "southwest" : {
+                  "lat" : 19.075034,
+                  "lng" : 72.85464999999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0773967,
+               "lng" : 72.8603293
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0776249802915,
+                  "lng" : 72.86415599999999
+               },
+               "southwest" : {
+                  "lat" : 19.0749270197085,
+                  "lng" : 72.85464999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

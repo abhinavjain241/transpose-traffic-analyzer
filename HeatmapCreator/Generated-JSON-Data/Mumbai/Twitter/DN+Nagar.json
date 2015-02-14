@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagar",
+               "short_name" : "Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valsad",
+               "short_name" : "Valsad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagar, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.1746983,
+                  "lng" : 73.11642000000001
+               },
+               "southwest" : {
+                  "lat" : 20.1531999,
+                  "lng" : 73.09470639999999
+               }
+            },
+            "location" : {
+               "lat" : 20.1639417,
+               "lng" : 73.10840519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.1746983,
+                  "lng" : 73.11642000000001
+               },
+               "southwest" : {
+                  "lat" : 20.1531999,
+                  "lng" : 73.09470639999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

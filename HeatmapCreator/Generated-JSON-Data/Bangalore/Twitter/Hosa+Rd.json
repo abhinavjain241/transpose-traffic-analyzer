@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hosa Road",
+               "short_name" : "Hosa Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hosa Road, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9147657,
+                  "lng" : 77.677786
+               },
+               "southwest" : {
+                  "lat" : 12.8696681,
+                  "lng" : 77.65319219999999
+               }
+            },
+            "location" : {
+               "lat" : 12.8905901,
+               "lng" : 77.6733598
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9147657,
+                  "lng" : 77.677786
+               },
+               "southwest" : {
+                  "lat" : 12.8696681,
+                  "lng" : 77.65319219999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hosa Road",
+               "short_name" : "Hosa Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amrita Nagar",
+               "short_name" : "Amrita Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Choodasandra",
+               "short_name" : "Choodasandra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560035",
+               "short_name" : "560035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hosa Road, Amrita Nagar, Choodasandra, Bengaluru, Karnataka 560035, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.888659,
+               "lng" : 77.674415
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8900079802915,
+                  "lng" : 77.67576398029149
+               },
+               "southwest" : {
+                  "lat" : 12.8873100197085,
+                  "lng" : 77.67306601970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hosa Road",
+               "short_name" : "Hosa Road",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Parappana Agrahara",
+               "short_name" : "Parappana Agrahara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hosa Road, Parappana Agrahara, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8735598,
+                  "lng" : 77.6577508
+               },
+               "southwest" : {
+                  "lat" : 12.8686021,
+                  "lng" : 77.6540495
+               }
+            },
+            "location" : {
+               "lat" : 12.8705558,
+               "lng" : 77.65576009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8735598,
+                  "lng" : 77.6577508
+               },
+               "southwest" : {
+                  "lat" : 12.8686021,
+                  "lng" : 77.6540495
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

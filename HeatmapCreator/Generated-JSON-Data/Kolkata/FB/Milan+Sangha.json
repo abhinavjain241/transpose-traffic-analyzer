@@ -1,0 +1,338 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Sangha",
+               "short_name" : "Milan Sangha",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Block A",
+               "short_name" : "Block A",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lake Town",
+               "short_name" : "Lake Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700089",
+               "short_name" : "700089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Sangha, Block A, Lake Town, Kolkata, West Bengal 700089, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6065926,
+                  "lng" : 88.40521219999999
+               },
+               "southwest" : {
+                  "lat" : 22.6042254,
+                  "lng" : 88.40343129999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6056462,
+               "lng" : 88.40433229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6067579802915,
+                  "lng" : 88.4056707302915
+               },
+               "southwest" : {
+                  "lat" : 22.6040600197085,
+                  "lng" : 88.40297276970848
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Sangha",
+               "short_name" : "Milan Sangha",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Durgachak",
+               "short_name" : "Durgachak",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haldia",
+               "short_name" : "Haldia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Purba Medinipur",
+               "short_name" : "Purba Medinipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "721606",
+               "short_name" : "721606",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Sangha, Durgachak, Haldia, West Bengal 721606, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.0681068,
+                  "lng" : 88.1368921
+               },
+               "southwest" : {
+                  "lat" : 22.0678695,
+                  "lng" : 88.13672969999999
+               }
+            },
+            "location" : {
+               "lat" : 22.0679644,
+               "lng" : 88.13680219999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.0693371302915,
+                  "lng" : 88.13815988029151
+               },
+               "southwest" : {
+                  "lat" : 22.0666391697085,
+                  "lng" : 88.13546191970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Sangha Path",
+               "short_name" : "Milan Sangha Path",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalachanpara",
+               "short_name" : "Kalachanpara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhubri",
+               "short_name" : "Dhubri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "783332",
+               "short_name" : "783332",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Sangha Path, Kalachanpara, Assam 783332, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3061441,
+                  "lng" : 89.85259839999999
+               },
+               "southwest" : {
+                  "lat" : 26.3058637,
+                  "lng" : 89.8500576
+               }
+            },
+            "location" : {
+               "lat" : 26.3059934,
+               "lng" : 89.8513133
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3073528802915,
+                  "lng" : 89.85267698029149
+               },
+               "southwest" : {
+                  "lat" : 26.3046549197085,
+                  "lng" : 89.84997901970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garchuk Milan Sangha",
+               "short_name" : "Garchuk Milan Sangha",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Garchuk Chariali",
+               "short_name" : "Garchuk Chariali",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "GARCHUK",
+               "short_name" : "GARCHUK",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guwahati",
+               "short_name" : "Guwahati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamrup",
+               "short_name" : "Kamrup",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "781035",
+               "short_name" : "781035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Garchuk Milan Sangha, Garchuk Chariali, GARCHUK, Guwahati, Assam 781035, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.1160343,
+               "lng" : 91.7082865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1173832802915,
+                  "lng" : 91.70963548029151
+               },
+               "southwest" : {
+                  "lat" : 26.1146853197085,
+                  "lng" : 91.70693751970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Sangha Library",
+               "short_name" : "Milan Sangha Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Nathua Road",
+               "short_name" : "Nathua Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nathuahat",
+               "short_name" : "Nathuahat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhatiapara D",
+               "short_name" : "Bhatiapara D",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalpaiguri",
+               "short_name" : "Jalpaiguri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "735233",
+               "short_name" : "735233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Sangha Library, Nathua Road, Nathuahat, Bhatiapara D, West Bengal 735233, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.7128818,
+               "lng" : 88.90412719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7142307802915,
+                  "lng" : 88.9054761802915
+               },
+               "southwest" : {
+                  "lat" : 26.7115328197085,
+                  "lng" : 88.90277821970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "library", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

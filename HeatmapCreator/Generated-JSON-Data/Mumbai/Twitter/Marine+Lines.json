@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marine Lines",
+               "short_name" : "Marine Lines",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Maharshi Karve Road",
+               "short_name" : "Maharshi Karve Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marine Lines",
+               "short_name" : "Marine Lines",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400002",
+               "short_name" : "400002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marine Lines, Maharshi Karve Road, Marine Lines, Mumbai, Maharashtra 400002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9470548,
+                  "lng" : 72.82462300000002
+               },
+               "southwest" : {
+                  "lat" : 18.944582,
+                  "lng" : 72.82283099999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9457243,
+               "lng" : 72.82376049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9471673802915,
+                  "lng" : 72.82507598029152
+               },
+               "southwest" : {
+                  "lat" : 18.9444694197085,
+                  "lng" : 72.82237801970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

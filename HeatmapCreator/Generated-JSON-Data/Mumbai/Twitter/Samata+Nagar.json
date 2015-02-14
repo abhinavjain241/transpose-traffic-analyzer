@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samatha Nagar",
+               "short_name" : "Samatha Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kukatpally",
+               "short_name" : "Kukatpally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samatha Nagar, Kukatpally, Hyderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.501057,
+                  "lng" : 78.394346
+               },
+               "southwest" : {
+                  "lat" : 17.496965,
+                  "lng" : 78.39117109999999
+               }
+            },
+            "location" : {
+               "lat" : 17.4993194,
+               "lng" : 78.3923992
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.501057,
+                  "lng" : 78.394346
+               },
+               "southwest" : {
+                  "lat" : 17.496965,
+                  "lng" : 78.39117109999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

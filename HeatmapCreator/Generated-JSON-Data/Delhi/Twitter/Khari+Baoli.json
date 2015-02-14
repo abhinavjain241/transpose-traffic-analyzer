@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khari Baoli",
+               "short_name" : "Khari Baoli",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandni Chowk",
+               "short_name" : "Chandni Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khari Baoli, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6622561,
+                  "lng" : 77.2237121
+               },
+               "southwest" : {
+                  "lat" : 28.6570131,
+                  "lng" : 77.218266
+               }
+            },
+            "location" : {
+               "lat" : 28.6588423,
+               "lng" : 77.2211152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6622561,
+                  "lng" : 77.2237121
+               },
+               "southwest" : {
+                  "lat" : 28.6570131,
+                  "lng" : 77.218266
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

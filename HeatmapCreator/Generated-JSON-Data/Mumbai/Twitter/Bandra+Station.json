@@ -1,0 +1,157 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra",
+               "short_name" : "Bandra",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bandra East to West Railway Foot-Bridge",
+               "short_name" : "Bandra East to West Railway Foot-Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bairam Naupada",
+               "short_name" : "Bairam Naupada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra West",
+               "short_name" : "Bandra West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400050",
+               "short_name" : "400050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra, Bandra East to West Railway Foot-Bridge, Bairam Naupada, Bandra West, Mumbai, Maharashtra 400050, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0566335,
+                  "lng" : 72.84158099999999
+               },
+               "southwest" : {
+                  "lat" : 19.0529429,
+                  "lng" : 72.83970959999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0547926,
+               "lng" : 72.84065489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0566335,
+                  "lng" : 72.8419942802915
+               },
+               "southwest" : {
+                  "lat" : 19.0529429,
+                  "lng" : 72.8392963197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Station Road",
+               "short_name" : "Bandra Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ranwar",
+               "short_name" : "Ranwar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra West",
+               "short_name" : "Bandra West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400050",
+               "short_name" : "400050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra Station Road, Ranwar, Bandra West, Mumbai, Maharashtra 400050, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0539842,
+                  "lng" : 72.83286489999999
+               },
+               "southwest" : {
+                  "lat" : 19.0536689,
+                  "lng" : 72.83239669999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0537507,
+               "lng" : 72.83265
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0551755302915,
+                  "lng" : 72.8339797802915
+               },
+               "southwest" : {
+                  "lat" : 19.0524775697085,
+                  "lng" : 72.83128181970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narendra Nagar",
+               "short_name" : "Narendra Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehri Garhwal",
+               "short_name" : "Tehri Garhwal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttarakhand",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249175",
+               "short_name" : "249175",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narendra Nagar, Uttarakhand 249175, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1683561,
+                  "lng" : 78.29689979999999
+               },
+               "southwest" : {
+                  "lat" : 30.1522894,
+                  "lng" : 78.27522759999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1599746,
+               "lng" : 78.29032389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1683561,
+                  "lng" : 78.29689979999999
+               },
+               "southwest" : {
+                  "lat" : 30.1522894,
+                  "lng" : 78.27522759999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

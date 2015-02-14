@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R. A. Colony",
+               "short_name" : "R. A. Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kailash Nagar",
+               "short_name" : "Kailash Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chittorgarh",
+               "short_name" : "Chittorgarh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittaurgarh",
+               "short_name" : "Chittaurgarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "312001",
+               "short_name" : "312001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. A. Colony, Kailash Nagar, Chittorgarh, Rajasthan 312001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8825031,
+                  "lng" : 74.6297146
+               },
+               "southwest" : {
+                  "lat" : 24.8791751,
+                  "lng" : 74.62655529999999
+               }
+            },
+            "location" : {
+               "lat" : 24.880838,
+               "lng" : 74.6279656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8825031,
+                  "lng" : 74.6297146
+               },
+               "southwest" : {
+                  "lat" : 24.8791751,
+                  "lng" : 74.62655529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

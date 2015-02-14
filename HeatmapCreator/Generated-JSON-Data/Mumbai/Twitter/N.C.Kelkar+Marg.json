@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelkar College",
+               "short_name" : "Kelkar College",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "LIC Housing Colony",
+               "short_name" : "LIC Housing Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mulund East",
+               "short_name" : "Mulund East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400081",
+               "short_name" : "400081",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kelkar College, LIC Housing Colony, Mulund East, Mumbai, Maharashtra 400081",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.162827,
+               "lng" : 72.95650499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1641759802915,
+                  "lng" : 72.95785398029149
+               },
+               "southwest" : {
+                  "lat" : 19.1614780197085,
+                  "lng" : 72.95515601970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelkar College",
+               "short_name" : "Kelkar College",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Vasudev Balwant Phadke Road",
+               "short_name" : "Vasudev Balwant Phadke Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jaihind Colony",
+               "short_name" : "Jaihind Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tata Colony",
+               "short_name" : "Tata Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mulund East",
+               "short_name" : "Mulund East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400081",
+               "short_name" : "400081",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kelkar College, Vasudev Balwant Phadke Road, Jaihind Colony, Tata Colony, Mulund East, Mumbai, Maharashtra 400081, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1631687,
+                  "lng" : 72.9579634
+               },
+               "southwest" : {
+                  "lat" : 19.1624855,
+                  "lng" : 72.9569671
+               }
+            },
+            "location" : {
+               "lat" : 19.1628271,
+               "lng" : 72.9574652
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1641760802915,
+                  "lng" : 72.95881423029151
+               },
+               "southwest" : {
+                  "lat" : 19.1614781197085,
+                  "lng" : 72.95611626970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

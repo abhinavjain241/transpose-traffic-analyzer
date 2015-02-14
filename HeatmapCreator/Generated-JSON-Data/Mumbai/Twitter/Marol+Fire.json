@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marol Fire Brigade",
+               "short_name" : "Marol Fire Brigade",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Marol Village",
+               "short_name" : "Marol Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "Maharashtra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400059",
+               "short_name" : "400059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marol Fire Brigade, Marol Village, Andheri East, Mumbai, Maharashtra 400059, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1090631,
+               "lng" : 72.8781236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1104120802915,
+                  "lng" : 72.87947258029149
+               },
+               "southwest" : {
+                  "lat" : 19.1077141197085,
+                  "lng" : 72.87677461970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "fire_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marol Fire Station Building",
+               "short_name" : "Marol Fire Station Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Marol Village",
+               "short_name" : "Marol Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400059",
+               "short_name" : "400059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marol Fire Station Building, Marol Village, Andheri East, Mumbai, Maharashtra 400059, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1096039,
+                  "lng" : 72.87842619999999
+               },
+               "southwest" : {
+                  "lat" : 19.1091465,
+                  "lng" : 72.8782796
+               }
+            },
+            "location" : {
+               "lat" : 19.1093502,
+               "lng" : 72.87836299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1107241802915,
+                  "lng" : 72.87970188029151
+               },
+               "southwest" : {
+                  "lat" : 19.1080262197085,
+                  "lng" : 72.8770039197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

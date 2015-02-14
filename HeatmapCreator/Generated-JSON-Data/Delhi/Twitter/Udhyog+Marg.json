@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udhyog Marg",
+               "short_name" : "Udhyog Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noida",
+               "short_name" : "Noida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udhyog Marg, Noida, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5978293,
+                  "lng" : 77.3293498
+               },
+               "southwest" : {
+                  "lat" : 28.5810918,
+                  "lng" : 77.30102769999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5889551,
+               "lng" : 77.31593819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5978293,
+                  "lng" : 77.3293498
+               },
+               "southwest" : {
+                  "lat" : 28.5810918,
+                  "lng" : 77.30102769999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

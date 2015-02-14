@@ -1,0 +1,450 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern District",
+               "short_name" : "Eastern District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong Island",
+               "short_name" : "Hong Kong Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern District, Hong Kong",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.294839,
+                  "lng" : 114.2574509
+               },
+               "southwest" : {
+                  "lat" : 22.2564131,
+                  "lng" : 114.1895111
+               }
+            },
+            "location" : {
+               "lat" : 22.2733889,
+               "lng" : 114.2360778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.294839,
+                  "lng" : 114.2574509
+               },
+               "southwest" : {
+                  "lat" : 22.2564131,
+                  "lng" : 114.1895111
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.980805799999999,
+                  "lng" : 81.87870289999999
+               },
+               "southwest" : {
+                  "lat" : 6.5076455,
+                  "lng" : 80.75840989999999
+               }
+            },
+            "location" : {
+               "lat" : 7.7853051,
+               "lng" : 81.42789839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.980805799999999,
+                  "lng" : 81.87870289999999
+               },
+               "southwest" : {
+                  "lat" : 6.5076455,
+                  "lng" : 80.75840989999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern",
+               "short_name" : "Eastern",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.3251301,
+                  "lng" : 33.6895011
+               },
+               "southwest" : {
+                  "lat" : -14.997233,
+                  "lng" : 29.98652989999999
+               }
+            },
+            "location" : {
+               "lat" : -13.8056187,
+               "lng" : 31.99280779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.3251301,
+                  "lng" : 33.6895011
+               },
+               "southwest" : {
+                  "lat" : -14.997233,
+                  "lng" : 29.98652989999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kassala",
+               "short_name" : "Kassala",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kassala, Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.202768,
+                  "lng" : 37.0301281
+               },
+               "southwest" : {
+                  "lat" : 14.90453,
+                  "lng" : 34.198224
+               }
+            },
+            "location" : {
+               "lat" : 15.8058472,
+               "lng" : 35.5657862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.202768,
+                  "lng" : 37.0301281
+               },
+               "southwest" : {
+                  "lat" : 14.90453,
+                  "lng" : 34.198224
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sierra Leone",
+               "short_name" : "SL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Province, Sierra Leone",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.069967999999999,
+                  "lng" : -10.2842381
+               },
+               "southwest" : {
+                  "lat" : 7.341372000000001,
+                  "lng" : -11.5805801
+               }
+            },
+            "location" : {
+               "lat" : 8.247377499999999,
+               "lng" : -10.8903099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.069967999999999,
+                  "lng" : -10.2842381
+               },
+               "southwest" : {
+                  "lat" : 7.341372000000001,
+                  "lng" : -11.5805801
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern",
+               "short_name" : "Eastern",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.186541000000001,
+                  "lng" : 0.322644
+               },
+               "southwest" : {
+                  "lat" : 5.729348,
+                  "lng" : -1.2483401
+               }
+            },
+            "location" : {
+               "lat" : 6.237403599999999,
+               "lng" : -0.4502368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.186541000000001,
+                  "lng" : 0.322644
+               },
+               "southwest" : {
+                  "lat" : 5.729348,
+                  "lng" : -1.2483401
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dornod",
+               "short_name" : "Dornod",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dornod, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.28290879999999,
+                  "lng" : 119.924301
+               },
+               "southwest" : {
+                  "lat" : 46.23549999999999,
+                  "lng" : 111.9632341
+               }
+            },
+            "location" : {
+               "lat" : 47.4658154,
+               "lng" : 115.3927119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.28290879999999,
+                  "lng" : 119.924301
+               },
+               "southwest" : {
+                  "lat" : 46.23549999999999,
+                  "lng" : 111.9632341
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Region, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.421396,
+                  "lng" : 34.829762
+               },
+               "southwest" : {
+                  "lat" : -0.1621748,
+                  "lng" : 32.8465138
+               }
+            },
+            "location" : {
+               "lat" : 1.2692186,
+               "lng" : 33.438353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.421396,
+                  "lng" : 34.829762
+               },
+               "southwest" : {
+                  "lat" : -0.1621748,
+                  "lng" : 32.8465138
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern",
+               "short_name" : "Eastern",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Giles County",
+               "short_name" : "Giles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.48167189999999,
+                  "lng" : -80.4333608
+               },
+               "southwest" : {
+                  "lat" : 37.19804999999999,
+                  "lng" : -80.7384419
+               }
+            },
+            "location" : {
+               "lat" : 37.3256477,
+               "lng" : -80.5660657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.48167189999999,
+                  "lng" : -80.4333608
+               },
+               "southwest" : {
+                  "lat" : 37.19804999999999,
+                  "lng" : -80.7384419
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern",
+               "short_name" : "Eastern",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "American Samoa",
+               "short_name" : "AS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern, American Samoa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.2374701,
+                  "lng" : -170.5484449
+               },
+               "southwest" : {
+                  "lat" : -14.325974,
+                  "lng" : -170.74057
+               }
+            },
+            "location" : {
+               "lat" : -14.2762232,
+               "lng" : -170.6437906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.2374701,
+                  "lng" : -170.5484449
+               },
+               "southwest" : {
+                  "lat" : -14.325974,
+                  "lng" : -170.74057
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

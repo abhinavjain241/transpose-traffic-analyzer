@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ravi Theatre",
+               "short_name" : "Ravi Theatre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ejipura Main Road",
+               "short_name" : "Ejipura Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gowda Muniswamy Garden",
+               "short_name" : "Gowda Muniswamy Garden",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ejipura",
+               "short_name" : "Ejipura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560047",
+               "short_name" : "560047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ravi Theatre, Ejipura Main Road, Gowda Muniswamy Garden, Ejipura, Bengaluru, Karnataka 560047, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9513021,
+                  "lng" : 77.6222968
+               },
+               "southwest" : {
+                  "lat" : 12.9510174,
+                  "lng" : 77.62191900000001
+               }
+            },
+            "location" : {
+               "lat" : 12.9511598,
+               "lng" : 77.62210790000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9525087302915,
+                  "lng" : 77.6234568802915
+               },
+               "southwest" : {
+                  "lat" : 12.9498107697085,
+                  "lng" : 77.62075891970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

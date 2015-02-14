@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beliaghata Main Road",
+               "short_name" : "Beliaghata Main Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beliaghata Main Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.565645,
+                  "lng" : 88.40848009999999
+               },
+               "southwest" : {
+                  "lat" : 22.561108,
+                  "lng" : 88.38249519999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5630718,
+               "lng" : 88.39514319999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.565645,
+                  "lng" : 88.40848009999999
+               },
+               "southwest" : {
+                  "lat" : 22.561108,
+                  "lng" : 88.38249519999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

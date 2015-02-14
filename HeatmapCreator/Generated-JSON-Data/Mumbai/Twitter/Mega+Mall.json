@@ -1,0 +1,346 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mega Mall",
+               "short_name" : "Mega Mall",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ortigas Center",
+               "short_name" : "Ortigas Center",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mandaluyong",
+               "short_name" : "Mandaluyong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mega Mall, Ortigas Center, Mandaluyong, Metro Manila, Philippines",
+         "geometry" : {
+            "location" : {
+               "lat" : 14.58384,
+               "lng" : 121.05549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.5851889802915,
+                  "lng" : 121.0568389802915
+               },
+               "southwest" : {
+                  "lat" : 14.5824910197085,
+                  "lng" : 121.0541410197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mega Mall",
+               "short_name" : "Mega Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "National Highway 1A",
+               "short_name" : "NH1A",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pantha Chowk",
+               "short_name" : "Pantha Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Srinagar",
+               "short_name" : "Srinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Srinagar",
+               "short_name" : "Srinagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "191101",
+               "short_name" : "191101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mega Mall, National Highway 1A, Srinagar 191101",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0399649,
+                  "lng" : 74.88031269999999
+               },
+               "southwest" : {
+                  "lat" : 34.0396315,
+                  "lng" : 74.8798996
+               }
+            },
+            "location" : {
+               "lat" : 34.0397982,
+               "lng" : 74.8801062
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0411471802915,
+                  "lng" : 74.88145513029151
+               },
+               "southwest" : {
+                  "lat" : 34.0384492197085,
+                  "lng" : 74.87875716970851
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mega Mall",
+               "short_name" : "Mega Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Best Colony Road",
+               "short_name" : "Best Colony Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anand Nagar",
+               "short_name" : "Anand Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jogeshwari West",
+               "short_name" : "Jogeshwari West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400102",
+               "short_name" : "400102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mega Mall, Best Colony Road, Anand Nagar, Jogeshwari West, Mumbai, Maharashtra 400102, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1523728,
+                  "lng" : 72.8348134
+               },
+               "southwest" : {
+                  "lat" : 19.1513697,
+                  "lng" : 72.83373639999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1518712,
+               "lng" : 72.8342749
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1532202302915,
+                  "lng" : 72.83562388029151
+               },
+               "southwest" : {
+                  "lat" : 19.1505222697085,
+                  "lng" : 72.83292591970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mega Mall",
+               "short_name" : "Mega Mall",
+               "types" : []
+            },
+            {
+               "long_name" : "شارع الرواد",
+               "short_name" : "شارع الرواد",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mutanabi Neighborhood",
+               "short_name" : "Mutanabi Neighborhood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mansour",
+               "short_name" : "Mansour",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baghdad",
+               "short_name" : "Baghdad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mansour",
+               "short_name" : "Mansour",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baghdād",
+               "short_name" : "Baghdād",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iraq",
+               "short_name" : "IQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mega Mall, شارع الرواد، Baghdad, Iraq",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.320192,
+                  "lng" : 44.3542314
+               },
+               "southwest" : {
+                  "lat" : 33.3191902,
+                  "lng" : 44.35248259999999
+               }
+            },
+            "location" : {
+               "lat" : 33.3196911,
+               "lng" : 44.353357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3210400802915,
+                  "lng" : 44.35470598029149
+               },
+               "southwest" : {
+                  "lat" : 33.3183421197085,
+                  "lng" : 44.35200801970849
+               }
+            }
+         },
+         "types" : []
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pavitra Mega Mall",
+               "short_name" : "Pavitra Mega Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mahatma Gandhi Road",
+               "short_name" : "Mahatma Gandhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kabar Danga",
+               "short_name" : "Kabar Danga",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ramchandrapur",
+               "short_name" : "Ramchandrapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700041",
+               "short_name" : "700041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pavitra Mega Mall, Mahatma Gandhi Road, Kabar Danga, Ramchandrapur, Kolkata, West Bengal 700041, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4634531,
+                  "lng" : 88.33389330000001
+               },
+               "southwest" : {
+                  "lat" : 22.4630351,
+                  "lng" : 88.33344169999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4632441,
+               "lng" : 88.33366749999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4645930802915,
+                  "lng" : 88.33501648029151
+               },
+               "southwest" : {
+                  "lat" : 22.4618951197085,
+                  "lng" : 88.33231851970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

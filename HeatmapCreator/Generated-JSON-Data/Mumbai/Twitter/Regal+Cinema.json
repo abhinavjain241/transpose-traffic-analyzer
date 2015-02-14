@@ -1,0 +1,190 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Regal Cinema",
+               "short_name" : "Regal Cinema",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bannu",
+               "short_name" : "Bannu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bannu District",
+               "short_name" : "Bannu District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "N.W.F.P",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regal Cinema, Bannu, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9909167,
+                  "lng" : 70.6075381
+               },
+               "southwest" : {
+                  "lat" : 32.9879372,
+                  "lng" : 70.6073517
+               }
+            },
+            "location" : {
+               "lat" : 32.98991590000001,
+               "lng" : 70.6073923
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9909167,
+                  "lng" : 70.6087938802915
+               },
+               "southwest" : {
+                  "lat" : 32.9879372,
+                  "lng" : 70.60609591970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Regal Cinema",
+               "short_name" : "Regal Cinema",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Colombo - Kandy Road",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Katukele",
+               "short_name" : "Katukele",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandy",
+               "short_name" : "Kandy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kandy",
+               "short_name" : "Kandy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Province",
+               "short_name" : "Central Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regal Cinema, Colombo - Kandy Road, Kandy, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.283715699999999,
+                  "lng" : 80.6224072
+               },
+               "southwest" : {
+                  "lat" : 7.2833752,
+                  "lng" : 80.62209609999999
+               }
+            },
+            "location" : {
+               "lat" : 7.2835454,
+               "lng" : 80.6222516
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.284894430291502,
+                  "lng" : 80.62360063029149
+               },
+               "southwest" : {
+                  "lat" : 7.282196469708497,
+                  "lng" : 80.62090266970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Regal Cinema Road",
+               "short_name" : "Regal Cinema Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nawabshah",
+               "short_name" : "Nawabshah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benazirabad District",
+               "short_name" : "Benazirabad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regal Cinema Road, Nawabshah, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2435502,
+                  "lng" : 68.409639
+               },
+               "southwest" : {
+                  "lat" : 26.2374297,
+                  "lng" : 68.4062581
+               }
+            },
+            "location" : {
+               "lat" : 26.2404363,
+               "lng" : 68.4075732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2435502,
+                  "lng" : 68.409639
+               },
+               "southwest" : {
+                  "lat" : 26.2374297,
+                  "lng" : 68.4062581
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

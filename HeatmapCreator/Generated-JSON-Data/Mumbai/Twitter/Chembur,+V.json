@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thoothukudi",
+               "short_name" : "Thoothukudi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "628612",
+               "short_name" : "628612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chembur, Tamil Nadu 628612, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.592542099999999,
+                  "lng" : 77.9503368
+               },
+               "southwest" : {
+                  "lat" : 8.589423199999999,
+                  "lng" : 77.9458738
+               }
+            },
+            "location" : {
+               "lat" : 8.5911907,
+               "lng" : 77.94745100000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.592542099999999,
+                  "lng" : 77.9503368
+               },
+               "southwest" : {
+                  "lat" : 8.589423199999999,
+                  "lng" : 77.9458738
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

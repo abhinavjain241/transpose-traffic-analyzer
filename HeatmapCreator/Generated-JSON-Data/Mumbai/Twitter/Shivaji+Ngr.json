@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Nagar",
+               "short_name" : "Shivaji Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yadgir",
+               "short_name" : "Yadgir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "585216",
+               "short_name" : "585216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Nagar, Karnataka 585216, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.6864599,
+                  "lng" : 76.5334199
+               },
+               "southwest" : {
+                  "lat" : 16.6395801,
+                  "lng" : 76.46616
+               }
+            },
+            "location" : {
+               "lat" : 16.6775742,
+               "lng" : 76.50999689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.6864599,
+                  "lng" : 76.5334199
+               },
+               "southwest" : {
+                  "lat" : 16.6395801,
+                  "lng" : 76.46616
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taloja Phata",
+               "short_name" : "Taloja Phata",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raigad",
+               "short_name" : "Raigad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "410206",
+               "short_name" : "410206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taloja Phata, Navi Mumbai, Maharashtra 410206",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.032665,
+               "lng" : 73.085047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0340139802915,
+                  "lng" : 73.08639598029151
+               },
+               "southwest" : {
+                  "lat" : 19.0313160197085,
+                  "lng" : 73.08369801970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

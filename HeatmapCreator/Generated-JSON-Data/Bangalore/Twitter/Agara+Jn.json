@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. J.N. Tandon",
+               "short_name" : "Dr. J.N. Tandon",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "63",
+               "short_name" : "63",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "M.G Road 2",
+               "short_name" : "M.G Rd 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saket Colony",
+               "short_name" : "Saket Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shahganj",
+               "short_name" : "Shahganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "282010",
+               "short_name" : "282010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr. J.N. Tandon, 63, M.G Road 2, Saket Colony, Shahganj, Agra, Uttar Pradesh 282010, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.1804437,
+               "lng" : 77.98366399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1817926802915,
+                  "lng" : 77.9850129802915
+               },
+               "southwest" : {
+                  "lat" : 27.17909471970849,
+                  "lng" : 77.98231501970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

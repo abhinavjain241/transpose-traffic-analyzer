@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat Marg",
+               "short_name" : "Senapati Bapat Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat Marg, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0462177,
+                  "lng" : 72.84780019999999
+               },
+               "southwest" : {
+                  "lat" : 18.995194,
+                  "lng" : 72.823347
+               }
+            },
+            "location" : {
+               "lat" : 19.0163231,
+               "lng" : 72.8401231
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0462177,
+                  "lng" : 72.84780019999999
+               },
+               "southwest" : {
+                  "lat" : 18.995194,
+                  "lng" : 72.823347
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat Marg",
+               "short_name" : "Senapati Bapat Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat Marg, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0411437,
+                  "lng" : 72.84613510000001
+               },
+               "southwest" : {
+                  "lat" : 18.9880957,
+                  "lng" : 72.8224465
+               }
+            },
+            "location" : {
+               "lat" : 19.001099,
+               "lng" : 72.8290421
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0411437,
+                  "lng" : 72.84613510000001
+               },
+               "southwest" : {
+                  "lat" : 18.9880957,
+                  "lng" : 72.8224465
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

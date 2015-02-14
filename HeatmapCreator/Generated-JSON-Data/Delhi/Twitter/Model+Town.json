@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Model Town",
+               "short_name" : "Model Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore District",
+               "short_name" : "Lahore District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Model Town, Lahore, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4999523,
+                  "lng" : 74.34226529999999
+               },
+               "southwest" : {
+                  "lat" : 31.4692651,
+                  "lng" : 74.30489369999999
+               }
+            },
+            "location" : {
+               "lat" : 31.4777367,
+               "lng" : 74.32941989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4999523,
+                  "lng" : 74.34226529999999
+               },
+               "southwest" : {
+                  "lat" : 31.4692651,
+                  "lng" : 74.30489369999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Modła",
+               "short_name" : "Modła",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Jerzmanowa",
+               "short_name" : "Gmina Jerzmanowa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Głogów County",
+               "short_name" : "Głogów County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Modła, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6314049,
+               "lng" : 16.0393678
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6327538802915,
+                  "lng" : 16.0407167802915
+               },
+               "southwest" : {
+                  "lat" : 51.6300559197085,
+                  "lng" : 16.0380188197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

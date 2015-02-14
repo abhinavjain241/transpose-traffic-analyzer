@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dharavi",
+               "short_name" : "Dharavi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dharavi, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.058126,
+                  "lng" : 72.87082509999999
+               },
+               "southwest" : {
+                  "lat" : 19.0291984,
+                  "lng" : 72.843948
+               }
+            },
+            "location" : {
+               "lat" : 19.0402084,
+               "lng" : 72.8508504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.058126,
+                  "lng" : 72.87082509999999
+               },
+               "southwest" : {
+                  "lat" : 19.0291984,
+                  "lng" : 72.843948
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,400 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purana Quilla",
+               "short_name" : "Purana Quilla",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Khatkeyana",
+               "short_name" : "Khatkeyana",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Purana Quilla, Khatkeyana, Lucknow, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8331378,
+                  "lng" : 80.94319609999999
+               },
+               "southwest" : {
+                  "lat" : 26.8306288,
+                  "lng" : 80.93735749999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8315607,
+               "lng" : 80.94037489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8332322802915,
+                  "lng" : 80.94319609999999
+               },
+               "southwest" : {
+                  "lat" : 26.8305343197085,
+                  "lng" : 80.93735749999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purana Quilla",
+               "short_name" : "Purana Quilla",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kagzi Muhalla",
+               "short_name" : "Kagzi Muhalla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Siwan",
+               "short_name" : "Siwan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siwan",
+               "short_name" : "Siwan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "841226",
+               "short_name" : "841226",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purana Quilla, Kagzi Muhalla, Siwan, Bihar 841226, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2185011,
+                  "lng" : 84.36200939999999
+               },
+               "southwest" : {
+                  "lat" : 26.2112781,
+                  "lng" : 84.3554015
+               }
+            },
+            "location" : {
+               "lat" : 26.2152825,
+               "lng" : 84.3588055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2185011,
+                  "lng" : 84.36200939999999
+               },
+               "southwest" : {
+                  "lat" : 26.2112781,
+                  "lng" : 84.3554015
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purana Quila Road",
+               "short_name" : "Purana Quila Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purana Quila Road, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6167865,
+                  "lng" : 77.24033489999999
+               },
+               "southwest" : {
+                  "lat" : 28.6139327,
+                  "lng" : 77.2341972
+               }
+            },
+            "location" : {
+               "lat" : 28.6153509,
+               "lng" : 77.2368603
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6167865,
+                  "lng" : 77.24033489999999
+               },
+               "southwest" : {
+                  "lat" : 28.6139327,
+                  "lng" : 77.2341972
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purana Quila",
+               "short_name" : "Purana Quila",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rajiv Colony",
+               "short_name" : "Rajiv Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Old Housing Board Colony",
+               "short_name" : "Old HB Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "132103",
+               "short_name" : "132103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purana Quila, Rajiv Colony, Old Housing Board Colony, Panipat, Haryana 132103, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3942249,
+                  "lng" : 76.9780147
+               },
+               "southwest" : {
+                  "lat" : 29.3927151,
+                  "lng" : 76.9759493
+               }
+            },
+            "location" : {
+               "lat" : 29.3936445,
+               "lng" : 76.9767275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3948189802915,
+                  "lng" : 76.9783309802915
+               },
+               "southwest" : {
+                  "lat" : 29.3921210197085,
+                  "lng" : 76.9756330197085
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purana Quila",
+               "short_name" : "Purana Quila",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Dyal Bagh Colony",
+               "short_name" : "Dyal Bagh Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jind",
+               "short_name" : "Jind",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jind",
+               "short_name" : "Jind",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "126110",
+               "short_name" : "126110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purana Quila, Dyal Bagh Colony, Jind, Haryana 126110, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.3197077,
+               "lng" : 76.31401
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3210566802915,
+                  "lng" : 76.31535898029151
+               },
+               "southwest" : {
+                  "lat" : 29.3183587197085,
+                  "lng" : 76.3126610197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purana Qila Road",
+               "short_name" : "Purana Qila Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khawaja Nagari",
+               "short_name" : "Khawaja Nagari",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kasli",
+               "short_name" : "Kasli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sikar",
+               "short_name" : "Sikar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "332002",
+               "short_name" : "332002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purana Qila Road, Khawaja Nagari, Kasli, Rajasthan 332002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.554772,
+                  "lng" : 75.0631233
+               },
+               "southwest" : {
+                  "lat" : 27.553756,
+                  "lng" : 75.0623444
+               }
+            },
+            "location" : {
+               "lat" : 27.5542365,
+               "lng" : 75.06275029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5556129802915,
+                  "lng" : 75.06408283029151
+               },
+               "southwest" : {
+                  "lat" : 27.5529150197085,
+                  "lng" : 75.06138486970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

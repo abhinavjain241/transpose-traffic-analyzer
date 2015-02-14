@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road Number 33",
+               "short_name" : "33rd Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Road Number 33, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0666766,
+                  "lng" : 72.83710169999999
+               },
+               "southwest" : {
+                  "lat" : 19.065027,
+                  "lng" : 72.82899399999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0653732,
+               "lng" : 72.83326810000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0672007802915,
+                  "lng" : 72.83710169999999
+               },
+               "southwest" : {
+                  "lat" : 19.0645028197085,
+                  "lng" : 72.82899399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Nagar Old Police Station Bus Stop",
+               "short_name" : "Indira Nagar Old Police Station Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "100th Feet Road",
+               "short_name" : "100th Feet Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Indira Nagar 1st Stage",
+               "short_name" : "Indira Nagar 1st Stage",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stage 2",
+               "short_name" : "Stage 2",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Defence Colony",
+               "short_name" : "Defence Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Indira Nagar",
+               "short_name" : "Indira Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560038",
+               "short_name" : "560038",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indira Nagar Old Police Station Bus Stop, 100th Feet Road, Indira Nagar 1st Stage, Stage 2, Defence Colony, Indira Nagar, Bengaluru, Karnataka 560038, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9780902,
+               "lng" : 77.64096309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9794391802915,
+                  "lng" : 77.6423120802915
+               },
+               "southwest" : {
+                  "lat" : 12.9767412197085,
+                  "lng" : 77.63961411970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

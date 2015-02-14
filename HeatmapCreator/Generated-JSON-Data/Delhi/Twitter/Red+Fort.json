@@ -1,0 +1,468 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort",
+               "short_name" : "Red Fort",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Netaji Subhash Marg",
+               "short_name" : "Netaji Subhash Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lal Qila",
+               "short_name" : "Lal Qila",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandni Chowk",
+               "short_name" : "Chandni Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Fort, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6561929,
+               "lng" : 77.24098169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6575418802915,
+                  "lng" : 77.24233068029149
+               },
+               "southwest" : {
+                  "lat" : 28.6548439197085,
+                  "lng" : 77.23963271970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort",
+               "short_name" : "Red Fort",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Charkhe Walan",
+               "short_name" : "Charkhe Walan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Old Delhi",
+               "short_name" : "Old Delhi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Fort, Charkhe Walan, Old Delhi, New Delhi, Delhi 110006",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.653628,
+               "lng" : 77.23638199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6549769802915,
+                  "lng" : 77.2377309802915
+               },
+               "southwest" : {
+                  "lat" : 28.6522790197085,
+                  "lng" : 77.2350330197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort",
+               "short_name" : "Red Fort",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Netaji Subhash Marg",
+               "short_name" : "Netaji Subhash Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lal Qila",
+               "short_name" : "Lal Qila",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandni Chowk",
+               "short_name" : "Chandni Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Fort, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.65814,
+               "lng" : 77.236946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6594889802915,
+                  "lng" : 77.23829498029151
+               },
+               "southwest" : {
+                  "lat" : 28.6567910197085,
+                  "lng" : 77.23559701970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort",
+               "short_name" : "Red Fort",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Neelum Road",
+               "short_name" : "Neelum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Muzaffarabad",
+               "short_name" : "Muzaffarabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muzaffarabad",
+               "short_name" : "Muzaffarabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azad Jammu and Kashmir",
+               "short_name" : "Azad Jammu and Kashmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Red Fort, Neelum Road, Muzaffarabad, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3832898,
+                  "lng" : 73.46547420000002
+               },
+               "southwest" : {
+                  "lat" : 34.3814392,
+                  "lng" : 73.46443359999999
+               }
+            },
+            "location" : {
+               "lat" : 34.3823598,
+               "lng" : 73.46488599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3837134802915,
+                  "lng" : 73.46630288029151
+               },
+               "southwest" : {
+                  "lat" : 34.3810155197085,
+                  "lng" : 73.4636049197085
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort",
+               "short_name" : "Red Fort",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Netaji Subhash Marg",
+               "short_name" : "Netaji Subhash Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block F",
+               "short_name" : "Block F",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Raj Nagar Extension",
+               "short_name" : "Raj Nagar Extension",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Raj Nagar",
+               "short_name" : "Raj Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110077",
+               "short_name" : "110077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Fort, Netaji Subhash Marg, Block F, Raj Nagar Extension, Raj Nagar, New Delhi, Delhi 110077, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5769458,
+               "lng" : 77.0829821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5782947802915,
+                  "lng" : 77.08433108029151
+               },
+               "southwest" : {
+                  "lat" : 28.5755968197085,
+                  "lng" : 77.08163311970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort Drive",
+               "short_name" : "Red Fort Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Carrickfergus",
+               "short_name" : "Carrickfergus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carrickfergus",
+               "short_name" : "Carrickfergus",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carrickfergus",
+               "short_name" : "Carrickfergus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT38 9EN",
+               "short_name" : "BT38 9EN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Fort Drive, Carrickfergus, Carrickfergus BT38 9EN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7385095,
+                  "lng" : -5.7954767
+               },
+               "southwest" : {
+                  "lat" : 54.7367679,
+                  "lng" : -5.798713999999999
+               }
+            },
+            "location" : {
+               "lat" : 54.7382491,
+               "lng" : -5.797257699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7389876802915,
+                  "lng" : -5.7954767
+               },
+               "southwest" : {
+                  "lat" : 54.7362897197085,
+                  "lng" : -5.798713999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Fort Apartment",
+               "short_name" : "Red Fort Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mhasala",
+               "short_name" : "Mhasala",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nalwadi",
+               "short_name" : "Nalwadi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wardha",
+               "short_name" : "Wardha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wardha",
+               "short_name" : "Wardha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "442001",
+               "short_name" : "442001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Fort Apartment, Mhasala, Nalwadi, Wardha, Maharashtra 442001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.7419,
+               "lng" : 78.6267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.7432489802915,
+                  "lng" : 78.62804898029151
+               },
+               "southwest" : {
+                  "lat" : 20.74055101970849,
+                  "lng" : 78.62535101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

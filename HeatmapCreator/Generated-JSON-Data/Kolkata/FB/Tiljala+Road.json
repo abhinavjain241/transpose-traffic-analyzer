@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiljala Road",
+               "short_name" : "Tiljala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tiljala Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5463496,
+                  "lng" : 88.37893869999999
+               },
+               "southwest" : {
+                  "lat" : 22.5291822,
+                  "lng" : 88.3742104
+               }
+            },
+            "location" : {
+               "lat" : 22.5389938,
+               "lng" : 88.37665990000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5463496,
+                  "lng" : 88.37893869999999
+               },
+               "southwest" : {
+                  "lat" : 22.5291822,
+                  "lng" : 88.3742104
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiljala Road",
+               "short_name" : "Tiljala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kustia",
+               "short_name" : "Kustia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700039",
+               "short_name" : "700039",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tiljala Road, Kustia, Kolkata, West Bengal 700039, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.533399,
+                  "lng" : 88.37508799999999
+               },
+               "southwest" : {
+                  "lat" : 22.5293022,
+                  "lng" : 88.37453499999999
+               }
+            },
+            "location" : {
+               "lat" : 22.531512,
+               "lng" : 88.374646
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.533399,
+                  "lng" : 88.3761604802915
+               },
+               "southwest" : {
+                  "lat" : 22.5293022,
+                  "lng" : 88.37346251970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

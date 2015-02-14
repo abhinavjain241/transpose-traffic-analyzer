@@ -1,0 +1,197 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bakery Cottages",
+               "short_name" : "Bakery Cottages",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Chatham Road",
+               "short_name" : "Chatham Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sandling",
+               "short_name" : "Sandling",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME14 3BE",
+               "short_name" : "ME14 3BE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bakery Cottages, Chatham Road, Maidstone, Kent ME14 3BE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3064736,
+               "lng" : 0.5137539999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3078225802915,
+                  "lng" : 0.515102980291502
+               },
+               "southwest" : {
+                  "lat" : 51.3051246197085,
+                  "lng" : 0.5124050197084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fairview Bakery",
+               "short_name" : "Fairview Bakery",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "155",
+               "short_name" : "155",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fairview Avenue",
+               "short_name" : "Fairview Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME8 0PX",
+               "short_name" : "ME8 0PX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fairview Bakery, 155 Fairview Avenue, Gillingham, Medway ME8 0PX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3466809,
+               "lng" : 0.5853167
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.34802988029149,
+                  "lng" : 0.5866656802915021
+               },
+               "southwest" : {
+                  "lat" : 51.34533191970849,
+                  "lng" : 0.583967719708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lord's Church of Taylor Inc",
+               "short_name" : "Lord's Church of Taylor Inc",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "26674",
+               "short_name" : "26674",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Co Road 250",
+               "short_name" : "Co Rd 250",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sanderson",
+               "short_name" : "Sanderson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baker County",
+               "short_name" : "Baker County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32087",
+               "short_name" : "32087",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4940",
+               "short_name" : "4940",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Lord's Church of Taylor Inc, 26674 Co Road 250, Sanderson, FL 32087, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.441238,
+               "lng" : -82.291803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4425869802915,
+                  "lng" : -82.29045401970849
+               },
+               "southwest" : {
+                  "lat" : 30.4398890197085,
+                  "lng" : -82.29315198029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

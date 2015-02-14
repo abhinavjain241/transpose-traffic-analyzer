@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ginger Hotel",
+               "short_name" : "Ginger Hotel",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mathura Road",
+               "short_name" : "Mathura Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Industrial Township",
+               "short_name" : "NIT",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Faridabad",
+               "short_name" : "Faridabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faridabad",
+               "short_name" : "Faridabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "121013",
+               "short_name" : "121013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ginger Hotel, Mathura Road, New Industrial Township, Faridabad, Haryana 121013, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3935028,
+                  "lng" : 77.3115256
+               },
+               "southwest" : {
+                  "lat" : 28.393223,
+                  "lng" : 77.31093589999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3933399,
+               "lng" : 77.3113972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3947118802915,
+                  "lng" : 77.31257973029149
+               },
+               "southwest" : {
+                  "lat" : 28.3920139197085,
+                  "lng" : 77.30988176970848
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

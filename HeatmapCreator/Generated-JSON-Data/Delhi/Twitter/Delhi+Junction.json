@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delhi Junction",
+               "short_name" : "Delhi Junction",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mori Gate",
+               "short_name" : "Mori Gate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Delhi Junction, Mori Gate, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6628738,
+                  "lng" : 77.2352954
+               },
+               "southwest" : {
+                  "lat" : 28.6603203,
+                  "lng" : 77.2209692
+               }
+            },
+            "location" : {
+               "lat" : 28.6612355,
+               "lng" : 77.2311749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6629460302915,
+                  "lng" : 77.2352954
+               },
+               "southwest" : {
+                  "lat" : 28.6602480697085,
+                  "lng" : 77.2209692
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

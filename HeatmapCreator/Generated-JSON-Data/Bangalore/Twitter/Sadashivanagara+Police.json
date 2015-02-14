@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sadashivanagara Police Station",
+               "short_name" : "Sadashivanagara Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mathikere",
+               "short_name" : "Mathikere",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560080",
+               "short_name" : "560080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sadashivanagara Police Station, Mathikere, Bengaluru, Karnataka 560080, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.015,
+               "lng" : 77.572717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0163489802915,
+                  "lng" : 77.57406598029151
+               },
+               "southwest" : {
+                  "lat" : 13.0136510197085,
+                  "lng" : 77.5713680197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

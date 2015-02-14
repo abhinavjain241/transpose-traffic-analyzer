@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majiwada",
+               "short_name" : "Majiwada",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Majiwada, Thane, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2281291,
+                  "lng" : 73.002411
+               },
+               "southwest" : {
+                  "lat" : 19.209153,
+                  "lng" : 72.9771191
+               }
+            },
+            "location" : {
+               "lat" : 19.2136775,
+               "lng" : 72.99034469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2281291,
+                  "lng" : 73.002411
+               },
+               "southwest" : {
+                  "lat" : 19.209153,
+                  "lng" : 72.9771191
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qutab Road",
+               "short_name" : "Qutab Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qutab Road, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6644293,
+                  "lng" : 77.2192702
+               },
+               "southwest" : {
+                  "lat" : 28.6359673,
+                  "lng" : 77.2154192
+               }
+            },
+            "location" : {
+               "lat" : 28.6502731,
+               "lng" : 77.21749609999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6644293,
+                  "lng" : 77.2192702
+               },
+               "southwest" : {
+                  "lat" : 28.6359673,
+                  "lng" : 77.2154192
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

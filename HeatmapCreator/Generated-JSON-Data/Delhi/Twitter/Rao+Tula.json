@@ -1,0 +1,389 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rao Tula Ram Marg",
+               "short_name" : "Rao Tula Ram Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rao Tula Ram Marg, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5788562,
+                  "lng" : 77.1761987
+               },
+               "southwest" : {
+                  "lat" : 28.571112,
+                  "lng" : 77.13798469999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5756705,
+               "lng" : 77.15668579999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5788562,
+                  "lng" : 77.1761987
+               },
+               "southwest" : {
+                  "lat" : 28.571112,
+                  "lng" : 77.13798469999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munirka Flyover",
+               "short_name" : "Munirka Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basant Lok",
+               "short_name" : "Basant Lok",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Munirka Flyover, Basant Lok, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5596957,
+                  "lng" : 77.1714872
+               },
+               "southwest" : {
+                  "lat" : 28.5591097,
+                  "lng" : 77.17083989999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5593716,
+               "lng" : 77.1711356
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5607516802915,
+                  "lng" : 77.1725125302915
+               },
+               "southwest" : {
+                  "lat" : 28.5580537197085,
+                  "lng" : 77.16981456970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rao Tula Ram Road",
+               "short_name" : "Rao Tula Ram Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roopgarh Village",
+               "short_name" : "Roopgarh Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bhiwani",
+               "short_name" : "Bhiwani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "127021",
+               "short_name" : "127021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rao Tula Ram Road, Roopgarh Village, Haryana 127021, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6993572,
+                  "lng" : 76.1113053
+               },
+               "southwest" : {
+                  "lat" : 28.6977576,
+                  "lng" : 76.10741659999999
+               }
+            },
+            "location" : {
+               "lat" : 28.69830249999999,
+               "lng" : 76.1093453
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6999063802915,
+                  "lng" : 76.1113053
+               },
+               "southwest" : {
+                  "lat" : 28.6972084197085,
+                  "lng" : 76.10741659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rao Tula Ram College",
+               "short_name" : "Rao Tula Ram College",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Block F",
+               "short_name" : "Block F",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110021",
+               "short_name" : "110021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rao Tula Ram College, Block F, West End, New Delhi, Delhi 110021",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.574953,
+               "lng" : 77.160152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5763019802915,
+                  "lng" : 77.16150098029151
+               },
+               "southwest" : {
+                  "lat" : 28.5736040197085,
+                  "lng" : 77.1588030197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rao Tula Ram College",
+               "short_name" : "Rao Tula Ram College",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Rao Tula Ram Marg",
+               "short_name" : "Rao Tula Ram Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basant Gaon",
+               "short_name" : "Basant Gaon",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vasant Kunj",
+               "short_name" : "Vasant Kunj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110057",
+               "short_name" : "110057",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rao Tula Ram College, Rao Tula Ram Marg, Basant Gaon, Vasant Kunj, New Delhi, Delhi 110057, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5753663,
+               "lng" : 77.15899680000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5767152802915,
+                  "lng" : 77.16034578029152
+               },
+               "southwest" : {
+                  "lat" : 28.5740173197085,
+                  "lng" : 77.15764781970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rao Tula Ram Marg",
+               "short_name" : "Rao Tula Ram Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block E",
+               "short_name" : "Block E",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moti Bagh",
+               "short_name" : "Moti Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110021",
+               "short_name" : "110021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rao Tula Ram Marg, Block E, Moti Bagh, New Delhi, Delhi 110021",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5819765,
+               "lng" : 77.180241
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5833254802915,
+                  "lng" : 77.18158998029151
+               },
+               "southwest" : {
+                  "lat" : 28.5806275197085,
+                  "lng" : 77.17889201970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

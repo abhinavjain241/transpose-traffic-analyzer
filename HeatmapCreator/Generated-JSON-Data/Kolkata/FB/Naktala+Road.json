@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naktala Road",
+               "short_name" : "Naktala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naktala Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4855511,
+                  "lng" : 88.3679808
+               },
+               "southwest" : {
+                  "lat" : 22.4758786,
+                  "lng" : 88.36586
+               }
+            },
+            "location" : {
+               "lat" : 22.4805069,
+               "lng" : 88.3673067
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4855511,
+                  "lng" : 88.36826938029151
+               },
+               "southwest" : {
+                  "lat" : 22.4758786,
+                  "lng" : 88.3655714197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naktala Road",
+               "short_name" : "Naktala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naktala",
+               "short_name" : "Naktala",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Garia",
+               "short_name" : "Garia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700047",
+               "short_name" : "700047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Naktala Road, Naktala, Garia, Kolkata, West Bengal 700047, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4771198,
+                  "lng" : 88.3692545
+               },
+               "southwest" : {
+                  "lat" : 22.4757246,
+                  "lng" : 88.36901469999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4757436,
+               "lng" : 88.36901569999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.47777118029151,
+                  "lng" : 88.37048358029151
+               },
+               "southwest" : {
+                  "lat" : 22.4750732197085,
+                  "lng" : 88.36778561970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

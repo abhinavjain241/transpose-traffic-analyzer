@@ -1,0 +1,394 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bapu Nagar Road",
+               "short_name" : "Bapu Nagar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lohar Kulli",
+               "short_name" : "Lohar Kulli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhanbad",
+               "short_name" : "Dhanbad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhanbad",
+               "short_name" : "Dhanbad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jharkhand",
+               "short_name" : "JH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "828127",
+               "short_name" : "828127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bapu Nagar Road, Lohar Kulli, Dhanbad, Jharkhand 828127, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8189099,
+               "lng" : 86.4495015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8202588802915,
+                  "lng" : 86.45085048029149
+               },
+               "southwest" : {
+                  "lat" : 23.8175609197085,
+                  "lng" : 86.44815251970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Outer Road",
+               "short_name" : "Outer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faisalabad",
+               "short_name" : "Faisalabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faisalabad District",
+               "short_name" : "Faisalabad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Outer Road, Faisalabad, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3821922,
+                  "lng" : 73.1156123
+               },
+               "southwest" : {
+                  "lat" : 31.3664035,
+                  "lng" : 73.09505059999999
+               }
+            },
+            "location" : {
+               "lat" : 31.3744058,
+               "lng" : 73.1052232
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3821922,
+                  "lng" : 73.1156123
+               },
+               "southwest" : {
+                  "lat" : 31.3664035,
+                  "lng" : 73.09505059999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Outer Ring Road",
+               "short_name" : "Outer Ring Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nagar",
+               "short_name" : "Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "283105",
+               "short_name" : "283105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Outer Ring Road, Nagar, Uttar Pradesh 283105, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2040527,
+                  "lng" : 77.8683149
+               },
+               "southwest" : {
+                  "lat" : 27.1974209,
+                  "lng" : 77.8541501
+               }
+            },
+            "location" : {
+               "lat" : 27.2007516,
+               "lng" : 77.8612546
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2040527,
+                  "lng" : 77.8683149
+               },
+               "southwest" : {
+                  "lat" : 27.1974209,
+                  "lng" : 77.8541501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "j p nagar, park",
+               "short_name" : "j p nagar, park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "J P Nagar Phase 5",
+               "short_name" : "J P Nagar Phase 5",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "5th Phase",
+               "short_name" : "5th Phase",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "j p nagar, park, J P Nagar Phase 5, 5th Phase, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9057745,
+                  "lng" : 77.5914842
+               },
+               "southwest" : {
+                  "lat" : 12.9055968,
+                  "lng" : 77.59048919999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9057222,
+               "lng" : 77.5910894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9070346302915,
+                  "lng" : 77.5923356802915
+               },
+               "southwest" : {
+                  "lat" : 12.9043366697085,
+                  "lng" : 77.58963771970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Outer Road",
+               "short_name" : "Outer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh",
+               "short_name" : "Toba Tek Singh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toba Tek Singh District",
+               "short_name" : "Toba Tek Singh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Outer Road, Toba Tek Singh, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.97949939999999,
+                  "lng" : 72.4720564
+               },
+               "southwest" : {
+                  "lat" : 30.9771801,
+                  "lng" : 72.4697422
+               }
+            },
+            "location" : {
+               "lat" : 30.9781297,
+               "lng" : 72.47070680000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.9796887302915,
+                  "lng" : 72.47224828029151
+               },
+               "southwest" : {
+                  "lat" : 30.9769907697085,
+                  "lng" : 72.4695503197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "J P Nagar Bus Stop",
+               "short_name" : "J P Nagar Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bannerghatta Main Road",
+               "short_name" : "Bannerghatta Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dollar Layout",
+               "short_name" : "Dollar Layout",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stage 2",
+               "short_name" : "Stage 2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "BTM Layout",
+               "short_name" : "BTM Layout",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "J P Nagar Bus Stop, Bannerghatta Main Road, Dollar Layout, Stage 2, BTM Layout, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9075706,
+               "lng" : 77.6004267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9089195802915,
+                  "lng" : 77.6017756802915
+               },
+               "southwest" : {
+                  "lat" : 12.9062216197085,
+                  "lng" : 77.59907771970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

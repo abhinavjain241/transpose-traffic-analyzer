@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bail Bajar",
+               "short_name" : "Bail Bajar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakinaka",
+               "short_name" : "Sakinaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bail Bajar, Sakinaka, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.085607,
+                  "lng" : 72.88641609999999
+               },
+               "southwest" : {
+                  "lat" : 19.0796449,
+                  "lng" : 72.88035099999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0837132,
+               "lng" : 72.8821935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.085607,
+                  "lng" : 72.88641609999999
+               },
+               "southwest" : {
+                  "lat" : 19.0796449,
+                  "lng" : 72.88035099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bail Bazar",
+               "short_name" : "Bail Bazar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kale Marg",
+               "short_name" : "Kale Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bail Bajar",
+               "short_name" : "Bail Bajar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakinaka",
+               "short_name" : "Sakinaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400099",
+               "short_name" : "400099",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bail Bazar, Kale Marg, Bail Bajar, Sakinaka, Mumbai, Maharashtra 400099, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0854844,
+               "lng" : 72.8812001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0868333802915,
+                  "lng" : 72.88254908029151
+               },
+               "southwest" : {
+                  "lat" : 19.0841354197085,
+                  "lng" : 72.8798511197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

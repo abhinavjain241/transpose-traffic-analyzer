@@ -1,0 +1,156 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakshatra Arcade",
+               "short_name" : "Nakshatra Arcade",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "IOC Road",
+               "short_name" : "IOC Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chandkheda",
+               "short_name" : "Chandkheda",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ahmedabad",
+               "short_name" : "Ahmedabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "382424",
+               "short_name" : "382424",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nakshatra Arcade, IOC Road, Chandkheda, Ahmedabad, Gujarat 382424, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1130872,
+                  "lng" : 72.57486999999999
+               },
+               "southwest" : {
+                  "lat" : 23.1124232,
+                  "lng" : 72.5743124
+               }
+            },
+            "location" : {
+               "lat" : 23.1127552,
+               "lng" : 72.5745912
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1141041802915,
+                  "lng" : 72.5759401802915
+               },
+               "southwest" : {
+                  "lat" : 23.1114062197085,
+                  "lng" : 72.57324221970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nakshatra Mall",
+               "short_name" : "Nakshatra Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ranade Road",
+               "short_name" : "Ranade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dadar West",
+               "short_name" : "Dadar West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400028",
+               "short_name" : "400028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nakshatra Mall, Ranade Road, Dadar West, Dadar, Mumbai, Maharashtra 400028, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0201229,
+                  "lng" : 72.8415188
+               },
+               "southwest" : {
+                  "lat" : 19.0196779,
+                  "lng" : 72.8410834
+               }
+            },
+            "location" : {
+               "lat" : 19.0199004,
+               "lng" : 72.8413011
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0212493802915,
+                  "lng" : 72.84265008029151
+               },
+               "southwest" : {
+                  "lat" : 19.0185514197085,
+                  "lng" : 72.8399521197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kishalay School",
+               "short_name" : "Kishalay School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sreema Pally",
+               "short_name" : "Sreema Pally",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700060",
+               "short_name" : "700060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kishalay School, Sreema Pally, Behala, Kolkata, West Bengal 700060, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4997552,
+               "lng" : 88.3047995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5011041802915,
+                  "lng" : 88.30614848029151
+               },
+               "southwest" : {
+                  "lat" : 22.4984062197085,
+                  "lng" : 88.30345051970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kishalay School",
+               "short_name" : "Kishalay School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sarsuna Main Road",
+               "short_name" : "Sarsuna Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bakultala",
+               "short_name" : "Bakultala",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700061",
+               "short_name" : "700061",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kishalay School, 16, Sarsuna Main Road, Bakultala, Behala, Kolkata, West Bengal 700061, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4823809,
+               "lng" : 88.3011983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4837298802915,
+                  "lng" : 88.30254728029151
+               },
+               "southwest" : {
+                  "lat" : 22.4810319197085,
+                  "lng" : 88.2998493197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

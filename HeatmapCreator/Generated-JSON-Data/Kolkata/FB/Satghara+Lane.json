@@ -1,0 +1,142 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satghara Lane",
+               "short_name" : "Satghara Lane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baksara",
+               "short_name" : "Baksara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711110",
+               "short_name" : "711110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Satghara Lane, Baksara, Howrah, West Bengal 711110, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5759014,
+                  "lng" : 88.2963869
+               },
+               "southwest" : {
+                  "lat" : 22.5755137,
+                  "lng" : 88.29610819999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5757351,
+               "lng" : 88.2962433
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5770565302915,
+                  "lng" : 88.2975965302915
+               },
+               "southwest" : {
+                  "lat" : 22.5743585697085,
+                  "lng" : 88.29489856970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satghara Road",
+               "short_name" : "Satghara Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Metiabruz",
+               "short_name" : "Metiabruz",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700044",
+               "short_name" : "700044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Satghara Road, Metiabruz, Kolkata, West Bengal 700044, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5518921,
+                  "lng" : 88.2634726
+               },
+               "southwest" : {
+                  "lat" : 22.5513454,
+                  "lng" : 88.26024579999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5516384,
+               "lng" : 88.2618756
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5529677302915,
+                  "lng" : 88.2634726
+               },
+               "southwest" : {
+                  "lat" : 22.5502697697085,
+                  "lng" : 88.26024579999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,362 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadala Bridge",
+               "short_name" : "Wadala Bridge",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sialkot Road",
+               "short_name" : "Sialkot Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zafarwal",
+               "short_name" : "Zafarwal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narowal District",
+               "short_name" : "Narowal District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadala Bridge, Sialkot Road, Zafarwal, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.352909,
+                  "lng" : 74.9041951
+               },
+               "southwest" : {
+                  "lat" : 32.35278,
+                  "lng" : 74.9040435
+               }
+            },
+            "location" : {
+               "lat" : 32.3528445,
+               "lng" : 74.90411929999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3541934802915,
+                  "lng" : 74.9054682802915
+               },
+               "southwest" : {
+                  "lat" : 32.3514955197085,
+                  "lng" : 74.90277031970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadala Road",
+               "short_name" : "Wadala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madharian Wala Kalar",
+               "short_name" : "Madharian Wala Kalar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sialkot District",
+               "short_name" : "Sialkot District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadala Road, Madharian Wala Kalar, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2695034,
+                  "lng" : 74.3956645
+               },
+               "southwest" : {
+                  "lat" : 32.1922124,
+                  "lng" : 74.35947399999999
+               }
+            },
+            "location" : {
+               "lat" : 32.22618,
+               "lng" : 74.3730709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2695034,
+                  "lng" : 74.3956645
+               },
+               "southwest" : {
+                  "lat" : 32.1922124,
+                  "lng" : 74.35947399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadala Road",
+               "short_name" : "Wadala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadala Road, Nashik, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.9940466,
+                  "lng" : 73.7974459
+               },
+               "southwest" : {
+                  "lat" : 19.9679703,
+                  "lng" : 73.7917489
+               }
+            },
+            "location" : {
+               "lat" : 19.9810927,
+               "lng" : 73.7923981
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9940466,
+                  "lng" : 73.7974459
+               },
+               "southwest" : {
+                  "lat" : 19.9679703,
+                  "lng" : 73.7917489
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadala Road",
+               "short_name" : "Wadala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Daska Kalan",
+               "short_name" : "Daska Kalan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Daska",
+               "short_name" : "Daska",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sialkot District",
+               "short_name" : "Sialkot District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadala Road, Daska, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3259439,
+                  "lng" : 74.3514448
+               },
+               "southwest" : {
+                  "lat" : 32.3173123,
+                  "lng" : 74.3496698
+               }
+            },
+            "location" : {
+               "lat" : 32.3217758,
+               "lng" : 74.34992150000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3259439,
+                  "lng" : 74.3519062802915
+               },
+               "southwest" : {
+                  "lat" : 32.3173123,
+                  "lng" : 74.3492083197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadala Bridge",
+               "short_name" : "Wadala Bridge",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Rawalpindi",
+               "short_name" : "Rawalpindi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadala Bridge, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.1779156,
+                  "lng" : 72.6851393
+               },
+               "southwest" : {
+                  "lat" : 33.1753473,
+                  "lng" : 72.6846671
+               }
+            },
+            "location" : {
+               "lat" : 33.1766008,
+               "lng" : 72.6848687
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1779804302915,
+                  "lng" : 72.6862521802915
+               },
+               "southwest" : {
+                  "lat" : 33.1752824697085,
+                  "lng" : 72.6835542197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wadala Road",
+               "short_name" : "Wadala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Daska",
+               "short_name" : "Daska",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sialkot District",
+               "short_name" : "Sialkot District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wadala Road, Daska, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3317523,
+                  "lng" : 74.35180609999999
+               },
+               "southwest" : {
+                  "lat" : 32.329924,
+                  "lng" : 74.3513198
+               }
+            },
+            "location" : {
+               "lat" : 32.3301554,
+               "lng" : 74.35134459999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3321871302915,
+                  "lng" : 74.35291193029151
+               },
+               "southwest" : {
+                  "lat" : 32.3294891697085,
+                  "lng" : 74.35021396970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

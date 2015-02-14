@@ -1,0 +1,282 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maheshwari Udyan Bus Stop",
+               "short_name" : "Maheshwari Udyan Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Circle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Matunga",
+               "short_name" : "Matunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400019",
+               "short_name" : "400019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maheshwari Udyan Bus Stop, Kings Circle, Kings Circle, Matunga, Mumbai, Maharashtra 400019, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0266907,
+               "lng" : 72.85596099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0280396802915,
+                  "lng" : 72.8573099802915
+               },
+               "southwest" : {
+                  "lat" : 19.0253417197085,
+                  "lng" : 72.85461201970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maheshwari Udyan",
+               "short_name" : "Maheshwari Udyan",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Matunga",
+               "short_name" : "Matunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400019",
+               "short_name" : "400019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maheshwari Udyan, Matunga, Mumbai, Maharashtra 400019",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.027671,
+               "lng" : 72.856374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0290199802915,
+                  "lng" : 72.8577229802915
+               },
+               "southwest" : {
+                  "lat" : 19.02632201970849,
+                  "lng" : 72.85502501970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maheshwari Udyan",
+               "short_name" : "Maheshwari Udyan",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Circle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Matunga",
+               "short_name" : "Matunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400019",
+               "short_name" : "400019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maheshwari Udyan, Kings Circle, Kings Circle, Matunga, Mumbai, Maharashtra 400019, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.02735,
+                  "lng" : 72.85588319999999
+               },
+               "southwest" : {
+                  "lat" : 19.0263559,
+                  "lng" : 72.85480630000001
+               }
+            },
+            "location" : {
+               "lat" : 19.0267469,
+               "lng" : 72.855425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0282019302915,
+                  "lng" : 72.85669373029151
+               },
+               "southwest" : {
+                  "lat" : 19.0255039697085,
+                  "lng" : 72.8539957697085
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maheshwari Udyan",
+               "short_name" : "Maheshwari Udyan",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rani Sati Marg",
+               "short_name" : "Rani Sati Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malad East",
+               "short_name" : "Malad East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400097",
+               "short_name" : "400097",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maheshwari Udyan, Rani Sati Marg, Malad East, Mumbai, Maharashtra 400097, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1840101,
+                  "lng" : 72.8526806
+               },
+               "southwest" : {
+                  "lat" : 19.1835466,
+                  "lng" : 72.85232650000002
+               }
+            },
+            "location" : {
+               "lat" : 19.1837692,
+               "lng" : 72.85251719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1851273302915,
+                  "lng" : 72.85385253029152
+               },
+               "southwest" : {
+                  "lat" : 19.18242936970849,
+                  "lng" : 72.8511545697085
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

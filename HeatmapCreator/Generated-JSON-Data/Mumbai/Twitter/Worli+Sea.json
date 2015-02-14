@@ -1,0 +1,202 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra - Worli Sea Link",
+               "short_name" : "Bandra - Worli Sea Link",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bandra - Worli Sea Link, Mumbai, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0455072,
+                  "lng" : 72.82955969999999
+               },
+               "southwest" : {
+                  "lat" : 19.0123981,
+                  "lng" : 72.8122209
+               }
+            },
+            "location" : {
+               "lat" : 19.0298045,
+               "lng" : 72.8157252
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0455072,
+                  "lng" : 72.82955969999999
+               },
+               "southwest" : {
+                  "lat" : 19.0123981,
+                  "lng" : 72.8122209
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worli Sea Face",
+               "short_name" : "Worli Sea Face",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400030",
+               "short_name" : "400030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Worli Sea Face, Worli, Mumbai, Maharashtra 400030, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0154779,
+                  "lng" : 72.8177599
+               },
+               "southwest" : {
+                  "lat" : 19.002471,
+                  "lng" : 72.81325799999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0091432,
+               "lng" : 72.8157283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0154779,
+                  "lng" : 72.8177599
+               },
+               "southwest" : {
+                  "lat" : 19.002471,
+                  "lng" : 72.81325799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Worli Sea Link Toll Gate",
+               "short_name" : "Bandra Worli Sea Link Toll Gate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bandra - Worli Sea Link",
+               "short_name" : "Bandra - Worli Sea Link",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Mary",
+               "short_name" : "Mount Mary",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra West",
+               "short_name" : "Bandra West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400050",
+               "short_name" : "400050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra Worli Sea Link Toll Gate, Bandra - Worli Sea Link, Mount Mary, Bandra West, Mumbai, Maharashtra 400050, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0438563,
+                  "lng" : 72.8250592
+               },
+               "southwest" : {
+                  "lat" : 19.0429765,
+                  "lng" : 72.8242655
+               }
+            },
+            "location" : {
+               "lat" : 19.0434836,
+               "lng" : 72.82468369999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0447653802915,
+                  "lng" : 72.82601133029151
+               },
+               "southwest" : {
+                  "lat" : 19.04206741970849,
+                  "lng" : 72.8233133697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

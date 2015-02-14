@@ -1,0 +1,276 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandi Charan Ghosh Road",
+               "short_name" : "Chandi Charan Ghosh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Purba Barisha",
+               "short_name" : "Purba Barisha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700008",
+               "short_name" : "700008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chandi Charan Ghosh Road, Purba Barisha, Kolkata, West Bengal 700008, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4767679,
+                  "lng" : 88.3130317
+               },
+               "southwest" : {
+                  "lat" : 22.4751649,
+                  "lng" : 88.31014069999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4758882,
+               "lng" : 88.31166999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4773153802915,
+                  "lng" : 88.3130317
+               },
+               "southwest" : {
+                  "lat" : 22.4746174197085,
+                  "lng" : 88.31014069999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roy Dr Chandi Charan",
+               "short_name" : "Roy Dr Chandi Charan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Fern Place",
+               "short_name" : "Fern Place",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gariahat",
+               "short_name" : "Gariahat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700019",
+               "short_name" : "700019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Roy Dr Chandi Charan, Fern Place, Gariahat, Kolkata, West Bengal 700019, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5182665,
+               "lng" : 88.37115829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5196154802915,
+                  "lng" : 88.3725072802915
+               },
+               "southwest" : {
+                  "lat" : 22.5169175197085,
+                  "lng" : 88.36980931970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nag Dr Chandi Charan",
+               "short_name" : "Nag Dr Chandi Charan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bhuban Mohan Roy Rd",
+               "short_name" : "Bhuban Mohan Roy Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kumar Park",
+               "short_name" : "Kumar Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Purba Barisha",
+               "short_name" : "Purba Barisha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700008",
+               "short_name" : "700008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nag Dr Chandi Charan, Bhuban Mohan Roy Rd, Kumar Park, Purba Barisha, Kolkata, West Bengal 700008, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4804468,
+               "lng" : 88.31632980000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4817957802915,
+                  "lng" : 88.31767878029152
+               },
+               "southwest" : {
+                  "lat" : 22.4790978197085,
+                  "lng" : 88.31498081970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mandal Dr Chandi Charan",
+               "short_name" : "Mandal Dr Chandi Charan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "BC Block",
+               "short_name" : "BC Block",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector-1",
+               "short_name" : "Sector-1",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bidhannagar",
+               "short_name" : "Bidhannagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700064",
+               "short_name" : "700064",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mandal Dr Chandi Charan, BC Block, Sector-1, Bidhannagar, Kolkata, West Bengal 700064, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5911208,
+               "lng" : 88.40402910000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5924697802915,
+                  "lng" : 88.40537808029153
+               },
+               "southwest" : {
+                  "lat" : 22.5897718197085,
+                  "lng" : 88.40268011970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

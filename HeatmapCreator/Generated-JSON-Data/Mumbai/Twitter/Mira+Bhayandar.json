@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mira Bhayandar",
+               "short_name" : "Mira Bhayandar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mira Bhayandar, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3189396,
+                  "lng" : 72.93809419999999
+               },
+               "southwest" : {
+                  "lat" : 19.2376845,
+                  "lng" : 72.77794349999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2952325,
+               "lng" : 72.8543897
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3189396,
+                  "lng" : 72.93809419999999
+               },
+               "southwest" : {
+                  "lat" : 19.2376845,
+                  "lng" : 72.77794349999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

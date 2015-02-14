@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barf Khana Street",
+               "short_name" : "Barf Khana St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barf Khana Street, Jhelum, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9364054,
+                  "lng" : 73.7320885
+               },
+               "southwest" : {
+                  "lat" : 32.9361944,
+                  "lng" : 73.73143139999999
+               }
+            },
+            "location" : {
+               "lat" : 32.9363424,
+               "lng" : 73.7316701
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9376488802915,
+                  "lng" : 73.73310893029151
+               },
+               "southwest" : {
+                  "lat" : 32.93495091970851,
+                  "lng" : 73.7304109697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

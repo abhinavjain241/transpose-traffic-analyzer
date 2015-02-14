@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gangarampur Road",
+               "short_name" : "Gangarampur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gangarampur Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5056258,
+                  "lng" : 88.2728092
+               },
+               "southwest" : {
+                  "lat" : 22.4887908,
+                  "lng" : 88.2477516
+               }
+            },
+            "location" : {
+               "lat" : 22.4925115,
+               "lng" : 88.2584201
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5056258,
+                  "lng" : 88.2728092
+               },
+               "southwest" : {
+                  "lat" : 22.4887908,
+                  "lng" : 88.2477516
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biren Roy Road (West)",
+               "short_name" : "Biren Roy Rd (West)",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biren Roy Road (West), Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4869718,
+                  "lng" : 88.31320199999999
+               },
+               "southwest" : {
+                  "lat" : 22.4837595,
+                  "lng" : 88.2908001
+               }
+            },
+            "location" : {
+               "lat" : 22.484267,
+               "lng" : 88.3018314
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4869718,
+                  "lng" : 88.31320199999999
+               },
+               "southwest" : {
+                  "lat" : 22.4837595,
+                  "lng" : 88.2908001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biren Roy Road",
+               "short_name" : "Biren Roy Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jadu Colony",
+               "short_name" : "Jadu Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sarada Pally",
+               "short_name" : "Sarada Pally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biren Roy Road, Jadu Colony, Sarada Pally, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4903433,
+                  "lng" : 88.3170315
+               },
+               "southwest" : {
+                  "lat" : 22.4881357,
+                  "lng" : 88.3159426
+               }
+            },
+            "location" : {
+               "lat" : 22.4893287,
+               "lng" : 88.31641689999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4905884802915,
+                  "lng" : 88.3178360302915
+               },
+               "southwest" : {
+                  "lat" : 22.48789051970849,
+                  "lng" : 88.3151380697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

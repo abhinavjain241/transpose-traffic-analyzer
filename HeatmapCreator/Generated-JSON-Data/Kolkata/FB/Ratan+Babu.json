@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ratan Babu Road",
+               "short_name" : "Ratan Babu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Satchashipara",
+               "short_name" : "Satchashipara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700002",
+               "short_name" : "700002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ratan Babu Road, Satchashipara, Kolkata, West Bengal 700002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6304745,
+                  "lng" : 88.37114539999999
+               },
+               "southwest" : {
+                  "lat" : 22.629925,
+                  "lng" : 88.36511109999999
+               }
+            },
+            "location" : {
+               "lat" : 22.630163,
+               "lng" : 88.36832
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6315487302915,
+                  "lng" : 88.37114539999999
+               },
+               "southwest" : {
+                  "lat" : 22.6288507697085,
+                  "lng" : 88.36511109999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ratan Babu Ghat",
+               "short_name" : "Ratan Babu Ghat",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ratan Babu Road",
+               "short_name" : "Ratan Babu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700002",
+               "short_name" : "700002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ratan Babu Ghat, Ratan Babu Road, Kolkata, West Bengal 700002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6299906,
+               "lng" : 88.3648417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6313395802915,
+                  "lng" : 88.36619068029151
+               },
+               "southwest" : {
+                  "lat" : 22.6286416197085,
+                  "lng" : 88.3634927197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

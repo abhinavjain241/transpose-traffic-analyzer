@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derozio Memorial College",
+               "short_name" : "Derozio Memorial College",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Tali Park",
+               "short_name" : "Tali Park",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700052",
+               "short_name" : "700052",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Derozio Memorial College, Tali Park, Newtown, Kolkata, West Bengal 700052, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6337473,
+                  "lng" : 88.4587786
+               },
+               "southwest" : {
+                  "lat" : 22.6329296,
+                  "lng" : 88.45777579999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6333878,
+               "lng" : 88.4583047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6346874302915,
+                  "lng" : 88.45962618029151
+               },
+               "southwest" : {
+                  "lat" : 22.6319894697085,
+                  "lng" : 88.45692821970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

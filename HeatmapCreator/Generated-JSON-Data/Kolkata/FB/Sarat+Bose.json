@@ -1,0 +1,655 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Road",
+               "short_name" : "Sarat Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5413015,
+                  "lng" : 88.35655129999999
+               },
+               "southwest" : {
+                  "lat" : 22.5121399,
+                  "lng" : 88.3514366
+               }
+            },
+            "location" : {
+               "lat" : 22.5266683,
+               "lng" : 88.3526749
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5413015,
+                  "lng" : 88.35655129999999
+               },
+               "southwest" : {
+                  "lat" : 22.5121399,
+                  "lng" : 88.3514366
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Road",
+               "short_name" : "Sarat Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khalisha Kota",
+               "short_name" : "Khalisha Kota",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birati",
+               "short_name" : "Birati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700134",
+               "short_name" : "700134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Road, Khalisha Kota, Birati, Kolkata, West Bengal 700134, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6602855,
+                  "lng" : 88.44000779999999
+               },
+               "southwest" : {
+                  "lat" : 22.6558302,
+                  "lng" : 88.4349569
+               }
+            },
+            "location" : {
+               "lat" : 22.6585735,
+               "lng" : 88.4382933
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6602855,
+                  "lng" : 88.44000779999999
+               },
+               "southwest" : {
+                  "lat" : 22.6558302,
+                  "lng" : 88.4349569
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Road",
+               "short_name" : "Sarat Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ward 16",
+               "short_name" : "Ward 16",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hakim Para",
+               "short_name" : "Hakim Para",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Siliguri",
+               "short_name" : "Siliguri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darjeeling",
+               "short_name" : "Darjeeling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "734001",
+               "short_name" : "734001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Road, Ward 16, Hakim Para, Siliguri, West Bengal 734001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7147085,
+                  "lng" : 88.4333606
+               },
+               "southwest" : {
+                  "lat" : 26.714341,
+                  "lng" : 88.42943769999999
+               }
+            },
+            "location" : {
+               "lat" : 26.7146167,
+               "lng" : 88.4311228
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7158737302915,
+                  "lng" : 88.4333606
+               },
+               "southwest" : {
+                  "lat" : 26.7131757697085,
+                  "lng" : 88.42943769999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bose",
+               "short_name" : "Bose",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Manoharpukur",
+               "short_name" : "Manoharpukur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700029",
+               "short_name" : "700029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bose, Manoharpukur, Ballygunge, Kolkata, West Bengal 700029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5208366,
+               "lng" : 88.3547152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5221855802915,
+                  "lng" : 88.35606418029151
+               },
+               "southwest" : {
+                  "lat" : 22.5194876197085,
+                  "lng" : 88.35336621970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Road",
+               "short_name" : "Sarat Bose Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700065",
+               "short_name" : "700065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Road, Kolkata, West Bengal 700065",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6415053,
+                  "lng" : 88.4089752
+               },
+               "southwest" : {
+                  "lat" : 22.6336256,
+                  "lng" : 88.4047719
+               }
+            },
+            "location" : {
+               "lat" : 22.6375654,
+               "lng" : 88.4068736
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6415053,
+                  "lng" : 88.4089752
+               },
+               "southwest" : {
+                  "lat" : 22.6336256,
+                  "lng" : 88.4047719
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Lane",
+               "short_name" : "Sarat Bose Lane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khalisha Kota",
+               "short_name" : "Khalisha Kota",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birati",
+               "short_name" : "Birati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700134",
+               "short_name" : "700134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Lane, Khalisha Kota, Birati, Kolkata, West Bengal 700134",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6572349,
+               "lng" : 88.4352026
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6585838802915,
+                  "lng" : 88.43655158029149
+               },
+               "southwest" : {
+                  "lat" : 22.6558859197085,
+                  "lng" : 88.43385361970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Road",
+               "short_name" : "Sarat Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sahanagar",
+               "short_name" : "Sahanagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700026",
+               "short_name" : "700026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Road, Sahanagar, Kalighat, Kolkata, West Bengal 700026, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.51325,
+               "lng" : 88.3440619
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5145989802915,
+                  "lng" : 88.3454108802915
+               },
+               "southwest" : {
+                  "lat" : 22.5119010197085,
+                  "lng" : 88.34271291970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Colony",
+               "short_name" : "Sarat Bose Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Garfa",
+               "short_name" : "Garfa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Colony, Garfa, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.509259,
+                  "lng" : 88.380084
+               },
+               "southwest" : {
+                  "lat" : 22.5078311,
+                  "lng" : 88.37706399999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5085676,
+               "lng" : 88.37825610000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.50989403029151,
+                  "lng" : 88.380084
+               },
+               "southwest" : {
+                  "lat" : 22.5071960697085,
+                  "lng" : 88.37706399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Statue of Sarat Bose",
+               "short_name" : "Statue of Sarat Bose",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Esplanade Row West",
+               "short_name" : "Esplanade Row W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "B B D Bagh",
+               "short_name" : "B B D Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700001",
+               "short_name" : "700001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Statue of Sarat Bose, Esplanade Row West, B B D Bagh, Kolkata, West Bengal 700001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5671553,
+               "lng" : 88.34573899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5685042802915,
+                  "lng" : 88.34708798029151
+               },
+               "southwest" : {
+                  "lat" : 22.5658063197085,
+                  "lng" : 88.34439001970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarat Bose Road Xing",
+               "short_name" : "Sarat Bose Road Xing",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Manoharpukur",
+               "short_name" : "Manoharpukur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700029",
+               "short_name" : "700029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarat Bose Road Xing, Manoharpukur, Kalighat, Kolkata, West Bengal 700029",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.517376,
+               "lng" : 88.351946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5187249802915,
+                  "lng" : 88.35329498029151
+               },
+               "southwest" : {
+                  "lat" : 22.5160270197085,
+                  "lng" : 88.35059701970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

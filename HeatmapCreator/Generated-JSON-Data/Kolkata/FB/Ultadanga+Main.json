@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ultadanga Main Road",
+               "short_name" : "Ultadanga Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ultadanga Main Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5961373,
+                  "lng" : 88.39350709999999
+               },
+               "southwest" : {
+                  "lat" : 22.5910722,
+                  "lng" : 88.3798486
+               }
+            },
+            "location" : {
+               "lat" : 22.5938006,
+               "lng" : 88.38698239999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5961373,
+                  "lng" : 88.39350709999999
+               },
+               "southwest" : {
+                  "lat" : 22.5910722,
+                  "lng" : 88.3798486
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ultadanga Main Road",
+               "short_name" : "Ultadanga Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fariapukur",
+               "short_name" : "Fariapukur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ultadanga Main Road, Fariapukur, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5967813,
+                  "lng" : 88.3799551
+               },
+               "southwest" : {
+                  "lat" : 22.5958677,
+                  "lng" : 88.37491369999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5960694,
+               "lng" : 88.3773372
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5976734802915,
+                  "lng" : 88.3799551
+               },
+               "southwest" : {
+                  "lat" : 22.5949755197085,
+                  "lng" : 88.37491369999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

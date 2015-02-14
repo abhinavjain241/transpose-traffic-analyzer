@@ -1,0 +1,404 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talbagan Road",
+               "short_name" : "Talbagan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pabna",
+               "short_name" : "Pabna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pabna",
+               "short_name" : "Pabna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajshahi Division",
+               "short_name" : "Rajshahi Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Talbagan Road, Pabna, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0186905,
+                  "lng" : 89.2517816
+               },
+               "southwest" : {
+                  "lat" : 24.017359,
+                  "lng" : 89.2456234
+               }
+            },
+            "location" : {
+               "lat" : 24.0178119,
+               "lng" : 89.24820029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0193737302915,
+                  "lng" : 89.2517816
+               },
+               "southwest" : {
+                  "lat" : 24.0166757697085,
+                  "lng" : 89.2456234
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talbagan Road",
+               "short_name" : "Talbagan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anandapuri",
+               "short_name" : "Anandapuri",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Talbagan Road, Anandapuri, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7670887,
+                  "lng" : 88.376902
+               },
+               "southwest" : {
+                  "lat" : 22.7626335,
+                  "lng" : 88.37608229999999
+               }
+            },
+            "location" : {
+               "lat" : 22.7647632,
+               "lng" : 88.37643349999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7670887,
+                  "lng" : 88.3778411302915
+               },
+               "southwest" : {
+                  "lat" : 22.7626335,
+                  "lng" : 88.37514316970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talbagan Road",
+               "short_name" : "Talbagan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Talbagan",
+               "short_name" : "Talbagan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Purba Putiary",
+               "short_name" : "Purba Putiary",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700093",
+               "short_name" : "700093",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Talbagan Road, Talbagan, Purba Putiary, Kolkata, West Bengal 700093, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4708099,
+                  "lng" : 88.34504
+               },
+               "southwest" : {
+                  "lat" : 22.4697132,
+                  "lng" : 88.3435423
+               }
+            },
+            "location" : {
+               "lat" : 22.4701588,
+               "lng" : 88.3444619
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4716105302915,
+                  "lng" : 88.3456401302915
+               },
+               "southwest" : {
+                  "lat" : 22.4689125697085,
+                  "lng" : 88.34294216970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talbagan Main Road",
+               "short_name" : "Talbagan Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anandapuri",
+               "short_name" : "Anandapuri",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barrackpore",
+               "short_name" : "Barrackpore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Talbagan Main Road, Anandapuri, Barrackpore, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7669751,
+                  "lng" : 88.3775783
+               },
+               "southwest" : {
+                  "lat" : 22.7640645,
+                  "lng" : 88.37729499999999
+               }
+            },
+            "location" : {
+               "lat" : 22.7655865,
+               "lng" : 88.3774949
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7669751,
+                  "lng" : 88.3787856302915
+               },
+               "southwest" : {
+                  "lat" : 22.7640645,
+                  "lng" : 88.3760876697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talbagan Lane",
+               "short_name" : "Talbagan Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beniapukur",
+               "short_name" : "Beniapukur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700017",
+               "short_name" : "700017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Talbagan Lane, Beniapukur, Kolkata, West Bengal 700017, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5412444,
+                  "lng" : 88.37050069999999
+               },
+               "southwest" : {
+                  "lat" : 22.540684,
+                  "lng" : 88.3678908
+               }
+            },
+            "location" : {
+               "lat" : 22.5410359,
+               "lng" : 88.36923829999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5423131802915,
+                  "lng" : 88.3705447302915
+               },
+               "southwest" : {
+                  "lat" : 22.5396152197085,
+                  "lng" : 88.36784676970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Talbagan Road",
+               "short_name" : "E Talbagan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anandapuri",
+               "short_name" : "Anandapuri",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barrackpore",
+               "short_name" : "Barrackpore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700120",
+               "short_name" : "700120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Talbagan Road, Anandapuri, Barrackpore, West Bengal 700120, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7667937,
+                  "lng" : 88.3785544
+               },
+               "southwest" : {
+                  "lat" : 22.7638985,
+                  "lng" : 88.3781817
+               }
+            },
+            "location" : {
+               "lat" : 22.7653512,
+               "lng" : 88.37840129999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7667937,
+                  "lng" : 88.37971703029152
+               },
+               "southwest" : {
+                  "lat" : 22.7638985,
+                  "lng" : 88.3770190697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

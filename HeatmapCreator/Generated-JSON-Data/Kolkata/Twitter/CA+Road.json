@@ -1,0 +1,560 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "C A Road",
+               "short_name" : "C A Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C A Road, Montana, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2853546,
+                  "lng" : -108.1548417
+               },
+               "southwest" : {
+                  "lat" : 45.9726284,
+                  "lng" : -108.297479
+               }
+            },
+            "location" : {
+               "lat" : 46.121254,
+               "lng" : -108.2583603
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2853546,
+                  "lng" : -108.1548417
+               },
+               "southwest" : {
+                  "lat" : 45.9726284,
+                  "lng" : -108.297479
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ridgecrest",
+               "short_name" : "Ridgecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93555",
+               "short_name" : "93555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Ridgecrest, CA 93555, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.656739,
+                  "lng" : -117.6635509
+               },
+               "southwest" : {
+                  "lat" : 35.6566921,
+                  "lng" : -117.6682812
+               }
+            },
+            "location" : {
+               "lat" : 35.6567238,
+               "lng" : -117.666645
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6580645302915,
+                  "lng" : -117.6635509
+               },
+               "southwest" : {
+                  "lat" : 35.6553665697085,
+                  "lng" : -117.6682812
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Truckee",
+               "short_name" : "Truckee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96161",
+               "short_name" : "96161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Truckee, CA 96161, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3119008,
+                  "lng" : -120.1938112
+               },
+               "southwest" : {
+                  "lat" : 39.3090031,
+                  "lng" : -120.1956734
+               }
+            },
+            "location" : {
+               "lat" : 39.3103168,
+               "lng" : -120.1955145
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3119008,
+                  "lng" : -120.1933933197085
+               },
+               "southwest" : {
+                  "lat" : 39.3090031,
+                  "lng" : -120.1960912802915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Forestville",
+               "short_name" : "Forestville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonoma County",
+               "short_name" : "Sonoma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95436",
+               "short_name" : "95436",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Forestville, CA 95436, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4926903,
+                  "lng" : -122.8961535
+               },
+               "southwest" : {
+                  "lat" : 38.4903166,
+                  "lng" : -122.8961933
+               }
+            },
+            "location" : {
+               "lat" : 38.4926903,
+               "lng" : -122.8961535
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4928524302915,
+                  "lng" : -122.8948244197085
+               },
+               "southwest" : {
+                  "lat" : 38.4901544697085,
+                  "lng" : -122.8975223802915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CA Road",
+               "short_name" : "CA Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CA Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.590289,
+                  "lng" : 88.3638103
+               },
+               "southwest" : {
+                  "lat" : 22.565892,
+                  "lng" : 88.3517889
+               }
+            },
+            "location" : {
+               "lat" : 22.5775775,
+               "lng" : 88.3603019
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.590289,
+                  "lng" : 88.3638103
+               },
+               "southwest" : {
+                  "lat" : 22.565892,
+                  "lng" : 88.3517889
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prince George",
+               "short_name" : "Prince George",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fraser-Fort George D",
+               "short_name" : "Fraser-Fort George D",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Fraser-Fort George",
+               "short_name" : "Fraser-Fort George",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V2N 5Z6",
+               "short_name" : "V2N 5Z6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Prince George, BC V2N 5Z6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6367043,
+                  "lng" : -122.663778
+               },
+               "southwest" : {
+                  "lat" : 53.6330785,
+                  "lng" : -122.6691157
+               }
+            },
+            "location" : {
+               "lat" : 53.6346418,
+               "lng" : -122.6666992
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6367043,
+                  "lng" : -122.663778
+               },
+               "southwest" : {
+                  "lat" : 53.6330785,
+                  "lng" : -122.6691157
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road East",
+               "short_name" : "Road E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Redwood Valley",
+               "short_name" : "Redwood Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mendocino County",
+               "short_name" : "Mendocino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95470",
+               "short_name" : "95470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road East, Redwood Valley, CA 95470, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2796809,
+                  "lng" : -123.185559
+               },
+               "southwest" : {
+                  "lat" : 39.2705,
+                  "lng" : -123.2056983
+               }
+            },
+            "location" : {
+               "lat" : 39.2735501,
+               "lng" : -123.1952701
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2796809,
+                  "lng" : -123.185559
+               },
+               "southwest" : {
+                  "lat" : 39.2705,
+                  "lng" : -123.2056983
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road East",
+               "short_name" : "Road E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Willows",
+               "short_name" : "Willows",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glenn County",
+               "short_name" : "Glenn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95988",
+               "short_name" : "95988",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road East, Willows, CA 95988, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5095479,
+                  "lng" : -122.2355286
+               },
+               "southwest" : {
+                  "lat" : 39.5060985,
+                  "lng" : -122.2355678
+               }
+            },
+            "location" : {
+               "lat" : 39.5076492,
+               "lng" : -122.2355429
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5095479,
+                  "lng" : -122.2341992197085
+               },
+               "southwest" : {
+                  "lat" : 39.5060985,
+                  "lng" : -122.2368971802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road North",
+               "short_name" : "Road N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Redwood Valley",
+               "short_name" : "Redwood Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mendocino County",
+               "short_name" : "Mendocino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95470",
+               "short_name" : "95470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road North, Redwood Valley, CA 95470, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2762648,
+                  "lng" : -123.2176592
+               },
+               "southwest" : {
+                  "lat" : 39.276254,
+                  "lng" : -123.219808
+               }
+            },
+            "location" : {
+               "lat" : 39.276254,
+               "lng" : -123.219209
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2776083802915,
+                  "lng" : -123.2173846197085
+               },
+               "southwest" : {
+                  "lat" : 39.2749104197085,
+                  "lng" : -123.2200825802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

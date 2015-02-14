@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bose",
+               "short_name" : "Bose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangxi",
+               "short_name" : "Guangxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baise, Guangxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0993221,
+                  "lng" : 107.8845694
+               },
+               "southwest" : {
+                  "lat" : 22.8555449,
+                  "lng" : 104.4501321
+               }
+            },
+            "location" : {
+               "lat" : 23.902333,
+               "lng" : 106.618201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.9376092,
+                  "lng" : 106.6978455
+               },
+               "southwest" : {
+                  "lat" : 23.8154766,
+                  "lng" : 106.5656662
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

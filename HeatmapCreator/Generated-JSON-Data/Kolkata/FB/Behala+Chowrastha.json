@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Behala Chowrasta",
+               "short_name" : "Behala Chowrasta",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Diamond Harbour Road",
+               "short_name" : "Diamond Harbour Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Behala Industrial Estate",
+               "short_name" : "Behala Industrial Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700034",
+               "short_name" : "700034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Behala Chowrasta, Diamond Harbour Road, Behala Industrial Estate, Behala, Kolkata, West Bengal 700034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4870522,
+               "lng" : 88.31317159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4884011802915,
+                  "lng" : 88.3145205802915
+               },
+               "southwest" : {
+                  "lat" : 22.48570321970849,
+                  "lng" : 88.31182261970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Behala Chowrasta",
+               "short_name" : "Behala Chowrasta",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Diamond Harbour Road",
+               "short_name" : "Diamond Harbour Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Behala Chowrasta, Diamond Harbour Road, Behala, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4873802,
+                  "lng" : 88.31360389999999
+               },
+               "southwest" : {
+                  "lat" : 22.486701,
+                  "lng" : 88.312794
+               }
+            },
+            "location" : {
+               "lat" : 22.487033,
+               "lng" : 88.31322670000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4883895802915,
+                  "lng" : 88.3145479302915
+               },
+               "southwest" : {
+                  "lat" : 22.4856916197085,
+                  "lng" : 88.31184996970849
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

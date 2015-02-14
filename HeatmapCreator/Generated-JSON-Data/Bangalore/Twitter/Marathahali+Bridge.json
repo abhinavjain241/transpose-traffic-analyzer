@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marathahalli Bridge",
+               "short_name" : "Marathahalli Bridge",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Outer Ring Road",
+               "short_name" : "ORR",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aswath Nagar",
+               "short_name" : "Aswath Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Marathahalli",
+               "short_name" : "Marathahalli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560037",
+               "short_name" : "560037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marathahalli Bridge, Outer Ring Road, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9569472,
+               "lng" : 77.7015352
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9582961802915,
+                  "lng" : 77.70288418029151
+               },
+               "southwest" : {
+                  "lat" : 12.9555982197085,
+                  "lng" : 77.7001862197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

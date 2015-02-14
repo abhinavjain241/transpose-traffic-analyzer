@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "L Pukur",
+               "short_name" : "L Pukur",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Basunagar",
+               "short_name" : "Basunagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Madhyamgram",
+               "short_name" : "Madhyamgram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700129",
+               "short_name" : "700129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "L Pukur, Basunagar, Madhyamgram, Kolkata, West Bengal 700129",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.700188,
+                  "lng" : 88.46451039999999
+               },
+               "southwest" : {
+                  "lat" : 22.6996732,
+                  "lng" : 88.46378089999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6999673,
+               "lng" : 88.46408099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.70127958029151,
+                  "lng" : 88.46549463029149
+               },
+               "southwest" : {
+                  "lat" : 22.6985816197085,
+                  "lng" : 88.46279666970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

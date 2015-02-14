@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West East Highway",
+               "short_name" : "W E Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pleasant Hill",
+               "short_name" : "Pleasant Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polk",
+               "short_name" : "Polk",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cass County",
+               "short_name" : "Cass County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64080",
+               "short_name" : "64080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West East Highway, Pleasant Hill, MO 64080, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.763124,
+                  "lng" : -94.16602829999999
+               },
+               "southwest" : {
+                  "lat" : 38.762519,
+                  "lng" : -94.16964609999999
+               }
+            },
+            "location" : {
+               "lat" : 38.7626429,
+               "lng" : -94.1677917
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7641704802915,
+                  "lng" : -94.16602829999999
+               },
+               "southwest" : {
+                  "lat" : 38.7614725197085,
+                  "lng" : -94.16964609999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

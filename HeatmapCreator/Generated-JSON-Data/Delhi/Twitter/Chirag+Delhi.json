@@ -1,0 +1,386 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chirag Dilli",
+               "short_name" : "Chirag Dilli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110017",
+               "short_name" : "110017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chirag Dilli, New Delhi, Delhi 110017, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5421439,
+                  "lng" : 77.232123
+               },
+               "southwest" : {
+                  "lat" : 28.5356309,
+                  "lng" : 77.2242869
+               }
+            },
+            "location" : {
+               "lat" : 28.5376318,
+               "lng" : 77.22828629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5421439,
+                  "lng" : 77.232123
+               },
+               "southwest" : {
+                  "lat" : 28.5356309,
+                  "lng" : 77.2242869
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chirag Delhi",
+               "short_name" : "Chirag Delhi",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Chirag Dilli",
+               "short_name" : "Chirag Dilli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110017",
+               "short_name" : "110017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chirag Delhi, Chirag Dilli, New Delhi, Delhi 110017",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.540874,
+               "lng" : 77.231967
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5422229802915,
+                  "lng" : 77.23331598029151
+               },
+               "southwest" : {
+                  "lat" : 28.5395250197085,
+                  "lng" : 77.23061801970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Office of the Junior Engineer",
+               "short_name" : "Office of the Junior Engineer",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Block A",
+               "short_name" : "Block A",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Soami Nagar North",
+               "short_name" : "Soami Nagar North",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Soami Nagar",
+               "short_name" : "Soami Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi (district)",
+               "short_name" : "Delhi (district)",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi (state)",
+               "short_name" : "Delhi (state)",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110017",
+               "short_name" : "110017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Office of the Junior Engineer, Block A, Soami Nagar North, Soami Nagar, New Delhi, Delhi (state) 110017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5410505,
+               "lng" : 77.2258628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5423994802915,
+                  "lng" : 77.22721178029151
+               },
+               "southwest" : {
+                  "lat" : 28.53970151970849,
+                  "lng" : 77.22451381970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chirag",
+               "short_name" : "Chirag",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Basai Road",
+               "short_name" : "Basai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vikas Nagar",
+               "short_name" : "Vikas Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 9",
+               "short_name" : "Sector 9",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gurgaon",
+               "short_name" : "Gurgaon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gurgaon",
+               "short_name" : "Gurgaon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "122018",
+               "short_name" : "122018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chirag, Basai Road, Vikas Nagar, Sector 9, Gurgaon, Haryana 122018, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.4566865,
+               "lng" : 77.0012258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4580354802915,
+                  "lng" : 77.00257478029151
+               },
+               "southwest" : {
+                  "lat" : 28.4553375197085,
+                  "lng" : 76.99987681970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chirag Delhi Main Road",
+               "short_name" : "Chirag Delhi Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110017",
+               "short_name" : "110017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chirag Delhi Main Road, New Delhi, Delhi 110017, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5407887,
+                  "lng" : 77.2321347
+               },
+               "southwest" : {
+                  "lat" : 28.5397154,
+                  "lng" : 77.2261613
+               }
+            },
+            "location" : {
+               "lat" : 28.5400932,
+               "lng" : 77.2288629
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5416010302915,
+                  "lng" : 77.2321347
+               },
+               "southwest" : {
+                  "lat" : 28.5389030697085,
+                  "lng" : 77.2261613
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chirag Delhi Flyover",
+               "short_name" : "Chirag Delhi Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chirag Delhi Flyover, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5421007,
+                  "lng" : 77.23533139999999
+               },
+               "southwest" : {
+                  "lat" : 28.5406015,
+                  "lng" : 77.22770989999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5416157,
+               "lng" : 77.2316069
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5427000802915,
+                  "lng" : 77.23533139999999
+               },
+               "southwest" : {
+                  "lat" : 28.5400021197085,
+                  "lng" : 77.22770989999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

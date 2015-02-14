@@ -1,0 +1,200 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayapuri Chowk",
+               "short_name" : "Mayapuri Chowk",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mahatma Gandhi Marg",
+               "short_name" : "Mahatma Gandhi Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rajouri Garden",
+               "short_name" : "Rajouri Garden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110027",
+               "short_name" : "110027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mayapuri Chowk, Mahatma Gandhi Marg, Rajouri Garden, New Delhi, Delhi 110027, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6383473,
+               "lng" : 77.129412
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6396962802915,
+                  "lng" : 77.13076098029151
+               },
+               "southwest" : {
+                  "lat" : 28.6369983197085,
+                  "lng" : 77.12806301970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayapuri Chowk",
+               "short_name" : "Mayapuri Chowk",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Block I",
+               "short_name" : "Block I",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ware Housing Scheme",
+               "short_name" : "Ware Housing Scheme",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kirti Nagar",
+               "short_name" : "Kirti Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110015",
+               "short_name" : "110015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mayapuri Chowk, Block I, Ware Housing Scheme, Kirti Nagar, New Delhi, Delhi 110015",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.636766,
+               "lng" : 77.130505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6381149802915,
+                  "lng" : 77.13185398029151
+               },
+               "southwest" : {
+                  "lat" : 28.63541701970849,
+                  "lng" : 77.12915601970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayapuri Chowk Flyover",
+               "short_name" : "Mayapuri Chowk Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mansarover Garden",
+               "short_name" : "Mansarover Garden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mayapuri Chowk Flyover, Mansarover Garden, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.640507,
+                  "lng" : 77.1317907
+               },
+               "southwest" : {
+                  "lat" : 28.6329756,
+                  "lng" : 77.1288395
+               }
+            },
+            "location" : {
+               "lat" : 28.6366804,
+               "lng" : 77.1303714
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.640507,
+                  "lng" : 77.1317907
+               },
+               "southwest" : {
+                  "lat" : 28.6329756,
+                  "lng" : 77.1288395
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

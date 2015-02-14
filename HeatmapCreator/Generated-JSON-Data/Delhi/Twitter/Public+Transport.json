@@ -1,0 +1,812 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Public Transportation Department",
+               "short_name" : "Public Transportation Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Adams Street",
+               "short_name" : "W Adams St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60606",
+               "short_name" : "60606",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5107",
+               "short_name" : "5107",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Public Transportation Department, 300 West Adams Street, Chicago, IL 60606, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8795135,
+               "lng" : -87.6357196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8808624802915,
+                  "lng" : -87.63437061970849
+               },
+               "southwest" : {
+                  "lat" : 41.8781645197085,
+                  "lng" : -87.63706858029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Public Transport Museum",
+               "short_name" : "Public Transport Museum",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Praha 6 - Střešovice",
+               "short_name" : "Praha 6 - Střešovice",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Prague",
+               "short_name" : "Prague",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162 00",
+               "short_name" : "162 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Public Transport Museum, 162 00 Praha 6 - Střešovice, Czech Republic",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.09421529999999,
+               "lng" : 14.389834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.09556428029149,
+                  "lng" : 14.3911829802915
+               },
+               "southwest" : {
+                  "lat" : 50.0928663197085,
+                  "lng" : 14.3884850197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route NO. 66",
+               "short_name" : "Route NO. 66",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Triq IL-Mediterran",
+               "short_name" : "Triq IL-Mediterran",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pembroke",
+               "short_name" : "Pembroke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Route NO. 66, Triq IL-Mediterran, Pembroke, Malta",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.9290884,
+               "lng" : 14.481504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.93043738029149,
+                  "lng" : 14.4828529802915
+               },
+               "southwest" : {
+                  "lat" : 35.92773941970849,
+                  "lng" : 14.4801550197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Transportation",
+               "short_name" : "Department of Transportation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Berlin Turnpike",
+               "short_name" : "Berlin Turnpike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newington",
+               "short_name" : "Newington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford County",
+               "short_name" : "Hartford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06111",
+               "short_name" : "06111",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4113",
+               "short_name" : "4113",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Department of Transportation, 2800 Berlin Turnpike, Newington, CT 06111, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6732611,
+               "lng" : -72.7145108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6746100802915,
+                  "lng" : -72.71316181970849
+               },
+               "southwest" : {
+                  "lat" : 41.6719121197085,
+                  "lng" : -72.71585978029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Division of Public Transportation",
+               "short_name" : "Division of Public Transportation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Wilmington Street",
+               "short_name" : "S Wilmington St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Raleigh",
+               "short_name" : "Raleigh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raleigh",
+               "short_name" : "Raleigh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wake County",
+               "short_name" : "Wake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27601",
+               "short_name" : "27601",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1453",
+               "short_name" : "1453",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Division of Public Transportation, 1 South Wilmington Street, Raleigh, NC 27601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7799539,
+               "lng" : -78.63795639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.78130288029149,
+                  "lng" : -78.63660741970848
+               },
+               "southwest" : {
+                  "lat" : 35.77860491970849,
+                  "lng" : -78.6393053802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "TAPS Public Transit",
+               "short_name" : "TAPS Public Transit",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6104",
+               "short_name" : "6104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Texoma Parkway",
+               "short_name" : "Texoma Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sherman",
+               "short_name" : "Sherman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grayson County",
+               "short_name" : "Grayson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75090",
+               "short_name" : "75090",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2128",
+               "short_name" : "2128",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "TAPS Public Transit, 6104 Texoma Parkway, Sherman, TX 75090, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.6982649,
+               "lng" : -96.575248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.69961388029149,
+                  "lng" : -96.57389901970849
+               },
+               "southwest" : {
+                  "lat" : 33.69691591970849,
+                  "lng" : -96.5765969802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Public Transport Security Command",
+               "short_name" : "Public Transport Security Command",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "132",
+               "short_name" : "132",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tg Katong Rd",
+               "short_name" : "Tg Katong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Geylang",
+               "short_name" : "Geylang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "409014",
+               "short_name" : "409014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "132 Tg Katong Rd Public Transport Security Command, Singapore 409014",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.32634,
+               "lng" : 103.890991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.327688980291502,
+                  "lng" : 103.8923399802915
+               },
+               "southwest" : {
+                  "lat" : 1.324991019708498,
+                  "lng" : 103.8896420197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Public Transport Agency 2",
+               "short_name" : "Public Transport Agency 2",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Muhaisnah",
+               "short_name" : "Muhaisnah",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Public Transport Agency 2 - Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.279552,
+               "lng" : 55.414558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2809009802915,
+                  "lng" : 55.4159069802915
+               },
+               "southwest" : {
+                  "lat" : 25.2782030197085,
+                  "lng" : 55.4132090197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Public Transport Agency 1",
+               "short_name" : "Public Transport Agency 1",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Muhaisnah",
+               "short_name" : "Muhaisnah",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Public Transport Agency 1 - Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.278496,
+               "lng" : 55.41403099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2798449802915,
+                  "lng" : 55.41537998029149
+               },
+               "southwest" : {
+                  "lat" : 25.2771470197085,
+                  "lng" : 55.41268201970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oneonta Public Transit",
+               "short_name" : "Oneonta Public Transit",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oneonta",
+               "short_name" : "Oneonta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otsego County",
+               "short_name" : "Otsego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13820",
+               "short_name" : "13820",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2528",
+               "short_name" : "2528",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Oneonta Public Transit, 104 Main Street, Oneonta, NY 13820, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4524063,
+               "lng" : -75.0633813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4537552802915,
+                  "lng" : -75.06203231970849
+               },
+               "southwest" : {
+                  "lat" : 42.4510573197085,
+                  "lng" : -75.06473028029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lancaster Public Transit",
+               "short_name" : "Lancaster Public Transit",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "746",
+               "short_name" : "746",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lawrence Street",
+               "short_name" : "Lawrence St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairfield County",
+               "short_name" : "Fairfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43130",
+               "short_name" : "43130",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9401",
+               "short_name" : "9401",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Lancaster Public Transit, 746 Lawrence Street, Lancaster, OH 43130, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7089939,
+               "lng" : -82.585888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7103428802915,
+                  "lng" : -82.5845390197085
+               },
+               "southwest" : {
+                  "lat" : 39.7076449197085,
+                  "lng" : -82.58723698029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NZH Vervoer Museum",
+               "short_name" : "NZH Vervoer Museum",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "396",
+               "short_name" : "396",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leidsevaart",
+               "short_name" : "Leidsevaart",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leidsevaartbuurt",
+               "short_name" : "Leidsevaartbuurt",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Spoorbaan Leiden",
+               "short_name" : "Spoorbaan Leiden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haarlem",
+               "short_name" : "Haarlem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haarlem",
+               "short_name" : "Haarlem",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2014 HM",
+               "short_name" : "2014 HM",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NZH Vervoer Museum, Leidsevaart 396, 2014 HM Haarlem, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.36958869999999,
+               "lng" : 4.6159161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3709376802915,
+                  "lng" : 4.617265080291502
+               },
+               "southwest" : {
+                  "lat" : 52.3682397197085,
+                  "lng" : 4.614567119708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soseaua Dudesti-Pantelimon",
+               "short_name" : "Soseaua Dudesti-Pantelimon",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sector 2",
+               "short_name" : "Sector 2",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "București",
+               "short_name" : "București",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipiul București",
+               "short_name" : "Municipiul București",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Municipiul București",
+               "short_name" : "Municipiul București",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Soseaua Dudesti-Pantelimon, București, Romania",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4407242,
+               "lng" : 26.191873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44207318029149,
+                  "lng" : 26.1932219802915
+               },
+               "southwest" : {
+                  "lat" : 44.4393752197085,
+                  "lng" : 26.19052401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

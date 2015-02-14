@@ -1,0 +1,200 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemps Corner",
+               "short_name" : "Kemps Corner",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Malabar Hill",
+               "short_name" : "Malabar Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400006",
+               "short_name" : "400006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kemps Corner, Malabar Hill, Mumbai, Maharashtra 400006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.964672,
+                  "lng" : 72.80762779999999
+               },
+               "southwest" : {
+                  "lat" : 18.961579,
+                  "lng" : 72.802969
+               }
+            },
+            "location" : {
+               "lat" : 18.9629177,
+               "lng" : 72.8053877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.964672,
+                  "lng" : 72.80762779999999
+               },
+               "southwest" : {
+                  "lat" : 18.961579,
+                  "lng" : 72.802969
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemps Corner",
+               "short_name" : "Kemps Corner",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Grant Road",
+               "short_name" : "Grant Road",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400007",
+               "short_name" : "400007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kemps Corner, Grant Road, Mumbai, Maharashtra 400007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9662509,
+                  "lng" : 72.8135561
+               },
+               "southwest" : {
+                  "lat" : 18.9616371,
+                  "lng" : 72.809859
+               }
+            },
+            "location" : {
+               "lat" : 18.9635498,
+               "lng" : 72.81203529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9662509,
+                  "lng" : 72.8135561
+               },
+               "southwest" : {
+                  "lat" : 18.9616371,
+                  "lng" : 72.809859
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemps Corner Flyover",
+               "short_name" : "Kemps Corner Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kemps Corner Flyover, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9651018,
+                  "lng" : 72.8081
+               },
+               "southwest" : {
+                  "lat" : 18.9630555,
+                  "lng" : 72.807233
+               }
+            },
+            "location" : {
+               "lat" : 18.9640718,
+               "lng" : 72.8076083
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9654276302915,
+                  "lng" : 72.80901548029151
+               },
+               "southwest" : {
+                  "lat" : 18.9627296697085,
+                  "lng" : 72.80631751970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

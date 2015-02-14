@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arena Mayer Achal",
+               "short_name" : "Arena Mayer Achal",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Hatirpool",
+               "short_name" : "Hatirpool",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ward 50",
+               "short_name" : "Ward 50",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arena Mayer Achal, Dhaka, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.7444949,
+               "lng" : 90.38623009999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7458438802915,
+                  "lng" : 90.3875790802915
+               },
+               "southwest" : {
+                  "lat" : 23.7431459197085,
+                  "lng" : 90.38488111970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

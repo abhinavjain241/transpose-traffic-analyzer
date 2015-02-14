@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parama Island",
+               "short_name" : "Parama Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parama Island, Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.967337499999999,
+                  "lng" : 143.4499453
+               },
+               "southwest" : {
+                  "lat" : -9.036512699999999,
+                  "lng" : 143.3790493
+               }
+            },
+            "location" : {
+               "lat" : -8.994574199999999,
+               "lng" : 143.4230064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.967337499999999,
+                  "lng" : 143.4499453
+               },
+               "southwest" : {
+                  "lat" : -9.036512699999999,
+                  "lng" : 143.3790493
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

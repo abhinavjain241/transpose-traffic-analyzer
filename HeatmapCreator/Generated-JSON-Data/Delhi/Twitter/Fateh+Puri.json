@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatehpuri",
+               "short_name" : "Fatehpuri",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandni Chowk",
+               "short_name" : "Chandni Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fatehpuri, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.65726,
+                  "lng" : 77.22326590000002
+               },
+               "southwest" : {
+                  "lat" : 28.6550729,
+                  "lng" : 77.2200241
+               }
+            },
+            "location" : {
+               "lat" : 28.6563683,
+               "lng" : 77.2214745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6575154302915,
+                  "lng" : 77.22326590000002
+               },
+               "southwest" : {
+                  "lat" : 28.6548174697085,
+                  "lng" : 77.2200241
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

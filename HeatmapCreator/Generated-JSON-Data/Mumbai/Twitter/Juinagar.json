@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Juinagar",
+               "short_name" : "Juinagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Juinagar, Navi Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.053506,
+                  "lng" : 73.018716
+               },
+               "southwest" : {
+                  "lat" : 19.045461,
+                  "lng" : 73.009867
+               }
+            },
+            "location" : {
+               "lat" : 19.051493,
+               "lng" : 73.01499099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.053506,
+                  "lng" : 73.018716
+               },
+               "southwest" : {
+                  "lat" : 19.045461,
+                  "lng" : 73.009867
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Juinagar",
+               "short_name" : "Juinagar",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sector 11",
+               "short_name" : "Sector 11",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sanpada",
+               "short_name" : "Sanpada",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400705",
+               "short_name" : "400705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Juinagar, Sector 11, Sanpada, Navi Mumbai, Maharashtra 400705, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0572984,
+                  "lng" : 73.018924
+               },
+               "southwest" : {
+                  "lat" : 19.0546164,
+                  "lng" : 73.01739499999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0556115,
+               "lng" : 73.01802049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0573063802915,
+                  "lng" : 73.01950848029151
+               },
+               "southwest" : {
+                  "lat" : 19.0546084197085,
+                  "lng" : 73.0168105197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

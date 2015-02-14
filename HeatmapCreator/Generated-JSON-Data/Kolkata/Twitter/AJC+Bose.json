@@ -1,0 +1,507 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acharya Jagadish Chandra Bose Road",
+               "short_name" : "AJC Bose Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Acharya Jagadish Chandra Bose Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.564841,
+                  "lng" : 88.371026
+               },
+               "southwest" : {
+                  "lat" : 22.5461164,
+                  "lng" : 88.36130439999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5557831,
+               "lng" : 88.3650207
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.564841,
+                  "lng" : 88.371026
+               },
+               "southwest" : {
+                  "lat" : 22.5461164,
+                  "lng" : 88.36130439999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AJC Bose Road",
+               "short_name" : "AJC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "AJC Bose Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.548568,
+                  "lng" : 88.363102
+               },
+               "southwest" : {
+                  "lat" : 22.540526,
+                  "lng" : 88.34422420000001
+               }
+            },
+            "location" : {
+               "lat" : 22.5413876,
+               "lng" : 88.35364629999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.548568,
+                  "lng" : 88.363102
+               },
+               "southwest" : {
+                  "lat" : 22.540526,
+                  "lng" : 88.34422420000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AJC Bose Road",
+               "short_name" : "AJC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Siliguri",
+               "short_name" : "Siliguri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darjeeling",
+               "short_name" : "Darjeeling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "734001",
+               "short_name" : "734001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AJC Bose Road, Siliguri, West Bengal 734001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.71557,
+                  "lng" : 88.43540710000001
+               },
+               "southwest" : {
+                  "lat" : 26.7082069,
+                  "lng" : 88.4343899
+               }
+            },
+            "location" : {
+               "lat" : 26.7118088,
+               "lng" : 88.43469739999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.71557,
+                  "lng" : 88.43624748029151
+               },
+               "southwest" : {
+                  "lat" : 26.7082069,
+                  "lng" : 88.43354951970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acharya Prafulla Chandra Road",
+               "short_name" : "Acharya Prafulla Chandra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Acharya Prafulla Chandra Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6017965,
+                  "lng" : 88.37612109999999
+               },
+               "southwest" : {
+                  "lat" : 22.5646982,
+                  "lng" : 88.36836129999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5830631,
+               "lng" : 88.3744171
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6017965,
+                  "lng" : 88.37612109999999
+               },
+               "southwest" : {
+                  "lat" : 22.5646982,
+                  "lng" : 88.36836129999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AJC Bose Road Flyover",
+               "short_name" : "AJC Bose Rd Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "AJC Bose Road Flyover, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5427932,
+                  "lng" : 88.3650574
+               },
+               "southwest" : {
+                  "lat" : 22.5400778,
+                  "lng" : 88.3413339
+               }
+            },
+            "location" : {
+               "lat" : 22.5413853,
+               "lng" : 88.3526612
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5427932,
+                  "lng" : 88.3650574
+               },
+               "southwest" : {
+                  "lat" : 22.5400778,
+                  "lng" : 88.3413339
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acharya Jagadish Chandra Bose Road",
+               "short_name" : "Acharya Jagadish Chandra Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jagadish Para",
+               "short_name" : "Jagadish Para",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Silpara",
+               "short_name" : "Silpara",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Purba Barisha",
+               "short_name" : "Purba Barisha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Acharya Jagadish Chandra Bose Road, Jagadish Para, Silpara, Purba Barisha, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4732083,
+                  "lng" : 88.31220259999999
+               },
+               "southwest" : {
+                  "lat" : 22.4711849,
+                  "lng" : 88.3098478
+               }
+            },
+            "location" : {
+               "lat" : 22.4723605,
+               "lng" : 88.3115952
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4735455802915,
+                  "lng" : 88.31237418029151
+               },
+               "southwest" : {
+                  "lat" : 22.4708476197085,
+                  "lng" : 88.30967621970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AJC Bose Road",
+               "short_name" : "AJC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sanjib Pally",
+               "short_name" : "Sanjib Pally",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700034",
+               "short_name" : "700034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AJC Bose Road, Sanjib Pally, Behala, Kolkata, West Bengal 700034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4868114,
+               "lng" : 88.3092808
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4881603802915,
+                  "lng" : 88.31062978029151
+               },
+               "southwest" : {
+                  "lat" : 22.4854624197085,
+                  "lng" : 88.3079318197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acharya Jagadish Chandra Bose Lane",
+               "short_name" : "Acharya Jagadish Chandra Bose Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birbal Bazar",
+               "short_name" : "Birbal Bazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Silchar",
+               "short_name" : "Silchar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cachar",
+               "short_name" : "Cachar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "788012",
+               "short_name" : "788012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Acharya Jagadish Chandra Bose Lane, Birbal Bazar, Silchar, Assam 788012, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7971837,
+                  "lng" : 92.79216629999999
+               },
+               "southwest" : {
+                  "lat" : 24.7970738,
+                  "lng" : 92.7882609
+               }
+            },
+            "location" : {
+               "lat" : 24.7970858,
+               "lng" : 92.79056369999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7984777302915,
+                  "lng" : 92.79216629999999
+               },
+               "southwest" : {
+                  "lat" : 24.7957797697085,
+                  "lng" : 92.7882609
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

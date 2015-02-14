@@ -1,0 +1,175 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "VIP Road",
+               "short_name" : "VIP Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "VIP Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6420109,
+                  "lng" : 88.4364921
+               },
+               "southwest" : {
+                  "lat" : 22.5895558,
+                  "lng" : 88.39336229999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6037075,
+               "lng" : 88.41424529999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6420109,
+                  "lng" : 88.4364921
+               },
+               "southwest" : {
+                  "lat" : 22.5895558,
+                  "lng" : 88.39336229999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "VIP Road",
+               "short_name" : "VIP Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vadodara",
+               "short_name" : "Vadodara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vadodara",
+               "short_name" : "Vadodara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "VIP Road, Vadodara, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.32807,
+                  "lng" : 73.21359799999999
+               },
+               "southwest" : {
+                  "lat" : 22.3220296,
+                  "lng" : 73.18447689999999
+               }
+            },
+            "location" : {
+               "lat" : 22.3253939,
+               "lng" : 73.1988339
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.32807,
+                  "lng" : 73.21359799999999
+               },
+               "southwest" : {
+                  "lat" : 22.3220296,
+                  "lng" : 73.18447689999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "RD-AV-29",
+               "short_name" : "RD-AV-29",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cahabón",
+               "short_name" : "Cahabón",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alta Verapaz",
+               "short_name" : "Alta Verapaz",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RD-AV-29, Cahabón, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.6188108,
+                  "lng" : -89.65504
+               },
+               "southwest" : {
+                  "lat" : 15.4788762,
+                  "lng" : -89.81358650000001
+               }
+            },
+            "location" : {
+               "lat" : 15.5175666,
+               "lng" : -89.7017261
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6188108,
+                  "lng" : -89.65504
+               },
+               "southwest" : {
+                  "lat" : 15.4788762,
+                  "lng" : -89.81358650000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

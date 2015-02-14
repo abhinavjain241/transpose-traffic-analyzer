@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Bridge ( A Foursquare Church)",
+               "short_name" : "The Bridge ( A Foursquare Church)",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "202",
+               "short_name" : "202",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "4th Street West",
+               "short_name" : "4th St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blackhawk",
+               "short_name" : "Blackhawk",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rock Island County",
+               "short_name" : "Rock Island County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61264",
+               "short_name" : "61264",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2418",
+               "short_name" : "2418",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "The Bridge ( A Foursquare Church), 202 4th Street West, Milan, IL 61264, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4520259,
+               "lng" : -90.572458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4533748802915,
+                  "lng" : -90.5711090197085
+               },
+               "southwest" : {
+                  "lat" : 41.4506769197085,
+                  "lng" : -90.57380698029151
+               }
+            }
+         },
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

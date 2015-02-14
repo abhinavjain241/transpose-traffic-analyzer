@@ -1,0 +1,675 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Heights",
+               "short_name" : "Golden Heights",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Webster",
+               "short_name" : "Webster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01570",
+               "short_name" : "01570",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden Heights, Webster, MA 01570, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.06357999999999,
+                  "lng" : -71.875139
+               },
+               "southwest" : {
+                  "lat" : 42.06218399999999,
+                  "lng" : -71.876341
+               }
+            },
+            "location" : {
+               "lat" : 42.0628,
+               "lng" : -71.87579099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.06423098029149,
+                  "lng" : -71.8743910197085
+               },
+               "southwest" : {
+                  "lat" : 42.0615330197085,
+                  "lng" : -71.87708898029152
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden",
+               "short_name" : "Golden",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Springfield",
+               "short_name" : "Springfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65810",
+               "short_name" : "65810",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden, Springfield, MO 65810, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1384639,
+                  "lng" : -93.3416809
+               },
+               "southwest" : {
+                  "lat" : 37.1093696,
+                  "lng" : -93.3433429
+               }
+            },
+            "location" : {
+               "lat" : 37.1239091,
+               "lng" : -93.3424866
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1384639,
+                  "lng" : -93.34116291970849
+               },
+               "southwest" : {
+                  "lat" : 37.1093696,
+                  "lng" : -93.34386088029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Heights",
+               "short_name" : "Golden Heights",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Hillal Road",
+               "short_name" : "Hillal Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "F-11/1",
+               "short_name" : "F-11/1",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "F-11",
+               "short_name" : "F-11",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Islamabad",
+               "short_name" : "Islamabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Islamabad District",
+               "short_name" : "Islamabad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Islamabad Capital Territory",
+               "short_name" : "Islamabad Capital Territory",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Golden Heights, Hillal Road, Islamabad, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6828507,
+                  "lng" : 72.9873166
+               },
+               "southwest" : {
+                  "lat" : 33.6821252,
+                  "lng" : 72.98668379999999
+               }
+            },
+            "location" : {
+               "lat" : 33.6824879,
+               "lng" : 72.9870002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6838369302915,
+                  "lng" : 72.98834918029151
+               },
+               "southwest" : {
+                  "lat" : 33.6811389697085,
+                  "lng" : 72.9856512197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Heights",
+               "short_name" : "Golden Heights",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Vidya Nagari Road",
+               "short_name" : "Vidya Nagari Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vidya Nagari",
+               "short_name" : "Vidya Nagari",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalina",
+               "short_name" : "Kalina",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz East",
+               "short_name" : "Santacruz East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400098",
+               "short_name" : "400098",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden Heights, Vidya Nagari Road, Vidya Nagari, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.07531,
+                  "lng" : 72.8644345
+               },
+               "southwest" : {
+                  "lat" : 19.0751873,
+                  "lng" : 72.8642569
+               }
+            },
+            "location" : {
+               "lat" : 19.0752486,
+               "lng" : 72.8643457
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0765976302915,
+                  "lng" : 72.86569468029151
+               },
+               "southwest" : {
+                  "lat" : 19.0738996697085,
+                  "lng" : 72.86299671970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Heights",
+               "short_name" : "Golden Heights",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "126",
+               "short_name" : "126",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Serangoon Avenue 3",
+               "short_name" : "Serangoon Ave 3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Serangoon",
+               "short_name" : "Serangoon",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "556126",
+               "short_name" : "556126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "126 Serangoon Avenue 3, Golden Heights, Singapore 556126",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.3496714,
+                  "lng" : 103.8661302
+               },
+               "southwest" : {
+                  "lat" : 1.3494609,
+                  "lng" : 103.8657841
+               }
+            },
+            "location" : {
+               "lat" : 1.3495661,
+               "lng" : 103.8659571
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.350915130291502,
+                  "lng" : 103.8673061302915
+               },
+               "southwest" : {
+                  "lat" : 1.348217169708498,
+                  "lng" : 103.8646081697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Heights",
+               "short_name" : "Golden Heights",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Haji Safuddin Road",
+               "short_name" : "Haji Safuddin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tokobari Satra",
+               "short_name" : "Tokobari Satra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guwahati",
+               "short_name" : "Guwahati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamrup",
+               "short_name" : "Kamrup",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "781001",
+               "short_name" : "781001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden Heights, Haji Safuddin Road, Tokobari Satra, Guwahati, Assam 781001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.1780235,
+               "lng" : 91.7459571
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1793724802915,
+                  "lng" : 91.74730608029151
+               },
+               "southwest" : {
+                  "lat" : 26.1766745197085,
+                  "lng" : 91.74460811970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Road",
+               "short_name" : "Golden Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greenville",
+               "short_name" : "Greenville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northwest Piscataquis",
+               "short_name" : "Northwest Piscataquis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Piscataquis County",
+               "short_name" : "Piscataquis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04441",
+               "short_name" : "04441",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden Road, Greenville, ME 04441, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9305009,
+                  "lng" : -69.3092868
+               },
+               "southwest" : {
+                  "lat" : 45.8295171,
+                  "lng" : -69.66604479999999
+               }
+            },
+            "location" : {
+               "lat" : 45.9066501,
+               "lng" : -69.45668239999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9305009,
+                  "lng" : -69.3092868
+               },
+               "southwest" : {
+                  "lat" : 45.8295171,
+                  "lng" : -69.66604479999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Way",
+               "short_name" : "Golden Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Penwortham",
+               "short_name" : "Penwortham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR1",
+               "short_name" : "PR1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden Way, Penwortham, Preston, Lancashire PR1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7493369,
+                  "lng" : -2.7188167
+               },
+               "southwest" : {
+                  "lat" : 53.7330222,
+                  "lng" : -2.7320026
+               }
+            },
+            "location" : {
+               "lat" : 53.7408607,
+               "lng" : -2.7248406
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7493369,
+                  "lng" : -2.7188167
+               },
+               "southwest" : {
+                  "lat" : 53.7330222,
+                  "lng" : -2.7320026
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Bridge",
+               "short_name" : "Golden Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maktampur",
+               "short_name" : "Maktampur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bharuch",
+               "short_name" : "Bharuch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bharuch",
+               "short_name" : "Bharuch",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Golden Bridge, Maktampur, Bharuch, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.7007455,
+                  "lng" : 73.0071729
+               },
+               "southwest" : {
+                  "lat" : 21.6891957,
+                  "lng" : 73.0009276
+               }
+            },
+            "location" : {
+               "lat" : 21.6950959,
+               "lng" : 73.00403419999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.7007455,
+                  "lng" : 73.0071729
+               },
+               "southwest" : {
+                  "lat" : 21.6891957,
+                  "lng" : 73.0009276
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golden Road",
+               "short_name" : "Golden Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Millinocket",
+               "short_name" : "Millinocket",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piscataquis County",
+               "short_name" : "Piscataquis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04462",
+               "short_name" : "04462",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golden Road, Millinocket, ME 04462, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8799409,
+                  "lng" : -69.06049299999999
+               },
+               "southwest" : {
+                  "lat" : 45.788008,
+                  "lng" : -69.3188699
+               }
+            },
+            "location" : {
+               "lat" : 45.8543561,
+               "lng" : -69.21841999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8799409,
+                  "lng" : -69.06049299999999
+               },
+               "southwest" : {
+                  "lat" : 45.788008,
+                  "lng" : -69.3188699
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

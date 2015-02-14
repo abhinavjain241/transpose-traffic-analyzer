@@ -1,0 +1,369 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hazra Road",
+               "short_name" : "Hazra Road",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hazra Road",
+               "short_name" : "Hazra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hazra",
+               "short_name" : "Hazra",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700029",
+               "short_name" : "700029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hazra Road, Hazra Road, Hazra, Bhowanipore, Kolkata, West Bengal 700029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5244564,
+               "lng" : 88.3527431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5258053802915,
+                  "lng" : 88.35409208029151
+               },
+               "southwest" : {
+                  "lat" : 22.5231074197085,
+                  "lng" : 88.3513941197085
+               }
+            }
+         },
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hazra Lane",
+               "short_name" : "Hazra Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dover Terrace",
+               "short_name" : "Dover Terrace",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700029",
+               "short_name" : "700029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hazra Lane, Dover Terrace, Ballygunge, Kolkata, West Bengal 700029, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5233024,
+                  "lng" : 88.3540859
+               },
+               "southwest" : {
+                  "lat" : 22.5227129,
+                  "lng" : 88.35402409999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5227222,
+               "lng" : 88.354074
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5243566302915,
+                  "lng" : 88.35540398029151
+               },
+               "southwest" : {
+                  "lat" : 22.5216586697085,
+                  "lng" : 88.35270601970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mritunjoy Hazra Road",
+               "short_name" : "Mritunjoy Hazra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "CRPF Group Centre",
+               "short_name" : "CRPF Group Centre",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Durgapur",
+               "short_name" : "Durgapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713206",
+               "short_name" : "713206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mritunjoy Hazra Road, CRPF Group Centre, Durgapur, West Bengal 713206, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5492257,
+                  "lng" : 87.3351325
+               },
+               "southwest" : {
+                  "lat" : 23.546425,
+                  "lng" : 87.33058059999999
+               }
+            },
+            "location" : {
+               "lat" : 23.5477374,
+               "lng" : 87.3329593
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5492257,
+                  "lng" : 87.3351325
+               },
+               "southwest" : {
+                  "lat" : 23.546425,
+                  "lng" : 87.33058059999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "J B हजर मार्ग",
+               "short_name" : "J B हजर मार्ग",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rasikpur",
+               "short_name" : "Rasikpur",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Subhas Pally",
+               "short_name" : "Subhas Pally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barddhaman",
+               "short_name" : "Barddhaman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713103",
+               "short_name" : "713103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "J B हजर मार्ग, Rasikpur, Subhas Pally, Barddhaman, West Bengal 713103, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2484797,
+                  "lng" : 87.8628293
+               },
+               "southwest" : {
+                  "lat" : 23.2477733,
+                  "lng" : 87.8626457
+               }
+            },
+            "location" : {
+               "lat" : 23.2480836,
+               "lng" : 87.8627365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2494754802915,
+                  "lng" : 87.8640864802915
+               },
+               "southwest" : {
+                  "lat" : 23.2467775197085,
+                  "lng" : 87.8613885197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "JB Hazra Road",
+               "short_name" : "JB Hazra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rasikpur",
+               "short_name" : "Rasikpur",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Subhas Pally",
+               "short_name" : "Subhas Pally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Burdwan",
+               "short_name" : "Burdwan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713103",
+               "short_name" : "713103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "JB Hazra Road, Rasikpur, Subhas Pally, Burdwan, West Bengal 713103, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2490484,
+                  "lng" : 87.8629981
+               },
+               "southwest" : {
+                  "lat" : 23.2484797,
+                  "lng" : 87.8628293
+               }
+            },
+            "location" : {
+               "lat" : 23.2487397,
+               "lng" : 87.86298219999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.25011303029151,
+                  "lng" : 87.86426268029152
+               },
+               "southwest" : {
+                  "lat" : 23.2474150697085,
+                  "lng" : 87.8615647197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

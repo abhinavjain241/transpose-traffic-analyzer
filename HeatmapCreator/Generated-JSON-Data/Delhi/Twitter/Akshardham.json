@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akshardham",
+               "short_name" : "Akshardham",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Sector 20",
+               "short_name" : "Sector 20",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "Gujarat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "382 020",
+               "short_name" : "382 020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Akshardham, Sector 20, Gandhinagar, Gujarat 382 020, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2330943,
+                  "lng" : 72.6752158
+               },
+               "southwest" : {
+                  "lat" : 23.2286524,
+                  "lng" : 72.67197929999999
+               }
+            },
+            "location" : {
+               "lat" : 23.2318792,
+               "lng" : 72.67411749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2330943,
+                  "lng" : 72.6752158
+               },
+               "southwest" : {
+                  "lat" : 23.2286524,
+                  "lng" : 72.67197929999999
+               }
+            }
+         },
+         "types" : [ "hindu_temple", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

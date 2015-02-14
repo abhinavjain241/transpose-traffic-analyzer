@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fountain @ Phoenix Mall",
+               "short_name" : "Fountain @ Phoenix Mall",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "High Street Phoenix",
+               "short_name" : "High Street Phoenix",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Lower Parel",
+               "short_name" : "Lower Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400013",
+               "short_name" : "400013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fountain @ Phoenix Mall, High Street Phoenix, Lower Parel, Mumbai, Maharashtra 400013",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9951466,
+                  "lng" : 72.8257165
+               },
+               "southwest" : {
+                  "lat" : 18.9950603,
+                  "lng" : 72.82564130000002
+               }
+            },
+            "location" : {
+               "lat" : 18.9951103,
+               "lng" : 72.8256877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9964524302915,
+                  "lng" : 72.82702788029152
+               },
+               "southwest" : {
+                  "lat" : 18.9937544697085,
+                  "lng" : 72.8243299197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phoenix House",
+               "short_name" : "Phoenix House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castletownsend",
+               "short_name" : "Castletownsend",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phoenix House, Main Street, Co. Cork, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5271856,
+               "lng" : -9.177997599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52853458029149,
+                  "lng" : -9.176648619708498
+               },
+               "southwest" : {
+                  "lat" : 51.5258366197085,
+                  "lng" : -9.179346580291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

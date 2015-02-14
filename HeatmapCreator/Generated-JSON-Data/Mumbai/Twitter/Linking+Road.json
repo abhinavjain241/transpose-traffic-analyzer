@@ -1,0 +1,252 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Turner Road",
+               "short_name" : "W Turner Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Turner Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0910711,
+                  "lng" : 72.8370108
+               },
+               "southwest" : {
+                  "lat" : 19.0594752,
+                  "lng" : 72.8326376
+               }
+            },
+            "location" : {
+               "lat" : 19.0753367,
+               "lng" : 72.83425939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0910711,
+                  "lng" : 72.8370108
+               },
+               "southwest" : {
+                  "lat" : 19.0594752,
+                  "lng" : 72.8326376
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linking Road",
+               "short_name" : "Linking Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seneca",
+               "short_name" : "Seneca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oconee County",
+               "short_name" : "Oconee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29672",
+               "short_name" : "29672",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Linking Road, Seneca, SC 29672, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.799662,
+                  "lng" : -82.96542529999999
+               },
+               "southwest" : {
+                  "lat" : 34.7991734,
+                  "lng" : -82.9675986
+               }
+            },
+            "location" : {
+               "lat" : 34.7996514,
+               "lng" : -82.96660399999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8007666802915,
+                  "lng" : -82.9651629697085
+               },
+               "southwest" : {
+                  "lat" : 34.7980687197085,
+                  "lng" : -82.96786093029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linking Road",
+               "short_name" : "Linking Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dalkajhar Forest",
+               "short_name" : "Dalkajhar Forest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darjeeling",
+               "short_name" : "Darjeeling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "734013",
+               "short_name" : "734013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Linking Road, Dalkajhar Forest, West Bengal 734013, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7125783,
+                  "lng" : 88.28732699999999
+               },
+               "southwest" : {
+                  "lat" : 26.7123701,
+                  "lng" : 88.28706409999999
+               }
+            },
+            "location" : {
+               "lat" : 26.7124865,
+               "lng" : 88.2871842
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7138231802915,
+                  "lng" : 88.2885445302915
+               },
+               "southwest" : {
+                  "lat" : 26.7111252197085,
+                  "lng" : 88.2858465697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linking Road",
+               "short_name" : "Linking Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Junglee Mohal",
+               "short_name" : "Junglee Mohal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalpaiguri",
+               "short_name" : "Jalpaiguri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "734004",
+               "short_name" : "734004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Linking Road, Junglee Mohal, West Bengal 734004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6738692,
+                  "lng" : 88.50391449999999
+               },
+               "southwest" : {
+                  "lat" : 26.673254,
+                  "lng" : 88.5021291
+               }
+            },
+            "location" : {
+               "lat" : 26.6736272,
+               "lng" : 88.5029009
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6749105802915,
+                  "lng" : 88.50437078029151
+               },
+               "southwest" : {
+                  "lat" : 26.6722126197085,
+                  "lng" : 88.5016728197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

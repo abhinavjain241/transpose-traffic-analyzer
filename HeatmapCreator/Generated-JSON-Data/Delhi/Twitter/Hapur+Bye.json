@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hapur",
+               "short_name" : "Hapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hapur, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7511808,
+                  "lng" : 77.82448769999999
+               },
+               "southwest" : {
+                  "lat" : 28.7037631,
+                  "lng" : 77.74200429999999
+               }
+            },
+            "location" : {
+               "lat" : 28.73057979999999,
+               "lng" : 77.77588249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7511808,
+                  "lng" : 77.82448769999999
+               },
+               "southwest" : {
+                  "lat" : 28.7037631,
+                  "lng" : 77.74200429999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

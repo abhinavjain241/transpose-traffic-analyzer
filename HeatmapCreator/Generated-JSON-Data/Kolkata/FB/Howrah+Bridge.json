@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridge",
+               "short_name" : "Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalibari",
+               "short_name" : "Kalibari",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Uluberia",
+               "short_name" : "Uluberia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711315",
+               "short_name" : "711315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bridge, Kalibari, Uluberia, Howrah, West Bengal 711315",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4664247,
+               "lng" : 88.10755399999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4677736802915,
+                  "lng" : 88.1089029802915
+               },
+               "southwest" : {
+                  "lat" : 22.46507571970849,
+                  "lng" : 88.1062050197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

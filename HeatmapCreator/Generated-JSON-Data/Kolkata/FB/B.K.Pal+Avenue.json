@@ -1,0 +1,388 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue du Pal",
+               "short_name" : "Avenue du Pal",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Tour-du-Crieu",
+               "short_name" : "La Tour-du-Crieu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ariège",
+               "short_name" : "09",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09100",
+               "short_name" : "09100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue du Pal, 09100 La Tour-du-Crieu, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1032269,
+                  "lng" : 1.653898
+               },
+               "southwest" : {
+                  "lat" : 43.101873,
+                  "lng" : 1.6534323
+               }
+            },
+            "location" : {
+               "lat" : 43.102375,
+               "lng" : 1.65371
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1038989302915,
+                  "lng" : 1.655014130291502
+               },
+               "southwest" : {
+                  "lat" : 43.1012009697085,
+                  "lng" : 1.652316169708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BK Paul Avenue Road",
+               "short_name" : "BK Paul Ave Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "BK Paul Avenue Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5966368,
+                  "lng" : 88.3652907
+               },
+               "southwest" : {
+                  "lat" : 22.5922416,
+                  "lng" : 88.3565562
+               }
+            },
+            "location" : {
+               "lat" : 22.5951136,
+               "lng" : 88.36022989999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5966368,
+                  "lng" : 88.3652907
+               },
+               "southwest" : {
+                  "lat" : 22.5922416,
+                  "lng" : 88.3565562
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pal Avenue",
+               "short_name" : "Pal Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eldon",
+               "short_name" : "Eldon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saline",
+               "short_name" : "Saline",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Miller County",
+               "short_name" : "Miller County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65026",
+               "short_name" : "65026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pal Avenue, Eldon, MO 65026, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3511786,
+                  "lng" : -92.5699157
+               },
+               "southwest" : {
+                  "lat" : 38.350137,
+                  "lng" : -92.570162
+               }
+            },
+            "location" : {
+               "lat" : 38.3511786,
+               "lng" : -92.57011469999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.35200678029149,
+                  "lng" : -92.56868986970849
+               },
+               "southwest" : {
+                  "lat" : 38.34930881970849,
+                  "lng" : -92.5713878302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pal Road",
+               "short_name" : "Pal Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jodhpur",
+               "short_name" : "Jodhpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jodhpur",
+               "short_name" : "Jodhpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "342008",
+               "short_name" : "342008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pal Road, Jodhpur, Rajasthan 342008, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.266068,
+                  "lng" : 72.992397
+               },
+               "southwest" : {
+                  "lat" : 26.1973967,
+                  "lng" : 72.94341980000002
+               }
+            },
+            "location" : {
+               "lat" : 26.2328302,
+               "lng" : 72.96646509999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.266068,
+                  "lng" : 72.992397
+               },
+               "southwest" : {
+                  "lat" : 26.1973967,
+                  "lng" : 72.94341980000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pallandstraße",
+               "short_name" : "Pallandstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Linnich",
+               "short_name" : "Linnich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52441",
+               "short_name" : "52441",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pallandstraße, 52441 Linnich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9796621,
+                  "lng" : 6.2749
+               },
+               "southwest" : {
+                  "lat" : 50.9770238,
+                  "lng" : 6.272609999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.978128,
+               "lng" : 6.2739332
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.97969193029149,
+                  "lng" : 6.275103980291503
+               },
+               "southwest" : {
+                  "lat" : 50.9769939697085,
+                  "lng" : 6.272406019708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pál utca",
+               "short_name" : "Pál u.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Keszthely",
+               "short_name" : "Keszthely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Keszthelyi",
+               "short_name" : "Keszthelyi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zala County",
+               "short_name" : "Zala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8360",
+               "short_name" : "8360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Keszthely, Pál utca, 8360 Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7756054,
+                  "lng" : 17.238752
+               },
+               "southwest" : {
+                  "lat" : 46.7679589,
+                  "lng" : 17.2367984
+               }
+            },
+            "location" : {
+               "lat" : 46.772227,
+               "lng" : 17.23855
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7756054,
+                  "lng" : 17.2391241802915
+               },
+               "southwest" : {
+                  "lat" : 46.7679589,
+                  "lng" : 17.23642621970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,782 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindh Industrial Trading Estate",
+               "short_name" : "S.I.T.E",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karachi",
+               "short_name" : "Karachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karachi District",
+               "short_name" : "Karachi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sindh Industrial Trading Estate, Karachi, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.929992,
+                  "lng" : 67.0217066
+               },
+               "southwest" : {
+                  "lat" : 24.8712971,
+                  "lng" : 66.96386389999999
+               }
+            },
+            "location" : {
+               "lat" : 24.8941108,
+               "lng" : 66.99284399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.929992,
+                  "lng" : 67.0217066
+               },
+               "southwest" : {
+                  "lat" : 24.8712971,
+                  "lng" : 66.96386389999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yücetepe Mh.",
+               "short_name" : "Yücetepe Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06830",
+               "short_name" : "06830",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yücetepe Mh., Site, 06830 Ankara/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.920514,
+                  "lng" : 32.841883
+               },
+               "southwest" : {
+                  "lat" : 39.91758,
+                  "lng" : 32.837808
+               }
+            },
+            "location" : {
+               "lat" : 39.919332,
+               "lng" : 32.840219
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.920514,
+                  "lng" : 32.841883
+               },
+               "southwest" : {
+                  "lat" : 39.91758,
+                  "lng" : 32.837808
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bebek Mh.",
+               "short_name" : "Bebek Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Beşiktaş",
+               "short_name" : "Beşiktaş",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bebek Mh., Site, Beşiktaş/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.083137,
+                  "lng" : 29.045025
+               },
+               "southwest" : {
+                  "lat" : 41.082708,
+                  "lng" : 29.044068
+               }
+            },
+            "location" : {
+               "lat" : 41.083019,
+               "lng" : 29.044603
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0842714802915,
+                  "lng" : 29.0458954802915
+               },
+               "southwest" : {
+                  "lat" : 41.0815735197085,
+                  "lng" : 29.0431975197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34200",
+               "short_name" : "34200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Site, 34398 İstanbul/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.064891,
+                  "lng" : 29.00615
+               },
+               "southwest" : {
+                  "lat" : 41.058975,
+                  "lng" : 28.99923
+               }
+            },
+            "location" : {
+               "lat" : 41.061883,
+               "lng" : 29.002308
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.064891,
+                  "lng" : 29.00615
+               },
+               "southwest" : {
+                  "lat" : 41.058975,
+                  "lng" : 28.99923
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Konaklar Mh.",
+               "short_name" : "Konaklar Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Beşiktaş",
+               "short_name" : "Beşiktaş",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34250",
+               "short_name" : "34250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Konaklar Mh., Site, 34398 Beşiktaş/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.089565,
+                  "lng" : 29.011618
+               },
+               "southwest" : {
+                  "lat" : 41.088081,
+                  "lng" : 29.008147
+               }
+            },
+            "location" : {
+               "lat" : 41.089111,
+               "lng" : 29.009569
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.09017198029149,
+                  "lng" : 29.011618
+               },
+               "southwest" : {
+                  "lat" : 41.0874740197085,
+                  "lng" : 29.008147
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yıldız Mh.",
+               "short_name" : "Yıldız Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Beşiktaş",
+               "short_name" : "Beşiktaş",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34200",
+               "short_name" : "34200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yıldız Mh., Site, 34200 Beşiktaş/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.04783399999999,
+                  "lng" : 29.021018
+               },
+               "southwest" : {
+                  "lat" : 41.04646400000001,
+                  "lng" : 29.017966
+               }
+            },
+            "location" : {
+               "lat" : 41.046623,
+               "lng" : 29.01985699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0484979802915,
+                  "lng" : 29.021018
+               },
+               "southwest" : {
+                  "lat" : 41.0458000197085,
+                  "lng" : 29.017966
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atakent Mh.",
+               "short_name" : "Atakent Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Küçükçekmece",
+               "short_name" : "Küçükçekmece",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34306",
+               "short_name" : "34306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atakent Mh., Site, 34306 Küçükçekmece/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.054571,
+                  "lng" : 28.777455
+               },
+               "southwest" : {
+                  "lat" : 41.053302,
+                  "lng" : 28.776942
+               }
+            },
+            "location" : {
+               "lat" : 41.054113,
+               "lng" : 28.776945
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0552854802915,
+                  "lng" : 28.77854748029149
+               },
+               "southwest" : {
+                  "lat" : 41.0525875197085,
+                  "lng" : 28.77584951970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Teşvikiye Mh.",
+               "short_name" : "Teşvikiye Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Şişli",
+               "short_name" : "Şişli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34250",
+               "short_name" : "34250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Teşvikiye Mh., Site, 34400 Şişli/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.055006,
+                  "lng" : 28.99805
+               },
+               "southwest" : {
+                  "lat" : 41.054648,
+                  "lng" : 28.996982
+               }
+            },
+            "location" : {
+               "lat" : 41.054811,
+               "lng" : 28.997475
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0561759802915,
+                  "lng" : 28.9988649802915
+               },
+               "southwest" : {
+                  "lat" : 41.0534780197085,
+                  "lng" : 28.9961670197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Esenkent Mh.",
+               "short_name" : "Esenkent Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Esenyurt",
+               "short_name" : "Esenyurt",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34555",
+               "short_name" : "34555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Esenkent Mh., Site, 34510 Esenyurt/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.063354,
+                  "lng" : 28.674571
+               },
+               "southwest" : {
+                  "lat" : 41.06303399999999,
+                  "lng" : 28.673531
+               }
+            },
+            "location" : {
+               "lat" : 41.063191,
+               "lng" : 28.674059
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0645429802915,
+                  "lng" : 28.6753999802915
+               },
+               "southwest" : {
+                  "lat" : 41.0618450197085,
+                  "lng" : 28.6727020197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Site",
+               "short_name" : "Site",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nurtepe Mh.",
+               "short_name" : "Nurtepe Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kağıthane",
+               "short_name" : "Kağıthane",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34250",
+               "short_name" : "34250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nurtepe Mh., Site, 34250 Kağıthane/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.071767,
+                  "lng" : 28.960528
+               },
+               "southwest" : {
+                  "lat" : 41.070936,
+                  "lng" : 28.960455
+               }
+            },
+            "location" : {
+               "lat" : 41.071146,
+               "lng" : 28.960528
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0727004802915,
+                  "lng" : 28.9618404802915
+               },
+               "southwest" : {
+                  "lat" : 41.0700025197085,
+                  "lng" : 28.9591425197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Šite",
+               "short_name" : "Šite",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Triglav National Park",
+               "short_name" : "Triglav National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Trenta",
+               "short_name" : "Trenta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Soča",
+               "short_name" : "Soča",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tolmin",
+               "short_name" : "Tolmin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5232",
+               "short_name" : "5232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Šite, Triglav National Park, 5232 Soča, Slovenia",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.4230555,
+               "lng" : 13.6916666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.42440448029149,
+                  "lng" : 13.6930155802915
+               },
+               "southwest" : {
+                  "lat" : 46.42170651970849,
+                  "lng" : 13.6903176197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Park Site Road",
+               "short_name" : "Park Site Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Park Site Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1179689,
+                  "lng" : 72.92011269999999
+               },
+               "southwest" : {
+                  "lat" : 19.10199,
+                  "lng" : 72.91562499999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1099087,
+               "lng" : 72.9176681
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1179689,
+                  "lng" : 72.92011269999999
+               },
+               "southwest" : {
+                  "lat" : 19.10199,
+                  "lng" : 72.91562499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalanagar",
+               "short_name" : "Kalanagar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sion-Bandra Link Road",
+               "short_name" : "Sion-Bandra Link Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kala Nagar",
+               "short_name" : "Kala Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra East",
+               "short_name" : "Bandra East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400051",
+               "short_name" : "400051",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalanagar, Sion-Bandra Link Road, Kala Nagar, Bandra East, Mumbai, Maharashtra 400051, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0531331,
+               "lng" : 72.84712309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.05448208029151,
+                  "lng" : 72.8484720802915
+               },
+               "southwest" : {
+                  "lat" : 19.0517841197085,
+                  "lng" : 72.84577411970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalanagar Bus Stop",
+               "short_name" : "Kalanagar Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Madhusudan Kalelkar Road",
+               "short_name" : "Madhusudan Kalelkar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gandhi Nagar",
+               "short_name" : "Gandhi Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra East",
+               "short_name" : "Bandra East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400051",
+               "short_name" : "400051",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalanagar Bus Stop, Madhusudan Kalelkar Road, Gandhi Nagar, Bandra East, Mumbai, Maharashtra 400051, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0544718,
+               "lng" : 72.84754959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0558207802915,
+                  "lng" : 72.8488985802915
+               },
+               "southwest" : {
+                  "lat" : 19.05312281970849,
+                  "lng" : 72.8462006197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

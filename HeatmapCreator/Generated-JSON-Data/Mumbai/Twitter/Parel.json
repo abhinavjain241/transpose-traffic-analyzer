@@ -1,0 +1,605 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parel, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.011061,
+                  "lng" : 72.85315299999999
+               },
+               "southwest" : {
+                  "lat" : 18.9854319,
+                  "lng" : 72.83071009999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9944898,
+               "lng" : 72.83899050000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.011061,
+                  "lng" : 72.85315299999999
+               },
+               "southwest" : {
+                  "lat" : 18.9854319,
+                  "lng" : 72.83071009999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Veyrières",
+               "short_name" : "Veyrières",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corrèze",
+               "short_name" : "19",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limousin",
+               "short_name" : "Limousin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19200",
+               "short_name" : "19200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, 19200 Veyrières, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.487298,
+                  "lng" : 2.403055
+               },
+               "southwest" : {
+                  "lat" : 45.48075,
+                  "lng" : 2.389839
+               }
+            },
+            "location" : {
+               "lat" : 45.483965,
+               "lng" : 2.396413
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.487298,
+                  "lng" : 2.403055
+               },
+               "southwest" : {
+                  "lat" : 45.48075,
+                  "lng" : 2.389839
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapelle-Spinasse",
+               "short_name" : "Chapelle-Spinasse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corrèze",
+               "short_name" : "19",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limousin",
+               "short_name" : "Limousin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19300",
+               "short_name" : "19300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, 19300 Chapelle-Spinasse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.362036,
+                  "lng" : 2.046603
+               },
+               "southwest" : {
+                  "lat" : 45.360081,
+                  "lng" : 2.042946
+               }
+            },
+            "location" : {
+               "lat" : 45.3609579,
+               "lng" : 2.045662
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3624074802915,
+                  "lng" : 2.046603
+               },
+               "southwest" : {
+                  "lat" : 45.3597095197085,
+                  "lng" : 2.042946
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mijdrecht",
+               "short_name" : "Mijdrecht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "De Ronde Venen",
+               "short_name" : "De Ronde Venen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3641",
+               "short_name" : "3641",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, 3641 Mijdrecht, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2148289,
+                  "lng" : 4.8688748
+               },
+               "southwest" : {
+                  "lat" : 52.21364870000001,
+                  "lng" : 4.8670315
+               }
+            },
+            "location" : {
+               "lat" : 52.2143002,
+               "lng" : 4.8678817
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.21558778029151,
+                  "lng" : 4.869302130291502
+               },
+               "southwest" : {
+                  "lat" : 52.21288981970851,
+                  "lng" : 4.866604169708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chamba",
+               "short_name" : "Chamba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "176314",
+               "short_name" : "176314",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, Himachal Pradesh 176314, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5763728,
+                  "lng" : 76.1198902
+               },
+               "southwest" : {
+                  "lat" : 32.566599,
+                  "lng" : 76.1145473
+               }
+            },
+            "location" : {
+               "lat" : 32.5724935,
+               "lng" : 76.1167739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5763728,
+                  "lng" : 76.1198902
+               },
+               "southwest" : {
+                  "lat" : 32.566599,
+                  "lng" : 76.1145473
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Échandelys",
+               "short_name" : "Échandelys",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puy-de-Dôme",
+               "short_name" : "63",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne",
+               "short_name" : "Auvergne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63980",
+               "short_name" : "63980",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, 63980 Échandelys, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.555674,
+                  "lng" : 3.5459335
+               },
+               "southwest" : {
+                  "lat" : 45.5523049,
+                  "lng" : 3.540481
+               }
+            },
+            "location" : {
+               "lat" : 45.553889,
+               "lng" : 3.543327
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.555674,
+                  "lng" : 3.5459335
+               },
+               "southwest" : {
+                  "lat" : 45.5523049,
+                  "lng" : 3.540481
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zeewolde",
+               "short_name" : "Zeewolde",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zeewolde",
+               "short_name" : "Zeewolde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flevoland",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3893",
+               "short_name" : "3893",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, 3893 Zeewolde, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3371954,
+                  "lng" : 5.5227214
+               },
+               "southwest" : {
+                  "lat" : 52.3369993,
+                  "lng" : 5.5216768
+               }
+            },
+            "location" : {
+               "lat" : 52.3370974,
+               "lng" : 5.522199100000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3384463302915,
+                  "lng" : 5.523548080291502
+               },
+               "southwest" : {
+                  "lat" : 52.3357483697085,
+                  "lng" : 5.520850119708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Udaipur",
+               "short_name" : "Udaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "313605",
+               "short_name" : "313605",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel, Rajasthan 313605, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0682599,
+                  "lng" : 74.38224989999999
+               },
+               "southwest" : {
+                  "lat" : 24.05296,
+                  "lng" : 74.35473
+               }
+            },
+            "location" : {
+               "lat" : 24.0606216,
+               "lng" : 74.37380329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0682599,
+                  "lng" : 74.38224989999999
+               },
+               "southwest" : {
+                  "lat" : 24.05296,
+                  "lng" : 74.35473
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Freelandganj",
+               "short_name" : "Freelandganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dahod",
+               "short_name" : "Dahod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dahod",
+               "short_name" : "Dahod",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Freelandganj, Dahod, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.852763,
+                  "lng" : 74.24965
+               },
+               "southwest" : {
+                  "lat" : 22.832174,
+                  "lng" : 74.232964
+               }
+            },
+            "location" : {
+               "lat" : 22.8409464,
+               "lng" : 74.239942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.852763,
+                  "lng" : 74.24965
+               },
+               "southwest" : {
+                  "lat" : 22.832174,
+                  "lng" : 74.232964
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perlé",
+               "short_name" : "Perlé",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Redange",
+               "short_name" : "Redange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Diekirch",
+               "short_name" : "Diekirch",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perlé, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.81796,
+                  "lng" : 5.775031999999999
+               },
+               "southwest" : {
+                  "lat" : 49.804217,
+                  "lng" : 5.751042399999999
+               }
+            },
+            "location" : {
+               "lat" : 49.8114554,
+               "lng" : 5.765193699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.81796,
+                  "lng" : 5.775031999999999
+               },
+               "southwest" : {
+                  "lat" : 49.804217,
+                  "lng" : 5.751042399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,439 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andheri Station Overpass",
+               "short_name" : "Andheri Station Overpass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400058",
+               "short_name" : "400058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andheri Station Overpass, Railway Colony, Andheri East, Mumbai, Maharashtra 400058, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1196742,
+                  "lng" : 72.84779139999999
+               },
+               "southwest" : {
+                  "lat" : 19.1190824,
+                  "lng" : 72.8464467
+               }
+            },
+            "location" : {
+               "lat" : 19.1192151,
+               "lng" : 72.8470389
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1207272802915,
+                  "lng" : 72.84846803029151
+               },
+               "southwest" : {
+                  "lat" : 19.1180293197085,
+                  "lng" : 72.84577006970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andheri Station Road",
+               "short_name" : "Andheri Station Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sai Baba Wadi",
+               "short_name" : "Sai Baba Wadi",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Natwar Nagar",
+               "short_name" : "Natwar Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jogeshwari East",
+               "short_name" : "Jogeshwari East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400053",
+               "short_name" : "400053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andheri Station Road, Sai Baba Wadi, Natwar Nagar, Jogeshwari East, Mumbai, Maharashtra 400053",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1204866,
+               "lng" : 72.84911869999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1218355802915,
+                  "lng" : 72.8504676802915
+               },
+               "southwest" : {
+                  "lat" : 19.1191376197085,
+                  "lng" : 72.8477697197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Station Road",
+               "short_name" : "Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Station Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1389434,
+                  "lng" : 72.8644142
+               },
+               "southwest" : {
+                  "lat" : 19.1346169,
+                  "lng" : 72.84777269999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1367363,
+               "lng" : 72.85604239999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1389434,
+                  "lng" : 72.8644142
+               },
+               "southwest" : {
+                  "lat" : 19.1346169,
+                  "lng" : 72.84777269999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Station Road",
+               "short_name" : "Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santacruz West",
+               "short_name" : "Santacruz West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400054",
+               "short_name" : "400054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Station Road, Santacruz West, Mumbai, Maharashtra 400054, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0824802,
+                  "lng" : 72.84135549999999
+               },
+               "southwest" : {
+                  "lat" : 19.0807956,
+                  "lng" : 72.83882299999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0816191,
+               "lng" : 72.841247
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0829868802915,
+                  "lng" : 72.84143823029149
+               },
+               "southwest" : {
+                  "lat" : 19.0802889197085,
+                  "lng" : 72.83874026970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andheri Metro Station",
+               "short_name" : "Andheri Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Andheri - Kurla Road",
+               "short_name" : "Andheri - Kurla Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400053",
+               "short_name" : "400053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andheri Metro Station, Andheri - Kurla Road, Railway Colony, Andheri East, Mumbai, Maharashtra 400053, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1210339,
+                  "lng" : 72.8495909
+               },
+               "southwest" : {
+                  "lat" : 19.1199188,
+                  "lng" : 72.8479172
+               }
+            },
+            "location" : {
+               "lat" : 19.1207914,
+               "lng" : 72.8481324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1218253302915,
+                  "lng" : 72.85010303029151
+               },
+               "southwest" : {
+                  "lat" : 19.1191273697085,
+                  "lng" : 72.8474050697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andheri Railway Station",
+               "short_name" : "Andheri Railway Station",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Andheri Railway Overpass",
+               "short_name" : "Andheri Railway Overpass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sambhaji Nagar",
+               "short_name" : "Sambhaji Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400058",
+               "short_name" : "400058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andheri Railway Station, Andheri Railway Overpass, Sambhaji Nagar, Railway Colony, Andheri East, Mumbai, Maharashtra 400058, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1207766,
+                  "lng" : 72.8472335
+               },
+               "southwest" : {
+                  "lat" : 19.1135745,
+                  "lng" : 72.84572109999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1171389,
+               "lng" : 72.846563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1207766,
+                  "lng" : 72.84782628029151
+               },
+               "southwest" : {
+                  "lat" : 19.1135745,
+                  "lng" : 72.84512831970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

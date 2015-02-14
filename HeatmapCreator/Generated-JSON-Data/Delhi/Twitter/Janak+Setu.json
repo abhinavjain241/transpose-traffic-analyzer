@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raja Janak Setu",
+               "short_name" : "Raja Janak Setu",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Fatehpur Buzurg Road",
+               "short_name" : "Fatehpur Buzurg Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fatehpur Buzurg",
+               "short_name" : "Fatehpur Buzurg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vaishali",
+               "short_name" : "Vaishali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "844506",
+               "short_name" : "844506",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Raja Janak Setu, Fatehpur Buzurg Road, Fatehpur Buzurg, Bihar 844506, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.6552989,
+               "lng" : 85.43006299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.6566478802915,
+                  "lng" : 85.43141198029149
+               },
+               "southwest" : {
+                  "lat" : 25.6539499197085,
+                  "lng" : 85.42871401970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delhi Cantt",
+               "short_name" : "Delhi Cantt",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Jail Road",
+               "short_name" : "Jail Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tulsi Ram Bagichi",
+               "short_name" : "Tulsi Ram Bagichi",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nangal Raya",
+               "short_name" : "Nangal Raya",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Janak Puri",
+               "short_name" : "Janak Puri",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110045",
+               "short_name" : "110045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Delhi Cantt, Jail Road, Tulsi Ram Bagichi, Nangal Raya, Janak Puri, New Delhi, Delhi 110045, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.610561,
+               "lng" : 77.11360979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6119099802915,
+                  "lng" : 77.1149587802915
+               },
+               "southwest" : {
+                  "lat" : 28.60921201970849,
+                  "lng" : 77.11226081970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

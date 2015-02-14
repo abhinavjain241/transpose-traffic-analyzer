@@ -1,0 +1,301 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paradise Apartments",
+               "short_name" : "Paradise Apartments",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Raheja Vihar",
+               "short_name" : "Raheja Vihar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandivali",
+               "short_name" : "Chandivali",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Powai",
+               "short_name" : "Powai",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400072",
+               "short_name" : "400072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paradise Apartments, Raheja Vihar, Chandivali, Powai, Mumbai, Maharashtra 400072, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1190068,
+                  "lng" : 72.89623539999999
+               },
+               "southwest" : {
+                  "lat" : 19.1177888,
+                  "lng" : 72.8950552
+               }
+            },
+            "location" : {
+               "lat" : 19.1185342,
+               "lng" : 72.89563480000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1197467802915,
+                  "lng" : 72.89699428029149
+               },
+               "southwest" : {
+                  "lat" : 19.1170488197085,
+                  "lng" : 72.89429631970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raheja",
+               "short_name" : "Raheja",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Thakur Village Road",
+               "short_name" : "Thakur Village Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dattani Park",
+               "short_name" : "Dattani Park",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thakur Village",
+               "short_name" : "Thakur Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400101",
+               "short_name" : "400101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Raheja, Thakur Village Road, Dattani Park, Thakur Village, Kandivali East, Mumbai, Maharashtra 400101, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.214389,
+               "lng" : 72.8697394
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2157379802915,
+                  "lng" : 72.87108838029151
+               },
+               "southwest" : {
+                  "lat" : 19.2130400197085,
+                  "lng" : 72.86839041970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paradise Building",
+               "short_name" : "Paradise Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Balika Vidyalaya Marg",
+               "short_name" : "Balika Vidyalaya Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhagat Colony",
+               "short_name" : "Bhagat Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali West",
+               "short_name" : "Kandivali West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400067",
+               "short_name" : "400067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paradise Building, Balika Vidyalaya Marg, Bhagat Colony, Kandivali West, Mumbai, Maharashtra 400067, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2009969,
+                  "lng" : 72.84747
+               },
+               "southwest" : {
+                  "lat" : 19.2007465,
+                  "lng" : 72.84731619999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2008642,
+               "lng" : 72.8474169
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2022206802915,
+                  "lng" : 72.8487420802915
+               },
+               "southwest" : {
+                  "lat" : 19.1995227197085,
+                  "lng" : 72.84604411970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paradise Building",
+               "short_name" : "Paradise Building",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lokhandwala Complex",
+               "short_name" : "Lokhandwala Complex",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri West",
+               "short_name" : "Andheri West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400102",
+               "short_name" : "400102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paradise Building, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400102, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.142306,
+               "lng" : 72.8264083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1436549802915,
+                  "lng" : 72.82775728029151
+               },
+               "southwest" : {
+                  "lat" : 19.14095701970849,
+                  "lng" : 72.8250593197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

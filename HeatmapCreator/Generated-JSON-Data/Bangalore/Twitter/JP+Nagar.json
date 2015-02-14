@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "J. P. Nagar",
+               "short_name" : "J. P. Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "J. P. Nagar, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9175971,
+                  "lng" : 77.601826
+               },
+               "southwest" : {
+                  "lat" : 12.861869,
+                  "lng" : 77.5542931
+               }
+            },
+            "location" : {
+               "lat" : 12.910491,
+               "lng" : 77.5857168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9175971,
+                  "lng" : 77.601826
+               },
+               "southwest" : {
+                  "lat" : 12.861869,
+                  "lng" : 77.5542931
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramaiah Garden",
+               "short_name" : "Ramaiah Garden",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "JP Nagar VI Phase",
+               "short_name" : "JP Nagar VI Phase",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "J. P. Nagar",
+               "short_name" : "J. P. Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramaiah Garden, JP Nagar VI Phase, J. P. Nagar, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.898767,
+                  "lng" : 77.5861079
+               },
+               "southwest" : {
+                  "lat" : 12.8968449,
+                  "lng" : 77.5825859
+               }
+            },
+            "location" : {
+               "lat" : 12.8978624,
+               "lng" : 77.58450839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8991549302915,
+                  "lng" : 77.5861079
+               },
+               "southwest" : {
+                  "lat" : 12.8964569697085,
+                  "lng" : 77.5825859
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

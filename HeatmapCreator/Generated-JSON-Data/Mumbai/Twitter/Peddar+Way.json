@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peddar Road",
+               "short_name" : "Peddar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cumballa Hill",
+               "short_name" : "Cumballa Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400026",
+               "short_name" : "400026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peddar Road, Cumballa Hill, Mumbai, Maharashtra 400026, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9710385,
+                  "lng" : 72.80818839999999
+               },
+               "southwest" : {
+                  "lat" : 18.9672922,
+                  "lng" : 72.80668609999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9682466,
+               "lng" : 72.80734749999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9710385,
+                  "lng" : 72.80878623029149
+               },
+               "southwest" : {
+                  "lat" : 18.9672922,
+                  "lng" : 72.80608826970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

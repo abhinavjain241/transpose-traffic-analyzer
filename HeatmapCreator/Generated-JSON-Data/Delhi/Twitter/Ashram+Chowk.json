@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram Chowk",
+               "short_name" : "Ashram Chowk",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jaitpur Extension Part II",
+               "short_name" : "Jaitpur Extension Part II",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Khadda Colony",
+               "short_name" : "Khadda Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaitpur",
+               "short_name" : "Jaitpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110044",
+               "short_name" : "110044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram Chowk, Jaitpur Extension Part II, Khadda Colony, Jaitpur, New Delhi, Delhi 110044, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5111575,
+               "lng" : 77.33628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.51250648029151,
+                  "lng" : 77.33762898029151
+               },
+               "southwest" : {
+                  "lat" : 28.5098085197085,
+                  "lng" : 77.33493101970851
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

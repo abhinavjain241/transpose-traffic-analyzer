@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nandi Hills",
+               "short_name" : "Nandi Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chikballapur",
+               "short_name" : "Chikballapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nandi Hills, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.40358,
+                  "lng" : 77.6902138
+               },
+               "southwest" : {
+                  "lat" : 13.3622,
+                  "lng" : 77.6478199
+               }
+            },
+            "location" : {
+               "lat" : 13.370154,
+               "lng" : 77.68345510000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.40358,
+                  "lng" : 77.6902138
+               },
+               "southwest" : {
+                  "lat" : 13.3622,
+                  "lng" : 77.6478199
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nandi Hills",
+               "short_name" : "Nandi Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nandi",
+               "short_name" : "Nandi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nandi Hills, Kenya",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.1236685,
+                  "lng" : 35.1909256
+               },
+               "southwest" : {
+                  "lat" : 0.08686049999999999,
+                  "lng" : 35.1657772
+               }
+            },
+            "location" : {
+               "lat" : 0.1030731,
+               "lng" : 35.176372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.1236685,
+                  "lng" : 35.1909256
+               },
+               "southwest" : {
+                  "lat" : 0.08686049999999999,
+                  "lng" : 35.1657772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

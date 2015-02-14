@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarai Kale Khan",
+               "short_name" : "Sarai Kale Khan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarai Kale Khan, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.600359,
+                  "lng" : 77.279055
+               },
+               "southwest" : {
+                  "lat" : 28.578138,
+                  "lng" : 77.25285699999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5906098,
+               "lng" : 77.2605619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.600359,
+                  "lng" : 77.279055
+               },
+               "southwest" : {
+                  "lat" : 28.578138,
+                  "lng" : 77.25285699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarai Kale Khan",
+               "short_name" : "Sarai Kale Khan",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Block A",
+               "short_name" : "Block A",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ganga Vihar",
+               "short_name" : "Ganga Vihar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sarai Kale Khan",
+               "short_name" : "Sarai Kale Khan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110013",
+               "short_name" : "110013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarai Kale Khan, Block A, Ganga Vihar, Sarai Kale Khan, New Delhi, Delhi 110013",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.589029,
+               "lng" : 77.25894699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5903779802915,
+                  "lng" : 77.26029598029149
+               },
+               "southwest" : {
+                  "lat" : 28.5876800197085,
+                  "lng" : 77.25759801970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

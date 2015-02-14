@@ -1,0 +1,204 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akurli Road",
+               "short_name" : "Akurli Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akurli Road, Kandivali East, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2034256,
+                  "lng" : 72.878725
+               },
+               "southwest" : {
+                  "lat" : 19.195977,
+                  "lng" : 72.8521714
+               }
+            },
+            "location" : {
+               "lat" : 19.2012306,
+               "lng" : 72.8661163
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2034256,
+                  "lng" : 72.878725
+               },
+               "southwest" : {
+                  "lat" : 19.195977,
+                  "lng" : 72.8521714
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akurli Road",
+               "short_name" : "Akurli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lokhandwala Township",
+               "short_name" : "Lokhandwala Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400101",
+               "short_name" : "400101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Akurli Road, Lokhandwala Township, Kandivali East, Mumbai, Maharashtra 400101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1971808,
+                  "lng" : 72.8783835
+               },
+               "southwest" : {
+                  "lat" : 19.1947881,
+                  "lng" : 72.8731799
+               }
+            },
+            "location" : {
+               "lat" : 19.1956904,
+               "lng" : 72.8754354
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1973334302915,
+                  "lng" : 72.8783835
+               },
+               "southwest" : {
+                  "lat" : 19.1946354697085,
+                  "lng" : 72.8731799
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akurli Road",
+               "short_name" : "Akurli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "MHADA Colony",
+               "short_name" : "MHADA Colony",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lokhandwala Township",
+               "short_name" : "Lokhandwala Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400101",
+               "short_name" : "400101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Akurli Road, MHADA Colony, Lokhandwala Township, Kandivali East, Mumbai, Maharashtra 400101, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.195775,
+               "lng" : 72.872581
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1971239802915,
+                  "lng" : 72.87392998029151
+               },
+               "southwest" : {
+                  "lat" : 19.19442601970849,
+                  "lng" : 72.87123201970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

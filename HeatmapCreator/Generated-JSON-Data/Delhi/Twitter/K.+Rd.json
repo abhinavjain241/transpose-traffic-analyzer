@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "K Road",
+               "short_name" : "K Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "K Road, Gandhinagar, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2605089,
+                  "lng" : 72.6414877
+               },
+               "southwest" : {
+                  "lat" : 23.2300984,
+                  "lng" : 72.6199628
+               }
+            },
+            "location" : {
+               "lat" : 23.2447708,
+               "lng" : 72.6315438
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2605089,
+                  "lng" : 72.6414877
+               },
+               "southwest" : {
+                  "lat" : 23.2300984,
+                  "lng" : 72.6199628
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

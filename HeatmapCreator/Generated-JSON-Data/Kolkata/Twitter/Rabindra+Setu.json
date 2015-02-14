@@ -1,0 +1,199 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabindra Setu",
+               "short_name" : "Rabindra Setu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rabindra Setu, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5858645,
+                  "lng" : 88.34974810000001
+               },
+               "southwest" : {
+                  "lat" : 22.5837776,
+                  "lng" : 88.3442362
+               }
+            },
+            "location" : {
+               "lat" : 22.5850536,
+               "lng" : 88.34692779999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.58617003029151,
+                  "lng" : 88.34974810000001
+               },
+               "southwest" : {
+                  "lat" : 22.5834720697085,
+                  "lng" : 88.3442362
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabindra Setu",
+               "short_name" : "Rabindra Setu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairley Place",
+               "short_name" : "Fairley Place",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jorasanko",
+               "short_name" : "Jorasanko",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700001",
+               "short_name" : "700001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rabindra Setu, Fairley Place, Jorasanko, Kolkata, West Bengal 700001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5841484,
+                  "lng" : 88.3496033
+               },
+               "southwest" : {
+                  "lat" : 22.5837776,
+                  "lng" : 88.34954639999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5840234,
+               "lng" : 88.3495992
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.58531198029151,
+                  "lng" : 88.35092383029151
+               },
+               "southwest" : {
+                  "lat" : 22.5826140197085,
+                  "lng" : 88.3482258697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabindra Sethu",
+               "short_name" : "Rabindra Sethu",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Station Road",
+               "short_name" : "Station Rd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howrah Bridge",
+               "short_name" : "Howrah Bridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fairley Place",
+               "short_name" : "Fairley Place",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "B B D Bagh",
+               "short_name" : "B B D Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700001",
+               "short_name" : "700001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rabindra Sethu, Station Road, Howrah Bridge, Fairley Place, B B D Bagh, Howrah, West Bengal 700001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5851141,
+               "lng" : 88.3468347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5864630802915,
+                  "lng" : 88.3481836802915
+               },
+               "southwest" : {
+                  "lat" : 22.5837651197085,
+                  "lng" : 88.34548571970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

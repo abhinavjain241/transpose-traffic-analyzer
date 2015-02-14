@@ -1,0 +1,202 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baba More Sarai",
+               "short_name" : "Baba More Sarai",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandni Chowk",
+               "short_name" : "Chandni Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baba More Sarai, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6602651,
+                  "lng" : 77.2366871
+               },
+               "southwest" : {
+                  "lat" : 28.6585961,
+                  "lng" : 77.23153599999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6591724,
+               "lng" : 77.2358452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6607795802915,
+                  "lng" : 77.2366871
+               },
+               "southwest" : {
+                  "lat" : 28.6580816197085,
+                  "lng" : 77.23153599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "More Apartment",
+               "short_name" : "More Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Trimbak Road",
+               "short_name" : "Trimbak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Matoshree Nagar",
+               "short_name" : "Matoshree Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "422002",
+               "short_name" : "422002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "More Apartment, Trimbak Road, Matoshree Nagar, Nashik, Maharashtra 422002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.996735,
+               "lng" : 73.78113399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9980839802915,
+                  "lng" : 73.7824829802915
+               },
+               "southwest" : {
+                  "lat" : 19.99538601970849,
+                  "lng" : 73.77978501970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "More Apartment",
+               "short_name" : "More Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kranti Nagar",
+               "short_name" : "Kranti Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ram Wadi",
+               "short_name" : "Ram Wadi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "422003",
+               "short_name" : "422003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "More Apartment, Kranti Nagar, Ram Wadi, Nashik, Maharashtra 422003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.012253,
+               "lng" : 73.78784499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0136019802915,
+                  "lng" : 73.7891939802915
+               },
+               "southwest" : {
+                  "lat" : 20.0109040197085,
+                  "lng" : 73.78649601970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

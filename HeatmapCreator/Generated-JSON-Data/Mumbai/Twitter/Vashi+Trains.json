@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vashi Railway",
+               "short_name" : "VSH",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "South Pranavanandji Marg",
+               "short_name" : "S Pranavanandji Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 30",
+               "short_name" : "Sector 30",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vashi",
+               "short_name" : "Vashi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400703",
+               "short_name" : "400703",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vashi Railway, South Pranavanandji Marg, Sector 30, Vashi, Navi Mumbai, Maharashtra 400703, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0630606,
+               "lng" : 72.99890479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0644095802915,
+                  "lng" : 73.00025378029149
+               },
+               "southwest" : {
+                  "lat" : 19.0617116197085,
+                  "lng" : 72.99755581970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vashi Railway Station",
+               "short_name" : "Vashi Railway Station",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sector 30",
+               "short_name" : "Sector 30",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vashi",
+               "short_name" : "Vashi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400703",
+               "short_name" : "400703",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vashi Railway Station, Sector 30, Vashi, Navi Mumbai, Maharashtra 400703, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.063084,
+               "lng" : 72.99891199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0644329802915,
+                  "lng" : 73.00026098029149
+               },
+               "southwest" : {
+                  "lat" : 19.0617350197085,
+                  "lng" : 72.99756301970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

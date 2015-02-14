@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mandi House Metro Station",
+               "short_name" : "Mandi House Metro Station",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lady Irwin College",
+               "short_name" : "Lady Irwin College",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mandi House",
+               "short_name" : "Mandi House",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mandi House Metro Station, Lady Irwin College, Mandi House, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6258167,
+               "lng" : 77.2342496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6271656802915,
+                  "lng" : 77.23559858029151
+               },
+               "southwest" : {
+                  "lat" : 28.6244677197085,
+                  "lng" : 77.23290061970849
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

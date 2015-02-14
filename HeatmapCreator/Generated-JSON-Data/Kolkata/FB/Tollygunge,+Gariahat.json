@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tollygunge Railway Station",
+               "short_name" : "Tollygunge Railway Station",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Charu Chandra Place East",
+               "short_name" : "Charu Chandra Pl E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charu Market",
+               "short_name" : "Charu Market",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700033",
+               "short_name" : "700033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tollygunge Railway Station, Charu Chandra Place East, Charu Market, Kolkata, West Bengal 700033, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.508165,
+                  "lng" : 88.3486523
+               },
+               "southwest" : {
+                  "lat" : 22.507584,
+                  "lng" : 88.34558129999999
+               }
+            },
+            "location" : {
+               "lat" : 22.50774,
+               "lng" : 88.34704259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5092234802915,
+                  "lng" : 88.3486523
+               },
+               "southwest" : {
+                  "lat" : 22.5065255197085,
+                  "lng" : 88.34558129999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tollygunge",
+               "short_name" : "Tollygunge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jubilee Park",
+               "short_name" : "Jubilee Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jubeeli Park",
+               "short_name" : "Jubeeli Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tollygunge",
+               "short_name" : "Tollygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tollygunge, Jubilee Park, Jubeeli Park, Tollygunge, Kolkata, West Bengal 700040, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4934402,
+               "lng" : 88.3471574
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4947891802915,
+                  "lng" : 88.3485063802915
+               },
+               "southwest" : {
+                  "lat" : 22.4920912197085,
+                  "lng" : 88.34580841970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "TOLLYGUNGE",
+               "short_name" : "TOLLYGUNGE",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shyama Prasad Mukherjee Road",
+               "short_name" : "South P. Mukherjee Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sahanagar",
+               "short_name" : "Sahanagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700026",
+               "short_name" : "700026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "TOLLYGUNGE, Shyama Prasad Mukherjee Road, Sahanagar, Kalighat, Kolkata, West Bengal 700026, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.513686,
+               "lng" : 88.34574529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5150349802915,
+                  "lng" : 88.3470942802915
+               },
+               "southwest" : {
+                  "lat" : 22.5123370197085,
+                  "lng" : 88.34439631970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

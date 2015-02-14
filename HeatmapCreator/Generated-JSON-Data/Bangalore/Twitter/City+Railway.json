@@ -1,0 +1,197 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "City Railway Bridge",
+               "short_name" : "City Railway Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saddar Town",
+               "short_name" : "Saddar Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karachi",
+               "short_name" : "Karachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karachi District",
+               "short_name" : "Karachi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City Railway Bridge, Karachi, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8493182,
+                  "lng" : 67.0061812
+               },
+               "southwest" : {
+                  "lat" : 24.8453435,
+                  "lng" : 67.00572249999999
+               }
+            },
+            "location" : {
+               "lat" : 24.8473718,
+               "lng" : 67.0059533
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8493182,
+                  "lng" : 67.0073008302915
+               },
+               "southwest" : {
+                  "lat" : 24.8453435,
+                  "lng" : 67.00460286970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Railway",
+               "short_name" : "Railway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vinton",
+               "short_name" : "Vinton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Roanoke County",
+               "short_name" : "Roanoke County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24179",
+               "short_name" : "24179",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Railway, Vinton, VA 24179, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2677037,
+                  "lng" : -79.8517317
+               },
+               "southwest" : {
+                  "lat" : 37.2503368,
+                  "lng" : -79.9010784
+               }
+            },
+            "location" : {
+               "lat" : 37.25902019999999,
+               "lng" : -79.87640499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2677037,
+                  "lng" : -79.8517317
+               },
+               "southwest" : {
+                  "lat" : 37.2503368,
+                  "lng" : -79.9010784
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "City Railway Station Road",
+               "short_name" : "City Railway Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meerut",
+               "short_name" : "Meerut",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meerut",
+               "short_name" : "Meerut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "250002",
+               "short_name" : "250002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "City Railway Station Road, Meerut, Uttar Pradesh 250002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9800802,
+                  "lng" : 77.6983886
+               },
+               "southwest" : {
+                  "lat" : 28.9783455,
+                  "lng" : 77.68101159999999
+               }
+            },
+            "location" : {
+               "lat" : 28.9794105,
+               "lng" : 77.68970829999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9805618302915,
+                  "lng" : 77.6983886
+               },
+               "southwest" : {
+                  "lat" : 28.9778638697085,
+                  "lng" : 77.68101159999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

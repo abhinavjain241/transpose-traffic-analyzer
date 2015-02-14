@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Public Interest Clearinghouse",
+               "short_name" : "Public Interest Clearinghouse",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "815",
+               "short_name" : "815",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "433",
+               "short_name" : "433",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "California",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Financial District",
+               "short_name" : "Financial District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94104",
+               "short_name" : "94104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Public Interest Clearinghouse, 433 California #815, San Francisco, CA 94104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.79268580000001,
+               "lng" : -122.4016642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79403478029151,
+                  "lng" : -122.4003152197085
+               },
+               "southwest" : {
+                  "lat" : 37.79133681970851,
+                  "lng" : -122.4030131802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County of Cook: Public Interest Bureau",
+               "short_name" : "County of Cook: Public Interest Bureau",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Washington Street",
+               "short_name" : "W Washington St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60602",
+               "short_name" : "60602",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3014",
+               "short_name" : "3014",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "County of Cook: Public Interest Bureau, 69 West Washington Street, Chicago, IL 60602, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8829715,
+               "lng" : -87.62991509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.88432048029149,
+                  "lng" : -87.62856611970848
+               },
+               "southwest" : {
+                  "lat" : 41.8816225197085,
+                  "lng" : -87.63126408029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York Public Interest Research",
+               "short_name" : "New York Public Interest Research",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Buffalo State",
+               "short_name" : "Buffalo State",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elmwood Avenue",
+               "short_name" : "Elmwood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buffalo State",
+               "short_name" : "Buffalo State",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14222",
+               "short_name" : "14222",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1004",
+               "short_name" : "1004",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "New York Public Interest Research, Buffalo State, 1300 Elmwood Avenue, Buffalo, NY 14222, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9326142,
+               "lng" : -78.8769959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.93396318029149,
+                  "lng" : -78.87564691970849
+               },
+               "southwest" : {
+                  "lat" : 42.9312652197085,
+                  "lng" : -78.87834488029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

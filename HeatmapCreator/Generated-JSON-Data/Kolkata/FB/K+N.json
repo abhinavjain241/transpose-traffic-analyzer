@@ -1,0 +1,586 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neuquen",
+               "short_name" : "N",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neuquén Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.094386,
+                  "lng" : -68.00050969999999
+               },
+               "southwest" : {
+                  "lat" : -41.07577999999999,
+                  "lng" : -71.961558
+               }
+            },
+            "location" : {
+               "lat" : -38.8233843,
+               "lng" : -69.66911859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.094386,
+                  "lng" : -68.00050969999999
+               },
+               "southwest" : {
+                  "lat" : -41.07577999999999,
+                  "lng" : -71.961558
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K nádraží",
+               "short_name" : "K nádraží",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nučice",
+               "short_name" : "Nučice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prague-West District",
+               "short_name" : "Prague-West District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "252 16",
+               "short_name" : "252 16",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K nádraží, 252 16 Nučice, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0235188,
+                  "lng" : 14.2279747
+               },
+               "southwest" : {
+                  "lat" : 50.0212832,
+                  "lng" : 14.2203479
+               }
+            },
+            "location" : {
+               "lat" : 50.02251219999999,
+               "lng" : 14.2241747
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0237499802915,
+                  "lng" : 14.2279747
+               },
+               "southwest" : {
+                  "lat" : 50.0210520197085,
+                  "lng" : 14.2203479
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Národní",
+               "short_name" : "Národní",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jaroměř",
+               "short_name" : "Jaroměř",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Náchod District",
+               "short_name" : "Náchod District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hradec Králové Region",
+               "short_name" : "Hradec Králové Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "551 01",
+               "short_name" : "551 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Národní, 551 01 Jaroměř, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3582846,
+                  "lng" : 15.9141657
+               },
+               "southwest" : {
+                  "lat" : 50.35516399999999,
+                  "lng" : 15.9047862
+               }
+            },
+            "location" : {
+               "lat" : 50.3562516,
+               "lng" : 15.9096502
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3582846,
+                  "lng" : 15.9141657
+               },
+               "southwest" : {
+                  "lat" : 50.35516399999999,
+                  "lng" : 15.9047862
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Národní",
+               "short_name" : "Národní",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Varnsdorf",
+               "short_name" : "Varnsdorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "407 47",
+               "short_name" : "407 47",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Národní, 407 47 Varnsdorf, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9135771,
+                  "lng" : 14.6322626
+               },
+               "southwest" : {
+                  "lat" : 50.90512810000001,
+                  "lng" : 14.6173853
+               }
+            },
+            "location" : {
+               "lat" : 50.9089097,
+               "lng" : 14.6242156
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9135771,
+                  "lng" : 14.6322626
+               },
+               "southwest" : {
+                  "lat" : 50.90512810000001,
+                  "lng" : 14.6173853
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nádraží",
+               "short_name" : "Nádraží",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Velešín",
+               "short_name" : "Velešín",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Český Krumlov District",
+               "short_name" : "Český Krumlov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Bohemian Region",
+               "short_name" : "South Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "382 32",
+               "short_name" : "382 32",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nádraží, 382 32 Velešín, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8303088,
+                  "lng" : 14.4527845
+               },
+               "southwest" : {
+                  "lat" : 48.81895489999999,
+                  "lng" : 14.4289647
+               }
+            },
+            "location" : {
+               "lat" : 48.8235481,
+               "lng" : 14.4412724
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8303088,
+                  "lng" : 14.4527845
+               },
+               "southwest" : {
+                  "lat" : 48.81895489999999,
+                  "lng" : 14.4289647
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K nádraží",
+               "short_name" : "K nádraží",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Telnice",
+               "short_name" : "Telnice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brno-Country District",
+               "short_name" : "Brno-Country District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "K nádraží, Telnice, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1090398,
+                  "lng" : 16.7352745
+               },
+               "southwest" : {
+                  "lat" : 49.1073308,
+                  "lng" : 16.7277399
+               }
+            },
+            "location" : {
+               "lat" : 49.1086235,
+               "lng" : 16.7311524
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.10953428029151,
+                  "lng" : 16.7352745
+               },
+               "southwest" : {
+                  "lat" : 49.10683631970851,
+                  "lng" : 16.7277399
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K Nádraží",
+               "short_name" : "K Nádraží",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beroun",
+               "short_name" : "Beroun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beroun District",
+               "short_name" : "Beroun District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "266 01",
+               "short_name" : "266 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K Nádraží, 266 01 Beroun, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.95767410000001,
+                  "lng" : 14.0738048
+               },
+               "southwest" : {
+                  "lat" : 49.95508479999999,
+                  "lng" : 14.0721982
+               }
+            },
+            "location" : {
+               "lat" : 49.9565443,
+               "lng" : 14.0733879
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9577284302915,
+                  "lng" : 14.0743504802915
+               },
+               "southwest" : {
+                  "lat" : 49.9550304697085,
+                  "lng" : 14.0716525197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K Nádraží",
+               "short_name" : "K Nádraží",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Červené Pečky",
+               "short_name" : "Červené Pečky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolín District",
+               "short_name" : "Kolín District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "281 21",
+               "short_name" : "281 21",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K Nádraží, 281 21 Červené Pečky, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9836172,
+                  "lng" : 15.2090194
+               },
+               "southwest" : {
+                  "lat" : 49.9806816,
+                  "lng" : 15.2080205
+               }
+            },
+            "location" : {
+               "lat" : 49.9819723,
+               "lng" : 15.2088245
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9836172,
+                  "lng" : 15.2098689302915
+               },
+               "southwest" : {
+                  "lat" : 49.9806816,
+                  "lng" : 15.20717096970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nádraží",
+               "short_name" : "Nádraží",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Liberec",
+               "short_name" : "Liberec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "460 07",
+               "short_name" : "460 07",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nádraží, 460 07 Liberec, Czech Republic",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.762359,
+               "lng" : 15.046506
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7637079802915,
+                  "lng" : 15.0478549802915
+               },
+               "southwest" : {
+                  "lat" : 50.7610100197085,
+                  "lng" : 15.0451570197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Národní",
+               "short_name" : "Národní",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Habartov",
+               "short_name" : "Habartov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sokolov District",
+               "short_name" : "Sokolov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karlovy Vary Region",
+               "short_name" : "Karlovy Vary Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "357 09",
+               "short_name" : "357 09",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Národní, 357 09 Habartov, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.18908580000001,
+                  "lng" : 12.5696974
+               },
+               "southwest" : {
+                  "lat" : 50.18339109999999,
+                  "lng" : 12.5628048
+               }
+            },
+            "location" : {
+               "lat" : 50.186789,
+               "lng" : 12.5652171
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.18908580000001,
+                  "lng" : 12.5696974
+               },
+               "southwest" : {
+                  "lat" : 50.18339109999999,
+                  "lng" : 12.5628048
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

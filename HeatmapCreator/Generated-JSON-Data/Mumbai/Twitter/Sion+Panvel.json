@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sion-Panvel Expressway",
+               "short_name" : "Sion-Panvel Expy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sion-Panvel Expressway, Navi Mumbai, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.069939,
+                  "lng" : 73.1060141
+               },
+               "southwest" : {
+                  "lat" : 19.0182875,
+                  "lng" : 72.90924080000001
+               }
+            },
+            "location" : {
+               "lat" : 19.0521979,
+               "lng" : 73.01971209999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.069939,
+                  "lng" : 73.1060141
+               },
+               "southwest" : {
+                  "lat" : 19.0182875,
+                  "lng" : 72.90924080000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Indoor Stadium",
+               "short_name" : "Netaji Indoor Stadium",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "B B D Bagh",
+               "short_name" : "B B D Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700021",
+               "short_name" : "700021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Indoor Stadium, B B D Bagh, Kolkata, West Bengal 700021, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5660971,
+               "lng" : 88.34169610000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5674460802915,
+                  "lng" : 88.34304508029152
+               },
+               "southwest" : {
+                  "lat" : 22.5647481197085,
+                  "lng" : 88.34034711970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "stadium", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

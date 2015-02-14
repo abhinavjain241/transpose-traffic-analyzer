@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siriti More Bus Stop",
+               "short_name" : "Siriti More Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mahatma Gandhi Road",
+               "short_name" : "Mahatma Gandhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prafulla Sen Colony",
+               "short_name" : "Prafulla Sen Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sarada Pally",
+               "short_name" : "Sarada Pally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700041",
+               "short_name" : "700041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Siriti More Bus Stop, Mahatma Gandhi Road, Prafulla Sen Colony, Sarada Pally, Kolkata, West Bengal 700041, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4895188,
+               "lng" : 88.3384842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4908677802915,
+                  "lng" : 88.33983318029151
+               },
+               "southwest" : {
+                  "lat" : 22.4881698197085,
+                  "lng" : 88.33713521970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

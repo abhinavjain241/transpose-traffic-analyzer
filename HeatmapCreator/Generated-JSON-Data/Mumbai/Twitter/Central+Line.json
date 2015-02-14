@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Line",
+               "short_name" : "Central Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stockbridge",
+               "short_name" : "Stockbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henry County",
+               "short_name" : "Henry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30281",
+               "short_name" : "30281",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Line, Stockbridge, GA 30281, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.54224,
+                  "lng" : -84.24692309999999
+               },
+               "southwest" : {
+                  "lat" : 33.541887,
+                  "lng" : -84.2525469
+               }
+            },
+            "location" : {
+               "lat" : 33.542224,
+               "lng" : -84.249686
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.54341248029149,
+                  "lng" : -84.24692309999999
+               },
+               "southwest" : {
+                  "lat" : 33.5407145197085,
+                  "lng" : -84.2525469
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Line Court",
+               "short_name" : "Line Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pickens County",
+               "short_name" : "Pickens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29630",
+               "short_name" : "29630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Line Court, Central, SC 29630, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6958766,
+                  "lng" : -82.7479256
+               },
+               "southwest" : {
+                  "lat" : 34.6951957,
+                  "lng" : -82.74833599999999
+               }
+            },
+            "location" : {
+               "lat" : 34.6955481,
+               "lng" : -82.7482639
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6968851302915,
+                  "lng" : -82.74678181970849
+               },
+               "southwest" : {
+                  "lat" : 34.6941871697085,
+                  "lng" : -82.74947978029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Center Line",
+               "short_name" : "Center Line",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Macomb County",
+               "short_name" : "Macomb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, Center Line, MI 48015, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4830127,
+                  "lng" : -83.0161459
+               },
+               "southwest" : {
+                  "lat" : 42.482217,
+                  "lng" : -83.0274067
+               }
+            },
+            "location" : {
+               "lat" : 42.4826322,
+               "lng" : -83.0215817
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.48396383029149,
+                  "lng" : -83.0161459
+               },
+               "southwest" : {
+                  "lat" : 42.4812658697085,
+                  "lng" : -83.0274067
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Line",
+               "short_name" : "Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99223",
+               "short_name" : "99223",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Line, Spokane, WA 99223, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6361097,
+                  "lng" : -117.3286424
+               },
+               "southwest" : {
+                  "lat" : 47.6353632,
+                  "lng" : -117.329143
+               }
+            },
+            "location" : {
+               "lat" : 47.6357751,
+               "lng" : -117.3287328
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6370854302915,
+                  "lng" : -117.3275437197085
+               },
+               "southwest" : {
+                  "lat" : 47.6343874697085,
+                  "lng" : -117.3302416802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

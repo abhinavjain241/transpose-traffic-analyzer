@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kedar Bose Lane",
+               "short_name" : "Kedar Bose Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Patuapara",
+               "short_name" : "Patuapara",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700025",
+               "short_name" : "700025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kedar Bose Lane, Patuapara, Bhowanipore, Kolkata, West Bengal 700025, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5300099,
+                  "lng" : 88.3454608
+               },
+               "southwest" : {
+                  "lat" : 22.5297968,
+                  "lng" : 88.34338849999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5299789,
+               "lng" : 88.34389999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5312523302915,
+                  "lng" : 88.3457736302915
+               },
+               "southwest" : {
+                  "lat" : 22.5285543697085,
+                  "lng" : 88.3430756697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

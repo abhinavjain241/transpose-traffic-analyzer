@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upasara Lane",
+               "short_name" : "Upasara Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shree Ram Nagar",
+               "short_name" : "Shree Ram Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri West",
+               "short_name" : "Andheri West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400058",
+               "short_name" : "400058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Upasara Lane, Shree Ram Nagar, Andheri West, Mumbai, Maharashtra 400058, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1188494,
+                  "lng" : 72.8418793
+               },
+               "southwest" : {
+                  "lat" : 19.1164031,
+                  "lng" : 72.84136789999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1178673,
+               "lng" : 72.8415677
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1189752302915,
+                  "lng" : 72.8429725802915
+               },
+               "southwest" : {
+                  "lat" : 19.11627726970849,
+                  "lng" : 72.84027461970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

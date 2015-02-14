@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitrabagan Basti",
+               "short_name" : "Mitrabagan Basti",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paikpara",
+               "short_name" : "Paikpara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700002",
+               "short_name" : "700002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mitrabagan Basti, Paikpara, Kolkata, West Bengal 700002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.619284,
+                  "lng" : 88.386191
+               },
+               "southwest" : {
+                  "lat" : 22.616297,
+                  "lng" : 88.3814611
+               }
+            },
+            "location" : {
+               "lat" : 22.6184769,
+               "lng" : 88.3840185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.619284,
+                  "lng" : 88.386191
+               },
+               "southwest" : {
+                  "lat" : 22.616297,
+                  "lng" : 88.3814611
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

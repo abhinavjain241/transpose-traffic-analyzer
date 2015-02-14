@@ -1,0 +1,158 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhilmil",
+               "short_name" : "Jhilmil",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Grand Trunk Road",
+               "short_name" : "GT Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jhilmil Industrial Area",
+               "short_name" : "Jhilmil Industrial Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jhilmil Colony Industrial Area",
+               "short_name" : "Jhilmil Colony Industrial Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dilshad Garden",
+               "short_name" : "Dilshad Garden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Delhi",
+               "short_name" : "East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110095",
+               "short_name" : "110095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jhilmil, Grand Trunk Road, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Dilshad Garden, New Delhi, Delhi 110095, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.67631759999999,
+                  "lng" : 77.3133902
+               },
+               "southwest" : {
+                  "lat" : 28.6756493,
+                  "lng" : 77.3115287
+               }
+            },
+            "location" : {
+               "lat" : 28.6757994,
+               "lng" : 77.31241919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.67733243029149,
+                  "lng" : 77.3138084302915
+               },
+               "southwest" : {
+                  "lat" : 28.67463446970849,
+                  "lng" : 77.31111046970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhilmil Metro Station",
+               "short_name" : "Jhilmil Metro Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Grand Trunk Road",
+               "short_name" : "GT Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jhilmil Colony Industrial Area",
+               "short_name" : "Jhilmil Colony Industrial Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jhilmil Colony",
+               "short_name" : "Jhilmil Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Delhi",
+               "short_name" : "East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110095",
+               "short_name" : "110095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jhilmil Metro Station, Grand Trunk Road, Jhilmil Colony Industrial Area, Jhilmil Colony, New Delhi, Delhi 110095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.67583,
+               "lng" : 77.312651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6771789802915,
+                  "lng" : 77.3139999802915
+               },
+               "southwest" : {
+                  "lat" : 28.6744810197085,
+                  "lng" : 77.31130201970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

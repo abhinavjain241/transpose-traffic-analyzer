@@ -1,0 +1,271 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hindu Rao Marg",
+               "short_name" : "Hindu Rao Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kamla Nehru Ridge",
+               "short_name" : "Kamla Nehru Ridge",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hindu Rao Marg, Kamla Nehru Ridge, Civil Lines, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6750913,
+                  "lng" : 77.2168025
+               },
+               "southwest" : {
+                  "lat" : 28.6736896,
+                  "lng" : 77.2132213
+               }
+            },
+            "location" : {
+               "lat" : 28.6741807,
+               "lng" : 77.2148701
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6757394302915,
+                  "lng" : 77.2168025
+               },
+               "southwest" : {
+                  "lat" : 28.6730414697085,
+                  "lng" : 77.2132213
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bara Hindu Rao",
+               "short_name" : "Bara Hindu Rao",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kishan Ganj",
+               "short_name" : "Kishan Ganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bara Hindu Rao, Kishan Ganj, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.663434,
+                  "lng" : 77.207644
+               },
+               "southwest" : {
+                  "lat" : 28.65923,
+                  "lng" : 77.1982301
+               }
+            },
+            "location" : {
+               "lat" : 28.6613574,
+               "lng" : 77.2024306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.663434,
+                  "lng" : 77.207644
+               },
+               "southwest" : {
+                  "lat" : 28.65923,
+                  "lng" : 77.1982301
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bara Hindu Rao Road",
+               "short_name" : "Bara Hindu Rao Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sadar Bazaar",
+               "short_name" : "Sadar Bazaar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bara Hindu Rao Road, Sadar Bazaar, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6611168,
+                  "lng" : 77.2157988
+               },
+               "southwest" : {
+                  "lat" : 28.65770819999999,
+                  "lng" : 77.20430039999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6592605,
+               "lng" : 77.2101849
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6611168,
+                  "lng" : 77.2157988
+               },
+               "southwest" : {
+                  "lat" : 28.65770819999999,
+                  "lng" : 77.20430039999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hindu Rao Hospital",
+               "short_name" : "Hindu Rao Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110007",
+               "short_name" : "110007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hindu Rao Hospital, New Delhi, Delhi 110007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6775234,
+                  "lng" : 77.2136951
+               },
+               "southwest" : {
+                  "lat" : 28.6743232,
+                  "lng" : 77.21036359999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6753797,
+               "lng" : 77.21231229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6775234,
+                  "lng" : 77.2136951
+               },
+               "southwest" : {
+                  "lat" : 28.6743232,
+                  "lng" : 77.21036359999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

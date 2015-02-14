@@ -1,0 +1,158 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khodadad Circle",
+               "short_name" : "Khodadad Circle",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Doctor Baba Saheb Ambedkar Road",
+               "short_name" : "Dr Baba Saheb Ambedkar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hindu Colony",
+               "short_name" : "Hindu Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400014",
+               "short_name" : "400014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khodadad Circle, Doctor Baba Saheb Ambedkar Road, Hindu Colony, Dadar, Mumbai, Maharashtra 400014, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0185028,
+               "lng" : 72.8480673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0198517802915,
+                  "lng" : 72.84941628029149
+               },
+               "southwest" : {
+                  "lat" : 19.0171538197085,
+                  "lng" : 72.84671831970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dadar TT Circle",
+               "short_name" : "Dadar TT Circle",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Dadar TT Flyover",
+               "short_name" : "Dadar TT Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dadar East",
+               "short_name" : "Dadar East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kohinoor Mill",
+               "short_name" : "Kohinoor Mill",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400014",
+               "short_name" : "400014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dadar TT Circle, Dadar TT Flyover, Dadar East, Kohinoor Mill, Dadar, Mumbai, Maharashtra 400014, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0180565,
+                  "lng" : 72.84804179999999
+               },
+               "southwest" : {
+                  "lat" : 19.0175571,
+                  "lng" : 72.8475456
+               }
+            },
+            "location" : {
+               "lat" : 19.0178477,
+               "lng" : 72.84776309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0191557802915,
+                  "lng" : 72.84914268029152
+               },
+               "southwest" : {
+                  "lat" : 19.0164578197085,
+                  "lng" : 72.8464447197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

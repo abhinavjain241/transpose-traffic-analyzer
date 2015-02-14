@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chakala",
+               "short_name" : "Chakala",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Andheri - Kurla Road",
+               "short_name" : "Andheri - Kurla Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gundavali",
+               "short_name" : "Gundavali",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400053",
+               "short_name" : "400053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chakala, Andheri - Kurla Road, Gundavali, Andheri East, Mumbai, Maharashtra 400053, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1151076,
+               "lng" : 72.8581834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1164565802915,
+                  "lng" : 72.85953238029151
+               },
+               "southwest" : {
+                  "lat" : 19.11375861970849,
+                  "lng" : 72.85683441970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

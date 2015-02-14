@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PC Sarkar Sarani",
+               "short_name" : "PC Sarkar Sarani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fern Place",
+               "short_name" : "Fern Place",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhakuria",
+               "short_name" : "Dhakuria",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700019",
+               "short_name" : "700019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PC Sarkar Sarani, Fern Place, Dhakuria, Kolkata, West Bengal 700019, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5210229,
+                  "lng" : 88.37174879999999
+               },
+               "southwest" : {
+                  "lat" : 22.5205188,
+                  "lng" : 88.36943719999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5208585,
+               "lng" : 88.37046889999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5221198302915,
+                  "lng" : 88.37194198029151
+               },
+               "southwest" : {
+                  "lat" : 22.51942186970849,
+                  "lng" : 88.3692440197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "PC Sarkar Sarani",
+               "short_name" : "PC Sarkar Sarani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hakim Para",
+               "short_name" : "Hakim Para",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Siliguri",
+               "short_name" : "Siliguri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darjeeling",
+               "short_name" : "Darjeeling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "734001",
+               "short_name" : "734001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PC Sarkar Sarani, Hakim Para, Siliguri, West Bengal 734001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7182445,
+                  "lng" : 88.4319344
+               },
+               "southwest" : {
+                  "lat" : 26.7151723,
+                  "lng" : 88.43168559999999
+               }
+            },
+            "location" : {
+               "lat" : 26.716514,
+               "lng" : 88.43179689999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7182445,
+                  "lng" : 88.43315898029151
+               },
+               "southwest" : {
+                  "lat" : 26.7151723,
+                  "lng" : 88.4304610197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

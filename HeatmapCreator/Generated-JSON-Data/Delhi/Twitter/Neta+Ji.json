@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Nagar",
+               "short_name" : "Netaji Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathartoli",
+               "short_name" : "Kathartoli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ranchi",
+               "short_name" : "Ranchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranchi",
+               "short_name" : "Ranchi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jharkhand",
+               "short_name" : "JH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "834001",
+               "short_name" : "834001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Nagar, Kathartoli, Ranchi, Jharkhand 834001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.364436,
+                  "lng" : 85.3472859
+               },
+               "southwest" : {
+                  "lat" : 23.358353,
+                  "lng" : 85.341291
+               }
+            },
+            "location" : {
+               "lat" : 23.3617458,
+               "lng" : 85.34527799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.364436,
+                  "lng" : 85.3472859
+               },
+               "southwest" : {
+                  "lat" : 23.358353,
+                  "lng" : 85.341291
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neta Ji Colony",
+               "short_name" : "Neta Ji Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jind",
+               "short_name" : "Jind",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jind",
+               "short_name" : "Jind",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "126102",
+               "short_name" : "126102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Neta Ji Colony, Jind, Haryana 126102, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.316316,
+                  "lng" : 76.30154499999999
+               },
+               "southwest" : {
+                  "lat" : 29.309582,
+                  "lng" : 76.290459
+               }
+            },
+            "location" : {
+               "lat" : 29.3129423,
+               "lng" : 76.2956985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.316316,
+                  "lng" : 76.30154499999999
+               },
+               "southwest" : {
+                  "lat" : 29.309582,
+                  "lng" : 76.290459
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

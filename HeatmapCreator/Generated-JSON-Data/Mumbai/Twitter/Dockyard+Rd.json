@@ -1,0 +1,475 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "B140",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trincomalee",
+               "short_name" : "Trincomalee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trincomalee",
+               "short_name" : "Trincomalee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Trincomalee, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.5699097,
+                  "lng" : 81.23842479999999
+               },
+               "southwest" : {
+                  "lat" : 8.561795,
+                  "lng" : 81.23565669999999
+               }
+            },
+            "location" : {
+               "lat" : 8.5656754,
+               "lng" : 81.2370287
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.5699097,
+                  "lng" : 81.23842479999999
+               },
+               "southwest" : {
+                  "lat" : 8.561795,
+                  "lng" : 81.23565669999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "Dockyard Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400010",
+               "short_name" : "400010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Mumbai, Maharashtra 400010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9689532,
+                  "lng" : 72.847201
+               },
+               "southwest" : {
+                  "lat" : 18.9655528,
+                  "lng" : 72.8406791
+               }
+            },
+            "location" : {
+               "lat" : 18.967864,
+               "lng" : 72.84440379999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9689532,
+                  "lng" : 72.847201
+               },
+               "southwest" : {
+                  "lat" : 18.9655528,
+                  "lng" : 72.8406791
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "Dockyard Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Apapa",
+               "short_name" : "Apapa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lagos",
+               "short_name" : "Lagos",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Lagos",
+               "short_name" : "Lagos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Lagos, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.4587379,
+                  "lng" : 3.3742201
+               },
+               "southwest" : {
+                  "lat" : 6.4476968,
+                  "lng" : 3.365656
+               }
+            },
+            "location" : {
+               "lat" : 6.4530303,
+               "lng" : 3.3695743
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.4587379,
+                  "lng" : 3.3742201
+               },
+               "southwest" : {
+                  "lat" : 6.4476968,
+                  "lng" : 3.365656
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "Dockyard Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Halishahar",
+               "short_name" : "Halishahar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Chittagong, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2848582,
+                  "lng" : 91.793902
+               },
+               "southwest" : {
+                  "lat" : 22.2835096,
+                  "lng" : 91.7875985
+               }
+            },
+            "location" : {
+               "lat" : 22.2841689,
+               "lng" : 91.7907778
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2855328802915,
+                  "lng" : 91.793902
+               },
+               "southwest" : {
+                  "lat" : 22.2828349197085,
+                  "lng" : 91.7875985
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "Dockyard Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Millers Forest",
+               "short_name" : "Millers Forest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2324",
+               "short_name" : "2324",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Millers Forest NSW 2324, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.7467169,
+                  "lng" : 151.727208
+               },
+               "southwest" : {
+                  "lat" : -32.7597186,
+                  "lng" : 151.7181068
+               }
+            },
+            "location" : {
+               "lat" : -32.7500168,
+               "lng" : 151.7234354
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.7467169,
+                  "lng" : 151.727208
+               },
+               "southwest" : {
+                  "lat" : -32.7597186,
+                  "lng" : 151.7181068
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "Dockyard Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "Victoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Esquimalt",
+               "short_name" : "Esquimalt",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Capital",
+               "short_name" : "Capital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V9A 5K5",
+               "short_name" : "V9A 5K5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Victoria, BC V9A 5K5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4319266,
+                  "lng" : -123.4326799
+               },
+               "southwest" : {
+                  "lat" : 48.427284,
+                  "lng" : -123.4338795
+               }
+            },
+            "location" : {
+               "lat" : 48.429713,
+               "lng" : -123.433667
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4319266,
+                  "lng" : -123.4319307197085
+               },
+               "southwest" : {
+                  "lat" : 48.427284,
+                  "lng" : -123.4346286802915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Road",
+               "short_name" : "Dockyard Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Keamari Town",
+               "short_name" : "Keamari Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karachi",
+               "short_name" : "Karachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karachi District",
+               "short_name" : "Karachi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Road, Karachi, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.8416475,
+               "lng" : 66.9768775
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8429964802915,
+                  "lng" : 66.97822648029151
+               },
+               "southwest" : {
+                  "lat" : 24.8402985197085,
+                  "lng" : 66.97552851970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dockyard Drive",
+               "short_name" : "Dockyard Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "Saint Paul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dockyard Drive, Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.0239348,
+                  "lng" : -61.76460299999999
+               },
+               "southwest" : {
+                  "lat" : 17.0054516,
+                  "lng" : -61.7691565
+               }
+            },
+            "location" : {
+               "lat" : 17.0148921,
+               "lng" : -61.7690771
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.0239348,
+                  "lng" : -61.76460299999999
+               },
+               "southwest" : {
+                  "lat" : 17.0054516,
+                  "lng" : -61.7691565
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

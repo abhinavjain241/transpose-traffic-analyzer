@@ -1,0 +1,454 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha Metro Station",
+               "short_name" : "Vidhan Sabha Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mahatma Gandhi Marg",
+               "short_name" : "Mahatma Gandhi Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khyber Pass",
+               "short_name" : "Khyber Pass",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110054",
+               "short_name" : "110054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha Metro Station, Mahatma Gandhi Marg, Khyber Pass, Civil Lines, New Delhi, Delhi 110054, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.687908,
+               "lng" : 77.22173599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6892569802915,
+                  "lng" : 77.2230849802915
+               },
+               "southwest" : {
+                  "lat" : 28.6865590197085,
+                  "lng" : 77.2203870197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha Road",
+               "short_name" : "Vidhan Sabha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Raipur",
+               "short_name" : "Raipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chhattisgarh",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha Road, Chhattisgarh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.2865509,
+                  "lng" : 81.7218324
+               },
+               "southwest" : {
+                  "lat" : 21.2707872,
+                  "lng" : 81.67966
+               }
+            },
+            "location" : {
+               "lat" : 21.2787816,
+               "lng" : 81.7009702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2865509,
+                  "lng" : 81.7218324
+               },
+               "southwest" : {
+                  "lat" : 21.2707872,
+                  "lng" : 81.67966
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha Marg",
+               "short_name" : "VS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha Marg, Lucknow, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8493205,
+                  "lng" : 80.94622339999999
+               },
+               "southwest" : {
+                  "lat" : 26.8394982,
+                  "lng" : 80.9346683
+               }
+            },
+            "location" : {
+               "lat" : 26.8429004,
+               "lng" : 80.9418955
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8493205,
+                  "lng" : 80.94622339999999
+               },
+               "southwest" : {
+                  "lat" : 26.8394982,
+                  "lng" : 80.9346683
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha",
+               "short_name" : "Vidhan Sabha",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Vidhayak Nagar",
+               "short_name" : "Vidhayak Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lalkothi",
+               "short_name" : "Lalkothi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302005",
+               "short_name" : "302005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha, Vidhayak Nagar, Lalkothi, Jaipur, Rajasthan 302005, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.891918,
+               "lng" : 75.79710039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8932669802915,
+                  "lng" : 75.7984493802915
+               },
+               "southwest" : {
+                  "lat" : 26.8905690197085,
+                  "lng" : 75.79575141970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha",
+               "short_name" : "Vidhan Sabha",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Birla Temple Stairs",
+               "short_name" : "Birla Temple Stairs",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Indira Gandhi Vidhan Bhawan, Near Vallabh Bhawan",
+               "short_name" : "Indira Gandhi Vidhan Bhawan, Near Vallabh Bhawan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nishat Colony",
+               "short_name" : "Nishat Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Arera Hills",
+               "short_name" : "Arera Hills",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhopal",
+               "short_name" : "Bhopal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bhopal",
+               "short_name" : "Bhopal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "462004",
+               "short_name" : "462004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha, Birla Temple Stairs, Indira Gandhi Vidhan Bhawan, Near Vallabh Bhawan, Nishat Colony, Arera Hills, Bhopal, Madhya Pradesh 462004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.238692,
+               "lng" : 77.4103928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2400409802915,
+                  "lng" : 77.41174178029151
+               },
+               "southwest" : {
+                  "lat" : 23.2373430197085,
+                  "lng" : 77.4090438197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha Road",
+               "short_name" : "Vidhan Sabha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Indira Nagar",
+               "short_name" : "Indira Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha Road, Indira Nagar, Lucknow, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.886568,
+                  "lng" : 80.981115
+               },
+               "southwest" : {
+                  "lat" : 26.8721219,
+                  "lng" : 80.976845
+               }
+            },
+            "location" : {
+               "lat" : 26.8793527,
+               "lng" : 80.9789426
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.886568,
+                  "lng" : 80.981115
+               },
+               "southwest" : {
+                  "lat" : 26.8721219,
+                  "lng" : 80.976845
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidhan Sabha",
+               "short_name" : "Vidhan Sabha",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Sector 10",
+               "short_name" : "Sector 10",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "382010",
+               "short_name" : "382010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vidhan Sabha, Sector 10, Gandhinagar, Gujarat 382010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2249234,
+                  "lng" : 72.6623872
+               },
+               "southwest" : {
+                  "lat" : 23.2133528,
+                  "lng" : 72.6508647
+               }
+            },
+            "location" : {
+               "lat" : 23.2205384,
+               "lng" : 72.6578725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2249234,
+                  "lng" : 72.6623872
+               },
+               "southwest" : {
+                  "lat" : 23.2133528,
+                  "lng" : 72.6508647
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

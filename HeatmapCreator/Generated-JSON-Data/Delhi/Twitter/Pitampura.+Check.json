@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Check Post",
+               "short_name" : "Police Check Post",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rohit Store",
+               "short_name" : "Rohit Store",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rohit Kunj",
+               "short_name" : "Rohit Kunj",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sandesh Vihar",
+               "short_name" : "Sandesh Vihar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pitampura",
+               "short_name" : "Pitampura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110034",
+               "short_name" : "110034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Check Post, Rohit Store, Rohit Kunj, Sandesh Vihar, Pitampura, New Delhi, Delhi 110034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.691734,
+               "lng" : 77.140249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6930829802915,
+                  "lng" : 77.14159798029151
+               },
+               "southwest" : {
+                  "lat" : 28.6903850197085,
+                  "lng" : 77.1389000197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

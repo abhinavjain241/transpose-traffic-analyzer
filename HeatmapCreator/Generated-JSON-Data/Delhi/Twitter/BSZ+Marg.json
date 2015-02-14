@@ -1,0 +1,212 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahadur Shah Zafar Marg",
+               "short_name" : "Bahadur Shah Zafar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pragati Maidan",
+               "short_name" : "Pragati Maidan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bahadur Shah Zafar Marg, Railway Colony, Pragati Maidan, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6257263,
+               "lng" : 77.24106429999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.62707528029151,
+                  "lng" : 77.2424132802915
+               },
+               "southwest" : {
+                  "lat" : 28.6243773197085,
+                  "lng" : 77.23971531970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahadur Shah Zafar Marg",
+               "short_name" : "Bahadur Shah Zafar Marg",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Balmiki Basti",
+               "short_name" : "Balmiki Basti",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vikram Nagar",
+               "short_name" : "Vikram Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110002",
+               "short_name" : "110002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bahadur Shah Zafar Marg, Balmiki Basti, Vikram Nagar, New Delhi, Delhi 110002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6335917,
+                  "lng" : 77.2466235
+               },
+               "southwest" : {
+                  "lat" : 28.6292576,
+                  "lng" : 77.24097
+               }
+            },
+            "location" : {
+               "lat" : 28.6309308,
+               "lng" : 77.2441075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6335917,
+                  "lng" : 77.2466235
+               },
+               "southwest" : {
+                  "lat" : 28.6292576,
+                  "lng" : 77.24097
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahadur Shah Zafar Road",
+               "short_name" : "Bahadur Shah Zafar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bahadur Shah Zafar Marg",
+               "short_name" : "Bahadur Shah Zafar Marg",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110002",
+               "short_name" : "110002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bahadur Shah Zafar Road, Bahadur Shah Zafar Marg, New Delhi, Delhi 110002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.633619,
+                  "lng" : 77.24142689999999
+               },
+               "southwest" : {
+                  "lat" : 28.6278447,
+                  "lng" : 77.24104059999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6306735,
+               "lng" : 77.24124929999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.633619,
+                  "lng" : 77.2425827302915
+               },
+               "southwest" : {
+                  "lat" : 28.6278447,
+                  "lng" : 77.2398847697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

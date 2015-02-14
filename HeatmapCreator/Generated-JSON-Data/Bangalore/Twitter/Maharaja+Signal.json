@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maharaja Apartment",
+               "short_name" : "Maharaja Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New Adarsh Colony",
+               "short_name" : "New Adarsh Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Latur",
+               "short_name" : "Latur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latur",
+               "short_name" : "Latur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "413512",
+               "short_name" : "413512",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maharaja Apartment, New Adarsh Colony, Latur, Maharashtra 413512, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.389981,
+               "lng" : 76.565313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3913299802915,
+                  "lng" : 76.5666619802915
+               },
+               "southwest" : {
+                  "lat" : 18.3886320197085,
+                  "lng" : 76.56396401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maharaja Signal Bus Stop",
+               "short_name" : "Maharaja Signal Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "12th Main Road",
+               "short_name" : "12th Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Koramangala 4-C Block",
+               "short_name" : "Koramangala 4-C Block",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Koramangala",
+               "short_name" : "Koramangala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560095",
+               "short_name" : "560095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maharaja Signal Bus Stop, 12th Main Road, Koramangala 4-C Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9343776,
+               "lng" : 77.62958760000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9357265802915,
+                  "lng" : 77.63093658029152
+               },
+               "southwest" : {
+                  "lat" : 12.9330286197085,
+                  "lng" : 77.62823861970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Forum Motor Driving Training School",
+               "short_name" : "Forum Motor Driving Training School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hosur Main Road",
+               "short_name" : "Hosur Main Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Koromangala",
+               "short_name" : "Koromangala",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chikku Lakshmaiah Layout",
+               "short_name" : "Chikku Lakshmaiah Layout",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Adugodi",
+               "short_name" : "Adugodi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560029",
+               "short_name" : "560029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Forum Motor Driving Training School, Hosur Main Road, Koromangala, Chikku Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka 560029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9360532,
+               "lng" : 77.6090425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9374021802915,
+                  "lng" : 77.61039148029151
+               },
+               "southwest" : {
+                  "lat" : 12.9347042197085,
+                  "lng" : 77.60769351970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

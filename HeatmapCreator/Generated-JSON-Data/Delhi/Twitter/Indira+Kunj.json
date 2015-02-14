@@ -1,0 +1,414 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Kunj",
+               "short_name" : "Indira Kunj",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mohan Nagar",
+               "short_name" : "Mohan Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Indira Kunj, Mohan Nagar, Ghaziabad, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6754561,
+                  "lng" : 77.404242
+               },
+               "southwest" : {
+                  "lat" : 28.6661109,
+                  "lng" : 77.3937729
+               }
+            },
+            "location" : {
+               "lat" : 28.6707689,
+               "lng" : 77.39990539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6754561,
+                  "lng" : 77.404242
+               },
+               "southwest" : {
+                  "lat" : 28.6661109,
+                  "lng" : 77.3937729
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Kunj",
+               "short_name" : "Indira Kunj",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Laburnum Road",
+               "short_name" : "Laburnum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Babulnath",
+               "short_name" : "Babulnath",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tardeo",
+               "short_name" : "Tardeo",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400007",
+               "short_name" : "400007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indira Kunj, Laburnum Road, Babulnath, Tardeo, Mumbai, Maharashtra 400007, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9604003,
+               "lng" : 72.8100163
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9617492802915,
+                  "lng" : 72.81136528029151
+               },
+               "southwest" : {
+                  "lat" : 18.9590513197085,
+                  "lng" : 72.8086673197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Kunj",
+               "short_name" : "Indira Kunj",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Tejpal Scheme Road 3",
+               "short_name" : "Tejpal Scheme Rd 3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vile Parle East",
+               "short_name" : "Vile Parle East",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vile Parle",
+               "short_name" : "Vile Parle",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400057",
+               "short_name" : "400057",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indira Kunj, Tejpal Scheme Road 3, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.106683,
+               "lng" : 72.85002899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1080319802915,
+                  "lng" : 72.8513779802915
+               },
+               "southwest" : {
+                  "lat" : 19.1053340197085,
+                  "lng" : 72.8486800197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Kunj",
+               "short_name" : "Indira Kunj",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Laburnum Road",
+               "short_name" : "Laburnum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Babulnath",
+               "short_name" : "Babulnath",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Papanas Wadi",
+               "short_name" : "Papanas Wadi",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tardeo",
+               "short_name" : "Tardeo",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400007",
+               "short_name" : "400007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indira Kunj, Laburnum Road, Babulnath, Papanas Wadi, Tardeo, Mumbai, Maharashtra 400007, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9605388,
+               "lng" : 72.81067759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9618877802915,
+                  "lng" : 72.8120265802915
+               },
+               "southwest" : {
+                  "lat" : 18.9591898197085,
+                  "lng" : 72.80932861970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Kunj Apartment",
+               "short_name" : "Indira Kunj Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ramanlala",
+               "short_name" : "Ramanlala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolhapur",
+               "short_name" : "Kolhapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolhapur",
+               "short_name" : "Kolhapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "416003",
+               "short_name" : "416003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indira Kunj Apartment, Ramanlala, Kolhapur, Maharashtra 416003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 16.715031,
+               "lng" : 74.23179900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.7163799802915,
+                  "lng" : 74.23314798029152
+               },
+               "southwest" : {
+                  "lat" : 16.7136820197085,
+                  "lng" : 74.23045001970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indira Kunj",
+               "short_name" : "Indira Kunj",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sir Bhalchandra Road",
+               "short_name" : "Sir Bhalchandra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hindu Colony",
+               "short_name" : "Hindu Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400014",
+               "short_name" : "400014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indira Kunj, Sir Bhalchandra Road, Hindu Colony, Dadar, Mumbai, Maharashtra 400014, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0217129,
+                  "lng" : 72.8498712
+               },
+               "southwest" : {
+                  "lat" : 19.0215172,
+                  "lng" : 72.8496861
+               }
+            },
+            "location" : {
+               "lat" : 19.021615,
+               "lng" : 72.84977859999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0229640302915,
+                  "lng" : 72.8511276302915
+               },
+               "southwest" : {
+                  "lat" : 19.02026606970849,
+                  "lng" : 72.84842966970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

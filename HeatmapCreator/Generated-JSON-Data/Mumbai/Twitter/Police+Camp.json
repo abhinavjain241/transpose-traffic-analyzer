@@ -1,0 +1,954 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli Sea Face",
+               "short_name" : "Worli Sea Face",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400030",
+               "short_name" : "400030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Worli Sea Face, Worli, Mumbai, Maharashtra 400030, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.008513,
+                  "lng" : 72.8159489
+               },
+               "southwest" : {
+                  "lat" : 19.002471,
+                  "lng" : 72.81325799999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0054116,
+               "lng" : 72.81425109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.008513,
+                  "lng" : 72.8159524302915
+               },
+               "southwest" : {
+                  "lat" : 19.002471,
+                  "lng" : 72.8132544697085
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Road No. 1",
+               "short_name" : "Rd No. 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 10",
+               "short_name" : "Sector 10",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Uttara",
+               "short_name" : "Uttara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1230",
+               "short_name" : "1230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Road No. 1, Dhaka 1230, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8797156,
+               "lng" : 90.3903072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8810645802915,
+                  "lng" : 90.39165618029151
+               },
+               "southwest" : {
+                  "lat" : 23.8783666197085,
+                  "lng" : 90.3889582197085
+               }
+            }
+         },
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Fari",
+               "short_name" : "Police Fari",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sirajganj",
+               "short_name" : "Sirajganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sirajganj",
+               "short_name" : "Sirajganj",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajshahi Division",
+               "short_name" : "Rajshahi Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police Fari, Sirajganj, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.4618382,
+               "lng" : 89.7052681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.46318718029151,
+                  "lng" : 89.70661708029149
+               },
+               "southwest" : {
+                  "lat" : 24.4604892197085,
+                  "lng" : 89.70391911970849
+               }
+            }
+         },
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gweru Old Camp",
+               "short_name" : "Gweru Old Camp",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gweru",
+               "short_name" : "Gweru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gweru",
+               "short_name" : "Gweru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midlands",
+               "short_name" : "Midlands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gweru Old Camp, Gweru, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.4561931,
+                  "lng" : 29.8257725
+               },
+               "southwest" : {
+                  "lat" : -19.459061,
+                  "lng" : 29.8226023
+               }
+            },
+            "location" : {
+               "lat" : -19.4576053,
+               "lng" : 29.8243789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.4561931,
+                  "lng" : 29.8257725
+               },
+               "southwest" : {
+                  "lat" : -19.459061,
+                  "lng" : 29.8226023
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chiksil",
+               "short_name" : "Chiksil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rohtas",
+               "short_name" : "Rohtas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "802205",
+               "short_name" : "802205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Chiksil, Bihar 802205, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1894982,
+               "lng" : 84.3436021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1908471802915,
+                  "lng" : 84.34495108029151
+               },
+               "southwest" : {
+                  "lat" : 25.1881492197085,
+                  "lng" : 84.34225311970849
+               }
+            }
+         },
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Avenue Georges Puissan",
+               "short_name" : "Avenue Georges Puissan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Matadi",
+               "short_name" : "Matadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cataractes",
+               "short_name" : "Cataractes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bas Congo",
+               "short_name" : "Bas Congo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Democratic Republic of the Congo",
+               "short_name" : "CD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Avenue Georges Puissan, Matadi, Democratic Republic of the Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.8168877,
+                  "lng" : 13.462726
+               },
+               "southwest" : {
+                  "lat" : -5.8176776,
+                  "lng" : 13.4622537
+               }
+            },
+            "location" : {
+               "lat" : -5.8173448,
+               "lng" : 13.4624666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.815933669708497,
+                  "lng" : 13.4638388302915
+               },
+               "southwest" : {
+                  "lat" : -5.818631630291502,
+                  "lng" : 13.4611408697085
+               }
+            }
+         },
+         "types" : [ "campground", "park", "lodging", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police camp",
+               "short_name" : "Police camp",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kabul",
+               "short_name" : "Kabul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kabul",
+               "short_name" : "Kabul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kabul",
+               "short_name" : "Kabul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police camp, Kabul, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4994966,
+                  "lng" : 69.15294349999999
+               },
+               "southwest" : {
+                  "lat" : 34.4984533,
+                  "lng" : 69.1518492
+               }
+            },
+            "location" : {
+               "lat" : 34.4988421,
+               "lng" : 69.152345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.5003239302915,
+                  "lng" : 69.1537453302915
+               },
+               "southwest" : {
+                  "lat" : 34.4976259697085,
+                  "lng" : 69.15104736970849
+               }
+            }
+         },
+         "types" : [ "police", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kyaiktiyo Pagoda Road",
+               "short_name" : "Kyaiktiyo Pagoda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kin Pun Sakhan",
+               "short_name" : "Kin Pun Sakhan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thaton District",
+               "short_name" : "Thaton District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mon",
+               "short_name" : "Mon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Republic of the Union of Myanmar",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Kyaiktiyo Pagoda Road, Kin Pun Sakhan, Republic of the Union of Myanmar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3982562,
+                  "lng" : 97.0791435
+               },
+               "southwest" : {
+                  "lat" : 17.3973042,
+                  "lng" : 97.0782799
+               }
+            },
+            "location" : {
+               "lat" : 17.3977802,
+               "lng" : 97.07871170000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3991291802915,
+                  "lng" : 97.0800606802915
+               },
+               "southwest" : {
+                  "lat" : 17.3964312197085,
+                  "lng" : 97.07736271970849
+               }
+            }
+         },
+         "types" : [ "police", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Simon Mazorodze Road",
+               "short_name" : "Simon Mazorodze Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Utopia",
+               "short_name" : "Utopia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mutare",
+               "short_name" : "Mutare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mutare",
+               "short_name" : "Mutare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manicaland",
+               "short_name" : "Manicaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Simon Mazorodze Road, Mutare, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.970686,
+                  "lng" : 32.6640111
+               },
+               "southwest" : {
+                  "lat" : -18.9754647,
+                  "lng" : 32.6580672
+               }
+            },
+            "location" : {
+               "lat" : -18.973029,
+               "lng" : 32.6609456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.970686,
+                  "lng" : 32.6640111
+               },
+               "southwest" : {
+                  "lat" : -18.9754647,
+                  "lng" : 32.6580672
+               }
+            }
+         },
+         "types" : [ "police", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerala Armed Police IV Battalion",
+               "short_name" : "Kerala Armed Police IV Battalion",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Edapally - Panvel Highway",
+               "short_name" : "NH17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mangattuparamba",
+               "short_name" : "Mangattuparamba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kannur",
+               "short_name" : "Kannur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "670567",
+               "short_name" : "670567",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kerala Armed Police IV Battalion, Edapally - Panvel Highway, Mangattuparamba, Kerala 670567, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.990304,
+                  "lng" : 75.3761995
+               },
+               "southwest" : {
+                  "lat" : 11.9846787,
+                  "lng" : 75.36702629999999
+               }
+            },
+            "location" : {
+               "lat" : 11.9870667,
+               "lng" : 75.3718234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.990304,
+                  "lng" : 75.3761995
+               },
+               "southwest" : {
+                  "lat" : 11.9846787,
+                  "lng" : 75.36702629999999
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp Road",
+               "short_name" : "Police Camp Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pell City",
+               "short_name" : "Pell City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Clair County",
+               "short_name" : "St Clair County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35125",
+               "short_name" : "35125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp Road, Pell City, AL 35125, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.646304,
+                  "lng" : -86.185214
+               },
+               "southwest" : {
+                  "lat" : 33.6350248,
+                  "lng" : -86.2086269
+               }
+            },
+            "location" : {
+               "lat" : 33.6455969,
+               "lng" : -86.207492
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.646304,
+                  "lng" : -86.185214
+               },
+               "southwest" : {
+                  "lat" : 33.6350248,
+                  "lng" : -86.2086269
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp",
+               "short_name" : "Police Camp",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Trimohini",
+               "short_name" : "Trimohini",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chakdapat",
+               "short_name" : "Chakdapat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dakshin Dinajpur",
+               "short_name" : "Dakshin Dinajpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "733123",
+               "short_name" : "733123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp, Trimohini, Chakdapat, West Bengal 733123, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.284941,
+                  "lng" : 88.9374067
+               },
+               "southwest" : {
+                  "lat" : 25.2848259,
+                  "lng" : 88.9372645
+               }
+            },
+            "location" : {
+               "lat" : 25.2848834,
+               "lng" : 88.9373272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.28623243029151,
+                  "lng" : 88.93868458029151
+               },
+               "southwest" : {
+                  "lat" : 25.2835344697085,
+                  "lng" : 88.93598661970849
+               }
+            }
+         },
+         "types" : [ "police", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp Office",
+               "short_name" : "Police Camp Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 214",
+               "short_name" : "NH214",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhanugudi Junction",
+               "short_name" : "Bhanugudi Junction",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Police Quarters",
+               "short_name" : "Police Quarters",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kakinada",
+               "short_name" : "Kakinada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Godavari",
+               "short_name" : "East Godavari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "533003",
+               "short_name" : "533003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp Office, National Highway 214, Bhanugudi Junction, Police Quarters, Kakinada, Andhra Pradesh 533003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 16.975069,
+               "lng" : 82.23674099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9764179802915,
+                  "lng" : 82.23808998029151
+               },
+               "southwest" : {
+                  "lat" : 16.9737200197085,
+                  "lng" : 82.2353920197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp Road",
+               "short_name" : "Police Camp Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bowen",
+               "short_name" : "Bowen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4805",
+               "short_name" : "4805",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp Road, Bowen QLD 4805, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.072098,
+                  "lng" : 148.19246
+               },
+               "southwest" : {
+                  "lat" : -20.0822933,
+                  "lng" : 148.17275
+               }
+            },
+            "location" : {
+               "lat" : -20.0757547,
+               "lng" : 148.1864108
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.072098,
+                  "lng" : 148.19246
+               },
+               "southwest" : {
+                  "lat" : -20.0822933,
+                  "lng" : 148.17275
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Camp Street",
+               "short_name" : "Police Camp St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barkly West",
+               "short_name" : "Barkly West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barkly West",
+               "short_name" : "Barkly West",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diamandveld",
+               "short_name" : "Diamandveld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Cape",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8375",
+               "short_name" : "8375",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Camp Street, Barkly West, 8375, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.541862,
+                  "lng" : 24.529114
+               },
+               "southwest" : {
+                  "lat" : -28.541972,
+                  "lng" : 24.5286939
+               }
+            },
+            "location" : {
+               "lat" : -28.541972,
+               "lng" : 24.5286939
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.54056801970849,
+                  "lng" : 24.5302529302915
+               },
+               "southwest" : {
+                  "lat" : -28.5432659802915,
+                  "lng" : 24.5275549697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

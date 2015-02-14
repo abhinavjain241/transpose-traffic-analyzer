@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panchavati Colony",
+               "short_name" : "Panchavati Colony",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Canara Nagar",
+               "short_name" : "Canara Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Peerzadiguda",
+               "short_name" : "Peerzadiguda",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500098",
+               "short_name" : "500098",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Panchavati Colony, Canara Nagar, Peerzadiguda, Hyderabad, Telangana 500098, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4077179,
+                  "lng" : 78.60578599999999
+               },
+               "southwest" : {
+                  "lat" : 17.4025918,
+                  "lng" : 78.59999999999999
+               }
+            },
+            "location" : {
+               "lat" : 17.404868,
+               "lng" : 78.60227669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4077179,
+                  "lng" : 78.60578599999999
+               },
+               "southwest" : {
+                  "lat" : 17.4025918,
+                  "lng" : 78.59999999999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

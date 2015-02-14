@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jilin Auto Industry Office",
+               "short_name" : "Jilin Auto Industry Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2838",
+               "short_name" : "2838",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jian She Jie",
+               "short_name" : "Jian She Jie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "HongQiJie",
+               "short_name" : "HongQiJie",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chaoyang Qu",
+               "short_name" : "Chaoyang Qu",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Changchun Shi",
+               "short_name" : "Changchun Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jilin Sheng",
+               "short_name" : "Jilin Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "130021",
+               "short_name" : "130021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jilin Auto Industry Office, 2838 Jian She Jie, HongQiJie, Chaoyang Qu, Changchun Shi, Jilin Sheng, China, 130021",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.875723,
+               "lng" : 125.295433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8770719802915,
+                  "lng" : 125.2967819802915
+               },
+               "southwest" : {
+                  "lat" : 43.8743740197085,
+                  "lng" : 125.2940840197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colorado Auto Industry Division",
+               "short_name" : "Colorado Auto Industry Division",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "222",
+               "short_name" : "222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 6th Street",
+               "short_name" : "S 6th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grand Junction",
+               "short_name" : "Grand Junction",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mesa County",
+               "short_name" : "Mesa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81501",
+               "short_name" : "81501",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2758",
+               "short_name" : "2758",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Colorado Auto Industry Division, 222 South 6th Street, Grand Junction, CO 81501, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.06559660000001,
+               "lng" : -108.5624651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.06694558029151,
+                  "lng" : -108.5611161197085
+               },
+               "southwest" : {
+                  "lat" : 39.06424761970851,
+                  "lng" : -108.5638140802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

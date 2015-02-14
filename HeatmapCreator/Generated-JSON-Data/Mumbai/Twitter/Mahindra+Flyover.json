@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahindra Flyover",
+               "short_name" : "Mahindra Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Samata Nagar",
+               "short_name" : "Samata Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thakur Village",
+               "short_name" : "Thakur Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400101",
+               "short_name" : "400101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahindra Flyover, Samata Nagar, Thakur Village, Kandivali East, Mumbai, Maharashtra 400101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2084157,
+                  "lng" : 72.86778819999999
+               },
+               "southwest" : {
+                  "lat" : 19.2035386,
+                  "lng" : 72.8632521
+               }
+            },
+            "location" : {
+               "lat" : 19.2059751,
+               "lng" : 72.86559729999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2084157,
+                  "lng" : 72.86778819999999
+               },
+               "southwest" : {
+                  "lat" : 19.2035386,
+                  "lng" : 72.8632521
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

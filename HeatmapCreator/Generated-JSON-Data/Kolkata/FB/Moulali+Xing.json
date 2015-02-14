@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moulali Dargah Trail",
+               "short_name" : "Moulali Dargah Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moula Ali Hill",
+               "short_name" : "Moula Ali Hill",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moula Ali",
+               "short_name" : "Moula Ali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "SC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500040",
+               "short_name" : "500040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moulali Dargah Trail, Moula Ali Hill, Moula Ali, Secunderabad, Telangana 500040, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4687977,
+                  "lng" : 78.5581432
+               },
+               "southwest" : {
+                  "lat" : 17.4652674,
+                  "lng" : 78.5564863
+               }
+            },
+            "location" : {
+               "lat" : 17.4669891,
+               "lng" : 78.55724720000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4687977,
+                  "lng" : 78.5586637302915
+               },
+               "southwest" : {
+                  "lat" : 17.4652674,
+                  "lng" : 78.55596576970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

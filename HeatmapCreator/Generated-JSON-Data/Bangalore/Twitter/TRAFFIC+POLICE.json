@@ -1,0 +1,667 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police",
+               "short_name" : "Traffic Police",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ул. Радомир",
+               "short_name" : "ул. Радомир",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pernik",
+               "short_name" : "Pernik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pernik",
+               "short_name" : "Pernik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2300",
+               "short_name" : "2300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police, ул. Радомир 1, 2300 Pernik, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.6103845,
+               "lng" : 23.0306716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6117334802915,
+                  "lng" : 23.0320205802915
+               },
+               "southwest" : {
+                  "lat" : 42.6090355197085,
+                  "lng" : 23.0293226197085
+               }
+            }
+         },
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police Building",
+               "short_name" : "Traffic Police Building",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Qing Feng Nan Lu",
+               "short_name" : "Qing Feng Nan Lu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tongxiang Shi",
+               "short_name" : "Tongxiang Shi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jiaxing Shi",
+               "short_name" : "Jiaxing Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang Sheng",
+               "short_name" : "Zhejiang Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "314500",
+               "short_name" : "314500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police Building, Qing Feng Nan Lu, Tongxiang Shi, Jiaxing Shi, Zhejiang Sheng, China, 314500",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.6198813,
+               "lng" : 120.5518642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6212302802915,
+                  "lng" : 120.5532131802915
+               },
+               "southwest" : {
+                  "lat" : 30.6185323197085,
+                  "lng" : 120.5505152197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police Headquarters",
+               "short_name" : "Traffic Police Headquarters",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Geylang",
+               "short_name" : "Geylang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "408865",
+               "short_name" : "408865",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police Headquarters, Singapore 408865",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3302888,
+               "lng" : 103.8914251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.331637780291502,
+                  "lng" : 103.8927740802915
+               },
+               "southwest" : {
+                  "lat" : 1.328939819708498,
+                  "lng" : 103.8900761197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police Office",
+               "short_name" : "Traffic Police Office",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Station Road",
+               "short_name" : "Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dinajpur",
+               "short_name" : "Dinajpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dinajpur",
+               "short_name" : "Dinajpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rangpur Division",
+               "short_name" : "Rangpur Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police Office, Station Road, Dinajpur, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.6257354,
+               "lng" : 88.6325334
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.6270843802915,
+                  "lng" : 88.63388238029151
+               },
+               "southwest" : {
+                  "lat" : 25.6243864197085,
+                  "lng" : 88.6311844197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police",
+               "short_name" : "Traffic Police",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Geylang",
+               "short_name" : "Geylang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police, Singapore",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3306316,
+               "lng" : 103.8913214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.331980580291502,
+                  "lng" : 103.8926703802915
+               },
+               "southwest" : {
+                  "lat" : 1.329282619708498,
+                  "lng" : 103.8899724197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Department-Traffic Bureau",
+               "short_name" : "Police Department-Traffic Bureau",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1855",
+               "short_name" : "1855",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Apache Boulevard",
+               "short_name" : "E Apache Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tempe",
+               "short_name" : "Tempe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa County",
+               "short_name" : "Maricopa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85281",
+               "short_name" : "85281",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6016",
+               "short_name" : "6016",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Police Department-Traffic Bureau, 1855 East Apache Boulevard, Tempe, AZ 85281, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.4128624,
+               "lng" : -111.9053757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4142113802915,
+                  "lng" : -111.9040267197085
+               },
+               "southwest" : {
+                  "lat" : 33.4115134197085,
+                  "lng" : -111.9067246802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Department-Traffic Bureau",
+               "short_name" : "Police Department-Traffic Bureau",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "998",
+               "short_name" : "998",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Monmouth Street",
+               "short_name" : "Monmouth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campbell County",
+               "short_name" : "Campbell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41071",
+               "short_name" : "41071",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2115",
+               "short_name" : "2115",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Police Department-Traffic Bureau, 998 Monmouth Street, Newport, KY 41071, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0872563,
+               "lng" : -84.4892155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0886052802915,
+                  "lng" : -84.48786651970849
+               },
+               "southwest" : {
+                  "lat" : 39.0859073197085,
+                  "lng" : -84.49056448029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police Karnal",
+               "short_name" : "Traffic Police Karnal",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 6",
+               "short_name" : "Sector 6",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karnal",
+               "short_name" : "Karnal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnal",
+               "short_name" : "Karnal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "132001",
+               "short_name" : "132001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police Karnal, Sector 6, Karnal, Haryana 132001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.6769201,
+                  "lng" : 77.00503259999999
+               },
+               "southwest" : {
+                  "lat" : 29.6765785,
+                  "lng" : 77.0042607
+               }
+            },
+            "location" : {
+               "lat" : 29.6769025,
+               "lng" : 77.00430039999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6780982802915,
+                  "lng" : 77.00599563029151
+               },
+               "southwest" : {
+                  "lat" : 29.6754003197085,
+                  "lng" : 77.0032976697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police jabalpur",
+               "short_name" : "Traffic Police jabalpur",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh State Highway 37A",
+               "short_name" : "MP SH 37A",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Awadhpuri",
+               "short_name" : "Awadhpuri",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Marhatal",
+               "short_name" : "Marhatal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jabalpur",
+               "short_name" : "Jabalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jabalpur",
+               "short_name" : "Jabalpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "482002",
+               "short_name" : "482002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police jabalpur, Madhya Pradesh State Highway 37A, Awadhpuri, Marhatal, Jabalpur, Madhya Pradesh 482002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1687034,
+                  "lng" : 79.9323337
+               },
+               "southwest" : {
+                  "lat" : 23.1684741,
+                  "lng" : 79.9321192
+               }
+            },
+            "location" : {
+               "lat" : 23.1685887,
+               "lng" : 79.93222639999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1699377302915,
+                  "lng" : 79.93357543029151
+               },
+               "southwest" : {
+                  "lat" : 23.16723976970849,
+                  "lng" : 79.93087746970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police Division",
+               "short_name" : "Traffic Police Division",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "เขต พระนคร",
+               "short_name" : "เขต พระนคร",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "จังหวัด กรุงเทพมหานคร",
+               "short_name" : "จังหวัด กรุงเทพมหานคร",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police Division, Bangkok, จังหวัด กรุงเทพมหานคร 10900, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8315021,
+               "lng" : 100.5544298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8328510802915,
+                  "lng" : 100.5557787802915
+               },
+               "southwest" : {
+                  "lat" : 13.8301531197085,
+                  "lng" : 100.5530808197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Police Hut",
+               "short_name" : "Traffic Police Hut",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Gulmarg Road",
+               "short_name" : "Gulmarg Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulmarg",
+               "short_name" : "Gulmarg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baramulla",
+               "short_name" : "Baramulla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "193403",
+               "short_name" : "193403",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Police Hut, Gulmarg Road, Gulmarg 193403",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0489794,
+                  "lng" : 74.39754189999999
+               },
+               "southwest" : {
+                  "lat" : 34.0489304,
+                  "lng" : 74.3974856
+               }
+            },
+            "location" : {
+               "lat" : 34.0489549,
+               "lng" : 74.3975138
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0503038802915,
+                  "lng" : 74.39886273029151
+               },
+               "southwest" : {
+                  "lat" : 34.0476059197085,
+                  "lng" : 74.39616476970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

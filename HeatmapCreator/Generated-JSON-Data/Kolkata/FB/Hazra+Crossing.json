@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hazra Lane",
+               "short_name" : "Hazra Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dover Terrace",
+               "short_name" : "Dover Terrace",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700029",
+               "short_name" : "700029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hazra Lane, Dover Terrace, Ballygunge, Kolkata, West Bengal 700029, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5233024,
+                  "lng" : 88.3540859
+               },
+               "southwest" : {
+                  "lat" : 22.5227129,
+                  "lng" : 88.35402409999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5227222,
+               "lng" : 88.354074
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5243566302915,
+                  "lng" : 88.35540398029151
+               },
+               "southwest" : {
+                  "lat" : 22.5216586697085,
+                  "lng" : 88.35270601970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qusar-Hazra Way",
+               "short_name" : "Qusar-Hazra Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Qusar",
+               "short_name" : "Qusar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qusar-Hazra Way, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4909149,
+                  "lng" : 48.35549710000001
+               },
+               "southwest" : {
+                  "lat" : 41.4693312,
+                  "lng" : 48.3144593
+               }
+            },
+            "location" : {
+               "lat" : 41.4796097,
+               "lng" : 48.3362601
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4909149,
+                  "lng" : 48.35549710000001
+               },
+               "southwest" : {
+                  "lat" : 41.4693312,
+                  "lng" : 48.3144593
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

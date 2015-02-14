@@ -1,0 +1,384 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Main Road",
+               "short_name" : "Bandra Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bandra",
+               "short_name" : "Bandra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713212",
+               "short_name" : "713212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra Main Road, Bandra, West Bengal 713212, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.4933491,
+                  "lng" : 87.4135783
+               },
+               "southwest" : {
+                  "lat" : 23.4908137,
+                  "lng" : 87.4063975
+               }
+            },
+            "location" : {
+               "lat" : 23.491755,
+               "lng" : 87.4098018
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.49343038029151,
+                  "lng" : 87.4135783
+               },
+               "southwest" : {
+                  "lat" : 23.4907324197085,
+                  "lng" : 87.4063975
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Drive",
+               "short_name" : "Bandra Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Walla Walla",
+               "short_name" : "Walla Walla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walla Walla County",
+               "short_name" : "Walla Walla County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99362",
+               "short_name" : "99362",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra Drive, Walla Walla, WA 99362, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.044838,
+                  "lng" : -118.3356386
+               },
+               "southwest" : {
+                  "lat" : 46.0430599,
+                  "lng" : -118.3394877
+               }
+            },
+            "location" : {
+               "lat" : 46.0439847,
+               "lng" : -118.3375365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0452979302915,
+                  "lng" : -118.3356386
+               },
+               "southwest" : {
+                  "lat" : 46.0425999697085,
+                  "lng" : -118.3394877
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridge",
+               "short_name" : "bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bridge, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1351441,
+                  "lng" : 72.8493819
+               },
+               "southwest" : {
+                  "lat" : 19.1347583,
+                  "lng" : 72.84841899999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1350764,
+               "lng" : 72.84892099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1363001802915,
+                  "lng" : 72.8502494302915
+               },
+               "southwest" : {
+                  "lat" : 19.1336022197085,
+                  "lng" : 72.84755146970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhandra Road",
+               "short_name" : "Bhandra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Akashi",
+               "short_name" : "Akashi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lohardaga",
+               "short_name" : "Lohardaga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jharkhand",
+               "short_name" : "JH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "835325",
+               "short_name" : "835325",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhandra Road, Akashi, Jharkhand 835325, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.4048456,
+                  "lng" : 84.83107609999999
+               },
+               "southwest" : {
+                  "lat" : 23.3609515,
+                  "lng" : 84.7986999
+               }
+            },
+            "location" : {
+               "lat" : 23.3872234,
+               "lng" : 84.8084544
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.4048456,
+                  "lng" : 84.83107609999999
+               },
+               "southwest" : {
+                  "lat" : 23.3609515,
+                  "lng" : 84.7986999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Bandra Road",
+               "short_name" : "W Bandra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Avon Park",
+               "short_name" : "Avon Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highlands County",
+               "short_name" : "Highlands County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33825",
+               "short_name" : "33825",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Bandra Road, Avon Park, FL 33825, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.601642,
+                  "lng" : -81.53894099999999
+               },
+               "southwest" : {
+                  "lat" : 27.601014,
+                  "lng" : -81.553252
+               }
+            },
+            "location" : {
+               "lat" : 27.6013698,
+               "lng" : -81.5450709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6026769802915,
+                  "lng" : -81.53894099999999
+               },
+               "southwest" : {
+                  "lat" : 27.5999790197085,
+                  "lng" : -81.553252
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Place",
+               "short_name" : "Bandra Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rancho Palos Verdes",
+               "short_name" : "Rancho Palos Verdes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90275",
+               "short_name" : "90275",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra Place, Rancho Palos Verdes, CA 90275, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.769443,
+                  "lng" : -118.314603
+               },
+               "southwest" : {
+                  "lat" : 33.7688041,
+                  "lng" : -118.315424
+               }
+            },
+            "location" : {
+               "lat" : 33.7691499,
+               "lng" : -118.314897
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7704725302915,
+                  "lng" : -118.3136645197085
+               },
+               "southwest" : {
+                  "lat" : 33.7677745697085,
+                  "lng" : -118.3163624802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

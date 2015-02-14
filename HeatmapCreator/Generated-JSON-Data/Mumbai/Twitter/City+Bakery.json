@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "City Bakery",
+               "short_name" : "City Bakery",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "City Road",
+               "short_name" : "City Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD8 8ES",
+               "short_name" : "BD8 8ES",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "City Bakery, City Road, Bradford, West Yorkshire BD8 8ES, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7983386,
+               "lng" : -1.7688183
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7996875802915,
+                  "lng" : -1.767469319708498
+               },
+               "southwest" : {
+                  "lat" : 53.7969896197085,
+                  "lng" : -1.770167280291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goodluck Communication",
+               "short_name" : "Goodluck Communication",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kurla West",
+               "short_name" : "Kurla West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400070",
+               "short_name" : "400070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goodluck Communication, Kurla West, Kurla, Mumbai, Maharashtra 400070, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0752308,
+               "lng" : 72.88149799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0765797802915,
+                  "lng" : 72.88284698029149
+               },
+               "southwest" : {
+                  "lat" : 19.0738818197085,
+                  "lng" : 72.88014901970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Good Shepherd Methodist Marathi Church",
+               "short_name" : "Good Shepherd Methodist Marathi Church",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shanti Path",
+               "short_name" : "Shanti Path",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pestom Sagar Colony",
+               "short_name" : "Pestom Sagar Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar East",
+               "short_name" : "Ghatkopar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400077",
+               "short_name" : "400077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Good Shepherd Methodist Marathi Church, Shanti Path, Pestom Sagar Colony, Ghatkopar East, Mumbai, Maharashtra 400077, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0695795,
+               "lng" : 72.9040962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0709284802915,
+                  "lng" : 72.90544518029151
+               },
+               "southwest" : {
+                  "lat" : 19.0682305197085,
+                  "lng" : 72.9027472197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

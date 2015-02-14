@@ -1,0 +1,329 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shashtri Park",
+               "short_name" : "Shashtri Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bahadurpur",
+               "short_name" : "Bahadurpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballia",
+               "short_name" : "Ballia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballia",
+               "short_name" : "Ballia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "277001",
+               "short_name" : "277001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shashtri Park, Bahadurpur, Ballia, Uttar Pradesh 277001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7585841,
+               "lng" : 84.15981269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7599330802915,
+                  "lng" : 84.16116168029149
+               },
+               "southwest" : {
+                  "lat" : 25.7572351197085,
+                  "lng" : 84.15846371970848
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shastri Park",
+               "short_name" : "Shastri Park",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Metro Vihar",
+               "short_name" : "Metro Vihar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shastri Park",
+               "short_name" : "Shastri Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shahdara",
+               "short_name" : "Shahdara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North East Delhi",
+               "short_name" : "North East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110053",
+               "short_name" : "110053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shastri Park, Metro Vihar, Shastri Park, Shahdara, New Delhi, Delhi 110053",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.668451,
+               "lng" : 77.250406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6697999802915,
+                  "lng" : 77.25175498029149
+               },
+               "southwest" : {
+                  "lat" : 28.6671020197085,
+                  "lng" : 77.24905701970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shastri Park Drive",
+               "short_name" : "Shastri Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shastri Park",
+               "short_name" : "Shastri Park",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Phoenix",
+               "short_name" : "Phoenix",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durban Metro",
+               "short_name" : "Durban Metro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "KwaZulu-Natal",
+               "short_name" : "KZN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shastri Park Drive, Phoenix, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.6788739,
+                  "lng" : 31.014702
+               },
+               "southwest" : {
+                  "lat" : -29.6822261,
+                  "lng" : 31.013497
+               }
+            },
+            "location" : {
+               "lat" : -29.6806572,
+               "lng" : 31.0141863
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.6788739,
+                  "lng" : 31.0154484802915
+               },
+               "southwest" : {
+                  "lat" : -29.6822261,
+                  "lng" : 31.0127505197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L.B. Shashtri Park",
+               "short_name" : "L.B. Shashtri Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hisar-Delhi Bypass Road",
+               "short_name" : "Hisar-Delhi Bypass Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hisar",
+               "short_name" : "Hisar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hisar",
+               "short_name" : "Hisar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "125001",
+               "short_name" : "125001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "L.B. Shashtri Park, Hisar-Delhi Bypass Road, Hisar, Haryana 125001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1794168,
+                  "lng" : 75.7100434
+               },
+               "southwest" : {
+                  "lat" : 29.1786886,
+                  "lng" : 75.70921450000002
+               }
+            },
+            "location" : {
+               "lat" : 29.1790254,
+               "lng" : 75.7096629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1804016802915,
+                  "lng" : 75.71097793029152
+               },
+               "southwest" : {
+                  "lat" : 29.1777037197085,
+                  "lng" : 75.7082799697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shastri Park",
+               "short_name" : "Shastri Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shahdara",
+               "short_name" : "Shahdara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shastri Park, Shahdara, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6789211,
+                  "lng" : 77.2638699
+               },
+               "southwest" : {
+                  "lat" : 28.661672,
+                  "lng" : 77.233665
+               }
+            },
+            "location" : {
+               "lat" : 28.669894,
+               "lng" : 77.2554657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6789211,
+                  "lng" : 77.2638699
+               },
+               "southwest" : {
+                  "lat" : 28.661672,
+                  "lng" : 77.233665
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

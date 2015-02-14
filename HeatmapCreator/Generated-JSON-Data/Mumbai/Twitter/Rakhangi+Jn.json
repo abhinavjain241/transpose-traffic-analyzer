@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rakhangi Mahal",
+               "short_name" : "Rakhangi Mahal",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Acharya Donde Marg",
+               "short_name" : "Acharya Donde Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400012",
+               "short_name" : "400012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rakhangi Mahal, Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0039696,
+               "lng" : 72.8413188
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0053185802915,
+                  "lng" : 72.84266778029151
+               },
+               "southwest" : {
+                  "lat" : 19.00262061970849,
+                  "lng" : 72.8399698197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

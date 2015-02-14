@@ -1,0 +1,665 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB",
+               "short_name" : "BWSSB",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Malleshwara",
+               "short_name" : "Malleshwara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560055",
+               "short_name" : "560055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB, Malleshwara, Bengaluru, Karnataka 560055",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.0102984,
+               "lng" : 77.5652072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0211697,
+                  "lng" : 77.5812146
+               },
+               "southwest" : {
+                  "lat" : 12.9994266,
+                  "lng" : 77.5491998
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Tank",
+               "short_name" : "BWSSB Water Tank",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "14th Main Road",
+               "short_name" : "14th Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chandra Layout",
+               "short_name" : "Chandra Layout",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560040",
+               "short_name" : "560040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Tank, 14th Main Road, Chandra Layout, Bengaluru, Karnataka 560040, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9559905,
+                  "lng" : 77.52970479999999
+               },
+               "southwest" : {
+                  "lat" : 12.9556677,
+                  "lng" : 77.52937900000001
+               }
+            },
+            "location" : {
+               "lat" : 12.9558291,
+               "lng" : 77.5295419
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9571780802915,
+                  "lng" : 77.53089088029151
+               },
+               "southwest" : {
+                  "lat" : 12.9544801197085,
+                  "lng" : 77.5281929197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Tank",
+               "short_name" : "BWSSB Water Tank",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mountain Road",
+               "short_name" : "Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "1st Block",
+               "short_name" : "1st Block",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jaya Nagar East",
+               "short_name" : "Jaya Nagar East",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hombegowda Nagar",
+               "short_name" : "Hombegowda Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560011",
+               "short_name" : "560011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Tank, Mountain Road, 1st Block, Jaya Nagar East, Hombegowda Nagar, Bengaluru, Karnataka 560011, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9360767,
+                  "lng" : 77.58897109999999
+               },
+               "southwest" : {
+                  "lat" : 12.9357945,
+                  "lng" : 77.58868409999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9359356,
+               "lng" : 77.5888276
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9372845802915,
+                  "lng" : 77.5901765802915
+               },
+               "southwest" : {
+                  "lat" : 12.9345866197085,
+                  "lng" : 77.58747861970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Tank",
+               "short_name" : "BWSSB Water Tank",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kothnur Road",
+               "short_name" : "Kothnur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Classic Orchards Layout",
+               "short_name" : "Classic Orchards Layout",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalena Agrahara",
+               "short_name" : "Kalena Agrahara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560076",
+               "short_name" : "560076",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Tank, Kothnur Road, Classic Orchards Layout, Kalena Agrahara, Bengaluru, Karnataka 560076, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.8738997,
+               "lng" : 77.58483769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8752486802915,
+                  "lng" : 77.5861866802915
+               },
+               "southwest" : {
+                  "lat" : 12.8725507197085,
+                  "lng" : 77.5834887197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water treatment",
+               "short_name" : "BWSSB Water treatment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "EWS Colony",
+               "short_name" : "EWS Colony",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stage 2",
+               "short_name" : "Stage 2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "BTM Layout",
+               "short_name" : "BTM Layout",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560076",
+               "short_name" : "560076",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water treatment, EWS Colony, Stage 2, BTM Layout, Bengaluru, Karnataka 560076, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9047627,
+               "lng" : 77.61198159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9061116802915,
+                  "lng" : 77.61333058029149
+               },
+               "southwest" : {
+                  "lat" : 12.9034137197085,
+                  "lng" : 77.61063261970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Tank",
+               "short_name" : "BWSSB Water Tank",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Domlur Village",
+               "short_name" : "Domlur Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Domlur Layout",
+               "short_name" : "Domlur Layout",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560071",
+               "short_name" : "560071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Tank, Domlur Village, Domlur Layout, Bengaluru, Karnataka 560071, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9611825,
+               "lng" : 77.63826779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9625314802915,
+                  "lng" : 77.6396167802915
+               },
+               "southwest" : {
+                  "lat" : 12.9598335197085,
+                  "lng" : 77.63691881970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Tank",
+               "short_name" : "BWSSB Water Tank",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mantri Apartments Driveway",
+               "short_name" : "Mantri Apartments Driveway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "1st Block",
+               "short_name" : "1st Block",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jaya Nagar East",
+               "short_name" : "Jaya Nagar East",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hombegowda Nagar",
+               "short_name" : "Hombegowda Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560011",
+               "short_name" : "560011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Tank, Mantri Apartments Driveway, 1st Block, Jaya Nagar East, Hombegowda Nagar, Bengaluru, Karnataka 560011, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9370833,
+                  "lng" : 77.5881988
+               },
+               "southwest" : {
+                  "lat" : 12.9367301,
+                  "lng" : 77.58784199999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9369067,
+               "lng" : 77.58802039999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9382556802915,
+                  "lng" : 77.58936938029152
+               },
+               "southwest" : {
+                  "lat" : 12.9355577197085,
+                  "lng" : 77.58667141970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Supply",
+               "short_name" : "BWSSB Water Supply",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1st Cross",
+               "short_name" : "1st Cross",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sanjaynagar",
+               "short_name" : "Sanjaynagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560094",
+               "short_name" : "560094",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Supply, 1st Cross, Sanjaynagar, Bengaluru, Karnataka 560094, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0339961,
+                  "lng" : 77.5760105
+               },
+               "southwest" : {
+                  "lat" : 13.0338812,
+                  "lng" : 77.57588989999999
+               }
+            },
+            "location" : {
+               "lat" : 13.0339386,
+               "lng" : 77.57595019999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0352876302915,
+                  "lng" : 77.5772991802915
+               },
+               "southwest" : {
+                  "lat" : 13.0325896697085,
+                  "lng" : 77.57460121970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BWSSB Water Tank",
+               "short_name" : "BWSSB Water Tank",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "New High School Road",
+               "short_name" : "New High School Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parvathipuram",
+               "short_name" : "Parvathipuram",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Visveswarapuram",
+               "short_name" : "VV Puram",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shankarapuram",
+               "short_name" : "Shankarapuram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560004",
+               "short_name" : "560004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BWSSB Water Tank, New High School Road, Parvathipuram, Visveswarapuram, Shankarapuram, Bengaluru, Karnataka 560004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9492089,
+                  "lng" : 77.574027
+               },
+               "southwest" : {
+                  "lat" : 12.9490624,
+                  "lng" : 77.57386609999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9491356,
+               "lng" : 77.5739466
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9504846302915,
+                  "lng" : 77.57529553029151
+               },
+               "southwest" : {
+                  "lat" : 12.9477866697085,
+                  "lng" : 77.57259756970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

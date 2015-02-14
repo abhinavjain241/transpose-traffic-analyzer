@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vijay Smarak",
+               "short_name" : "Vijay Smarak",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Fort William",
+               "short_name" : "Fort William",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fort William",
+               "short_name" : "Fort William",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700021",
+               "short_name" : "700021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vijay Smarak, Fort William, Fort William, Hastings, Kolkata, West Bengal 700021, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5562983,
+               "lng" : 88.3440042
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5576472802915,
+                  "lng" : 88.34535318029151
+               },
+               "southwest" : {
+                  "lat" : 22.55494931970849,
+                  "lng" : 88.34265521970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

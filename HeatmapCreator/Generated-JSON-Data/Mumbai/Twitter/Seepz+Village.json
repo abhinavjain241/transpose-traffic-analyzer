@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seepz Village",
+               "short_name" : "Seepz Village",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Krantiveer Lakhuji Salve Marg",
+               "short_name" : "Krantiveer Lakhuji Salve Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santacruz Electronic Export Processing Zone",
+               "short_name" : "Seepz",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400096",
+               "short_name" : "400096",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Seepz Village, Krantiveer Lakhuji Salve Marg, Santacruz Electronic Export Processing Zone, Andheri East, Mumbai, Maharashtra 400096, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1295969,
+               "lng" : 72.87608829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1309458802915,
+                  "lng" : 72.8774372802915
+               },
+               "southwest" : {
+                  "lat" : 19.1282479197085,
+                  "lng" : 72.87473931970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

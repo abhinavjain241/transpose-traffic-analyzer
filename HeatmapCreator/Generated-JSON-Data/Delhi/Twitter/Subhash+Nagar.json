@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Subash Nagar Metro Station",
+               "short_name" : "Subash Nagar Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Najafgarh Road",
+               "short_name" : "Najafgarh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meenakshi Garden",
+               "short_name" : "Meenakshi Garden",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ashok Nagar",
+               "short_name" : "Ashok Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110018",
+               "short_name" : "110018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Subash Nagar Metro Station, Najafgarh Road, Meenakshi Garden, Ashok Nagar, New Delhi, Delhi 110018, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.640819,
+                  "lng" : 77.10584209999999
+               },
+               "southwest" : {
+                  "lat" : 28.6399244,
+                  "lng" : 77.1039954
+               }
+            },
+            "location" : {
+               "lat" : 28.640446,
+               "lng" : 77.1049178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6417206802915,
+                  "lng" : 77.10626773029151
+               },
+               "southwest" : {
+                  "lat" : 28.6390227197085,
+                  "lng" : 77.1035697697085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

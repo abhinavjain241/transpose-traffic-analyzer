@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daai Ki Gali",
+               "short_name" : "Daai Ki Gali",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ghat Darwaza",
+               "short_name" : "Ghat Darwaza",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302003",
+               "short_name" : "302003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Daai Ki Gali, Ghat Darwaza, Jaipur, Rajasthan 302003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.919431,
+                  "lng" : 75.827322
+               },
+               "southwest" : {
+                  "lat" : 26.91909,
+                  "lng" : 75.826731
+               }
+            },
+            "location" : {
+               "lat" : 26.919324,
+               "lng" : 75.827078
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9206094802915,
+                  "lng" : 75.82837548029151
+               },
+               "southwest" : {
+                  "lat" : 26.9179115197085,
+                  "lng" : 75.82567751970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udai Marg",
+               "short_name" : "Udai Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302004",
+               "short_name" : "302004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Udai Marg, Jaipur, Rajasthan 302004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8924927,
+                  "lng" : 75.8304662
+               },
+               "southwest" : {
+                  "lat" : 26.890119,
+                  "lng" : 75.82485129999999
+               }
+            },
+            "location" : {
+               "lat" : 26.891643,
+               "lng" : 75.82754749999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8926548302915,
+                  "lng" : 75.8304662
+               },
+               "southwest" : {
+                  "lat" : 26.8899568697085,
+                  "lng" : 75.82485129999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

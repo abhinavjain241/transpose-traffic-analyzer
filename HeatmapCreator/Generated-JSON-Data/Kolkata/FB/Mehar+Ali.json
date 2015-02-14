@@ -1,0 +1,197 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mehar Ali Lane",
+               "short_name" : "Mehar Ali Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tangra",
+               "short_name" : "Tangra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700015",
+               "short_name" : "700015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mehar Ali Lane, Tangra, Kolkata, West Bengal 700015, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5598186,
+                  "lng" : 88.38525249999999
+               },
+               "southwest" : {
+                  "lat" : 22.5581329,
+                  "lng" : 88.384006
+               }
+            },
+            "location" : {
+               "lat" : 22.5591699,
+               "lng" : 88.3845106
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.56032473029151,
+                  "lng" : 88.38597823029151
+               },
+               "southwest" : {
+                  "lat" : 22.5576267697085,
+                  "lng" : 88.38328026970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mehr Ali Road",
+               "short_name" : "Mehr Ali Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "F-11",
+               "short_name" : "F-11",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Islamabad",
+               "short_name" : "Islamabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Islamabad District",
+               "short_name" : "Islamabad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Islamabad Capital Territory",
+               "short_name" : "Islamabad Capital Territory",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mehr Ali Road, Islamabad, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6851226,
+                  "lng" : 72.99156549999999
+               },
+               "southwest" : {
+                  "lat" : 33.6844809,
+                  "lng" : 72.98840989999999
+               }
+            },
+            "location" : {
+               "lat" : 33.6847397,
+               "lng" : 72.98990309999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6861507302915,
+                  "lng" : 72.99156549999999
+               },
+               "southwest" : {
+                  "lat" : 33.6834527697085,
+                  "lng" : 72.98840989999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mehr Ali Road",
+               "short_name" : "Mehr Ali Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tamboo Tehsil",
+               "short_name" : "Tamboo Tehsil",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nasirabad",
+               "short_name" : "Nasirabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Balochistan",
+               "short_name" : "Balochistan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mehr Ali Road, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3176536,
+                  "lng" : 67.98083489999999
+               },
+               "southwest" : {
+                  "lat" : 28.3118965,
+                  "lng" : 67.96508489999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3131675,
+               "lng" : 67.97311429999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3176536,
+                  "lng" : 67.98083489999999
+               },
+               "southwest" : {
+                  "lat" : 28.3118965,
+                  "lng" : 67.96508489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

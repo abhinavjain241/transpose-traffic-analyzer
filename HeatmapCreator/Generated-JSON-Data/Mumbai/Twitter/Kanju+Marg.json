@@ -1,0 +1,404 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanjurmarg East",
+               "short_name" : "Kanjurmarg East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kanjurmarg East, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1445891,
+                  "lng" : 72.9405709
+               },
+               "southwest" : {
+                  "lat" : 19.1240399,
+                  "lng" : 72.92773389999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1316889,
+               "lng" : 72.9351934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1445891,
+                  "lng" : 72.9405709
+               },
+               "southwest" : {
+                  "lat" : 19.1240399,
+                  "lng" : 72.92773389999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanjur Marg Village",
+               "short_name" : "Kanjur Marg Village",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhandup East",
+               "short_name" : "Bhandup East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400042",
+               "short_name" : "400042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanjur Marg Village, Kanjurmarg East, Mumbai, Maharashtra 400042, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.133375,
+                  "lng" : 72.9362325
+               },
+               "southwest" : {
+                  "lat" : 19.1293982,
+                  "lng" : 72.93016460000001
+               }
+            },
+            "location" : {
+               "lat" : 19.1299085,
+               "lng" : 72.93443110000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.133375,
+                  "lng" : 72.9362325
+               },
+               "southwest" : {
+                  "lat" : 19.1293982,
+                  "lng" : 72.93016460000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Station",
+               "short_name" : "Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "C.G.S. Colony",
+               "short_name" : "C.G.S. Colony",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanjurmarg East",
+               "short_name" : "Kanjurmarg East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400042",
+               "short_name" : "400042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Station, C.G.S. Colony, Kanjurmarg East, Mumbai, Maharashtra 400042, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1437492,
+               "lng" : 72.93995169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1450981802915,
+                  "lng" : 72.9413006802915
+               },
+               "southwest" : {
+                  "lat" : 19.1424002197085,
+                  "lng" : 72.9386027197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanjur Marg Station",
+               "short_name" : "Kanjur Marg Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kanjur Station Road",
+               "short_name" : "Kanjur Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ambedkar Nagar",
+               "short_name" : "Ambedkar Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanjurmarg West",
+               "short_name" : "Kanjurmarg West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhandup West",
+               "short_name" : "Bhandup West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400078",
+               "short_name" : "400078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanjur Marg Station, Kanjur Station Road, Ambedkar Nagar, Kanjurmarg West, Bhandup West, Mumbai, Maharashtra 400078, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1301962,
+               "lng" : 72.9284363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1315451802915,
+                  "lng" : 72.9297852802915
+               },
+               "southwest" : {
+                  "lat" : 19.1288472197085,
+                  "lng" : 72.92708731970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanjur Marg Village",
+               "short_name" : "Kanjur Marg Village",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Indira Nagar",
+               "short_name" : "Indira Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhandup East",
+               "short_name" : "Bhandup East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400042",
+               "short_name" : "400042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanjur Marg Village, Indira Nagar, Bhandup East, Mumbai, Maharashtra 400042",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1302268,
+               "lng" : 72.9328106
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1315757802915,
+                  "lng" : 72.93415958029151
+               },
+               "southwest" : {
+                  "lat" : 19.1288778197085,
+                  "lng" : 72.93146161970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanjur Road",
+               "short_name" : "Kanjur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhandup East",
+               "short_name" : "Bhandup East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kanjur Road, Kanjurmarg East, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1375384,
+                  "lng" : 72.9382832
+               },
+               "southwest" : {
+                  "lat" : 19.130229,
+                  "lng" : 72.9336788
+               }
+            },
+            "location" : {
+               "lat" : 19.1336828,
+               "lng" : 72.9358804
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1375384,
+                  "lng" : 72.9382832
+               },
+               "southwest" : {
+                  "lat" : 19.130229,
+                  "lng" : 72.9336788
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nonapukur",
+               "short_name" : "Nonapukur",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Taltala",
+               "short_name" : "Taltala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700014",
+               "short_name" : "700014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nonapukur, Taltala, Kolkata, West Bengal 700014",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.551167,
+               "lng" : 88.363151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5525159802915,
+                  "lng" : 88.36449998029151
+               },
+               "southwest" : {
+                  "lat" : 22.5498180197085,
+                  "lng" : 88.36180201970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

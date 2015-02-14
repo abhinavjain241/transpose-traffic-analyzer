@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siemens Society",
+               "short_name" : "Siemens Society",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Gharda Colony",
+               "short_name" : "Gharda Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dombivli East",
+               "short_name" : "Dombivli East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dombivli",
+               "short_name" : "Dombivli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "421203",
+               "short_name" : "421203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Siemens Society, Gharda Colony, Dombivli East, Dombivli, Maharashtra 421203, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2035937,
+               "lng" : 73.10443549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2049426802915,
+                  "lng" : 73.10578448029149
+               },
+               "southwest" : {
+                  "lat" : 19.2022447197085,
+                  "lng" : 73.10308651970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,151 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Terminus",
+               "short_name" : "Bandra Terminus",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Naupada",
+               "short_name" : "Naupada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra East",
+               "short_name" : "Bandra East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bandra Terminus, Naupada, Bandra East, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.068556,
+                  "lng" : 72.8423641
+               },
+               "southwest" : {
+                  "lat" : 19.058817,
+                  "lng" : 72.8391
+               }
+            },
+            "location" : {
+               "lat" : 19.0635747,
+               "lng" : 72.84047029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.068556,
+                  "lng" : 72.8423641
+               },
+               "southwest" : {
+                  "lat" : 19.058817,
+                  "lng" : 72.8391
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandra Terminus",
+               "short_name" : "Bandra Terminus",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bandra Terminus",
+               "short_name" : "Bandra Terminus",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Naupada",
+               "short_name" : "Naupada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bandra East",
+               "short_name" : "Bandra East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400051",
+               "short_name" : "400051",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bandra Terminus, Bandra Terminus, Naupada, Bandra East, Mumbai, Maharashtra 400051, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0659991,
+                  "lng" : 72.84140069999999
+               },
+               "southwest" : {
+                  "lat" : 19.0591215,
+                  "lng" : 72.8406332
+               }
+            },
+            "location" : {
+               "lat" : 19.0623704,
+               "lng" : 72.8410241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0659991,
+                  "lng" : 72.84236593029151
+               },
+               "southwest" : {
+                  "lat" : 19.0591215,
+                  "lng" : 72.8396679697085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

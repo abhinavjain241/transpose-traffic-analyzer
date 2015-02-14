@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajarhat Gopalpur",
+               "short_name" : "Rajarhat Gopalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajarhat Gopalpur, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.66741,
+                  "lng" : 88.47583999999999
+               },
+               "southwest" : {
+                  "lat" : 22.5845199,
+                  "lng" : 88.4174323
+               }
+            },
+            "location" : {
+               "lat" : 22.6183336,
+               "lng" : 88.44523389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.66741,
+                  "lng" : 88.47583999999999
+               },
+               "southwest" : {
+                  "lat" : 22.5845199,
+                  "lng" : 88.4174323
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajarhat",
+               "short_name" : "Rajarhat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South 24 Parganas",
+               "short_name" : "South 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajarhat, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.3385649,
+                  "lng" : 88.2810688
+               },
+               "southwest" : {
+                  "lat" : 22.3220905,
+                  "lng" : 88.25592039999999
+               }
+            },
+            "location" : {
+               "lat" : 22.3305603,
+               "lng" : 88.2704497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.3385649,
+                  "lng" : 88.2810688
+               },
+               "southwest" : {
+                  "lat" : 22.3220905,
+                  "lng" : 88.25592039999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

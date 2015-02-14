@@ -1,0 +1,467 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayansthan",
+               "short_name" : "Narayansthan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narayansthan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2313183,
+                  "lng" : 83.674407
+               },
+               "southwest" : {
+                  "lat" : 28.1983804,
+                  "lng" : 83.6567689
+               }
+            },
+            "location" : {
+               "lat" : 28.216667,
+               "lng" : 83.66666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2313183,
+                  "lng" : 83.674407
+               },
+               "southwest" : {
+                  "lat" : 28.1983804,
+                  "lng" : 83.6567689
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Railway Line",
+               "short_name" : "Western Railway Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Railway Line, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0905071,
+                  "lng" : 72.8441629
+               },
+               "southwest" : {
+                  "lat" : 19.0664481,
+                  "lng" : 72.8397317
+               }
+            },
+            "location" : {
+               "lat" : 19.0784776,
+               "lng" : 72.8419473
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0905071,
+                  "lng" : 72.8441629
+               },
+               "southwest" : {
+                  "lat" : 19.0664481,
+                  "lng" : 72.8397317
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Railway Line",
+               "short_name" : "Western Railway Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Railway Line",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.4574544,
+                  "lng" : 72.8593862
+               },
+               "southwest" : {
+                  "lat" : 19.018972,
+                  "lng" : 72.8115928
+               }
+            },
+            "location" : {
+               "lat" : 19.2382132,
+               "lng" : 72.83548949999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4574544,
+                  "lng" : 72.8593862
+               },
+               "southwest" : {
+                  "lat" : 19.018972,
+                  "lng" : 72.8115928
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andheri Western Express Flyover",
+               "short_name" : "Andheri Western Express Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Azad Nagar",
+               "short_name" : "Azad Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jogeshwari East",
+               "short_name" : "Jogeshwari East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400053",
+               "short_name" : "400053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andheri Western Express Flyover, Azad Nagar, Jogeshwari East, Mumbai, Maharashtra 400053, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1140233,
+               "lng" : 72.85493079999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1153722802915,
+                  "lng" : 72.8562797802915
+               },
+               "southwest" : {
+                  "lat" : 19.1126743197085,
+                  "lng" : 72.8535818197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andheri Western Express Flyover",
+               "short_name" : "Andheri Western Express Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chakala",
+               "short_name" : "Chakala",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400053",
+               "short_name" : "400053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andheri Western Express Flyover, Chakala, Andheri East, Mumbai, Maharashtra 400053, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1127565,
+               "lng" : 72.85447909999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1141054802915,
+                  "lng" : 72.8558280802915
+               },
+               "southwest" : {
+                  "lat" : 19.1114075197085,
+                  "lng" : 72.8531301197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Railway Line 3",
+               "short_name" : "Western Railway Line 3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Railway Line 3, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2792655,
+                  "lng" : 72.86336349999999
+               },
+               "southwest" : {
+                  "lat" : 18.9298283,
+                  "lng" : 72.8042797
+               }
+            },
+            "location" : {
+               "lat" : 19.1045469,
+               "lng" : 72.83382159999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2792655,
+                  "lng" : 72.86336349999999
+               },
+               "southwest" : {
+                  "lat" : 18.9298283,
+                  "lng" : 72.8042797
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Railway Line 4",
+               "short_name" : "Western Railway Line 4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Railway Line 4, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2792655,
+                  "lng" : 72.86336349999999
+               },
+               "southwest" : {
+                  "lat" : 19.0699695,
+                  "lng" : 72.8397317
+               }
+            },
+            "location" : {
+               "lat" : 19.1746175,
+               "lng" : 72.8515476
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2792655,
+                  "lng" : 72.86336349999999
+               },
+               "southwest" : {
+                  "lat" : 19.0699695,
+                  "lng" : 72.8397317
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Regional Power Committee",
+               "short_name" : "Western Regional Power Committee",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Krantiveer Lakhuji Salve Marg",
+               "short_name" : "Krantiveer Lakhuji Salve Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santacruz Electronic Export Processing Zone",
+               "short_name" : "Seepz",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jogeshwari East",
+               "short_name" : "Jogeshwari East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400093",
+               "short_name" : "400093",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Western Regional Power Committee, Krantiveer Lakhuji Salve Marg, Santacruz Electronic Export Processing Zone, Jogeshwari East, Mumbai, Maharashtra 400093, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1278259,
+                  "lng" : 72.87458789999999
+               },
+               "southwest" : {
+                  "lat" : 19.1274782,
+                  "lng" : 72.87421329999999
+               }
+            },
+            "location" : {
+               "lat" : 19.127652,
+               "lng" : 72.8744006
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.12900103029151,
+                  "lng" : 72.87574958029151
+               },
+               "southwest" : {
+                  "lat" : 19.1263030697085,
+                  "lng" : 72.87305161970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

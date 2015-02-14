@@ -1,0 +1,163 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakinaka Metro Station",
+               "short_name" : "Sakinaka Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Andheri-Ghatkopar Road",
+               "short_name" : "Andheri-Ghatkopar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bandi Bazaar",
+               "short_name" : "Bandi Bazaar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nair Wadi",
+               "short_name" : "Nair Wadi",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakinaka",
+               "short_name" : "Sakinaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400072",
+               "short_name" : "400072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sakinaka Metro Station, Andheri-Ghatkopar Road, Bandi Bazaar, Nair Wadi, Sakinaka, Mumbai, Maharashtra 400072, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1039929,
+                  "lng" : 72.888566
+               },
+               "southwest" : {
+                  "lat" : 19.103116,
+                  "lng" : 72.88731600000001
+               }
+            },
+            "location" : {
+               "lat" : 19.103528,
+               "lng" : 72.88796219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1049034302915,
+                  "lng" : 72.88928998029151
+               },
+               "southwest" : {
+                  "lat" : 19.1022054697085,
+                  "lng" : 72.8865920197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakinaka Metro rail Station",
+               "short_name" : "Sakinaka Metro rail Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "G.A Link Road",
+               "short_name" : "G.A Link Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sathi D Souza Nagar",
+               "short_name" : "Sathi D Souza Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakinaka",
+               "short_name" : "Sakinaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400072",
+               "short_name" : "400072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sakinaka Metro rail Station, G.A Link Road, Sathi D Souza Nagar, Andheri East, Sakinaka, Mumbai, Maharashtra 400072, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1036438,
+               "lng" : 72.8877861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1049927802915,
+                  "lng" : 72.88913508029151
+               },
+               "southwest" : {
+                  "lat" : 19.1022948197085,
+                  "lng" : 72.8864371197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

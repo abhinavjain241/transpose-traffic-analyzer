@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indraprashta Marg",
+               "short_name" : "Indraprashta Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110002",
+               "short_name" : "110002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indraprashta Marg, New Delhi, Delhi 110002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6288727,
+                  "lng" : 77.2501233
+               },
+               "southwest" : {
+                  "lat" : 28.6275257,
+                  "lng" : 77.24136
+               }
+            },
+            "location" : {
+               "lat" : 28.6281502,
+               "lng" : 77.2456918
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6295481802915,
+                  "lng" : 77.2501233
+               },
+               "southwest" : {
+                  "lat" : 28.6268502197085,
+                  "lng" : 77.24136
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lok Adalat",
+               "short_name" : "Lok Adalat",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "tala",
+               "short_name" : "tala",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sidhi",
+               "short_name" : "Sidhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "486666",
+               "short_name" : "486666",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lok Adalat, tala, Madhya Pradesh 486666, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.1616512,
+               "lng" : 81.62522989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1630001802915,
+                  "lng" : 81.6265788802915
+               },
+               "southwest" : {
+                  "lat" : 24.1603022197085,
+                  "lng" : 81.62388091970848
+               }
+            }
+         },
+         "types" : [ "courthouse", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lok Adalat",
+               "short_name" : "Lok Adalat",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cantonement Road",
+               "short_name" : "Cantonement Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Police Colony",
+               "short_name" : "Police Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Buxi Bazaar",
+               "short_name" : "Buxi Bazaar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cuttack",
+               "short_name" : "Cuttack",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuttack",
+               "short_name" : "Cuttack",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odisha",
+               "short_name" : "OD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "753001",
+               "short_name" : "753001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lok Adalat, Cantonement Road, Police Colony, Buxi Bazaar, Cuttack, Odisha 753001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.479747,
+               "lng" : 85.877059
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.4810959802915,
+                  "lng" : 85.87840798029151
+               },
+               "southwest" : {
+                  "lat" : 20.4783980197085,
+                  "lng" : 85.87571001970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

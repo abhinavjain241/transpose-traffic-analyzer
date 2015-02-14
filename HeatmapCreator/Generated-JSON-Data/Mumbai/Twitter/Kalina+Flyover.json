@@ -1,0 +1,221 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalina Flyover",
+               "short_name" : "Kalina Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ambedkar Nagar",
+               "short_name" : "Ambedkar Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla West",
+               "short_name" : "Kurla West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400070",
+               "short_name" : "400070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalina Flyover, Ambedkar Nagar, Kurla West, Kurla, Mumbai, Maharashtra 400070",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0738862,
+               "lng" : 72.87998759999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0752351802915,
+                  "lng" : 72.8813365802915
+               },
+               "southwest" : {
+                  "lat" : 19.0725372197085,
+                  "lng" : 72.8786386197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurla - Kalina Flyover",
+               "short_name" : "Kurla - Kalina Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kurla West",
+               "short_name" : "Kurla West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400070",
+               "short_name" : "400070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kurla - Kalina Flyover, Kurla West, Kurla, Mumbai, Maharashtra 400070, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0766169,
+                  "lng" : 72.87964769999999
+               },
+               "southwest" : {
+                  "lat" : 19.0747012,
+                  "lng" : 72.87456209999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0760732,
+               "lng" : 72.87721479999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0770080302915,
+                  "lng" : 72.87964769999999
+               },
+               "southwest" : {
+                  "lat" : 19.0743100697085,
+                  "lng" : 72.87456209999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalina-Vakola Flyover",
+               "short_name" : "Kalina-Vakola Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vakola",
+               "short_name" : "Vakola",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz East",
+               "short_name" : "Santacruz East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400055",
+               "short_name" : "400055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalina-Vakola Flyover, Vakola, Santacruz East, Mumbai, Maharashtra 400055, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0840306,
+                  "lng" : 72.847382
+               },
+               "southwest" : {
+                  "lat" : 19.0712492,
+                  "lng" : 72.8461284
+               }
+            },
+            "location" : {
+               "lat" : 19.0775162,
+               "lng" : 72.84695499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0840306,
+                  "lng" : 72.8481041802915
+               },
+               "southwest" : {
+                  "lat" : 19.0712492,
+                  "lng" : 72.84540621970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

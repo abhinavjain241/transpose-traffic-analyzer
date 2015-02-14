@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DND Flyway",
+               "short_name" : "DND Flyway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Friends Colony",
+               "short_name" : "New Friends Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Delhi",
+               "short_name" : "East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110096",
+               "short_name" : "110096",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "DND Flyway, New Friends Colony, New Delhi, Delhi 110096",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5837948,
+               "lng" : 77.2947417
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5851437802915,
+                  "lng" : 77.29609068029151
+               },
+               "southwest" : {
+                  "lat" : 28.5824458197085,
+                  "lng" : 77.29339271970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

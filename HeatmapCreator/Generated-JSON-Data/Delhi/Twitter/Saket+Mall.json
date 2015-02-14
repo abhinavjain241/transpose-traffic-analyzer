@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mall Road",
+               "short_name" : "Mall Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meerut",
+               "short_name" : "Meerut",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meerut",
+               "short_name" : "Meerut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "250001",
+               "short_name" : "250001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mall Road, Meerut, Uttar Pradesh 250001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0021742,
+                  "lng" : 77.72422279999999
+               },
+               "southwest" : {
+                  "lat" : 29.0003944,
+                  "lng" : 77.71470979999999
+               }
+            },
+            "location" : {
+               "lat" : 29.0012257,
+               "lng" : 77.7198131
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.00263328029149,
+                  "lng" : 77.72422279999999
+               },
+               "southwest" : {
+                  "lat" : 28.9999353197085,
+                  "lng" : 77.71470979999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mall Road",
+               "short_name" : "Mall Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Purwa",
+               "short_name" : "Dhaka Purwa",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cooperganj",
+               "short_name" : "Cooperganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur",
+               "short_name" : "Kanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur Nagar",
+               "short_name" : "Kanpur Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "208006",
+               "short_name" : "208006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mall Road, Railway Colony, Dhaka Purwa, Cooperganj, Kanpur, Uttar Pradesh 208006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4510934,
+                  "lng" : 80.33406029999999
+               },
+               "southwest" : {
+                  "lat" : 26.4494332,
+                  "lng" : 80.33186049999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4500025,
+               "lng" : 80.33357980000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4516122802915,
+                  "lng" : 80.3343093802915
+               },
+               "southwest" : {
+                  "lat" : 26.4489143197085,
+                  "lng" : 80.33161141970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MALL Parking",
+               "short_name" : "MALL Parking",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Select Citywalk Driveway",
+               "short_name" : "Select Citywalk Driveway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saket District Centre",
+               "short_name" : "Saket District Centre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "District Centre",
+               "short_name" : "District Centre",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 6",
+               "short_name" : "Sector 6",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Saket",
+               "short_name" : "Saket",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110017",
+               "short_name" : "110017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MALL Parking, Select Citywalk Driveway, Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5295804,
+               "lng" : 77.21778599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5309293802915,
+                  "lng" : 77.2191349802915
+               },
+               "southwest" : {
+                  "lat" : 28.5282314197085,
+                  "lng" : 77.21643701970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "parking", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

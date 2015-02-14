@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalina-Vakola Flyover",
+               "short_name" : "Kalina-Vakola Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vakola",
+               "short_name" : "Vakola",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz East",
+               "short_name" : "Santacruz East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400055",
+               "short_name" : "400055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalina-Vakola Flyover, Vakola, Santacruz East, Mumbai, Maharashtra 400055, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0840306,
+                  "lng" : 72.847382
+               },
+               "southwest" : {
+                  "lat" : 19.0712492,
+                  "lng" : 72.8461284
+               }
+            },
+            "location" : {
+               "lat" : 19.0775162,
+               "lng" : 72.84695499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0840306,
+                  "lng" : 72.8481041802915
+               },
+               "southwest" : {
+                  "lat" : 19.0712492,
+                  "lng" : 72.84540621970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

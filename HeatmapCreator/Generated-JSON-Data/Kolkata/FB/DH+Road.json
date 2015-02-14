@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DH Road",
+               "short_name" : "DH Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kathua",
+               "short_name" : "Kathua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "184101",
+               "short_name" : "184101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "DH Road, Kathua 184101",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.388715,
+                  "lng" : 75.5278701
+               },
+               "southwest" : {
+                  "lat" : 32.3722599,
+                  "lng" : 75.52573629999999
+               }
+            },
+            "location" : {
+               "lat" : 32.3803861,
+               "lng" : 75.527834
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.388715,
+                  "lng" : 75.5281521802915
+               },
+               "southwest" : {
+                  "lat" : 32.3722599,
+                  "lng" : 75.52545421970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DH Road",
+               "short_name" : "DH Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheikhupura",
+               "short_name" : "Sheikhupura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DH Road, Sheikhupura, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.6898917,
+                  "lng" : 74.082436
+               },
+               "southwest" : {
+                  "lat" : 31.6817709,
+                  "lng" : 74.08111099999999
+               }
+            },
+            "location" : {
+               "lat" : 31.6875455,
+               "lng" : 74.08140059999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.6898917,
+                  "lng" : 74.08312248029151
+               },
+               "southwest" : {
+                  "lat" : 31.6817709,
+                  "lng" : 74.0804245197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

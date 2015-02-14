@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colaba",
+               "short_name" : "Colaba",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Apollo Bandar",
+               "short_name" : "Apollo Bandar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Colaba",
+               "short_name" : "Colaba",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Colaba, Apollo Bandar, Colaba, Maharashtra 400001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.921993,
+                  "lng" : 72.8349834
+               },
+               "southwest" : {
+                  "lat" : 18.921565,
+                  "lng" : 72.834447
+               }
+            },
+            "location" : {
+               "lat" : 18.9217887,
+               "lng" : 72.8347235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9231279802915,
+                  "lng" : 72.8360641802915
+               },
+               "southwest" : {
+                  "lat" : 18.9204300197085,
+                  "lng" : 72.83336621970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

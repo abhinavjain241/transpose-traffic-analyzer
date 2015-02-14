@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moti Nagar Metro Station",
+               "short_name" : "Moti Nagar Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Najafgarh Road",
+               "short_name" : "Najafgarh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "DLE Industrial Area",
+               "short_name" : "DLE Industrial Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kirti Nagar",
+               "short_name" : "Kirti Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110015",
+               "short_name" : "110015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moti Nagar Metro Station, Najafgarh Road, DLE Industrial Area, Kirti Nagar, New Delhi, Delhi 110015, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6583173,
+                  "lng" : 77.1432039
+               },
+               "southwest" : {
+                  "lat" : 28.6571922,
+                  "lng" : 77.1414243
+               }
+            },
+            "location" : {
+               "lat" : 28.6578704,
+               "lng" : 77.1426742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6591037302915,
+                  "lng" : 77.1436630802915
+               },
+               "southwest" : {
+                  "lat" : 28.6564057697085,
+                  "lng" : 77.1409651197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

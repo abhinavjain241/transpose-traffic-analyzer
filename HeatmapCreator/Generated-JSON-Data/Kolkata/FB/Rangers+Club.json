@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangers Football Club",
+               "short_name" : "Rangers Football Club",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Edmiston Drive",
+               "short_name" : "Edmiston Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Govan",
+               "short_name" : "Govan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G51 2XD",
+               "short_name" : "G51 2XD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rangers Football Club, 150 Edmiston Drive, Glasgow, Glasgow City G51 2XD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.8531673,
+               "lng" : -4.3092799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8545162802915,
+                  "lng" : -4.307930919708498
+               },
+               "southwest" : {
+                  "lat" : 55.8518183197085,
+                  "lng" : -4.310628880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

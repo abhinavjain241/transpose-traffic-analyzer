@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghodbunder Road",
+               "short_name" : "Ghodbunder Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ghodbunder Road, Thane, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2869207,
+                  "lng" : 72.97835139999999
+               },
+               "southwest" : {
+                  "lat" : 19.2125931,
+                  "lng" : 72.9042493
+               }
+            },
+            "location" : {
+               "lat" : 19.2597162,
+               "lng" : 72.9695364
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2869207,
+                  "lng" : 72.97835139999999
+               },
+               "southwest" : {
+                  "lat" : 19.2125931,
+                  "lng" : 72.9042493
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghodbunder Road",
+               "short_name" : "Ghodbunder Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400615",
+               "short_name" : "400615",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ghodbunder Road, Thane West, Thane, Maharashtra 400615, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2653842,
+                  "lng" : 72.9748206
+               },
+               "southwest" : {
+                  "lat" : 19.263785,
+                  "lng" : 72.967904
+               }
+            },
+            "location" : {
+               "lat" : 19.2651852,
+               "lng" : 72.97128719999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2659335802915,
+                  "lng" : 72.9748206
+               },
+               "southwest" : {
+                  "lat" : 19.2632356197085,
+                  "lng" : 72.967904
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

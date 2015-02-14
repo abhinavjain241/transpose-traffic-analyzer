@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghatkopar",
+               "short_name" : "Ghatkopar",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Pedestrian Overpass",
+               "short_name" : "Pedestrian Overpass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saibaba Nagar",
+               "short_name" : "Saibaba Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pant Nagar",
+               "short_name" : "Pant Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar East",
+               "short_name" : "Ghatkopar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400077",
+               "short_name" : "400077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ghatkopar, Pedestrian Overpass, Saibaba Nagar, Pant Nagar, Ghatkopar East, Mumbai, Maharashtra 400077, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0868436,
+                  "lng" : 72.9098654
+               },
+               "southwest" : {
+                  "lat" : 19.0844965,
+                  "lng" : 72.9064858
+               }
+            },
+            "location" : {
+               "lat" : 19.0856491,
+               "lng" : 72.9082207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0870190302915,
+                  "lng" : 72.9098654
+               },
+               "southwest" : {
+                  "lat" : 19.08432106970849,
+                  "lng" : 72.9064858
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

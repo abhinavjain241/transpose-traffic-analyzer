@@ -1,0 +1,514 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk Metro Station",
+               "short_name" : "Patel Chowk Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Janpath",
+               "short_name" : "Janpath",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk Metro Station, Janpath, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6232809,
+               "lng" : 77.214478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6246298802915,
+                  "lng" : 77.21582698029151
+               },
+               "southwest" : {
+                  "lat" : 28.6219319197085,
+                  "lng" : 77.2131290197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6238106,
+                  "lng" : 77.21321069999999
+               },
+               "southwest" : {
+                  "lat" : 28.623059,
+                  "lng" : 77.2123534
+               }
+            },
+            "location" : {
+               "lat" : 28.6230819,
+               "lng" : 77.2126452
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6247837802915,
+                  "lng" : 77.2141310302915
+               },
+               "southwest" : {
+                  "lat" : 28.6220858197085,
+                  "lng" : 77.21143306970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balia Lakhminian",
+               "short_name" : "Balia Lakhminian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Begusarai",
+               "short_name" : "Begusarai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "851211",
+               "short_name" : "851211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, Balia Lakhminian, Bihar 851211, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.4203788,
+                  "lng" : 86.30947639999999
+               },
+               "southwest" : {
+                  "lat" : 25.420256,
+                  "lng" : 86.3093404
+               }
+            },
+            "location" : {
+               "lat" : 25.4202757,
+               "lng" : 86.30945819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.4216663802915,
+                  "lng" : 86.31075738029149
+               },
+               "southwest" : {
+                  "lat" : 25.4189684197085,
+                  "lng" : 86.30805941970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mangal Parao",
+               "short_name" : "Mangal Parao",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Banbhoolpura",
+               "short_name" : "Banbhoolpura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haldwani",
+               "short_name" : "Haldwani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nainital",
+               "short_name" : "Nainital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttarakhand",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "263139",
+               "short_name" : "263139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, Mangal Parao, Banbhoolpura, Haldwani, Uttarakhand 263139, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.2149198,
+                  "lng" : 79.5296216
+               },
+               "southwest" : {
+                  "lat" : 29.2139406,
+                  "lng" : 79.5291247
+               }
+            },
+            "location" : {
+               "lat" : 29.214268,
+               "lng" : 79.52928589999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2157791802915,
+                  "lng" : 79.53072213029151
+               },
+               "southwest" : {
+                  "lat" : 29.2130812197085,
+                  "lng" : 79.5280241697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ashoka Road",
+               "short_name" : "Ashoka Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pandit Pant Marg Area",
+               "short_name" : "Pandit Pant Marg Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sansad Marg Road Area",
+               "short_name" : "Sansad Marg Road Area",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, Ashoka Road, Pandit Pant Marg Area, Sansad Marg Road Area, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.624528,
+               "lng" : 77.2107393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6258769802915,
+                  "lng" : 77.2120882802915
+               },
+               "southwest" : {
+                  "lat" : 28.62317901970849,
+                  "lng" : 77.20939031970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Delatoli",
+               "short_name" : "Delatoli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ranchi",
+               "short_name" : "Ranchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranchi",
+               "short_name" : "Ranchi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jharkhand",
+               "short_name" : "JH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "834002",
+               "short_name" : "834002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, Delatoli, Ranchi, Jharkhand 834002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.3559036,
+                  "lng" : 85.3051389
+               },
+               "southwest" : {
+                  "lat" : 23.3556643,
+                  "lng" : 85.305027
+               }
+            },
+            "location" : {
+               "lat" : 23.3559036,
+               "lng" : 85.3051389
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.3571329302915,
+                  "lng" : 85.30643193029151
+               },
+               "southwest" : {
+                  "lat" : 23.3544349697085,
+                  "lng" : 85.30373396970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pathankot",
+               "short_name" : "Pathankot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pathankot",
+               "short_name" : "Pathankot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "145001",
+               "short_name" : "145001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, Pathankot, Punjab 145001",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.2698484,
+               "lng" : 75.6560028
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2711973802915,
+                  "lng" : 75.65735178029151
+               },
+               "southwest" : {
+                  "lat" : 32.2684994197085,
+                  "lng" : 75.6546538197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patel Chowk",
+               "short_name" : "Patel Chowk",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Khanbhag",
+               "short_name" : "Khanbhag",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sangli",
+               "short_name" : "Sangli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sangli",
+               "short_name" : "Sangli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "416416",
+               "short_name" : "416416",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patel Chowk, Khanbhag, Sangli, Maharashtra 416416, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 16.8618787,
+               "lng" : 74.56595779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.8632276802915,
+                  "lng" : 74.5673067802915
+               },
+               "southwest" : {
+                  "lat" : 16.8605297197085,
+                  "lng" : 74.56460881970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

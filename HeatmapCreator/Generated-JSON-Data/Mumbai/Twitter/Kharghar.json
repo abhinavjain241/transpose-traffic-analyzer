@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kharghar",
+               "short_name" : "Kharghar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kharghar, Navi Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1071559,
+                  "lng" : 73.0925869
+               },
+               "southwest" : {
+                  "lat" : 19.022248,
+                  "lng" : 73.0297125
+               }
+            },
+            "location" : {
+               "lat" : 19.0473216,
+               "lng" : 73.0699046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1071559,
+                  "lng" : 73.0925869
+               },
+               "southwest" : {
+                  "lat" : 19.022248,
+                  "lng" : 73.0297125
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

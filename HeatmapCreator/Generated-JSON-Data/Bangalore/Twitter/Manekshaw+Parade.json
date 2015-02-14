@@ -1,0 +1,276 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manekshaw Road",
+               "short_name" : "Manekshaw Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Delhi Cantonment",
+               "short_name" : "Delhi Cantonment",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110010",
+               "short_name" : "110010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manekshaw Road, Delhi Cantonment, New Delhi, Delhi 110010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5963287,
+                  "lng" : 77.14398369999999
+               },
+               "southwest" : {
+                  "lat" : 28.5850872,
+                  "lng" : 77.1322448
+               }
+            },
+            "location" : {
+               "lat" : 28.5903853,
+               "lng" : 77.1384032
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5963287,
+                  "lng" : 77.14398369999999
+               },
+               "southwest" : {
+                  "lat" : 28.5850872,
+                  "lng" : 77.1322448
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manekshaw Road",
+               "short_name" : "Manekshaw Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sainik Farm",
+               "short_name" : "Sainik Farm",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110062",
+               "short_name" : "110062",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manekshaw Road, Sainik Farm, New Delhi, Delhi 110062, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.512848,
+                  "lng" : 77.22384839999999
+               },
+               "southwest" : {
+                  "lat" : 28.5094381,
+                  "lng" : 77.21019769999999
+               }
+            },
+            "location" : {
+               "lat" : 28.510103,
+               "lng" : 77.21668889999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.512848,
+                  "lng" : 77.22384839999999
+               },
+               "southwest" : {
+                  "lat" : 28.5094381,
+                  "lng" : 77.21019769999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parade Road",
+               "short_name" : "Parade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khyber Lines",
+               "short_name" : "Khyber Lines",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Delhi Cantonment",
+               "short_name" : "Delhi Cantonment",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110010",
+               "short_name" : "110010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parade Road, Khyber Lines, Delhi Cantonment, New Delhi, Delhi 110010, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5850872,
+               "lng" : 77.14398369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5864361802915,
+                  "lng" : 77.1453326802915
+               },
+               "southwest" : {
+                  "lat" : 28.5837382197085,
+                  "lng" : 77.14263471970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manekshaw Marg",
+               "short_name" : "Manekshaw Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sainik Farm",
+               "short_name" : "Sainik Farm",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110044",
+               "short_name" : "110044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manekshaw Marg, Sainik Farm, New Delhi, Delhi 110044, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5132428,
+                  "lng" : 77.2091569
+               },
+               "southwest" : {
+                  "lat" : 28.5123793,
+                  "lng" : 77.2076344
+               }
+            },
+            "location" : {
+               "lat" : 28.5126815,
+               "lng" : 77.20854059999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5141600302915,
+                  "lng" : 77.20974463029151
+               },
+               "southwest" : {
+                  "lat" : 28.5114620697085,
+                  "lng" : 77.2070466697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

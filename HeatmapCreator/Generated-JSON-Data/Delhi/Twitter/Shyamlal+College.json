@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shyamlal College",
+               "short_name" : "Shyamlal College",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dwarkapuri",
+               "short_name" : "Dwarkapuri",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shahdara",
+               "short_name" : "Shahdara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Delhi",
+               "short_name" : "East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110032",
+               "short_name" : "110032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shyamlal College, Dwarkapuri, Shahdara, New Delhi, Delhi 110032",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.67362899999999,
+               "lng" : 77.28354499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.67497798029149,
+                  "lng" : 77.28489398029149
+               },
+               "southwest" : {
+                  "lat" : 28.6722800197085,
+                  "lng" : 77.28219601970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

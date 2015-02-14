@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borivali",
+               "short_name" : "Borivali",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lokmanya Tilak Road",
+               "short_name" : "LT Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Datta Park",
+               "short_name" : "Datta Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Borivali",
+               "short_name" : "Borivali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400066",
+               "short_name" : "400066",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borivali, Lokmanya Tilak Road, Datta Park, Borivali, Mumbai, Maharashtra 400066, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2322593,
+                  "lng" : 72.85758369999999
+               },
+               "southwest" : {
+                  "lat" : 19.2216424,
+                  "lng" : 72.8551377
+               }
+            },
+            "location" : {
+               "lat" : 19.2289781,
+               "lng" : 72.8568135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2322593,
+                  "lng" : 72.85770968029149
+               },
+               "southwest" : {
+                  "lat" : 19.2216424,
+                  "lng" : 72.85501171970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

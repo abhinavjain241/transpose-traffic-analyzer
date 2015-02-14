@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Showroom",
+               "short_name" : "Showroom",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University Heights",
+               "short_name" : "University Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92103",
+               "short_name" : "92103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Showroom, San Diego, CA 92103, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7556413,
+                  "lng" : -117.1451307
+               },
+               "southwest" : {
+                  "lat" : 32.7554849,
+                  "lng" : -117.1453301
+               }
+            },
+            "location" : {
+               "lat" : 32.7555427,
+               "lng" : -117.1452715
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.75691208029149,
+                  "lng" : -117.1438814197085
+               },
+               "southwest" : {
+                  "lat" : 32.7542141197085,
+                  "lng" : -117.1465793802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

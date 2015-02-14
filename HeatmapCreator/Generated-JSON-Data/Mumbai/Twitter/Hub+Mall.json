@@ -1,0 +1,162 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HUB Mall",
+               "short_name" : "HUB",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Alberta",
+               "short_name" : "University of Alberta",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "209-9005",
+               "short_name" : "209-9005",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "112 Street Northwest",
+               "short_name" : "112 St NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Edmonton",
+               "short_name" : "South Central Edmonton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Edmonton",
+               "short_name" : "Edmonton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T6G 2C5",
+               "short_name" : "T6G 2C5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "HUB Mall, University of Alberta, 209-9005 112 Street Northwest, Edmonton, AB T6G 2C5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5275763,
+                  "lng" : -113.5199748
+               },
+               "southwest" : {
+                  "lat" : 53.5249202,
+                  "lng" : -113.520957
+               }
+            },
+            "location" : {
+               "lat" : 53.5262482,
+               "lng" : -113.5204659
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5275972302915,
+                  "lng" : -113.5191169197085
+               },
+               "southwest" : {
+                  "lat" : 53.5248992697085,
+                  "lng" : -113.5218148802915
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Hub Mall",
+               "short_name" : "The Hub Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Nirlon Compound",
+               "short_name" : "Nirlon Compound",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cama Industrial Estate",
+               "short_name" : "Cama Industrial Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Goregaon East",
+               "short_name" : "Goregaon East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400063",
+               "short_name" : "400063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Hub Mall, Nirlon Compound, Cama Industrial Estate, Goregaon East, Mumbai, Maharashtra 400063, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1550735,
+                  "lng" : 72.8564286
+               },
+               "southwest" : {
+                  "lat" : 19.1545534,
+                  "lng" : 72.8560327
+               }
+            },
+            "location" : {
+               "lat" : 19.1547995,
+               "lng" : 72.8562558
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1561624302915,
+                  "lng" : 72.85757963029151
+               },
+               "southwest" : {
+                  "lat" : 19.1534644697085,
+                  "lng" : 72.8548816697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Harbour Line CST Panvel",
+               "short_name" : "Central Railway Harbour Line CST Panvel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Harbour Line CST Panvel, Kurla, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0675254,
+                  "lng" : 72.88440869999999
+               },
+               "southwest" : {
+                  "lat" : 19.066811,
+                  "lng" : 72.8819858
+               }
+            },
+            "location" : {
+               "lat" : 19.0671682,
+               "lng" : 72.8831972
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0685171802915,
+                  "lng" : 72.88454623029149
+               },
+               "southwest" : {
+                  "lat" : 19.06581921970849,
+                  "lng" : 72.88184826970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

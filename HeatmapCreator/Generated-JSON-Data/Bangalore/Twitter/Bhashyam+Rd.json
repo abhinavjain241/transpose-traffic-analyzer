@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhashyam Road",
+               "short_name" : "Bhashyam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560053",
+               "short_name" : "560053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhashyam Road, Bengaluru, Karnataka 560053, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9746431,
+                  "lng" : 77.57047679999999
+               },
+               "southwest" : {
+                  "lat" : 12.9643131,
+                  "lng" : 77.56990209999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9693042,
+               "lng" : 77.57017909999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9746431,
+                  "lng" : 77.57153843029148
+               },
+               "southwest" : {
+                  "lat" : 12.9643131,
+                  "lng" : 77.56884046970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

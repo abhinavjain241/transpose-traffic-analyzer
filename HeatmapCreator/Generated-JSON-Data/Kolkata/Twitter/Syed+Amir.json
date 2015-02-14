@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syed Amir Ali Avenue",
+               "short_name" : "Syed Amir Ali Avenue",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Gariahat Road",
+               "short_name" : "Gariahat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ekdalia",
+               "short_name" : "Ekdalia",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700019",
+               "short_name" : "700019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syed Amir Ali Avenue, Gariahat Road, Ekdalia, Ballygunge, Kolkata, West Bengal 700019, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5203526,
+                  "lng" : 88.36575669999999
+               },
+               "southwest" : {
+                  "lat" : 22.5200813,
+                  "lng" : 88.36548789999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5202169,
+               "lng" : 88.3656223
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5215659302915,
+                  "lng" : 88.36697128029151
+               },
+               "southwest" : {
+                  "lat" : 22.5188679697085,
+                  "lng" : 88.36427331970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syed Ibn Amir",
+               "short_name" : "Syed Ibn Amir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "An Nakhil",
+               "short_name" : "An Nakhil",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Riyadh",
+               "short_name" : "Riyadh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riyadh Province",
+               "short_name" : "Riyadh Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syed Ibn Amir, An Nakhil, Riyadh Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7392714,
+                  "lng" : 46.6085404
+               },
+               "southwest" : {
+                  "lat" : 24.7319212,
+                  "lng" : 46.59343
+               }
+            },
+            "location" : {
+               "lat" : 24.7355224,
+               "lng" : 46.6012095
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7392714,
+                  "lng" : 46.6085404
+               },
+               "southwest" : {
+                  "lat" : 24.7319212,
+                  "lng" : 46.59343
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ameer Cottage",
+               "short_name" : "Ameer Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mallah Nagla Road",
+               "short_name" : "Mallah Nagla Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "S.S Nagar",
+               "short_name" : "S.S Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aligarh",
+               "short_name" : "Aligarh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aligarh",
+               "short_name" : "Aligarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "202001",
+               "short_name" : "202001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ameer Cottage, Mallah Nagla Road, S.S Nagar, Aligarh, Uttar Pradesh 202001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9099893,
+                  "lng" : 78.0895342
+               },
+               "southwest" : {
+                  "lat" : 27.9097581,
+                  "lng" : 78.0892673
+               }
+            },
+            "location" : {
+               "lat" : 27.9098737,
+               "lng" : 78.08940079999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.91122268029151,
+                  "lng" : 78.09074973029151
+               },
+               "southwest" : {
+                  "lat" : 27.9085247197085,
+                  "lng" : 78.0880517697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,335 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golpark",
+               "short_name" : "Golpark",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "South Dum Dum",
+               "short_name" : "South Dum Dum",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Golpark, South Dum Dum, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6329521,
+                  "lng" : 88.425101
+               },
+               "southwest" : {
+                  "lat" : 22.623258,
+                  "lng" : 88.413811
+               }
+            },
+            "location" : {
+               "lat" : 22.6255337,
+               "lng" : 88.4197886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6329521,
+                  "lng" : 88.425101
+               },
+               "southwest" : {
+                  "lat" : 22.623258,
+                  "lng" : 88.413811
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golpark",
+               "short_name" : "Golpark",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Qara Aghaj",
+               "short_name" : "Qara Aghaj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tabriz",
+               "short_name" : "Tabriz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tabriz",
+               "short_name" : "Tabriz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "East Azerbaijan",
+               "short_name" : "East Azerbaijan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Azerbaijan, Tabriz, Qara Aghaj, Golpark, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0823594,
+                  "lng" : 46.251128
+               },
+               "southwest" : {
+                  "lat" : 38.0820396,
+                  "lng" : 46.2458606
+               }
+            },
+            "location" : {
+               "lat" : 38.0820396,
+               "lng" : 46.2485813
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0835484802915,
+                  "lng" : 46.251128
+               },
+               "southwest" : {
+                  "lat" : 38.08085051970851,
+                  "lng" : 46.2458606
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golpark",
+               "short_name" : "Golpark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jagatdal",
+               "short_name" : "Jagatdal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743194",
+               "short_name" : "743194",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golpark, Jagatdal, Kolkata, West Bengal 743194, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.8556153,
+               "lng" : 88.3894301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8569642802915,
+                  "lng" : 88.39077908029149
+               },
+               "southwest" : {
+                  "lat" : 22.8542663197085,
+                  "lng" : 88.38808111970849
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golpark",
+               "short_name" : "Golpark",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Gol Park",
+               "short_name" : "Gol Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Golpark",
+               "short_name" : "Golpark",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gariahat",
+               "short_name" : "Gariahat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700029",
+               "short_name" : "700029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golpark, Gol Park, Golpark, Gariahat, Kolkata, West Bengal 700029, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5164545,
+                  "lng" : 88.36647570000001
+               },
+               "southwest" : {
+                  "lat" : 22.5160556,
+                  "lng" : 88.3660519
+               }
+            },
+            "location" : {
+               "lat" : 22.5162205,
+               "lng" : 88.36623609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5176040302915,
+                  "lng" : 88.36761278029152
+               },
+               "southwest" : {
+                  "lat" : 22.51490606970849,
+                  "lng" : 88.3649148197085
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golpark",
+               "short_name" : "Golpark",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "BTPS Township",
+               "short_name" : "BTPS Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tribeni",
+               "short_name" : "Tribeni",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hooghly",
+               "short_name" : "Hooghly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "712503",
+               "short_name" : "712503",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golpark, BTPS Township, Tribeni, West Bengal 712503, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.9936259,
+                  "lng" : 88.39196339999999
+               },
+               "southwest" : {
+                  "lat" : 22.9932531,
+                  "lng" : 88.3915154
+               }
+            },
+            "location" : {
+               "lat" : 22.9934058,
+               "lng" : 88.39171309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9947884802915,
+                  "lng" : 88.3930883802915
+               },
+               "southwest" : {
+                  "lat" : 22.9920905197085,
+                  "lng" : 88.3903904197085
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

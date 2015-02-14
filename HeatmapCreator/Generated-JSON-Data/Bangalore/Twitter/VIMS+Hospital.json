@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "VIMS Hospital",
+               "short_name" : "VIMS Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hanumanthavaka",
+               "short_name" : "Hanumanthavaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Visakhapatnam",
+               "short_name" : "Visakhapatnam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vishakhapatnam",
+               "short_name" : "Vishakhapatnam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "530040",
+               "short_name" : "530040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "VIMS Hospital, Hanumanthavaka, Visakhapatnam, Andhra Pradesh 530040, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.7593523,
+               "lng" : 83.3297824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.7607012802915,
+                  "lng" : 83.33113138029151
+               },
+               "southwest" : {
+                  "lat" : 17.7580033197085,
+                  "lng" : 83.3284334197085
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "VIMS HOSPITAL",
+               "short_name" : "VIMS HOSPITAL",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kallachi",
+               "short_name" : "Kallachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kozhikode",
+               "short_name" : "Kozhikode",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "673506",
+               "short_name" : "673506",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "VIMS HOSPITAL, Kallachi, Kerala 673506, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.6909251,
+                  "lng" : 75.66548349999999
+               },
+               "southwest" : {
+                  "lat" : 11.6905415,
+                  "lng" : 75.6650169
+               }
+            },
+            "location" : {
+               "lat" : 11.6906458,
+               "lng" : 75.6652654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.6920822802915,
+                  "lng" : 75.6665991802915
+               },
+               "southwest" : {
+                  "lat" : 11.6893843197085,
+                  "lng" : 75.66390121970849
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

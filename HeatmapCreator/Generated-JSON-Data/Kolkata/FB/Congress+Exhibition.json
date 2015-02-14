@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Congress Exhibition Road",
+               "short_name" : "Congress Exhibition Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700017",
+               "short_name" : "700017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Congress Exhibition Road, Ballygunge, Kolkata, West Bengal 700017, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5411718,
+                  "lng" : 88.36817649999999
+               },
+               "southwest" : {
+                  "lat" : 22.5404293,
+                  "lng" : 88.3655909
+               }
+            },
+            "location" : {
+               "lat" : 22.5409359,
+               "lng" : 88.3667315
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5421495302915,
+                  "lng" : 88.3682326802915
+               },
+               "southwest" : {
+                  "lat" : 22.5394515697085,
+                  "lng" : 88.36553471970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

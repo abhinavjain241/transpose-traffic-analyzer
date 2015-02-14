@@ -1,0 +1,240 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Girish Park",
+               "short_name" : "Girish Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "223",
+               "short_name" : "223",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Chittaranjan Avenue Road",
+               "short_name" : "Chittaranjan Ave Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Girish Park",
+               "short_name" : "Girish Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Singhi Bagan",
+               "short_name" : "Singhi Bagan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jorasanko",
+               "short_name" : "Jorasanko",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "223, Girish Park, Chittaranjan Avenue Road, Girish Park, Singhi Bagan, Jorasanko, Kolkata, West Bengal 700006, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5859123,
+               "lng" : 88.3622508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5872612802915,
+                  "lng" : 88.36359978029151
+               },
+               "southwest" : {
+                  "lat" : 22.5845633197085,
+                  "lng" : 88.36090181970849
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Girish Park",
+               "short_name" : "Girish Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Vivekananda Rd",
+               "short_name" : "Vivekananda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Girish Park",
+               "short_name" : "Girish Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Azad Hind Bag",
+               "short_name" : "Azad Hind Bag",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jorasanko",
+               "short_name" : "Jorasanko",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700007",
+               "short_name" : "700007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Girish Park, Vivekananda Rd, Girish Park, Azad Hind Bag, Jorasanko, Kolkata, West Bengal 700007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5862209,
+                  "lng" : 88.36244470000001
+               },
+               "southwest" : {
+                  "lat" : 22.5856291,
+                  "lng" : 88.3618949
+               }
+            },
+            "location" : {
+               "lat" : 22.5859549,
+               "lng" : 88.36225399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5872739802915,
+                  "lng" : 88.36351878029151
+               },
+               "southwest" : {
+                  "lat" : 22.5845760197085,
+                  "lng" : 88.36082081970851
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aradhana Building",
+               "short_name" : "Aradhana Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Annada Prasad Street",
+               "short_name" : "Annada Prasad St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darjipara",
+               "short_name" : "Darjipara",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aradhana Building, Annada Prasad Street, Darjipara, Kolkata, West Bengal 700006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5929875,
+                  "lng" : 88.364772
+               },
+               "southwest" : {
+                  "lat" : 22.5928571,
+                  "lng" : 88.36452279999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5929223,
+               "lng" : 88.3646474
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5942712802915,
+                  "lng" : 88.36599638029151
+               },
+               "southwest" : {
+                  "lat" : 22.5915733197085,
+                  "lng" : 88.36329841970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

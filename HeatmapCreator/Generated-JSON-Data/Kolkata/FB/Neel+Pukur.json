@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neel Pukur Bus Stop",
+               "short_name" : "Neel Pukur Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Santoshpur Avenue",
+               "short_name" : "Santoshpur Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Purba Diganta",
+               "short_name" : "Purba Diganta",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santoshpur",
+               "short_name" : "Santoshpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700075",
+               "short_name" : "700075",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Neel Pukur Bus Stop, Santoshpur Avenue, Purba Diganta, Santoshpur, Kolkata, West Bengal 700075, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4923266,
+               "lng" : 88.3922759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4936755802915,
+                  "lng" : 88.39362488029151
+               },
+               "southwest" : {
+                  "lat" : 22.4909776197085,
+                  "lng" : 88.39092691970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

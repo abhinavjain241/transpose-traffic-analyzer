@@ -1,0 +1,1871 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram Bus Stop",
+               "short_name" : "Ashram Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 2",
+               "short_name" : "NH 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block A",
+               "short_name" : "Block A",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Friends Colony East",
+               "short_name" : "Friends Colony East",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Friends Colony",
+               "short_name" : "New Friends Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110065",
+               "short_name" : "110065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram Bus Stop, National Highway 2, Block A, Friends Colony East, New Friends Colony, New Delhi, Delhi 110065, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5718731,
+               "lng" : 77.25890099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5732220802915,
+                  "lng" : 77.2602499802915
+               },
+               "southwest" : {
+                  "lat" : 28.57052411970849,
+                  "lng" : 77.25755201970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Phase 2",
+               "short_name" : "Phase 2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sunlight Colony",
+               "short_name" : "Sunlight Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110014",
+               "short_name" : "110014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Phase 2, Sunlight Colony, New Delhi, Delhi 110014",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.574518,
+               "lng" : 77.25688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5758669802915,
+                  "lng" : 77.25822898029151
+               },
+               "southwest" : {
+                  "lat" : 28.57316901970849,
+                  "lng" : 77.25553101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Chetla Central Road",
+               "short_name" : "Chetla Central Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mangalam",
+               "short_name" : "Mangalam",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chetla",
+               "short_name" : "Chetla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700027",
+               "short_name" : "700027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Chetla Central Road, Mangalam, Chetla, Kolkata, West Bengal 700027, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.519068,
+                  "lng" : 88.3316753
+               },
+               "southwest" : {
+                  "lat" : 22.5188425,
+                  "lng" : 88.3314068
+               }
+            },
+            "location" : {
+               "lat" : 22.5189552,
+               "lng" : 88.331541
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5203042302915,
+                  "lng" : 88.33289003029151
+               },
+               "southwest" : {
+                  "lat" : 22.5176062697085,
+                  "lng" : 88.33019206970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Tallital",
+               "short_name" : "Tallital",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nainital",
+               "short_name" : "Nainital",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nainital",
+               "short_name" : "Nainital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttarakhand",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "263002",
+               "short_name" : "263002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Tallital, Nainital, Uttarakhand 263002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.3819227,
+               "lng" : 79.4680917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3832716802915,
+                  "lng" : 79.4694406802915
+               },
+               "southwest" : {
+                  "lat" : 29.3805737197085,
+                  "lng" : 79.46674271970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shahabad",
+               "short_name" : "Shahabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rampur",
+               "short_name" : "Rampur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "241124",
+               "short_name" : "241124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Shahabad 241124, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.6556179,
+               "lng" : 79.9435393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6569668802915,
+                  "lng" : 79.94488828029149
+               },
+               "southwest" : {
+                  "lat" : 27.6542689197085,
+                  "lng" : 79.94219031970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 60",
+               "short_name" : "NH 60",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gangajalghati",
+               "short_name" : "Gangajalghati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bankura",
+               "short_name" : "Bankura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "722133",
+               "short_name" : "722133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, National Highway 60, Gangajalghati, West Bengal 722133, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.4286582,
+               "lng" : 87.11267330000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.4300071802915,
+                  "lng" : 87.11402228029152
+               },
+               "southwest" : {
+                  "lat" : 23.42730921970849,
+                  "lng" : 87.11132431970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kangula",
+               "short_name" : "Kangula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Angul",
+               "short_name" : "Angul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odisha",
+               "short_name" : "OD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "759132",
+               "short_name" : "759132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Kangula, Odisha 759132, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.8005286,
+               "lng" : 85.1193236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.8018775802915,
+                  "lng" : 85.12067258029151
+               },
+               "southwest" : {
+                  "lat" : 20.7991796197085,
+                  "lng" : 85.11797461970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bhagat Bhagaban",
+               "short_name" : "Bhagat Bhagaban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jajpur",
+               "short_name" : "Jajpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odisha",
+               "short_name" : "OD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "755009",
+               "short_name" : "755009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Bhagat Bhagaban, Odisha 755009, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.8896977,
+               "lng" : 86.10283609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.8910466802915,
+                  "lng" : 86.1041850802915
+               },
+               "southwest" : {
+                  "lat" : 20.8883487197085,
+                  "lng" : 86.10148711970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ashram",
+               "short_name" : "ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mayapur",
+               "short_name" : "Mayapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haridwar",
+               "short_name" : "Haridwar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haridwar",
+               "short_name" : "Haridwar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttarakhand",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249401",
+               "short_name" : "249401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ashram, Mayapur, Haridwar, Uttarakhand 249401, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9440827,
+               "lng" : 78.1578897
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9454316802915,
+                  "lng" : 78.15923868029149
+               },
+               "southwest" : {
+                  "lat" : 29.9427337197085,
+                  "lng" : 78.15654071970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Surjan Nagar - Dilari Road",
+               "short_name" : "Surjan Nagar - Dilari Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moradabad",
+               "short_name" : "Moradabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "244401",
+               "short_name" : "244401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Surjan Nagar - Dilari Road, Uttar Pradesh 244401, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.1527516,
+               "lng" : 78.70531439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1541005802915,
+                  "lng" : 78.70666338029149
+               },
+               "southwest" : {
+                  "lat" : 29.1514026197085,
+                  "lng" : 78.70396541970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dighalipukhuri",
+               "short_name" : "Dighalipukhuri",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nizlaluk",
+               "short_name" : "Nizlaluk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lakhimpur",
+               "short_name" : "Lakhimpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "784160",
+               "short_name" : "784160",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Dighalipukhuri, Nizlaluk, Assam 784160, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.1194744,
+               "lng" : 93.9345914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1208233802915,
+                  "lng" : 93.9359403802915
+               },
+               "southwest" : {
+                  "lat" : 27.11812541970849,
+                  "lng" : 93.93324241970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jharoda Majra Burari",
+               "short_name" : "Jharoda Majra Burari",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jharoda Majra",
+               "short_name" : "Jharoda Majra",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jharoda",
+               "short_name" : "Jharoda",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jharoda Majra Burari",
+               "short_name" : "Jharoda Majra Burari",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110084",
+               "short_name" : "110084",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Jharoda Majra Burari, Jharoda Majra, Jharoda, Jharoda Majra Burari, New Delhi, Delhi 110084, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.7274699,
+               "lng" : 77.21218759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7288188802915,
+                  "lng" : 77.21353658029149
+               },
+               "southwest" : {
+                  "lat" : 28.7261209197085,
+                  "lng" : 77.21083861970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mount Abu",
+               "short_name" : "Mount Abu",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Abu",
+               "short_name" : "Abu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sirohi",
+               "short_name" : "Sirohi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "307510",
+               "short_name" : "307510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Mount Abu, Abu, Rajasthan 307510, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.5199458,
+               "lng" : 72.7754223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5212947802915,
+                  "lng" : 72.7767712802915
+               },
+               "southwest" : {
+                  "lat" : 24.5185968197085,
+                  "lng" : 72.77407331970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Purba Dobandi",
+               "short_name" : "Purba Dobandi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Purba Medinipur",
+               "short_name" : "Purba Medinipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "721651",
+               "short_name" : "721651",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Purba Dobandi, West Bengal 721651, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.269598,
+               "lng" : 87.7972949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2709469802915,
+                  "lng" : 87.79864388029151
+               },
+               "southwest" : {
+                  "lat" : 22.2682490197085,
+                  "lng" : 87.7959459197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Surjan Nagar - Dilari Road",
+               "short_name" : "Surjan Nagar - Dilari Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malakpur Shamli",
+               "short_name" : "Malakpur Shamli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moradabad",
+               "short_name" : "Moradabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "244401",
+               "short_name" : "244401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Surjan Nagar - Dilari Road, Malakpur Shamli, Uttar Pradesh 244401, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.1333544,
+               "lng" : 78.70837209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1347033802915,
+                  "lng" : 78.70972108029149
+               },
+               "southwest" : {
+                  "lat" : 29.1320054197085,
+                  "lng" : 78.70702311970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Budh Vihar Colony",
+               "short_name" : "Budh Vihar Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gorakhpur",
+               "short_name" : "Gorakhpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorakhpur",
+               "short_name" : "Gorakhpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "273010",
+               "short_name" : "273010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Budh Vihar Colony, Gorakhpur, Uttar Pradesh 273010, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.7195879,
+               "lng" : 83.39205149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7209368802915,
+                  "lng" : 83.3934004802915
+               },
+               "southwest" : {
+                  "lat" : 26.7182389197085,
+                  "lng" : 83.3907025197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Banakshankari 6th Stage 11th Block",
+               "short_name" : "Banakshankari 6th Stage 11th Block",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Srinivaspura",
+               "short_name" : "Srinivaspura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560060",
+               "short_name" : "560060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Banakshankari 6th Stage 11th Block, Srinivaspura, Bengaluru, Karnataka 560060, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.8996017,
+               "lng" : 77.50560519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9009506802915,
+                  "lng" : 77.5069541802915
+               },
+               "southwest" : {
+                  "lat" : 12.8982527197085,
+                  "lng" : 77.50425621970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "radha krishna mandir",
+               "short_name" : "radha krishna mandir",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "National Highway 2",
+               "short_name" : "NH 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dakhal",
+               "short_name" : "Dakhal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Firozabad",
+               "short_name" : "Firozabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Firozabad",
+               "short_name" : "Firozabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "283203",
+               "short_name" : "283203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, radha krishna mandir, National Highway 2, Dakhal, Firozabad, Uttar Pradesh 283203, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.1607675,
+               "lng" : 78.3968228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1621164802915,
+                  "lng" : 78.39817178029151
+               },
+               "southwest" : {
+                  "lat" : 27.1594185197085,
+                  "lng" : 78.39547381970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ashram Road",
+               "short_name" : "Ashram Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khetiwadi Colony",
+               "short_name" : "Khetiwadi Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ahwa",
+               "short_name" : "Ahwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dang",
+               "short_name" : "Dang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "394710",
+               "short_name" : "394710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Ashram Road, Khetiwadi Colony, Ahwa, Gujarat 394710, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.7606184,
+               "lng" : 73.6857694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.7619673802915,
+                  "lng" : 73.68711838029151
+               },
+               "southwest" : {
+                  "lat" : 20.7592694197085,
+                  "lng" : 73.6844204197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kinauni Village",
+               "short_name" : "Kinauni Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Indirapuram",
+               "short_name" : "Indirapuram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghaziabad",
+               "short_name" : "Ghaziabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gautam Buddha Nagar",
+               "short_name" : "Gautam Buddha Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "201014",
+               "short_name" : "201014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Kinauni Village, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6574912,
+                  "lng" : 77.3810757
+               },
+               "southwest" : {
+                  "lat" : 28.6560413,
+                  "lng" : 77.377916
+               }
+            },
+            "location" : {
+               "lat" : 28.6568172,
+               "lng" : 77.37927599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6581152302915,
+                  "lng" : 77.3810757
+               },
+               "southwest" : {
+                  "lat" : 28.6554172697085,
+                  "lng" : 77.377916
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mandi Road",
+               "short_name" : "Mandi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Devrampur",
+               "short_name" : "Devrampur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Farrukhabad",
+               "short_name" : "Farrukhabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Farrukhabad",
+               "short_name" : "Farrukhabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Mandi Road, Devrampur, Farrukhabad, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3810696,
+                  "lng" : 79.5866346
+               },
+               "southwest" : {
+                  "lat" : 27.3801216,
+                  "lng" : 79.58568509999999
+               }
+            },
+            "location" : {
+               "lat" : 27.3806652,
+               "lng" : 79.5862424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3819445802915,
+                  "lng" : 79.5875088302915
+               },
+               "southwest" : {
+                  "lat" : 27.3792466197085,
+                  "lng" : 79.58481086970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Jaunpur",
+               "short_name" : "Jaunpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "222202",
+               "short_name" : "222202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Uttar Pradesh 222202, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.6440073,
+                  "lng" : 82.2866964
+               },
+               "southwest" : {
+                  "lat" : 25.6432142,
+                  "lng" : 82.2861546
+               }
+            },
+            "location" : {
+               "lat" : 25.6436954,
+               "lng" : 82.28641809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.6449597302915,
+                  "lng" : 82.2877744802915
+               },
+               "southwest" : {
+                  "lat" : 25.6422617697085,
+                  "lng" : 82.2850765197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Railway Road",
+               "short_name" : "Railway Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhodwal Majri",
+               "short_name" : "Bhodwal Majri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "132102",
+               "short_name" : "132102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Railway Road, Bhodwal Majri, Haryana 132102, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1960178,
+                  "lng" : 77.0133676
+               },
+               "southwest" : {
+                  "lat" : 29.1958516,
+                  "lng" : 77.0131732
+               }
+            },
+            "location" : {
+               "lat" : 29.1959317,
+               "lng" : 77.0132868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1972836802915,
+                  "lng" : 77.01461938029151
+               },
+               "southwest" : {
+                  "lat" : 29.1945857197085,
+                  "lng" : 77.0119214197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kothajagadevapuram",
+               "short_name" : "Kothajagadevapuram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Srikakulam",
+               "short_name" : "Srikakulam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "532220",
+               "short_name" : "532220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Kothajagadevapuram, Andhra Pradesh 532220, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.7217084,
+                  "lng" : 84.3941317
+               },
+               "southwest" : {
+                  "lat" : 18.721292,
+                  "lng" : 84.39378839999999
+               }
+            },
+            "location" : {
+               "lat" : 18.7214527,
+               "lng" : 84.3940369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.7228491802915,
+                  "lng" : 84.3953090302915
+               },
+               "southwest" : {
+                  "lat" : 18.72015121970849,
+                  "lng" : 84.39261106970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hindu_temple", "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Ghangapatna",
+               "short_name" : "Ghangapatna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khordha",
+               "short_name" : "Khordha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odisha",
+               "short_name" : "OD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "752054",
+               "short_name" : "752054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Ghangapatna, Odisha 752054",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.3069728,
+                  "lng" : 85.726018
+               },
+               "southwest" : {
+                  "lat" : 20.3031895,
+                  "lng" : 85.71953769999999
+               }
+            },
+            "location" : {
+               "lat" : 20.3049072,
+               "lng" : 85.72371319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.3069728,
+                  "lng" : 85.726018
+               },
+               "southwest" : {
+                  "lat" : 20.3031895,
+                  "lng" : 85.71953769999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ａｓｈｒａｍ",
+               "short_name" : "Ａｓｈｒａｍ",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "sublocality_level_4", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "1 Chome",
+               "short_name" : "1 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kaihō",
+               "short_name" : "Kaihō",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Okinawa-shi",
+               "short_name" : "Okinawa-shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okinawa-ken",
+               "short_name" : "Okinawa-ken",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "904-2162",
+               "short_name" : "904-2162",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Japan, 〒904-2162 Okinawa-ken, Okinawa-shi, Kaihō, 1 Chome−22−28 Ａｓｈｒａｍ",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3296059,
+                  "lng" : 127.8336139
+               },
+               "southwest" : {
+                  "lat" : 26.3294648,
+                  "lng" : 127.8334661
+               }
+            },
+            "location" : {
+               "lat" : 26.3295365,
+               "lng" : 127.8335487
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3308843302915,
+                  "lng" : 127.8348889802915
+               },
+               "southwest" : {
+                  "lat" : 26.3281863697085,
+                  "lng" : 127.8321910197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Deccan Gymkhana",
+               "short_name" : "Deccan Gymkhana",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411004",
+               "short_name" : "411004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Deccan Gymkhana, Pune, Maharashtra 411004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5163225,
+                  "lng" : 73.8376581
+               },
+               "southwest" : {
+                  "lat" : 18.516167,
+                  "lng" : 73.8374654
+               }
+            },
+            "location" : {
+               "lat" : 18.5162228,
+               "lng" : 73.83756439999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5175937302915,
+                  "lng" : 73.8389107302915
+               },
+               "southwest" : {
+                  "lat" : 18.5148957697085,
+                  "lng" : 73.8362127697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Rushaun",
+               "short_name" : "Rushaun",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kilnamona",
+               "short_name" : "Kilnamona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ennis",
+               "short_name" : "Ennis",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Clare",
+               "short_name" : "Clare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Clare",
+               "short_name" : "Clare",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Ennis, Co. Clare, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8619503,
+               "lng" : -9.090496699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.86329928029149,
+                  "lng" : -9.089147719708496
+               },
+               "southwest" : {
+                  "lat" : 52.86060131970849,
+                  "lng" : -9.091845680291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram",
+               "short_name" : "Ashram",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Banamalipur",
+               "short_name" : "Banamalipur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Indranagar",
+               "short_name" : "Indranagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Agartala",
+               "short_name" : "Agartala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Tripura",
+               "short_name" : "West Tripura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tripura",
+               "short_name" : "TR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "799007",
+               "short_name" : "799007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram, Banamalipur, Indranagar, Agartala, Tripura 799007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.8424337,
+                  "lng" : 91.2915426
+               },
+               "southwest" : {
+                  "lat" : 23.8423403,
+                  "lng" : 91.2914596
+               }
+            },
+            "location" : {
+               "lat" : 23.8423784,
+               "lng" : 91.2914924
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8437359802915,
+                  "lng" : 91.2928500802915
+               },
+               "southwest" : {
+                  "lat" : 23.8410380197085,
+                  "lng" : 91.29015211970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

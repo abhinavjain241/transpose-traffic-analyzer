@@ -1,0 +1,276 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dadar ST Bus Stop",
+               "short_name" : "Dadar ST Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Priyadarshini Society",
+               "short_name" : "Priyadarshini Society",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400028",
+               "short_name" : "400028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dadar ST Bus Stop, Priyadarshini Society, Dadar, Mumbai, Maharashtra 400028, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0170858,
+               "lng" : 72.84106939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0184347802915,
+                  "lng" : 72.84241838029151
+               },
+               "southwest" : {
+                  "lat" : 19.0157368197085,
+                  "lng" : 72.83972041970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dadar West",
+               "short_name" : "Dadar West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400028",
+               "short_name" : "400028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dadar, Dadar West, Dadar, Mumbai, Maharashtra 400028",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.016346,
+               "lng" : 72.84010599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0176949802915,
+                  "lng" : 72.8414549802915
+               },
+               "southwest" : {
+                  "lat" : 19.0149970197085,
+                  "lng" : 72.8387570197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilak Bridge",
+               "short_name" : "Tilak Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tilak Bridge, Dadar, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0211359,
+                  "lng" : 72.8468235
+               },
+               "southwest" : {
+                  "lat" : 19.0184402,
+                  "lng" : 72.8427341
+               }
+            },
+            "location" : {
+               "lat" : 19.0194539,
+               "lng" : 72.84528089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0211370302915,
+                  "lng" : 72.8468235
+               },
+               "southwest" : {
+                  "lat" : 19.0184390697085,
+                  "lng" : 72.8427341
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilak Road",
+               "short_name" : "Tilak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harganga Mahal Annexe",
+               "short_name" : "Harganga Mahal Annexe",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lokmanya Tilak Colony",
+               "short_name" : "Lokmanya Tilak Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400014",
+               "short_name" : "400014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harganga Mahal Annexe, Tilak Road, Lokmanya Tilak Colony, Dadar, Mumbai, Maharashtra 400014, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0184402,
+                  "lng" : 72.8476603
+               },
+               "southwest" : {
+                  "lat" : 19.0174897,
+                  "lng" : 72.8468235
+               }
+            },
+            "location" : {
+               "lat" : 19.0182406,
+               "lng" : 72.847177
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0193139302915,
+                  "lng" : 72.8485908802915
+               },
+               "southwest" : {
+                  "lat" : 19.0166159697085,
+                  "lng" : 72.84589291970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

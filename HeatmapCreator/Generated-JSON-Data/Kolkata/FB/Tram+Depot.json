@@ -1,0 +1,368 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tram Depot",
+               "short_name" : "Tram Depot",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Fung Mat Road",
+               "short_name" : "Fung Mat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shek Tong Tsui",
+               "short_name" : "Shek Tong Tsui",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong Island",
+               "short_name" : "Hong Kong Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tram Depot, Fung Mat Road, Sai Wan, Hong Kong",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.288556,
+                  "lng" : 114.138134
+               },
+               "southwest" : {
+                  "lat" : 22.288115,
+                  "lng" : 114.137278
+               }
+            },
+            "location" : {
+               "lat" : 22.2883355,
+               "lng" : 114.137706
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2896844802915,
+                  "lng" : 114.1390549802915
+               },
+               "southwest" : {
+                  "lat" : 22.2869865197085,
+                  "lng" : 114.1363570197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Tram Depot",
+               "short_name" : "The Tram Depot",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "38-40",
+               "short_name" : "38-40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Upper Clapton Road",
+               "short_name" : "Upper Clapton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E5 8BQ",
+               "short_name" : "E5 8BQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Tram Depot, 38-40 Upper Clapton Road, London E5 8BQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5599178,
+               "lng" : -0.05552559999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5612667802915,
+                  "lng" : -0.05417661970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5585688197085,
+                  "lng" : -0.05687458029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glenhuntly Tram Depot",
+               "short_name" : "Glenhuntly Tram Depot",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Caulfield South",
+               "short_name" : "Caulfield South",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3162",
+               "short_name" : "3162",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glenhuntly Tram Depot, Caulfield South VIC 3162, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8875513,
+               "lng" : 145.0269932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8862023197085,
+                  "lng" : 145.0283421802915
+               },
+               "southwest" : {
+                  "lat" : -37.8889002802915,
+                  "lng" : 145.0256442197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kew Tram Depot",
+               "short_name" : "Kew Tram Depot",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kew",
+               "short_name" : "Kew",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3101",
+               "short_name" : "3101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kew Tram Depot, Kew VIC 3101, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.81295,
+               "lng" : 145.0220529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8116010197085,
+                  "lng" : 145.0234018802915
+               },
+               "southwest" : {
+                  "lat" : -37.8142989802915,
+                  "lng" : 145.0207039197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zajezdnia tramwajowa Telefoniczna",
+               "short_name" : "Zajezdnia tramwajowa Telefoniczna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Widzew",
+               "short_name" : "Widzew",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "województwo łódzkie",
+               "short_name" : "województwo łódzkie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zajezdnia tramwajowa Telefoniczna, Łódź, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.786611,
+                  "lng" : 19.5226082
+               },
+               "southwest" : {
+                  "lat" : 51.7810275,
+                  "lng" : 19.5021673
+               }
+            },
+            "location" : {
+               "lat" : 51.7838193,
+               "lng" : 19.5123878
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.786611,
+                  "lng" : 19.5226082
+               },
+               "southwest" : {
+                  "lat" : 51.7810275,
+                  "lng" : 19.5021673
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ballygunge Tram Depot",
+               "short_name" : "Ballygunge Tram Depot",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bijan Setu",
+               "short_name" : "Bijan Setu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ekdalia",
+               "short_name" : "Ekdalia",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhakuria",
+               "short_name" : "Dhakuria",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700019",
+               "short_name" : "700019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ballygunge Tram Depot, Bijan Setu, Ekdalia, Dhakuria, Kolkata, West Bengal 700019, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5212046,
+               "lng" : 88.3699527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5225535802915,
+                  "lng" : 88.37130168029151
+               },
+               "southwest" : {
+                  "lat" : 22.51985561970849,
+                  "lng" : 88.36860371970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

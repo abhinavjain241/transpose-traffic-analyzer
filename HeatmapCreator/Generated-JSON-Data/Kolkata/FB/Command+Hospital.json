@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Command Hospital",
+               "short_name" : "Command Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Domlur Village",
+               "short_name" : "Domlur Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Domlur Layout",
+               "short_name" : "Domlur Layout",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "Karnataka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560007",
+               "short_name" : "560007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Command Hospital, Domlur Village, Domlur Layout, Bengaluru, Karnataka 560007, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9629776,
+               "lng" : 77.62894439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9643265802915,
+                  "lng" : 77.6302933802915
+               },
+               "southwest" : {
+                  "lat" : 12.9616286197085,
+                  "lng" : 77.62759541970848
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Command Hospital",
+               "short_name" : "Command Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Raghunathpura",
+               "short_name" : "Raghunathpura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Udhampur",
+               "short_name" : "Udhampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Udhampur",
+               "short_name" : "Udhampur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jammu and Kashmir",
+               "short_name" : "JK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "182101",
+               "short_name" : "182101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Command Hospital, Raghunathpura, Udhampur, Jammu and Kashmir 182101, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9307865,
+               "lng" : 75.13534779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9321354802915,
+                  "lng" : 75.1366967802915
+               },
+               "southwest" : {
+                  "lat" : 32.9294375197085,
+                  "lng" : 75.13399881970848
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Command Hospital",
+               "short_name" : "Command Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Panchkula",
+               "short_name" : "Panchkula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panchkula",
+               "short_name" : "Panchkula",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Command Hospital, Panchkula, Haryana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.7146293,
+                  "lng" : 76.8562853
+               },
+               "southwest" : {
+                  "lat" : 30.7110781,
+                  "lng" : 76.84970319999999
+               }
+            },
+            "location" : {
+               "lat" : 30.7126012,
+               "lng" : 76.8540783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7146293,
+                  "lng" : 76.8562853
+               },
+               "southwest" : {
+                  "lat" : 30.7110781,
+                  "lng" : 76.84970319999999
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koramangala Water Tank Bus Stop",
+               "short_name" : "Koramangala Water Tank Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sarjapur Main Road",
+               "short_name" : "Sarjapur Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Koramangala 3 Block",
+               "short_name" : "Koramangala 3 Block",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Koramangala",
+               "short_name" : "Koramangala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560034",
+               "short_name" : "560034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Koramangala Water Tank Bus Stop, Sarjapur Main Road, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9273478,
+               "lng" : 77.6216239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9286967802915,
+                  "lng" : 77.62297288029151
+               },
+               "southwest" : {
+                  "lat" : 12.9259988197085,
+                  "lng" : 77.62027491970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koramangala Water Tank",
+               "short_name" : "Koramangala Water Tank",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Koramangala 3 Block",
+               "short_name" : "Koramangala 3 Block",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Koramangala",
+               "short_name" : "Koramangala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560034",
+               "short_name" : "560034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Koramangala Water Tank, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9276642,
+               "lng" : 77.62126719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9290131802915,
+                  "lng" : 77.62261618029149
+               },
+               "southwest" : {
+                  "lat" : 12.9263152197085,
+                  "lng" : 77.61991821970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

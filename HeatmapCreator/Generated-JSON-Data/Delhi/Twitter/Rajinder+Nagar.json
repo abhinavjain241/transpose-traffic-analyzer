@@ -1,0 +1,305 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajinder Nagar, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6443854,
+                  "lng" : 77.1928812
+               },
+               "southwest" : {
+                  "lat" : 28.6292438,
+                  "lng" : 77.173934
+               }
+            },
+            "location" : {
+               "lat" : 28.6372353,
+               "lng" : 77.18236379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6443854,
+                  "lng" : 77.1928812
+               },
+               "southwest" : {
+                  "lat" : 28.6292438,
+                  "lng" : 77.173934
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patiala",
+               "short_name" : "Patiala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajinder Nagar, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5033199,
+                  "lng" : 76.38289
+               },
+               "southwest" : {
+                  "lat" : 30.45829,
+                  "lng" : 76.32304999999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4780104,
+               "lng" : 76.35794009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5033199,
+                  "lng" : 76.38289
+               },
+               "southwest" : {
+                  "lat" : 30.45829,
+                  "lng" : 76.32304999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Maqbool Pura",
+               "short_name" : "Maqbool Pura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Amritsar",
+               "short_name" : "Amritsar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amritsar",
+               "short_name" : "Amritsar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajinder Nagar, Maqbool Pura, Amritsar, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.624587,
+                  "lng" : 74.9170479
+               },
+               "southwest" : {
+                  "lat" : 31.617009,
+                  "lng" : 74.90576
+               }
+            },
+            "location" : {
+               "lat" : 31.6208259,
+               "lng" : 74.91137759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.624587,
+                  "lng" : 74.9170479
+               },
+               "southwest" : {
+                  "lat" : 31.617009,
+                  "lng" : 74.90576
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "144001",
+               "short_name" : "144001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rajinder Nagar, Jalandhar, Punjab 144001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.320985,
+                  "lng" : 75.598844
+               },
+               "southwest" : {
+                  "lat" : 31.3159519,
+                  "lng" : 75.591888
+               }
+            },
+            "location" : {
+               "lat" : 31.318429,
+               "lng" : 75.59534699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.320985,
+                  "lng" : 75.598844
+               },
+               "southwest" : {
+                  "lat" : 31.3159519,
+                  "lng" : 75.591888
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jagraon",
+               "short_name" : "Jagraon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ludhiana",
+               "short_name" : "Ludhiana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142026",
+               "short_name" : "142026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rajinder Nagar, Jagraon, Punjab 142026, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8053798,
+                  "lng" : 75.49288180000001
+               },
+               "southwest" : {
+                  "lat" : 30.8004783,
+                  "lng" : 75.4811318
+               }
+            },
+            "location" : {
+               "lat" : 30.8032106,
+               "lng" : 75.4854472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8053798,
+                  "lng" : 75.49288180000001
+               },
+               "southwest" : {
+                  "lat" : 30.8004783,
+                  "lng" : 75.4811318
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

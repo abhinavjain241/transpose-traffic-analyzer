@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhiwandi Road",
+               "short_name" : "Bhiwandi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhiwandi Road, Thane, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2347653,
+                  "lng" : 73.0126629
+               },
+               "southwest" : {
+                  "lat" : 19.2168009,
+                  "lng" : 72.9782834
+               }
+            },
+            "location" : {
+               "lat" : 19.2252125,
+               "lng" : 72.9956176
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2347653,
+                  "lng" : 73.0126629
+               },
+               "southwest" : {
+                  "lat" : 19.2168009,
+                  "lng" : 72.9782834
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhiwandi Road",
+               "short_name" : "Bhiwandi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moti Nagar",
+               "short_name" : "Moti Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mulund Colony",
+               "short_name" : "Mulund Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mulund West",
+               "short_name" : "Mulund West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400082",
+               "short_name" : "400082",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhiwandi Road, Moti Nagar, Mulund Colony, Mulund West, Mumbai, Maharashtra 400082, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1711123,
+                  "lng" : 72.93413389999999
+               },
+               "southwest" : {
+                  "lat" : 19.1709446,
+                  "lng" : 72.93362859999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1709628,
+               "lng" : 72.9338676
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1723774302915,
+                  "lng" : 72.93523023029149
+               },
+               "southwest" : {
+                  "lat" : 19.1696794697085,
+                  "lng" : 72.93253226970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

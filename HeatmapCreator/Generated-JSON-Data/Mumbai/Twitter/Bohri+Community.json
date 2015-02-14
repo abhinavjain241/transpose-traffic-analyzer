@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dawoodi Bohra Community Hall",
+               "short_name" : "Dawoodi Bohra Community Hall",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dhokali",
+               "short_name" : "DHOKALI",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kolshet Road",
+               "short_name" : "Kolshet Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kailash Nagar",
+               "short_name" : "Kailash Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400607",
+               "short_name" : "400607",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dawoodi Bohra Community Hall, Dhokali, Kolshet Road, Kailash Nagar, Thane West, Thane, Maharashtra 400607, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2229494,
+               "lng" : 72.9785943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2242983802915,
+                  "lng" : 72.97994328029151
+               },
+               "southwest" : {
+                  "lat" : 19.2216004197085,
+                  "lng" : 72.97724531970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hushami Masjid - Bohra Community",
+               "short_name" : "Hushami Masjid - Bohra Community",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Uran Road",
+               "short_name" : "Uran Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Panvel",
+               "short_name" : "Old Panvel",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panvel",
+               "short_name" : "Panvel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raigad",
+               "short_name" : "Raigad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "410206",
+               "short_name" : "410206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hushami Masjid - Bohra Community, Uran Road, Old Panvel, Panvel, Navi Mumbai, Maharashtra 410206, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9845523,
+               "lng" : 73.1096762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9859012802915,
+                  "lng" : 73.11102518029151
+               },
+               "southwest" : {
+                  "lat" : 18.9832033197085,
+                  "lng" : 73.10832721970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "mosque", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

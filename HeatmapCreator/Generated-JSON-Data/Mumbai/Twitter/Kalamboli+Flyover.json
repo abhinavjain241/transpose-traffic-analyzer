@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalamboli Flyover",
+               "short_name" : "Kalamboli Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 1",
+               "short_name" : "Sector 1",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalamboli",
+               "short_name" : "Kalamboli",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panvel",
+               "short_name" : "Panvel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raigad",
+               "short_name" : "Raigad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalamboli Flyover, Sector 1, Kalamboli, Panvel, Navi Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0202165,
+                  "lng" : 73.11418949999999
+               },
+               "southwest" : {
+                  "lat" : 19.0143132,
+                  "lng" : 73.1034654
+               }
+            },
+            "location" : {
+               "lat" : 19.0172549,
+               "lng" : 73.108802
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0202165,
+                  "lng" : 73.11418949999999
+               },
+               "southwest" : {
+                  "lat" : 19.0143132,
+                  "lng" : 73.1034654
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

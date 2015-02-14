@@ -1,0 +1,266 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Church of Salvation",
+               "short_name" : "Church of Salvation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "East End",
+               "short_name" : "East End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nashville",
+               "short_name" : "Nashville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davidson County",
+               "short_name" : "Davidson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37206",
+               "short_name" : "37206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Church of Salvation, Nashville, TN 37206, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.17144529999999,
+               "lng" : -86.75055379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1727942802915,
+                  "lng" : -86.74920481970848
+               },
+               "southwest" : {
+                  "lat" : 36.1700963197085,
+                  "lng" : -86.7519027802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ark of Salvation Church",
+               "short_name" : "Ark of Salvation Church",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6920",
+               "short_name" : "6920",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Larchmont Drive",
+               "short_name" : "Larchmont Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Larchmont Village",
+               "short_name" : "Larchmont Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North Highlands",
+               "short_name" : "North Highlands",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sacramento County",
+               "short_name" : "Sacramento County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95660",
+               "short_name" : "95660",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3508",
+               "short_name" : "3508",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Ark of Salvation Church, 6920 Larchmont Drive, North Highlands, CA 95660, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.693617,
+               "lng" : -121.370786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.69496598029151,
+                  "lng" : -121.3694370197085
+               },
+               "southwest" : {
+                  "lat" : 38.69226801970851,
+                  "lng" : -121.3721349802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fountain of Salvation Church",
+               "short_name" : "Fountain of Salvation Church",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "324",
+               "short_name" : "324",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Communipaw Avenue",
+               "short_name" : "Communipaw Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jersey City",
+               "short_name" : "Jersey City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hudson County",
+               "short_name" : "Hudson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07304",
+               "short_name" : "07304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fountain of Salvation Church, 324 Communipaw Avenue, Jersey City, NJ 07304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7106832,
+               "lng" : -74.061296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71203218029149,
+                  "lng" : -74.05994701970849
+               },
+               "southwest" : {
+                  "lat" : 40.7093342197085,
+                  "lng" : -74.06264498029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wells Salvation Church",
+               "short_name" : "Wells Salvation Church",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Blair Road",
+               "short_name" : "Blair Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1K 4L8",
+               "short_name" : "K1K 4L8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wells Salvation Church, Blair Road, Ottawa, ON K1K 4L8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4465113,
+               "lng" : -75.61516019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4478602802915,
+                  "lng" : -75.6138112197085
+               },
+               "southwest" : {
+                  "lat" : 45.4451623197085,
+                  "lng" : -75.6165091802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

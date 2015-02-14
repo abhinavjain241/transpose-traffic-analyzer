@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalyan",
+               "short_name" : "Kalyan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalyan, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2830489,
+                  "lng" : 73.1575637
+               },
+               "southwest" : {
+                  "lat" : 19.1980261,
+                  "lng" : 73.10273529999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2403305,
+               "lng" : 73.1305395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2830489,
+                  "lng" : 73.1575637
+               },
+               "southwest" : {
+                  "lat" : 19.1980261,
+                  "lng" : 73.10273529999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,209 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belur Railway Station",
+               "short_name" : "BEQ",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sapuipara",
+               "short_name" : "Sapuipara",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belur",
+               "short_name" : "Belur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711201",
+               "short_name" : "711201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belur Railway Station, Sapuipara, Belur, Howrah, West Bengal 711201, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6375679,
+                  "lng" : 88.3403563
+               },
+               "southwest" : {
+                  "lat" : 22.6343422,
+                  "lng" : 88.3395034
+               }
+            },
+            "location" : {
+               "lat" : 22.6360877,
+               "lng" : 88.33987139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6375679,
+                  "lng" : 88.34127883029151
+               },
+               "southwest" : {
+                  "lat" : 22.6343422,
+                  "lng" : 88.33858086970851
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belur Math",
+               "short_name" : "Belur Math",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Belur",
+               "short_name" : "Belur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711202",
+               "short_name" : "711202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belur Math, Belur, Howrah, West Bengal 711202, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6349306,
+                  "lng" : 88.3588858
+               },
+               "southwest" : {
+                  "lat" : 22.6288524,
+                  "lng" : 88.35423929999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6321853,
+               "lng" : 88.3558912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6349306,
+                  "lng" : 88.3588858
+               },
+               "southwest" : {
+                  "lat" : 22.6288524,
+                  "lng" : 88.35423929999999
+               }
+            }
+         },
+         "types" : [ "hindu_temple", "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belur Math",
+               "short_name" : "Belur Math",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belur",
+               "short_name" : "Belur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belur Math, Belur, Howrah, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6321841,
+                  "lng" : 88.36162
+               },
+               "southwest" : {
+                  "lat" : 22.6194771,
+                  "lng" : 88.34846999999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6263806,
+               "lng" : 88.3555025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6321841,
+                  "lng" : 88.36162
+               },
+               "southwest" : {
+                  "lat" : 22.6194771,
+                  "lng" : 88.34846999999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,641 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Park",
+               "short_name" : "Metro Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14623",
+               "short_name" : "14623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro Park, Rochester, NY 14623, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0994219,
+                  "lng" : -77.61343699999999
+               },
+               "southwest" : {
+                  "lat" : 43.0943731,
+                  "lng" : -77.6240569
+               }
+            },
+            "location" : {
+               "lat" : 43.0974847,
+               "lng" : -77.61875640000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0994219,
+                  "lng" : -77.61343699999999
+               },
+               "southwest" : {
+                  "lat" : 43.0943731,
+                  "lng" : -77.6240569
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Northeast Grand Avenue",
+               "short_name" : "NE Grand Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lloyd District",
+               "short_name" : "Lloyd District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97232",
+               "short_name" : "97232",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2799",
+               "short_name" : "2799",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Metro, 600 Northeast Grand Avenue, Portland, OR 97232, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5272461,
+               "lng" : -122.6603336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5285950802915,
+                  "lng" : -122.6589846197085
+               },
+               "southwest" : {
+                  "lat" : 45.5258971197085,
+                  "lng" : -122.6616825802915
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metropark",
+               "short_name" : "Metropark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Thousand Oaks",
+               "short_name" : "Thousand Oaks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91360",
+               "short_name" : "91360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metropark, Thousand Oaks, CA 91360, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1836381,
+               "lng" : -118.8877348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1849870802915,
+                  "lng" : -118.8863858197085
+               },
+               "southwest" : {
+                  "lat" : 34.1822891197085,
+                  "lng" : -118.8890837802915
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Park",
+               "short_name" : "Metro Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Fresno",
+               "short_name" : "Fresno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fresno County",
+               "short_name" : "Fresno County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93710",
+               "short_name" : "93710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro Park, Fresno, CA 93710, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.8074413,
+               "lng" : -119.7754844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.8087902802915,
+                  "lng" : -119.7741354197085
+               },
+               "southwest" : {
+                  "lat" : 36.8060923197085,
+                  "lng" : -119.7768333802915
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Park",
+               "short_name" : "Metro Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Metzger",
+               "short_name" : "Metzger",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tigard",
+               "short_name" : "Tigard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97223",
+               "short_name" : "97223",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro Park, Tigard, OR 97223, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.449579,
+               "lng" : -122.7808591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4509279802915,
+                  "lng" : -122.7795101197085
+               },
+               "southwest" : {
+                  "lat" : 45.4482300197085,
+                  "lng" : -122.7822080802915
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Park",
+               "short_name" : "Metro Park",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kuching",
+               "short_name" : "Kuching",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuching",
+               "short_name" : "Kuching",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bahagian Kuching",
+               "short_name" : "Bahagian Kuching",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sarawak",
+               "short_name" : "Sarawak",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93250",
+               "short_name" : "93250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro Park, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.522052,
+                  "lng" : 110.3276851
+               },
+               "southwest" : {
+                  "lat" : 1.516259,
+                  "lng" : 110.320961
+               }
+            },
+            "location" : {
+               "lat" : 1.519379,
+               "lng" : 110.3247871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.522052,
+                  "lng" : 110.3276851
+               },
+               "southwest" : {
+                  "lat" : 1.516259,
+                  "lng" : 110.320961
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Metro Park",
+               "short_name" : "W Metro Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14623",
+               "short_name" : "14623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Metro Park, Rochester, NY 14623, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0991799,
+                  "lng" : -77.6213063
+               },
+               "southwest" : {
+                  "lat" : 43.0982429,
+                  "lng" : -77.627348
+               }
+            },
+            "location" : {
+               "lat" : 43.0985789,
+               "lng" : -77.6233282
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1000603802915,
+                  "lng" : -77.6213063
+               },
+               "southwest" : {
+                  "lat" : 43.0973624197085,
+                  "lng" : -77.627348
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Park",
+               "short_name" : "Metro Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Isaac John Street",
+               "short_name" : "Isaac John St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ikeja GRA",
+               "short_name" : "Ikeja GRA",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ikeja",
+               "short_name" : "Ikeja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lagos",
+               "short_name" : "Lagos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro Park, Isaac John Street, Ikeja, Nigeria",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.582157899999999,
+               "lng" : 3.3583242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.583506880291502,
+                  "lng" : 3.359673180291502
+               },
+               "southwest" : {
+                  "lat" : 6.580808919708497,
+                  "lng" : 3.356975219708498
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "amusement_park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Parking",
+               "short_name" : "Metro Parking",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bentall Tower 1",
+               "short_name" : "Bentall Tower 1",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1090",
+               "short_name" : "1090",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Pender Street",
+               "short_name" : "W Pender St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Vancouver",
+               "short_name" : "Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V6E 2N7",
+               "short_name" : "V6E 2N7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro Parking, Bentall Tower 1, 1090 West Pender Street, Vancouver, BC V6E 2N7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28735229999999,
+               "lng" : -123.1203765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28870128029149,
+                  "lng" : -123.1190275197085
+               },
+               "southwest" : {
+                  "lat" : 49.28600331970849,
+                  "lng" : -123.1217254802915
+               }
+            }
+         },
+         "types" : [ "parking", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Park",
+               "short_name" : "Metro Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Uttar Dhoka Sadak",
+               "short_name" : "Uttar Dhoka Sadak",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lazimpat",
+               "short_name" : "Lazimpat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro Park, Uttar Dhoka Sadak, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7185942,
+                  "lng" : 85.3191429
+               },
+               "southwest" : {
+                  "lat" : 27.7180623,
+                  "lng" : 85.3186922
+               }
+            },
+            "location" : {
+               "lat" : 27.7183282,
+               "lng" : 85.31891759999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7196772302915,
+                  "lng" : 85.32026653029151
+               },
+               "southwest" : {
+                  "lat" : 27.7169792697085,
+                  "lng" : 85.3175685697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

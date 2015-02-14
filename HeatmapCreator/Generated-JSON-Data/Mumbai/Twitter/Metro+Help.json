@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Help Desk",
+               "short_name" : "Help Desk",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nashville",
+               "short_name" : "Nashville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davidson County",
+               "short_name" : "Davidson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37203",
+               "short_name" : "37203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Help Desk, Nashville, TN 37203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1569837,
+               "lng" : -86.7767903
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.15833268029149,
+                  "lng" : -86.77544131970851
+               },
+               "southwest" : {
+                  "lat" : 36.1556347197085,
+                  "lng" : -86.77813928029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

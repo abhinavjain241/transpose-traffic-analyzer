@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mehrauli-Gurgaon Road",
+               "short_name" : "Mehrauli-Gurgaon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mehrauli-Gurgaon Road, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.509299,
+                  "lng" : 77.1779971
+               },
+               "southwest" : {
+                  "lat" : 28.4636042,
+                  "lng" : 77.03397319999999
+               }
+            },
+            "location" : {
+               "lat" : 28.4826458,
+               "lng" : 77.10696260000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.509299,
+                  "lng" : 77.1779971
+               },
+               "southwest" : {
+                  "lat" : 28.4636042,
+                  "lng" : 77.03397319999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

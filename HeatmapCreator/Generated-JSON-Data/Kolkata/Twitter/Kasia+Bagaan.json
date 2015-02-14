@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasia Bagan Taalab",
+               "short_name" : "Kasia Bagan Taalab",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Park Circus",
+               "short_name" : "Park Circus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700017",
+               "short_name" : "700017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kasia Bagan Taalab, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5394014,
+                  "lng" : 88.3684437
+               },
+               "southwest" : {
+                  "lat" : 22.5387053,
+                  "lng" : 88.36771069999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5390937,
+               "lng" : 88.36801849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5404023302915,
+                  "lng" : 88.3694261802915
+               },
+               "southwest" : {
+                  "lat" : 22.5377043697085,
+                  "lng" : 88.36672821970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Kasia Bagan Street",
+               "short_name" : "New Kasia Bagan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Park Circus",
+               "short_name" : "Park Circus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700017",
+               "short_name" : "700017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Kasia Bagan Street, Park Circus, Ballygunge, Kolkata, West Bengal 700017, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.538773,
+                  "lng" : 88.36688289999999
+               },
+               "southwest" : {
+                  "lat" : 22.5384193,
+                  "lng" : 88.366101
+               }
+            },
+            "location" : {
+               "lat" : 22.5387034,
+               "lng" : 88.3665177
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5399451302915,
+                  "lng" : 88.36784093029151
+               },
+               "southwest" : {
+                  "lat" : 22.5372471697085,
+                  "lng" : 88.36514296970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

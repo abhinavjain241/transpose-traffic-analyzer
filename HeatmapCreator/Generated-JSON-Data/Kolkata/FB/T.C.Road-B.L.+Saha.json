@@ -1,0 +1,384 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saha Industrial Growth Center",
+               "short_name" : "Saha Industrial Growth Center",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ambala",
+               "short_name" : "Ambala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "133101",
+               "short_name" : "133101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Saha Industrial Growth Center, Haryana 133101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2890842,
+                  "lng" : 76.97470109999999
+               },
+               "southwest" : {
+                  "lat" : 30.28762,
+                  "lng" : 76.97464529999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2876613,
+               "lng" : 76.9746995
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.28970108029149,
+                  "lng" : 76.97602218029151
+               },
+               "southwest" : {
+                  "lat" : 30.28700311970849,
+                  "lng" : 76.97332421970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saha Road",
+               "short_name" : "Saha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sealy",
+               "short_name" : "Sealy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Austin County",
+               "short_name" : "Austin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77474",
+               "short_name" : "77474",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saha Road, Sealy, TX 77474, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.758872,
+                  "lng" : -96.06874499999999
+               },
+               "southwest" : {
+                  "lat" : 29.74962,
+                  "lng" : -96.0808
+               }
+            },
+            "location" : {
+               "lat" : 29.755158,
+               "lng" : -96.0745907
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.758872,
+                  "lng" : -96.06874499999999
+               },
+               "southwest" : {
+                  "lat" : 29.74962,
+                  "lng" : -96.0808
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Assiut Governorate",
+               "short_name" : "Assiut Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Road, Assiut Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3254842,
+                  "lng" : 30.9621138
+               },
+               "southwest" : {
+                  "lat" : 27.3228331,
+                  "lng" : 30.959259
+               }
+            },
+            "location" : {
+               "lat" : 27.3242056,
+               "lng" : 30.9603618
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3255076302915,
+                  "lng" : 30.9621138
+               },
+               "southwest" : {
+                  "lat" : 27.3228096697085,
+                  "lng" : 30.959259
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baburbag",
+               "short_name" : "Baburbag",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Burdwan",
+               "short_name" : "Burdwan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713104",
+               "short_name" : "713104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Baburbag, Burdwan, West Bengal 713104, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2560527,
+                  "lng" : 87.8535893
+               },
+               "southwest" : {
+                  "lat" : 23.2542783,
+                  "lng" : 87.8529918
+               }
+            },
+            "location" : {
+               "lat" : 23.2551492,
+               "lng" : 87.8533497
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2565144802915,
+                  "lng" : 87.85463953029151
+               },
+               "southwest" : {
+                  "lat" : 23.25381651970849,
+                  "lng" : 87.8519415697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaha Road",
+               "short_name" : "Shaha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shaha",
+               "short_name" : "Shaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "413106",
+               "short_name" : "413106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shaha Road, Shaha, Maharashtra 413106, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.1111361,
+                  "lng" : 75.08704639999999
+               },
+               "southwest" : {
+                  "lat" : 18.104326,
+                  "lng" : 75.08243879999999
+               }
+            },
+            "location" : {
+               "lat" : 18.1078958,
+               "lng" : 75.0839728
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1111361,
+                  "lng" : 75.08704639999999
+               },
+               "southwest" : {
+                  "lat" : 18.104326,
+                  "lng" : 75.08243879999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khagragar",
+               "short_name" : "Khagragar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Burdwan",
+               "short_name" : "Burdwan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713104",
+               "short_name" : "713104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Khagragar, Burdwan, West Bengal 713104, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2599744,
+                  "lng" : 87.858896
+               },
+               "southwest" : {
+                  "lat" : 23.258515,
+                  "lng" : 87.85539229999999
+               }
+            },
+            "location" : {
+               "lat" : 23.2598676,
+               "lng" : 87.8567704
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2605936802915,
+                  "lng" : 87.858896
+               },
+               "southwest" : {
+                  "lat" : 23.2578957197085,
+                  "lng" : 87.85539229999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

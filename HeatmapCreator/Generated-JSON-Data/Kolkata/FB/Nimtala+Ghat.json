@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neemtala Ghat",
+               "short_name" : "Neemtala Ghat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jiaganj Azimganj",
+               "short_name" : "Jiaganj Azimganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Murshidabad",
+               "short_name" : "Murshidabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neemtala Ghat, Jiaganj Azimganj, West Bengal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.2358833,
+                  "lng" : 88.2634558
+               },
+               "southwest" : {
+                  "lat" : 24.2351094,
+                  "lng" : 88.26071879999999
+               }
+            },
+            "location" : {
+               "lat" : 24.2354964,
+               "lng" : 88.26208729999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.2368453302915,
+                  "lng" : 88.2634558
+               },
+               "southwest" : {
+                  "lat" : 24.2341473697085,
+                  "lng" : 88.26071879999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nimtala Ghat",
+               "short_name" : "Nimtala Ghat",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Strand Bank Road",
+               "short_name" : "Strand Bank Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beniatola",
+               "short_name" : "Beniatola",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nimtala Ghat, Strand Bank Road, Beniatola, Kolkata, West Bengal 700006, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5933843,
+               "lng" : 88.35192739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5947332802915,
+                  "lng" : 88.35327638029149
+               },
+               "southwest" : {
+                  "lat" : 22.5920353197085,
+                  "lng" : 88.35057841970848
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dahisar Toll Plaza",
+               "short_name" : "Dahisar Toll Plaza",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Western Express Highway",
+               "short_name" : "Western Express Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Diamond Industrial Estate",
+               "short_name" : "Diamond Industrial Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dahisar East",
+               "short_name" : "Dahisar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400068",
+               "short_name" : "400068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dahisar Toll Plaza, Western Express Highway, Diamond Industrial Estate, Dahisar East, Mumbai, Maharashtra 400068, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2571823,
+                  "lng" : 72.8715017
+               },
+               "southwest" : {
+                  "lat" : 19.256871,
+                  "lng" : 72.8710593
+               }
+            },
+            "location" : {
+               "lat" : 19.2570266,
+               "lng" : 72.8712805
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2583756302915,
+                  "lng" : 72.87262948029151
+               },
+               "southwest" : {
+                  "lat" : 19.2556776697085,
+                  "lng" : 72.8699315197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

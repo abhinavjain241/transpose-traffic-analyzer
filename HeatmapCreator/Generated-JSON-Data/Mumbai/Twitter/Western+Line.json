@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Line",
+               "short_name" : "Western Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brunswick",
+               "short_name" : "Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4571",
+               "short_name" : "4571",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Western Line, Brunswick 4571, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.8441681,
+                  "lng" : 175.0290075
+               },
+               "southwest" : {
+                  "lat" : -39.8777522,
+                  "lng" : 174.9982709
+               }
+            },
+            "location" : {
+               "lat" : -39.8613033,
+               "lng" : 175.0140409
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.8441681,
+                  "lng" : 175.0290075
+               },
+               "southwest" : {
+                  "lat" : -39.8777522,
+                  "lng" : 174.9982709
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Line Avenue",
+               "short_name" : "Western Line Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ruleville",
+               "short_name" : "Ruleville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunflower County",
+               "short_name" : "Sunflower County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38771",
+               "short_name" : "38771",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Western Line Avenue, Ruleville, MS 38771, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7242523,
+                  "lng" : -90.5566188
+               },
+               "southwest" : {
+                  "lat" : 33.7216354,
+                  "lng" : -90.55719089999999
+               }
+            },
+            "location" : {
+               "lat" : 33.7229153,
+               "lng" : -90.5567777
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.72429283029149,
+                  "lng" : -90.55555586970848
+               },
+               "southwest" : {
+                  "lat" : 33.72159486970849,
+                  "lng" : -90.55825383029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

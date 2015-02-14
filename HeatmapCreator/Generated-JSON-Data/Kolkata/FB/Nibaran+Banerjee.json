@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nibaran Banerjee Road",
+               "short_name" : "Nibaran Banerjee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700026",
+               "short_name" : "700026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nibaran Banerjee Road, Kalighat, Kolkata, West Bengal 700026, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5229244,
+                  "lng" : 88.34593699999999
+               },
+               "southwest" : {
+                  "lat" : 22.5220886,
+                  "lng" : 88.34571009999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5224867,
+               "lng" : 88.34582379999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5238554802915,
+                  "lng" : 88.34717253029149
+               },
+               "southwest" : {
+                  "lat" : 22.5211575197085,
+                  "lng" : 88.34447456970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

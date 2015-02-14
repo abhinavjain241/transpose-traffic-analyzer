@@ -1,0 +1,725 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Digboi",
+               "short_name" : "Digboi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tinsukia",
+               "short_name" : "Tinsukia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "786171",
+               "short_name" : "786171",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Digboi, Assam 786171, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4034922,
+                  "lng" : 95.63204669999999
+               },
+               "southwest" : {
+                  "lat" : 27.4012672,
+                  "lng" : 95.6283689
+               }
+            },
+            "location" : {
+               "lat" : 27.4021659,
+               "lng" : 95.630174
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4037286802915,
+                  "lng" : 95.63204669999999
+               },
+               "southwest" : {
+                  "lat" : 27.4010307197085,
+                  "lng" : 95.6283689
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla East",
+               "short_name" : "Kurla East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400024",
+               "short_name" : "400024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Kurla East, Mumbai, Maharashtra 400024, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0607381,
+                  "lng" : 72.88589709999999
+               },
+               "southwest" : {
+                  "lat" : 19.0564071,
+                  "lng" : 72.8824784
+               }
+            },
+            "location" : {
+               "lat" : 19.0587767,
+               "lng" : 72.88440869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0607381,
+                  "lng" : 72.88589709999999
+               },
+               "southwest" : {
+                  "lat" : 19.0564071,
+                  "lng" : 72.8824784
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Borbari",
+               "short_name" : "Borbari",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guwahati",
+               "short_name" : "Guwahati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamrup",
+               "short_name" : "Kamrup",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Borbari, Guwahati, Assam, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.158352,
+                  "lng" : 91.811645
+               },
+               "southwest" : {
+                  "lat" : 26.1502729,
+                  "lng" : 91.801987
+               }
+            },
+            "location" : {
+               "lat" : 26.1527393,
+               "lng" : 91.80624019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.158352,
+                  "lng" : 91.811645
+               },
+               "southwest" : {
+                  "lat" : 26.1502729,
+                  "lng" : 91.801987
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guwahati",
+               "short_name" : "Guwahati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamrup",
+               "short_name" : "Kamrup",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Guwahati, Assam, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1278721,
+                  "lng" : 91.779225
+               },
+               "southwest" : {
+                  "lat" : 26.1205279,
+                  "lng" : 91.76636209999999
+               }
+            },
+            "location" : {
+               "lat" : 26.1236283,
+               "lng" : 91.7721392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1278721,
+                  "lng" : 91.779225
+               },
+               "southwest" : {
+                  "lat" : 26.1205279,
+                  "lng" : 91.76636209999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanchrapara",
+               "short_name" : "Kanchrapara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743145",
+               "short_name" : "743145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Kanchrapara, West Bengal 743145, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.9556661,
+                  "lng" : 88.43589589999999
+               },
+               "southwest" : {
+                  "lat" : 22.9484429,
+                  "lng" : 88.4261355
+               }
+            },
+            "location" : {
+               "lat" : 22.9532562,
+               "lng" : 88.4294838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9556661,
+                  "lng" : 88.43589589999999
+               },
+               "southwest" : {
+                  "lat" : 22.9484429,
+                  "lng" : 88.4261355
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dhup Guri",
+               "short_name" : "Dhup Guri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barpeta",
+               "short_name" : "Barpeta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Dhup Guri, Assam, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4870315,
+                  "lng" : 90.97321819999999
+               },
+               "southwest" : {
+                  "lat" : 26.4823614,
+                  "lng" : 90.96802679999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4847031,
+               "lng" : 90.97071649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4870315,
+                  "lng" : 90.97321819999999
+               },
+               "southwest" : {
+                  "lat" : 26.4823614,
+                  "lng" : 90.96802679999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nabapally",
+               "short_name" : "Nabapally",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector IV",
+               "short_name" : "Sector IV",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bidhannagar",
+               "short_name" : "Bidhannagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Nabapally, Sector IV, Bidhannagar, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5584782,
+                  "lng" : 88.4156675
+               },
+               "southwest" : {
+                  "lat" : 22.555912,
+                  "lng" : 88.41210009999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5573269,
+               "lng" : 88.4134249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5585440802915,
+                  "lng" : 88.4156675
+               },
+               "southwest" : {
+                  "lat" : 22.5558461197085,
+                  "lng" : 88.41210009999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Batahguli",
+               "short_name" : "Batahguli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guwahati",
+               "short_name" : "Guwahati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamrup Metropolitan",
+               "short_name" : "Kamrup Metropolitan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "781037",
+               "short_name" : "781037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Batahguli, Guwahati, Assam 781037, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1203432,
+                  "lng" : 91.8446215
+               },
+               "southwest" : {
+                  "lat" : 26.1181771,
+                  "lng" : 91.8397452
+               }
+            },
+            "location" : {
+               "lat" : 26.118991,
+               "lng" : 91.8406914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1206091302915,
+                  "lng" : 91.8446215
+               },
+               "southwest" : {
+                  "lat" : 26.1179111697085,
+                  "lng" : 91.8397452
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar",
+               "short_name" : "Milan Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Savarkar Nagar",
+               "short_name" : "Savarkar Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "N 5",
+               "short_name" : "N 5",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cidco",
+               "short_name" : "Cidco",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aurangabad",
+               "short_name" : "Aurangabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aurangabad",
+               "short_name" : "Aurangabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431003",
+               "short_name" : "431003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar, Savarkar Nagar, N 5, Cidco, Aurangabad, Maharashtra 431003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8848586,
+                  "lng" : 75.3643326
+               },
+               "southwest" : {
+                  "lat" : 19.8838795,
+                  "lng" : 75.3626106
+               }
+            },
+            "location" : {
+               "lat" : 19.8843735,
+               "lng" : 75.3634265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8857180302915,
+                  "lng" : 75.36482058029149
+               },
+               "southwest" : {
+                  "lat" : 19.8830200697085,
+                  "lng" : 75.36212261970849
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar Road",
+               "short_name" : "Milan Nagar Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Lakhimpur",
+               "short_name" : "North Lakhimpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lakhimpur",
+               "short_name" : "Lakhimpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "787001",
+               "short_name" : "787001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar Road, North Lakhimpur, Assam 787001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2375927,
+                  "lng" : 94.11337140000001
+               },
+               "southwest" : {
+                  "lat" : 27.2287698,
+                  "lng" : 94.10889
+               }
+            },
+            "location" : {
+               "lat" : 27.2329897,
+               "lng" : 94.110607
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2375927,
+                  "lng" : 94.11337140000001
+               },
+               "southwest" : {
+                  "lat" : 27.2287698,
+                  "lng" : 94.10889
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan Nagar Road",
+               "short_name" : "Milan Nagar Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagula",
+               "short_name" : "Bagula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nadia",
+               "short_name" : "Nadia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "741502",
+               "short_name" : "741502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan Nagar Road, Bagula, West Bengal 741502, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.3438183,
+                  "lng" : 88.6457983
+               },
+               "southwest" : {
+                  "lat" : 23.3420482,
+                  "lng" : 88.64233369999999
+               }
+            },
+            "location" : {
+               "lat" : 23.3428912,
+               "lng" : 88.6440092
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.3442822302915,
+                  "lng" : 88.6457983
+               },
+               "southwest" : {
+                  "lat" : 23.3415842697085,
+                  "lng" : 88.64233369999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

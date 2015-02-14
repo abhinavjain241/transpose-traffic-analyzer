@@ -1,0 +1,680 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Drive East",
+               "short_name" : "Majestic Dr E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastland",
+               "short_name" : "Eastland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43232",
+               "short_name" : "43232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Drive East, Columbus, OH 43232, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.931118,
+                  "lng" : -82.858867
+               },
+               "southwest" : {
+                  "lat" : 39.929377,
+                  "lng" : -82.8623546
+               }
+            },
+            "location" : {
+               "lat" : 39.930328,
+               "lng" : -82.86081299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9315964802915,
+                  "lng" : -82.858867
+               },
+               "southwest" : {
+                  "lat" : 39.9288985197085,
+                  "lng" : -82.8623546
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Drive North",
+               "short_name" : "Majestic Dr N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastland",
+               "short_name" : "Eastland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43232",
+               "short_name" : "43232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Drive North, Columbus, OH 43232, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.932317,
+                  "lng" : -82.8591579
+               },
+               "southwest" : {
+                  "lat" : 39.93104599999999,
+                  "lng" : -82.862509
+               }
+            },
+            "location" : {
+               "lat" : 39.931719,
+               "lng" : -82.86086299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9330304802915,
+                  "lng" : -82.8591579
+               },
+               "southwest" : {
+                  "lat" : 39.9303325197085,
+                  "lng" : -82.862509
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Drive West",
+               "short_name" : "Majestic Dr W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastland",
+               "short_name" : "Eastland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43232",
+               "short_name" : "43232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Drive West, Columbus, OH 43232, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.931523,
+                  "lng" : -82.86192799999999
+               },
+               "southwest" : {
+                  "lat" : 39.929656,
+                  "lng" : -82.862871
+               }
+            },
+            "location" : {
+               "lat" : 39.9310714,
+               "lng" : -82.86226430000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9319384802915,
+                  "lng" : -82.86105051970848
+               },
+               "southwest" : {
+                  "lat" : 39.9292405197085,
+                  "lng" : -82.86374848029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Bus Terminus",
+               "short_name" : "Majestic Bus Terminus",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Gubbi Thotadappa Rd",
+               "short_name" : "Gubbi Thotadappa Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kempegowda",
+               "short_name" : "Kempegowda",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gandhi Nagar",
+               "short_name" : "Gandhi Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560009",
+               "short_name" : "560009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Bus Terminus, Gubbi Thotadappa Rd, Kempegowda, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.975746,
+               "lng" : 77.57274600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9770949802915,
+                  "lng" : 77.57409498029152
+               },
+               "southwest" : {
+                  "lat" : 12.9743970197085,
+                  "lng" : 77.57139701970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Court",
+               "short_name" : "Majestic Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastland",
+               "short_name" : "Eastland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43232",
+               "short_name" : "43232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Court, Columbus, OH 43232, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.929656,
+                  "lng" : -82.862166
+               },
+               "southwest" : {
+                  "lat" : 39.928927,
+                  "lng" : -82.86295199999999
+               }
+            },
+            "location" : {
+               "lat" : 39.929341,
+               "lng" : -82.862527
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.93064048029151,
+                  "lng" : -82.86121001970849
+               },
+               "southwest" : {
+                  "lat" : 39.92794251970851,
+                  "lng" : -82.86390798029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "majestic bus stop",
+               "short_name" : "majestic bus stop",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "MVS Area",
+               "short_name" : "MVS Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Siddah Lingappa Chowki",
+               "short_name" : "Siddah Lingappa Chowki",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hosapete",
+               "short_name" : "Hosapete",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellary",
+               "short_name" : "Bellary",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "583201",
+               "short_name" : "583201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "majestic bus stop, MVS Area, Siddah Lingappa Chowki, Hosapete, Karnataka 583201, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 15.2664755,
+               "lng" : 76.3947124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.2678244802915,
+                  "lng" : 76.39606138029151
+               },
+               "southwest" : {
+                  "lat" : 15.2651265197085,
+                  "lng" : 76.39336341970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kempegowda Bus Station",
+               "short_name" : "KBS",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kempegowda",
+               "short_name" : "Kempegowda",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Majestic",
+               "short_name" : "Majestic",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560023",
+               "short_name" : "560023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kempegowda Bus Station, Kempegowda, Majestic, Bengaluru, Karnataka 560023, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9797867,
+                  "lng" : 77.57454869999999
+               },
+               "southwest" : {
+                  "lat" : 12.9762162,
+                  "lng" : 77.57106709999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9780223,
+               "lng" : 77.5723842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9797867,
+                  "lng" : 77.57454869999999
+               },
+               "southwest" : {
+                  "lat" : 12.9762162,
+                  "lng" : 77.57106709999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Business Park",
+               "short_name" : "Majestic Business Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Majestic Business Park, Co. Cork, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.11718,
+               "lng" : -8.65963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.11852898029149,
+                  "lng" : -8.658281019708499
+               },
+               "southwest" : {
+                  "lat" : 52.11583101970849,
+                  "lng" : -8.660978980291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Lane",
+               "short_name" : "Majestic Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hoffman Property",
+               "short_name" : "Hoffman Property",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brentwood",
+               "short_name" : "Brentwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Contra Costa County",
+               "short_name" : "Contra Costa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94513",
+               "short_name" : "94513",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Lane, Brentwood, CA 94513, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.952638,
+                  "lng" : -121.7200719
+               },
+               "southwest" : {
+                  "lat" : 37.9522,
+                  "lng" : -121.7223803
+               }
+            },
+            "location" : {
+               "lat" : 37.9524196,
+               "lng" : -121.7222513
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9537679802915,
+                  "lng" : -121.7198771197085
+               },
+               "southwest" : {
+                  "lat" : 37.9510700197085,
+                  "lng" : -121.7225750802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majestic Drive",
+               "short_name" : "Majestic Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Northwest Pensacola",
+               "short_name" : "North Northwest Pensacola",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pensacola",
+               "short_name" : "Pensacola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Escambia County",
+               "short_name" : "Escambia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32534",
+               "short_name" : "32534",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Majestic Drive, Pensacola, FL 32534, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5693576,
+                  "lng" : -87.2805659
+               },
+               "southwest" : {
+                  "lat" : 30.566273,
+                  "lng" : -87.281364
+               }
+            },
+            "location" : {
+               "lat" : 30.5679662,
+               "lng" : -87.2809178
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5693576,
+                  "lng" : -87.2796159697085
+               },
+               "southwest" : {
+                  "lat" : 30.566273,
+                  "lng" : -87.28231393029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

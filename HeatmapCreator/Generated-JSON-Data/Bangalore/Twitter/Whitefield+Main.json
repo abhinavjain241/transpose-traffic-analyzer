@@ -1,0 +1,324 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitefield Main Road",
+               "short_name" : "Whitefield Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitefield",
+               "short_name" : "Whitefield",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560066",
+               "short_name" : "560066",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitefield Main Road, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.97219,
+                  "lng" : 77.7516174
+               },
+               "southwest" : {
+                  "lat" : 12.9571415,
+                  "lng" : 77.7455185
+               }
+            },
+            "location" : {
+               "lat" : 12.9648298,
+               "lng" : 77.74870190000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.97219,
+                  "lng" : 77.7516174
+               },
+               "southwest" : {
+                  "lat" : 12.9571415,
+                  "lng" : 77.7455185
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitefield",
+               "short_name" : "Whitefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74472",
+               "short_name" : "74472",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Main Street, Whitefield, OK 74472, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2668638,
+                  "lng" : -95.2368108
+               },
+               "southwest" : {
+                  "lat" : 35.2421287,
+                  "lng" : -95.23858349999999
+               }
+            },
+            "location" : {
+               "lat" : 35.2542645,
+               "lng" : -95.2370942
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2668638,
+                  "lng" : -95.23634816970849
+               },
+               "southwest" : {
+                  "lat" : 35.2421287,
+                  "lng" : -95.23904613029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitefield",
+               "short_name" : "Whitefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04353",
+               "short_name" : "04353",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Main Street, Whitefield, ME 04353, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2632664,
+                  "lng" : -69.5440174
+               },
+               "southwest" : {
+                  "lat" : 44.2534613,
+                  "lng" : -69.5592003
+               }
+            },
+            "location" : {
+               "lat" : 44.258606,
+               "lng" : -69.55104639999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2632664,
+                  "lng" : -69.5440174
+               },
+               "southwest" : {
+                  "lat" : 44.2534613,
+                  "lng" : -69.5592003
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitefield",
+               "short_name" : "Whitefield",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Whitefield",
+               "short_name" : "Whitefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coos County",
+               "short_name" : "Coos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03598",
+               "short_name" : "03598",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Main Street, Whitefield, NH 03598, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3736577,
+                  "lng" : -71.61260009999999
+               },
+               "southwest" : {
+                  "lat" : 44.37364549999999,
+                  "lng" : -71.6139098
+               }
+            },
+            "location" : {
+               "lat" : 44.37364549999999,
+               "lng" : -71.61351599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3750005802915,
+                  "lng" : -71.61190596970849
+               },
+               "southwest" : {
+                  "lat" : 44.3723026197085,
+                  "lng" : -71.61460393029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Main Street",
+               "short_name" : "S Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitefield",
+               "short_name" : "Whitefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haskell County",
+               "short_name" : "Haskell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74472",
+               "short_name" : "74472",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Main Street, Whitefield, OK 74472, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.269039,
+                  "lng" : -95.3044549
+               },
+               "southwest" : {
+                  "lat" : 35.2686696,
+                  "lng" : -95.3046172
+               }
+            },
+            "location" : {
+               "lat" : 35.268895,
+               "lng" : -95.30449770000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2702032802915,
+                  "lng" : -95.30318706970849
+               },
+               "southwest" : {
+                  "lat" : 35.2675053197085,
+                  "lng" : -95.30588503029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

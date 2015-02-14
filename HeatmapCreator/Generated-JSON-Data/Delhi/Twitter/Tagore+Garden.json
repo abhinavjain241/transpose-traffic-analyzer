@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tagore Garden Metro Station",
+               "short_name" : "Tagore Garden Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Najafgarh Road",
+               "short_name" : "Najafgarh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block BF",
+               "short_name" : "Block BF",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajouri Garden Extension",
+               "short_name" : "Rajouri Garden Extension",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajouri Garden",
+               "short_name" : "Rajouri Garden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110027",
+               "short_name" : "110027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tagore Garden Metro Station, Najafgarh Road, Block BF, Rajouri Garden Extension, Rajouri Garden, New Delhi, Delhi 110027, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.644279,
+                  "lng" : 77.1136994
+               },
+               "southwest" : {
+                  "lat" : 28.6432943,
+                  "lng" : 77.1119662
+               }
+            },
+            "location" : {
+               "lat" : 28.6438947,
+               "lng" : 77.1128296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6451356302915,
+                  "lng" : 77.1141817802915
+               },
+               "southwest" : {
+                  "lat" : 28.6424376697085,
+                  "lng" : 77.1114838197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thakurli",
+               "short_name" : "Thakurli",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dombivli",
+               "short_name" : "Dombivli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thakurli, Dombivli, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2299089,
+                  "lng" : 73.106042
+               },
+               "southwest" : {
+                  "lat" : 19.2177941,
+                  "lng" : 73.0937577
+               }
+            },
+            "location" : {
+               "lat" : 19.221876,
+               "lng" : 73.1003183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2299089,
+                  "lng" : 73.106042
+               },
+               "southwest" : {
+                  "lat" : 19.2177941,
+                  "lng" : 73.0937577
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nalanda Bus Stop",
+               "short_name" : "Nalanda Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "SH 54",
+               "short_name" : "SH 54",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ulliyeri",
+               "short_name" : "Ulliyeri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kozhikode",
+               "short_name" : "Kozhikode",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "673620",
+               "short_name" : "673620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nalanda Bus Stop, SH 54, Ulliyeri, Kerala 673620, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 11.4552035,
+               "lng" : 75.77085439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.4565524802915,
+                  "lng" : 75.7722033802915
+               },
+               "southwest" : {
+                  "lat" : 11.4538545197085,
+                  "lng" : 75.76950541970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nalanda Bus Bay",
+               "short_name" : "Nalanda Bus Bay",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Nalanda Group of Institutions",
+               "short_name" : "Nalanda Group of Institutions",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Nalanda - Main Road",
+               "short_name" : "Nalanda - Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guntur",
+               "short_name" : "Guntur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "522438",
+               "short_name" : "522438",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nalanda Bus Bay, Nalanda Group of Institutions, Nalanda - Main Road, Andhra Pradesh 522438, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.3788054,
+                  "lng" : 80.21061569999999
+               },
+               "southwest" : {
+                  "lat" : 16.3785044,
+                  "lng" : 80.21012750000001
+               }
+            },
+            "location" : {
+               "lat" : 16.3786641,
+               "lng" : 80.2103884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.3800038802915,
+                  "lng" : 80.21172058029151
+               },
+               "southwest" : {
+                  "lat" : 16.3773059197085,
+                  "lng" : 80.20902261970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

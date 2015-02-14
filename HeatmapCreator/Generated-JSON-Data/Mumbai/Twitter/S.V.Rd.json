@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swami Vivekanand Road",
+               "short_name" : "Swami Vivekanand Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swami Vivekanand Road, Mumbai, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2307659,
+                  "lng" : 72.85673899999999
+               },
+               "southwest" : {
+                  "lat" : 19.0427267,
+                  "lng" : 72.83566279999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1368804,
+               "lng" : 72.8467338
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2307659,
+                  "lng" : 72.85673899999999
+               },
+               "southwest" : {
+                  "lat" : 19.0427267,
+                  "lng" : 72.83566279999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dwarka",
+               "short_name" : "Dwarka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jamnagar",
+               "short_name" : "Jamnagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dwarka, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.261406,
+                  "lng" : 68.9853811
+               },
+               "southwest" : {
+                  "lat" : 22.2320242,
+                  "lng" : 68.9534061
+               }
+            },
+            "location" : {
+               "lat" : 22.2441975,
+               "lng" : 68.96845619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.261406,
+                  "lng" : 68.9853811
+               },
+               "southwest" : {
+                  "lat" : 22.2320242,
+                  "lng" : 68.9534061
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dwarka",
+               "short_name" : "Dwarka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dwarka, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6208451,
+                  "lng" : 77.080395
+               },
+               "southwest" : {
+                  "lat" : 28.5257751,
+                  "lng" : 77.00929099999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5921401,
+               "lng" : 77.04604809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6208451,
+                  "lng" : 77.080395
+               },
+               "southwest" : {
+                  "lat" : 28.5257751,
+                  "lng" : 77.00929099999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

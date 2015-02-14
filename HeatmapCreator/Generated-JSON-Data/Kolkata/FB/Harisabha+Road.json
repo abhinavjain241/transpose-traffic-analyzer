@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hari Sabha Road",
+               "short_name" : "Hari Sabha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khidirpur",
+               "short_name" : "Khidirpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700023",
+               "short_name" : "700023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hari Sabha Road, Khidirpur, Kolkata, West Bengal 700023, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5405614,
+                  "lng" : 88.32676520000001
+               },
+               "southwest" : {
+                  "lat" : 22.5399004,
+                  "lng" : 88.3252629
+               }
+            },
+            "location" : {
+               "lat" : 22.5402714,
+               "lng" : 88.3259175
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5415798802915,
+                  "lng" : 88.32736303029152
+               },
+               "southwest" : {
+                  "lat" : 22.5388819197085,
+                  "lng" : 88.32466506970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

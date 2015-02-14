@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viviana Mall",
+               "short_name" : "Viviana Mall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Eastern Express Highway",
+               "short_name" : "Eastern Express Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laxmi Nagar",
+               "short_name" : "Laxmi Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400606",
+               "short_name" : "400606",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viviana Mall, Eastern Express Highway, Laxmi Nagar, Thane West, Thane, Maharashtra 400606, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2097565,
+                  "lng" : 72.9725887
+               },
+               "southwest" : {
+                  "lat" : 19.2075928,
+                  "lng" : 72.9704596
+               }
+            },
+            "location" : {
+               "lat" : 19.2088139,
+               "lng" : 72.97133869999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2100236302915,
+                  "lng" : 72.97287313029152
+               },
+               "southwest" : {
+                  "lat" : 19.2073256697085,
+                  "lng" : 72.9701751697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

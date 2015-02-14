@@ -1,0 +1,454 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Das Para",
+               "short_name" : "Das Para",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South 24 Parganas",
+               "short_name" : "South 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700140",
+               "short_name" : "700140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Das Para, Kolkata, West Bengal 700140, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.512972,
+                  "lng" : 88.238018
+               },
+               "southwest" : {
+                  "lat" : 22.5020911,
+                  "lng" : 88.22440309999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5073909,
+               "lng" : 88.23029559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.512972,
+                  "lng" : 88.238018
+               },
+               "southwest" : {
+                  "lat" : 22.5020911,
+                  "lng" : 88.22440309999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Das Para",
+               "short_name" : "Das Para",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713104",
+               "short_name" : "713104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Das Para, West Bengal 713104, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.267014,
+                  "lng" : 87.8739095
+               },
+               "southwest" : {
+                  "lat" : 23.2659988,
+                  "lng" : 87.87198900000001
+               }
+            },
+            "location" : {
+               "lat" : 23.2666054,
+               "lng" : 87.8726204
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2678553802915,
+                  "lng" : 87.87429823029152
+               },
+               "southwest" : {
+                  "lat" : 23.2651574197085,
+                  "lng" : 87.87160026970849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Das Para",
+               "short_name" : "Das Para",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Reekjoyoni",
+               "short_name" : "Reekjoyoni",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700135",
+               "short_name" : "700135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Das Para, Reekjoyoni, West Bengal 700135, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6338768,
+                  "lng" : 88.49412199999999
+               },
+               "southwest" : {
+                  "lat" : 22.6323419,
+                  "lng" : 88.49205140000001
+               }
+            },
+            "location" : {
+               "lat" : 22.633307,
+               "lng" : 88.492752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6344583302915,
+                  "lng" : 88.4944356802915
+               },
+               "southwest" : {
+                  "lat" : 22.6317603697085,
+                  "lng" : 88.4917377197085
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Das Para",
+               "short_name" : "Das Para",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Atapur",
+               "short_name" : "Atapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743446",
+               "short_name" : "743446",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Das Para, Atapur, West Bengal 743446, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.320324,
+                  "lng" : 88.9011848
+               },
+               "southwest" : {
+                  "lat" : 22.3167408,
+                  "lng" : 88.8965498
+               }
+            },
+            "location" : {
+               "lat" : 22.3180745,
+               "lng" : 88.89859869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.320324,
+                  "lng" : 88.9011848
+               },
+               "southwest" : {
+                  "lat" : 22.3167408,
+                  "lng" : 88.8965498
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Das Para Road",
+               "short_name" : "Das Para Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North and Middle Andaman",
+               "short_name" : "North and Middle Andaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andaman and Nicobar Islands",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "744202",
+               "short_name" : "744202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Das Para Road, Andaman and Nicobar Islands 744202",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.2475694,
+                  "lng" : 92.9687357
+               },
+               "southwest" : {
+                  "lat" : 13.2446697,
+                  "lng" : 92.95597099999999
+               }
+            },
+            "location" : {
+               "lat" : 13.2461196,
+               "lng" : 92.9623534
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.2475694,
+                  "lng" : 92.9687357
+               },
+               "southwest" : {
+                  "lat" : 13.2446697,
+                  "lng" : 92.95597099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binoy Badal Dinesh Sarani",
+               "short_name" : "Binoy Badal Dinesh Sarani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Subhash Nagar 2",
+               "short_name" : "Subhash Nagar 2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rishra",
+               "short_name" : "Rishra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hooghly",
+               "short_name" : "Hooghly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "712249",
+               "short_name" : "712249",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Binoy Badal Dinesh Sarani, Subhash Nagar 2, Rishra, West Bengal 712249, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7221749,
+                  "lng" : 88.3399294
+               },
+               "southwest" : {
+                  "lat" : 22.7197283,
+                  "lng" : 88.3382895
+               }
+            },
+            "location" : {
+               "lat" : 22.7208443,
+               "lng" : 88.33909469999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.72230058029151,
+                  "lng" : 88.34045843029151
+               },
+               "southwest" : {
+                  "lat" : 22.7196026197085,
+                  "lng" : 88.3377604697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Das Para Road",
+               "short_name" : "Das Para Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ghungoor",
+               "short_name" : "Ghungoor",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Masimpur",
+               "short_name" : "Masimpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Silcoorie Grant",
+               "short_name" : "Silcoorie Grant",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cachar",
+               "short_name" : "Cachar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "788118",
+               "short_name" : "788118",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Das Para Road, Ghungoor, Masimpur, Silcoorie Grant, Assam 788118, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7760555,
+                  "lng" : 92.79249109999999
+               },
+               "southwest" : {
+                  "lat" : 24.7756159,
+                  "lng" : 92.790184
+               }
+            },
+            "location" : {
+               "lat" : 24.775784,
+               "lng" : 92.7911981
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7771846802915,
+                  "lng" : 92.79268653029149
+               },
+               "southwest" : {
+                  "lat" : 24.7744867197085,
+                  "lng" : 92.78998856970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

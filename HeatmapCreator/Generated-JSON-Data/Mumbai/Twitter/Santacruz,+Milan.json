@@ -1,0 +1,522 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milán",
+               "short_name" : "Milán",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roma",
+               "short_name" : "Roma",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Santa Lucía del Camino",
+               "short_name" : "Santa Lucía del Camino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oaxaca",
+               "short_name" : "Oax.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "71228",
+               "short_name" : "71228",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milán, Roma, 71228 Santa Lucía del Camino, Oax., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.0486108,
+                  "lng" : -96.6966709
+               },
+               "southwest" : {
+                  "lat" : 17.0467134,
+                  "lng" : -96.69719859999999
+               }
+            },
+            "location" : {
+               "lat" : 17.0477959,
+               "lng" : -96.6969153
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.0490110802915,
+                  "lng" : -96.69558576970849
+               },
+               "southwest" : {
+                  "lat" : 17.0463131197085,
+                  "lng" : -96.69828373029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milán",
+               "short_name" : "Milán",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valle Dorado",
+               "short_name" : "Valle Dorado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tlalnepantla de Baz",
+               "short_name" : "Tlalnepantla de Baz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Estado de México",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54020",
+               "short_name" : "54020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milán, Valle Dorado, 54020 Méx., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5488045,
+                  "lng" : -99.2127256
+               },
+               "southwest" : {
+                  "lat" : 19.5464461,
+                  "lng" : -99.21310600000001
+               }
+            },
+            "location" : {
+               "lat" : 19.5476257,
+               "lng" : -99.2129185
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5489742802915,
+                  "lng" : -99.21156681970851
+               },
+               "southwest" : {
+                  "lat" : 19.5462763197085,
+                  "lng" : -99.21426478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milán",
+               "short_name" : "Milán",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Santa Cruz de Tenerife",
+               "short_name" : "TF",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canarias",
+               "short_name" : "CN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38260",
+               "short_name" : "38260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milán, 38260, Santa Cruz de Tenerife, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.546077,
+               "lng" : -16.360958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5474259802915,
+                  "lng" : -16.3596090197085
+               },
+               "southwest" : {
+                  "lat" : 28.5447280197085,
+                  "lng" : -16.3623069802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milán",
+               "short_name" : "Milán",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Acámbaro",
+               "short_name" : "Acámbaro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milán, Acámbaro, Gto., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.020431,
+                  "lng" : -100.71561
+               },
+               "southwest" : {
+                  "lat" : 20.0188765,
+                  "lng" : -100.7157241
+               }
+            },
+            "location" : {
+               "lat" : 20.0195683,
+               "lng" : -100.7156768
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0210027302915,
+                  "lng" : -100.7143180697085
+               },
+               "southwest" : {
+                  "lat" : 20.0183047697085,
+                  "lng" : -100.7170160302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milán",
+               "short_name" : "Milán",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Obreros Independientes Sur",
+               "short_name" : "Obreros Independientes Sur",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sanctorum",
+               "short_name" : "Sanctorum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Pue.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "72104",
+               "short_name" : "72104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milán, Obreros Independientes Sur, 72104 Sanctorum, Pue., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0991438,
+                  "lng" : -98.23877309999999
+               },
+               "southwest" : {
+                  "lat" : 19.0983211,
+                  "lng" : -98.23967259999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0986734,
+               "lng" : -98.2392244
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.10008143029151,
+                  "lng" : -98.23787386970849
+               },
+               "southwest" : {
+                  "lat" : 19.0973834697085,
+                  "lng" : -98.2405718302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milán",
+               "short_name" : "Milán",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cuauhtémoc",
+               "short_name" : "Cuauhtémoc",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ojo de Agua",
+               "short_name" : "Ojo de Agua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Estado de México",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55760",
+               "short_name" : "55760",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milán, Cuauhtémoc, 55760 Ojo de Agua, Méx., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.679075,
+                  "lng" : -98.980024
+               },
+               "southwest" : {
+                  "lat" : 19.678286,
+                  "lng" : -98.98053949999999
+               }
+            },
+            "location" : {
+               "lat" : 19.6783086,
+               "lng" : -98.9804329
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.6800294802915,
+                  "lng" : -98.97893276970849
+               },
+               "southwest" : {
+                  "lat" : 19.6773315197085,
+                  "lng" : -98.98163073029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santacruz",
+               "short_name" : "Santacruz",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sen Nagar",
+               "short_name" : "Sen Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz West",
+               "short_name" : "Santacruz West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400055",
+               "short_name" : "400055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santacruz, MG Road, Sen Nagar, Santacruz West, Mumbai, Maharashtra 400055, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0845774,
+                  "lng" : 72.8420983
+               },
+               "southwest" : {
+                  "lat" : 19.0802618,
+                  "lng" : 72.84127219999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0825552,
+               "lng" : 72.84176269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0845774,
+                  "lng" : 72.84303423029151
+               },
+               "southwest" : {
+                  "lat" : 19.0802618,
+                  "lng" : 72.8403362697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "90 Feet Road",
+               "short_name" : "90 Feet Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Garodia Nagar",
+               "short_name" : "Garodia Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar East",
+               "short_name" : "Ghatkopar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400077",
+               "short_name" : "400077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan, 90 Feet Road, Garodia Nagar, Ghatkopar East, Mumbai, Maharashtra 400077, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0756651,
+                  "lng" : 72.908637
+               },
+               "southwest" : {
+                  "lat" : 19.0754115,
+                  "lng" : 72.90838479999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0755383,
+               "lng" : 72.9085109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0768872802915,
+                  "lng" : 72.90985988029151
+               },
+               "southwest" : {
+                  "lat" : 19.0741893197085,
+                  "lng" : 72.9071619197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

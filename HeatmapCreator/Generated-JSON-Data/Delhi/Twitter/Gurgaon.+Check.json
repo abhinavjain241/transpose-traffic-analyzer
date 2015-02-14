@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Check Mate",
+               "short_name" : "Check Mate",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Sector 15-2",
+               "short_name" : "Sector 15-2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 15",
+               "short_name" : "Sector 15",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gurgaon",
+               "short_name" : "Gurgaon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gurgaon",
+               "short_name" : "Gurgaon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "122001",
+               "short_name" : "122001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Check Mate, Sector 15-2, Sector 15, Gurgaon, Haryana 122001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.460657,
+                  "lng" : 77.04858589999999
+               },
+               "southwest" : {
+                  "lat" : 28.4605976,
+                  "lng" : 77.04854209999999
+               }
+            },
+            "location" : {
+               "lat" : 28.4606327,
+               "lng" : 77.0485645
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.46197628029151,
+                  "lng" : 77.0499129802915
+               },
+               "southwest" : {
+                  "lat" : 28.4592783197085,
+                  "lng" : 77.04721501970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

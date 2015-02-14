@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lohar Chawl",
+               "short_name" : "Lohar Chawl",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalbadevi",
+               "short_name" : "Kalbadevi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lohar Chawl, Kalbadevi, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.949819,
+                  "lng" : 72.8353511
+               },
+               "southwest" : {
+                  "lat" : 18.943464,
+                  "lng" : 72.8277329
+               }
+            },
+            "location" : {
+               "lat" : 18.9467032,
+               "lng" : 72.8312385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.949819,
+                  "lng" : 72.8353511
+               },
+               "southwest" : {
+                  "lat" : 18.943464,
+                  "lng" : 72.8277329
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahim Lohar Chawl",
+               "short_name" : "Mahim Lohar Chawl",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "TM Mandir Marg",
+               "short_name" : "TM Mandir Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mahim West",
+               "short_name" : "Mahim West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mahim",
+               "short_name" : "Mahim",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400016",
+               "short_name" : "400016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahim Lohar Chawl, TM Mandir Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0390276,
+               "lng" : 72.8400381
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0403765802915,
+                  "lng" : 72.84138708029151
+               },
+               "southwest" : {
+                  "lat" : 19.0376786197085,
+                  "lng" : 72.8386891197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

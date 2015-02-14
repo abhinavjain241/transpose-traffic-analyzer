@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawford Market",
+               "short_name" : "Crawford Market",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ramabai Ambedkar Marg",
+               "short_name" : "Ramabai Ambedkar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhobi Talao",
+               "short_name" : "Dhobi Talao",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chhatrapati Shivaji Terminus Area",
+               "short_name" : "Chhatrapati Shivaji Terminus Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fort",
+               "short_name" : "Fort",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crawford Market, Ramabai Ambedkar Marg, Dhobi Talao, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9463858,
+               "lng" : 72.83496869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9477347802915,
+                  "lng" : 72.8363176802915
+               },
+               "southwest" : {
+                  "lat" : 18.9450368197085,
+                  "lng" : 72.83361971970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

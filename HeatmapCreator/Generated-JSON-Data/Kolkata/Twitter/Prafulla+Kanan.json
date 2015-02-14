@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prafulla Kanan",
+               "short_name" : "Prafulla Kanan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Keshtopur",
+               "short_name" : "Keshtopur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700101",
+               "short_name" : "700101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prafulla Kanan, Keshtopur, Kolkata, West Bengal 700101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6091033,
+                  "lng" : 88.42600299999999
+               },
+               "southwest" : {
+                  "lat" : 22.602755,
+                  "lng" : 88.417844
+               }
+            },
+            "location" : {
+               "lat" : 22.6054437,
+               "lng" : 88.4216066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6091033,
+                  "lng" : 88.42600299999999
+               },
+               "southwest" : {
+                  "lat" : 22.602755,
+                  "lng" : 88.417844
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

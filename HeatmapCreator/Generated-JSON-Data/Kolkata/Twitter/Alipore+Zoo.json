@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zoo Aquarium",
+               "short_name" : "Zoo Aquarium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Belvedere Road",
+               "short_name" : "Belvedere Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lake Place",
+               "short_name" : "Lake Place",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Alipore",
+               "short_name" : "Alipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700025",
+               "short_name" : "700025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zoo Aquarium, Belvedere Road, Lake Place, Alipore, Kolkata, West Bengal 700025, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5367661,
+                  "lng" : 88.334879
+               },
+               "southwest" : {
+                  "lat" : 22.5360312,
+                  "lng" : 88.33385869999999
+               }
+            },
+            "location" : {
+               "lat" : 22.53633,
+               "lng" : 88.33433079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5377476302915,
+                  "lng" : 88.33571783029151
+               },
+               "southwest" : {
+                  "lat" : 22.5350496697085,
+                  "lng" : 88.33301986970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "aquarium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alipur Zoo Gate 4 Bus Stand",
+               "short_name" : "Alipur Zoo Gate 4 Bus Stand",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Belvedere Road",
+               "short_name" : "Belvedere Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alipur Zoological Garden",
+               "short_name" : "Alipur Zoological Garden",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Alipore",
+               "short_name" : "Alipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700025",
+               "short_name" : "700025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alipur Zoo Gate 4 Bus Stand, Belvedere Road, Alipur Zoological Garden, Alipore, Kolkata, West Bengal 700025, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5369188,
+               "lng" : 88.33344489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5382677802915,
+                  "lng" : 88.3347938802915
+               },
+               "southwest" : {
+                  "lat" : 22.5355698197085,
+                  "lng" : 88.33209591970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kolkata Zoo, Alipore",
+               "short_name" : "Kolkata Zoo, Alipore",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Alipore Road",
+               "short_name" : "Alipore Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alipore",
+               "short_name" : "Alipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700027",
+               "short_name" : "700027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kolkata Zoo, Alipore, Alipore Road, Alipore, Kolkata, West Bengal 700027, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5405237,
+                  "lng" : 88.3335544
+               },
+               "southwest" : {
+                  "lat" : 22.5330519,
+                  "lng" : 88.33003119999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5367878,
+               "lng" : 88.3317928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5405237,
+                  "lng" : 88.3335544
+               },
+               "southwest" : {
+                  "lat" : 22.5330519,
+                  "lng" : 88.33003119999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "zoo", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

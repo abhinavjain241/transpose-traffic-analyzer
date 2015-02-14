@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodhi Road",
+               "short_name" : "Lodhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lodhi Road, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5932204,
+                  "lng" : 77.2434279
+               },
+               "southwest" : {
+                  "lat" : 28.5861976,
+                  "lng" : 77.2127354
+               }
+            },
+            "location" : {
+               "lat" : 28.5909715,
+               "lng" : 77.2279116
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5932204,
+                  "lng" : 77.2434279
+               },
+               "southwest" : {
+                  "lat" : 28.5861976,
+                  "lng" : 77.2127354
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodhi Road",
+               "short_name" : "Lodhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hassan Abdal",
+               "short_name" : "Hassan Abdal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Attock District",
+               "short_name" : "Attock District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lodhi Road, Hassan Abdal, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8227514,
+                  "lng" : 72.6840342
+               },
+               "southwest" : {
+                  "lat" : 33.8187591,
+                  "lng" : 72.68316369999999
+               }
+            },
+            "location" : {
+               "lat" : 33.820804,
+               "lng" : 72.68373500000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8227514,
+                  "lng" : 72.6849479302915
+               },
+               "southwest" : {
+                  "lat" : 33.8187591,
+                  "lng" : 72.68224996970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodhi Road",
+               "short_name" : "Lodhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kot Addu",
+               "short_name" : "Kot Addu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muzaffargarh District",
+               "short_name" : "Muzaffargarh District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lodhi Road, Kot Addu, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4428459,
+                  "lng" : 70.97034549999999
+               },
+               "southwest" : {
+                  "lat" : 30.4421761,
+                  "lng" : 70.96738959999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4422928,
+               "lng" : 70.96913049999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.44385998029149,
+                  "lng" : 70.97034549999999
+               },
+               "southwest" : {
+                  "lat" : 30.4411620197085,
+                  "lng" : 70.96738959999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodhi Road",
+               "short_name" : "Lodhi Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lodhi Road, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5409707,
+                  "lng" : 71.63455689999999
+               },
+               "southwest" : {
+                  "lat" : 29.5393254,
+                  "lng" : 71.6341585
+               }
+            },
+            "location" : {
+               "lat" : 29.540148,
+               "lng" : 71.6343577
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5414970302915,
+                  "lng" : 71.63570668029151
+               },
+               "southwest" : {
+                  "lat" : 29.5387990697085,
+                  "lng" : 71.63300871970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

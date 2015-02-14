@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Savitri Flyover",
+               "short_name" : "Savitri Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110048",
+               "short_name" : "110048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Savitri Flyover, New Delhi, Delhi 110048, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5429074,
+                  "lng" : 77.24215959999999
+               },
+               "southwest" : {
+                  "lat" : 28.5407908,
+                  "lng" : 77.236757
+               }
+            },
+            "location" : {
+               "lat" : 28.5418421,
+               "lng" : 77.23939709999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5431980802915,
+                  "lng" : 77.24215959999999
+               },
+               "southwest" : {
+                  "lat" : 28.5405001197085,
+                  "lng" : 77.236757
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

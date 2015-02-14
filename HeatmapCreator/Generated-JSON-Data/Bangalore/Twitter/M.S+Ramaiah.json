@@ -1,0 +1,375 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M S Ramaiah Building",
+               "short_name" : "M S Ramaiah Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Kumbaragundi Road",
+               "short_name" : "Kumbaragundi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kumbaragundi",
+               "short_name" : "Kumbaragundi",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalasipalayam",
+               "short_name" : "Kalasipalayam",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560002",
+               "short_name" : "560002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M S Ramaiah Building, Kumbaragundi Road, Kumbaragundi, Kalasipalayam, Bengaluru, Karnataka 560002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9615633,
+                  "lng" : 77.58344169999999
+               },
+               "southwest" : {
+                  "lat" : 12.9613634,
+                  "lng" : 77.5831372
+               }
+            },
+            "location" : {
+               "lat" : 12.9614633,
+               "lng" : 77.5832894
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9628123302915,
+                  "lng" : 77.58463843029151
+               },
+               "southwest" : {
+                  "lat" : 12.9601143697085,
+                  "lng" : 77.5819404697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M S Ramaiah Nagar",
+               "short_name" : "M S Ramaiah Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mathikere",
+               "short_name" : "Mathikere",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M S Ramaiah Nagar, Mathikere, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.035632,
+                  "lng" : 77.571326
+               },
+               "southwest" : {
+                  "lat" : 13.028188,
+                  "lng" : 77.5631209
+               }
+            },
+            "location" : {
+               "lat" : 13.0314935,
+               "lng" : 77.5655242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.035632,
+                  "lng" : 77.571326
+               },
+               "southwest" : {
+                  "lat" : 13.028188,
+                  "lng" : 77.5631209
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri M.S. Ramaiah",
+               "short_name" : "Sri M.S. Ramaiah",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9th Main Road",
+               "short_name" : "9th Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brindavan Nagar",
+               "short_name" : "Brindavan Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Venkatamma MSR Colony",
+               "short_name" : "Venkatamma MSR Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mathikere",
+               "short_name" : "Mathikere",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560054",
+               "short_name" : "560054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sri M.S. Ramaiah, 9th Main Road, Brindavan Nagar, Venkatamma MSR Colony, Mathikere, Bengaluru, Karnataka 560054, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.0384168,
+               "lng" : 77.55428089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.03976578029151,
+                  "lng" : 77.55562988029151
+               },
+               "southwest" : {
+                  "lat" : 13.0370678197085,
+                  "lng" : 77.55293191970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramaiah",
+               "short_name" : "Ramaiah",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "P and T Layout",
+               "short_name" : "P and T Layout",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "SBI Bank Colony",
+               "short_name" : "SBI Bank Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Battarahalli",
+               "short_name" : "Battarahalli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560049",
+               "short_name" : "560049",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ramaiah, P and T Layout, SBI Bank Colony, Battarahalli, Bengaluru, Karnataka 560049, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0229295,
+                  "lng" : 77.6905596
+               },
+               "southwest" : {
+                  "lat" : 13.0227909,
+                  "lng" : 77.6902137
+               }
+            },
+            "location" : {
+               "lat" : 13.0228662,
+               "lng" : 77.69040729999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0242091802915,
+                  "lng" : 77.6917356302915
+               },
+               "southwest" : {
+                  "lat" : 13.0215112197085,
+                  "lng" : 77.6890376697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M S ramaiah polytechnic",
+               "short_name" : "M S ramaiah polytechnic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "M.S. Ramaiah Institute of Technology",
+               "short_name" : "M.S. Ramaiah Institute of Technology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "M S Ramaiah Nagar",
+               "short_name" : "M S Ramaiah Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Devasandra",
+               "short_name" : "Devasandra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560054",
+               "short_name" : "560054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M S ramaiah polytechnic, M.S. Ramaiah Institute of Technology, M S Ramaiah Nagar, Devasandra, Bengaluru, Karnataka 560054, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.0317045,
+               "lng" : 77.567213
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0330534802915,
+                  "lng" : 77.56856198029151
+               },
+               "southwest" : {
+                  "lat" : 13.0303555197085,
+                  "lng" : 77.56586401970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

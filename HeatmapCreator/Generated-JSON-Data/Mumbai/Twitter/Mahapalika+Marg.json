@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahapalika Marg",
+               "short_name" : "Mahapalika Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahapalika Marg, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9438472,
+                  "lng" : 72.83489399999999
+               },
+               "southwest" : {
+                  "lat" : 18.9396299,
+                  "lng" : 72.8290784
+               }
+            },
+            "location" : {
+               "lat" : 18.9417904,
+               "lng" : 72.8320188
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9438472,
+                  "lng" : 72.83489399999999
+               },
+               "southwest" : {
+                  "lat" : 18.9396299,
+                  "lng" : 72.8290784
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

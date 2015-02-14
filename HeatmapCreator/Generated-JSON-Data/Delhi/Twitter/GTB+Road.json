@@ -1,0 +1,262 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guru Teg Bahadur Road",
+               "short_name" : "GTB Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhubri",
+               "short_name" : "Dhubri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guru Teg Bahadur Road, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.0779758,
+                  "lng" : 90.116192
+               },
+               "southwest" : {
+                  "lat" : 25.9257126,
+                  "lng" : 89.9632582
+               }
+            },
+            "location" : {
+               "lat" : 26.0190856,
+               "lng" : 89.9954688
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.0779758,
+                  "lng" : 90.116192
+               },
+               "southwest" : {
+                  "lat" : 25.9257126,
+                  "lng" : 89.9632582
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Road",
+               "short_name" : "GTB Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dilshad Garden",
+               "short_name" : "Dilshad Garden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North East Delhi",
+               "short_name" : "North East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110095",
+               "short_name" : "110095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Road, Dilshad Garden, New Delhi, Delhi 110095, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6828382,
+                  "lng" : 77.31536539999999
+               },
+               "southwest" : {
+                  "lat" : 28.6781118,
+                  "lng" : 77.312162
+               }
+            },
+            "location" : {
+               "lat" : 28.6804413,
+               "lng" : 77.31383520000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6828382,
+                  "lng" : 77.31536539999999
+               },
+               "southwest" : {
+                  "lat" : 28.6781118,
+                  "lng" : 77.312162
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Road",
+               "short_name" : "GTB Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadur Nagar",
+               "short_name" : "Guru Teg Bahadur Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tarn Taran",
+               "short_name" : "Tarn Taran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarn Taran",
+               "short_name" : "Tarn Taran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143401",
+               "short_name" : "143401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Road, Guru Teg Bahadur Nagar, Tarn Taran, Punjab 143401, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4685565,
+                  "lng" : 74.92392699999999
+               },
+               "southwest" : {
+                  "lat" : 31.4682077,
+                  "lng" : 74.91648769999999
+               }
+            },
+            "location" : {
+               "lat" : 31.46851759999999,
+               "lng" : 74.9203899
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4697310802915,
+                  "lng" : 74.92392699999999
+               },
+               "southwest" : {
+                  "lat" : 31.4670331197085,
+                  "lng" : 74.91648769999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Road",
+               "short_name" : "GTB Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ward Number 9",
+               "short_name" : "Ward Number 9",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bidyapara",
+               "short_name" : "Bidyapara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhubri",
+               "short_name" : "Dhubri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhubri",
+               "short_name" : "Dhubri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "783324",
+               "short_name" : "783324",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Road, Ward Number 9, Bidyapara, Dhubri, Assam 783324, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.0228167,
+                  "lng" : 89.98076359999999
+               },
+               "southwest" : {
+                  "lat" : 26.0220101,
+                  "lng" : 89.98029559999999
+               }
+            },
+            "location" : {
+               "lat" : 26.0223222,
+               "lng" : 89.98046859999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.0237623802915,
+                  "lng" : 89.98187858029149
+               },
+               "southwest" : {
+                  "lat" : 26.0210644197085,
+                  "lng" : 89.97918061970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

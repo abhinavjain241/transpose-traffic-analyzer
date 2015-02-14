@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhendi Bazar",
+               "short_name" : "Bhendi Bazar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "रविवार पेठ",
+               "short_name" : "रविवार पेठ",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belagavi",
+               "short_name" : "Belagavi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belagavi",
+               "short_name" : "Belagavi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "590001",
+               "short_name" : "590001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhendi Bazar, रविवार पेठ, Belagavi, Karnataka 590001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.8612568,
+                  "lng" : 74.5169528
+               },
+               "southwest" : {
+                  "lat" : 15.8563774,
+                  "lng" : 74.51573879999999
+               }
+            },
+            "location" : {
+               "lat" : 15.858761,
+               "lng" : 74.5161481
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.8612568,
+                  "lng" : 74.51769478029151
+               },
+               "southwest" : {
+                  "lat" : 15.8563774,
+                  "lng" : 74.5149968197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhendi Bazaar",
+               "short_name" : "Bhendi Bazaar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhuleshwar",
+               "short_name" : "Bhuleshwar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400003",
+               "short_name" : "400003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhendi Bazaar, Bhuleshwar, Mumbai, Maharashtra 400003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.958206,
+                  "lng" : 72.8328161
+               },
+               "southwest" : {
+                  "lat" : 18.9545682,
+                  "lng" : 72.8296782
+               }
+            },
+            "location" : {
+               "lat" : 18.9567568,
+               "lng" : 72.8312385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.958206,
+                  "lng" : 72.8328161
+               },
+               "southwest" : {
+                  "lat" : 18.9545682,
+                  "lng" : 72.8296782
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

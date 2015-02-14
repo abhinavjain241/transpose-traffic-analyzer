@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramakrishna Ashram Marg",
+               "short_name" : "R.K. Ashram Marg Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Panchkuian Road",
+               "short_name" : "Panchkuian Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block 42",
+               "short_name" : "Block 42",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bharat Nagar",
+               "short_name" : "Bharat Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paharganj",
+               "short_name" : "Paharganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ramakrishna Ashram Marg, Panchkuian Road, Block 42, Bharat Nagar, Paharganj, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.639849,
+                  "lng" : 77.2096746
+               },
+               "southwest" : {
+                  "lat" : 28.6385525,
+                  "lng" : 77.20802070000001
+               }
+            },
+            "location" : {
+               "lat" : 28.6392677,
+               "lng" : 77.20844950000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6405497302915,
+                  "lng" : 77.21019663029152
+               },
+               "southwest" : {
+                  "lat" : 28.6378517697085,
+                  "lng" : 77.20749866970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram building",
+               "short_name" : "Ashram building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Vijay Mandal Enclave",
+               "short_name" : "Vijay Mandal Enclave",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalu Sarai",
+               "short_name" : "Kalu Sarai",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram building, Vijay Mandal Enclave, Kalu Sarai, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5400929,
+                  "lng" : 77.20141580000001
+               },
+               "southwest" : {
+                  "lat" : 28.5392271,
+                  "lng" : 77.2004075
+               }
+            },
+            "location" : {
+               "lat" : 28.5395285,
+               "lng" : 77.2007462
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5410089802915,
+                  "lng" : 77.20226063029152
+               },
+               "southwest" : {
+                  "lat" : 28.53831101970849,
+                  "lng" : 77.1995626697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashram Road",
+               "short_name" : "Ashram Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Model Town",
+               "short_name" : "Model Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "132108",
+               "short_name" : "132108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashram Road, Model Town, Panipat, Haryana 132108, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3868349,
+                  "lng" : 76.9617458
+               },
+               "southwest" : {
+                  "lat" : 29.3821913,
+                  "lng" : 76.9593227
+               }
+            },
+            "location" : {
+               "lat" : 29.3840746,
+               "lng" : 76.9617401
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3868349,
+                  "lng" : 76.96188323029151
+               },
+               "southwest" : {
+                  "lat" : 29.3821913,
+                  "lng" : 76.9591852697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

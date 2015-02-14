@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wilson College",
+               "short_name" : "Wilson College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Philadelphia Avenue",
+               "short_name" : "Philadelphia Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chambersburg",
+               "short_name" : "Chambersburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17201",
+               "short_name" : "17201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wilson College, 1015 Philadelphia Avenue, Chambersburg, PA 17201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9503866,
+               "lng" : -77.6490488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9517355802915,
+                  "lng" : -77.64769981970849
+               },
+               "southwest" : {
+                  "lat" : 39.94903761970851,
+                  "lng" : -77.65039778029151
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

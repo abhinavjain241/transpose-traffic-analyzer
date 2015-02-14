@@ -1,0 +1,189 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasturba Gandhi Marg",
+               "short_name" : "KG Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kasturba Gandhi Marg, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6304036,
+                  "lng" : 77.23086069999999
+               },
+               "southwest" : {
+                  "lat" : 28.6133005,
+                  "lng" : 77.22093599999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6221495,
+               "lng" : 77.22579979999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6304036,
+                  "lng" : 77.23086069999999
+               },
+               "southwest" : {
+                  "lat" : 28.6133005,
+                  "lng" : 77.22093599999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "KG Marg",
+               "short_name" : "KG Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Lamka",
+               "short_name" : "New Lamka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Churachandpur",
+               "short_name" : "Churachandpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Churachandpur",
+               "short_name" : "Churachandpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manipur",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "795128",
+               "short_name" : "795128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "KG Marg, New Lamka, Churachandpur, Manipur 795128, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.3313173,
+                  "lng" : 93.6969723
+               },
+               "southwest" : {
+                  "lat" : 24.3273351,
+                  "lng" : 93.6962509
+               }
+            },
+            "location" : {
+               "lat" : 24.3292171,
+               "lng" : 93.6966595
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.3313173,
+                  "lng" : 93.69796058029149
+               },
+               "southwest" : {
+                  "lat" : 24.3273351,
+                  "lng" : 93.69526261970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kakasaheb Gadgil Marg",
+               "short_name" : "K.G.Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kakasaheb Gadgil Marg, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0168735,
+                  "lng" : 72.83684459999999
+               },
+               "southwest" : {
+                  "lat" : 19.0094768,
+                  "lng" : 72.8308662
+               }
+            },
+            "location" : {
+               "lat" : 19.012728,
+               "lng" : 72.83332279999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0168735,
+                  "lng" : 72.83684459999999
+               },
+               "southwest" : {
+                  "lat" : 19.0094768,
+                  "lng" : 72.8308662
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

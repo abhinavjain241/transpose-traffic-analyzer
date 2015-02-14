@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karachi",
+               "short_name" : "Karachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karachi District",
+               "short_name" : "Karachi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Railway Colony, Karachi, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8480598,
+                  "lng" : 67.0516741
+               },
+               "southwest" : {
+                  "lat" : 24.842559,
+                  "lng" : 67.04574099999999
+               }
+            },
+            "location" : {
+               "lat" : 24.8453509,
+               "lng" : 67.0483208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8480598,
+                  "lng" : 67.0516741
+               },
+               "southwest" : {
+                  "lat" : 24.842559,
+                  "lng" : 67.04574099999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

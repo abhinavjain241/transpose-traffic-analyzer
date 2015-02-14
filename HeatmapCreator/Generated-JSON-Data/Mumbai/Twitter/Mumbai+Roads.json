@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B & R House",
+               "short_name" : "B & R House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Kamaladevi Birajdar Marg",
+               "short_name" : "Kamaladevi Birajdar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vighnahar Co-Operative Housing Society",
+               "short_name" : "Vighnahar Co-Operative Housing Society",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 21",
+               "short_name" : "Sector 21",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nerul",
+               "short_name" : "Nerul",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400706",
+               "short_name" : "400706",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B & R House, Kamaladevi Birajdar Marg, Vighnahar Co-Operative Housing Society, Sector 21, Nerul, Navi Mumbai, Maharashtra 400706, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0329595,
+                  "lng" : 73.021773
+               },
+               "southwest" : {
+                  "lat" : 19.0326793,
+                  "lng" : 73.02150309999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0328194,
+               "lng" : 73.021638
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0341683802915,
+                  "lng" : 73.0229870302915
+               },
+               "southwest" : {
+                  "lat" : 19.0314704197085,
+                  "lng" : 73.0202890697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

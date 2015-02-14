@@ -1,0 +1,199 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S S K M Hospital",
+               "short_name" : "S S K M Hospital",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S S K M Hospital, Bhowanipore, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.541498,
+                  "lng" : 88.3442239
+               },
+               "southwest" : {
+                  "lat" : 22.5384799,
+                  "lng" : 88.33927179999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5394793,
+               "lng" : 88.34184449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.541498,
+                  "lng" : 88.3442239
+               },
+               "southwest" : {
+                  "lat" : 22.5384799,
+                  "lng" : 88.33927179999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SSKM Hospital",
+               "short_name" : "SSKM Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Harish Mukherjee Road",
+               "short_name" : "Harish Mukherjee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "S S K M Hospital",
+               "short_name" : "S S K M Hospital",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700020",
+               "short_name" : "700020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SSKM Hospital, Harish Mukherjee Road, S S K M Hospital, Bhowanipore, Kolkata, West Bengal 700020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5396021,
+               "lng" : 88.3439291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5409510802915,
+                  "lng" : 88.34527808029151
+               },
+               "southwest" : {
+                  "lat" : 22.5382531197085,
+                  "lng" : 88.3425801197085
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sskm Hospital",
+               "short_name" : "Sskm Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Anami Sangha",
+               "short_name" : "Anami Sangha",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700026",
+               "short_name" : "700026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sskm Hospital, Anami Sangha, Kalighat, Kolkata, West Bengal 700026, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.52,
+               "lng" : 88.342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5213489802915,
+                  "lng" : 88.34334898029149
+               },
+               "southwest" : {
+                  "lat" : 22.5186510197085,
+                  "lng" : 88.34065101970849
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

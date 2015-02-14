@@ -1,0 +1,195 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Film City",
+               "short_name" : "Film City",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 16A",
+               "short_name" : "Sector 16A",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Noida",
+               "short_name" : "Noida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gautam Buddh Nagar",
+               "short_name" : "Gautam Buddh Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "201301",
+               "short_name" : "201301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Film City, Sector 16A, Noida, Uttar Pradesh 201301, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5745459,
+                  "lng" : 77.3192169
+               },
+               "southwest" : {
+                  "lat" : 28.565096,
+                  "lng" : 77.30964299999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5708571,
+               "lng" : 77.3137756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5745459,
+                  "lng" : 77.3192169
+               },
+               "southwest" : {
+                  "lat" : 28.565096,
+                  "lng" : 77.30964299999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sector 16A",
+               "short_name" : "Sector 16A",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Noida",
+               "short_name" : "Noida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gautam Buddh Nagar",
+               "short_name" : "Gautam Buddh Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "201301",
+               "short_name" : "201301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sector 16A, Noida, Uttar Pradesh 201301, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5745459,
+                  "lng" : 77.3192169
+               },
+               "southwest" : {
+                  "lat" : 28.559188,
+                  "lng" : 77.307407
+               }
+            },
+            "location" : {
+               "lat" : 28.5679882,
+               "lng" : 77.3137756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5745459,
+                  "lng" : 77.3192169
+               },
+               "southwest" : {
+                  "lat" : 28.559188,
+                  "lng" : 77.307407
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Film City Road",
+               "short_name" : "Film City Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Film City Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1786738,
+                  "lng" : 72.888132
+               },
+               "southwest" : {
+                  "lat" : 19.1623664,
+                  "lng" : 72.8714476
+               }
+            },
+            "location" : {
+               "lat" : 19.1683499,
+               "lng" : 72.8760996
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1786738,
+                  "lng" : 72.888132
+               },
+               "southwest" : {
+                  "lat" : 19.1623664,
+                  "lng" : 72.8714476
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

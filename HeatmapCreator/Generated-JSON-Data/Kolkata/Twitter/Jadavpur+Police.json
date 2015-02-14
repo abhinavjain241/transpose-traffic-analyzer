@@ -1,0 +1,281 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jadavpur Police Quarter",
+               "short_name" : "Jadavpur Police Quarter",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Raja Subodh Chandra Mullick Road",
+               "short_name" : "SC Mullick Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poddar Nagar",
+               "short_name" : "Poddar Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jadavpur Police Quarter, Raja Subodh Chandra Mullick Road, Poddar Nagar, Jadavpur, Kolkata, West Bengal 700032, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5027149,
+                  "lng" : 88.36786889999999
+               },
+               "southwest" : {
+                  "lat" : 22.5025265,
+                  "lng" : 88.3677132
+               }
+            },
+            "location" : {
+               "lat" : 22.5026207,
+               "lng" : 88.367791
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5039696802915,
+                  "lng" : 88.36914003029149
+               },
+               "southwest" : {
+                  "lat" : 22.50127171970849,
+                  "lng" : 88.36644206970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jadavpur Police Station",
+               "short_name" : "Jadavpur Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Defence Flats",
+               "short_name" : "Defence Flats",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Alipore",
+               "short_name" : "Alipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "West Bengal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jadavpur Police Station, Defence Flats, Alipore, Kolkata, West Bengal 700032, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5406719,
+               "lng" : 88.3345961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5420208802915,
+                  "lng" : 88.33594508029151
+               },
+               "southwest" : {
+                  "lat" : 22.5393229197085,
+                  "lng" : 88.3332471197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jadavpur Police Estate",
+               "short_name" : "Jadavpur Police Estate",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Prince Anwar Shah Road By-Pass Connector",
+               "short_name" : "Prince Anwar Shah Rd By-Pass Connector",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poddar Nagar",
+               "short_name" : "Poddar Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jadavpur",
+               "short_name" : "Jadavpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700032",
+               "short_name" : "700032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jadavpur Police Estate, Prince Anwar Shah Road By-Pass Connector, Poddar Nagar, Jadavpur, Kolkata, West Bengal 700032, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5023382,
+               "lng" : 88.36790599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5036871802915,
+                  "lng" : 88.3692549802915
+               },
+               "southwest" : {
+                  "lat" : 22.5009892197085,
+                  "lng" : 88.36655701970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purba Jadavpur Police Station",
+               "short_name" : "Purba Jadavpur Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Satyajit Kanan",
+               "short_name" : "Satyajit Kanan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mukundapur",
+               "short_name" : "Mukundapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700099",
+               "short_name" : "700099",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purba Jadavpur Police Station, Satyajit Kanan, Mukundapur, Kolkata, West Bengal 700099, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4916662,
+               "lng" : 88.40065109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4930151802915,
+                  "lng" : 88.40200008029149
+               },
+               "southwest" : {
+                  "lat" : 22.49031721970849,
+                  "lng" : 88.39930211970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,786 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "Netaji Subhash Chandra Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.956251,
+                  "lng" : 72.82498509999999
+               },
+               "southwest" : {
+                  "lat" : 18.926854,
+                  "lng" : 72.8077985
+               }
+            },
+            "location" : {
+               "lat" : 18.9443041,
+               "lng" : 72.8226976
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.956251,
+                  "lng" : 72.82498509999999
+               },
+               "southwest" : {
+                  "lat" : 18.926854,
+                  "lng" : 72.8077985
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "Netaji Subhash Chandra Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4930969,
+                  "lng" : 88.377815
+               },
+               "southwest" : {
+                  "lat" : 22.4656788,
+                  "lng" : 88.34511670000001
+               }
+            },
+            "location" : {
+               "lat" : 22.4764689,
+               "lng" : 88.358283
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4930969,
+                  "lng" : 88.377815
+               },
+               "southwest" : {
+                  "lat" : 22.4656788,
+                  "lng" : 88.34511670000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Chennai, Tamil Nadu, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0914294,
+                  "lng" : 80.2916056
+               },
+               "southwest" : {
+                  "lat" : 13.0875147,
+                  "lng" : 80.2752629
+               }
+            },
+            "location" : {
+               "lat" : 13.0883951,
+               "lng" : 80.2833296
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0914294,
+                  "lng" : 80.2916056
+               },
+               "southwest" : {
+                  "lat" : 13.0875147,
+                  "lng" : 80.2752629
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Venkatarayapuram",
+               "short_name" : "Venkatarayapuram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tanuku",
+               "short_name" : "Tanuku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Godavari",
+               "short_name" : "West Godavari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "534211",
+               "short_name" : "534211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Venkatarayapuram, Tanuku, Andhra Pradesh 534211, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.7535512,
+                  "lng" : 81.6890681
+               },
+               "southwest" : {
+                  "lat" : 16.7496288,
+                  "lng" : 81.68602439999999
+               }
+            },
+            "location" : {
+               "lat" : 16.7512658,
+               "lng" : 81.68800569999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.7535512,
+                  "lng" : 81.6890681
+               },
+               "southwest" : {
+                  "lat" : 16.7496288,
+                  "lng" : 81.68602439999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Singarathope",
+               "short_name" : "Singarathope",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tiruchirappalli",
+               "short_name" : "Tiruchirappalli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tiruchirappalli",
+               "short_name" : "Tiruchirappalli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "620002",
+               "short_name" : "620002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Singarathope, Tiruchirappalli, Tamil Nadu 620002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.8265973,
+                  "lng" : 78.6968179
+               },
+               "southwest" : {
+                  "lat" : 10.8263707,
+                  "lng" : 78.69464169999999
+               }
+            },
+            "location" : {
+               "lat" : 10.826498,
+               "lng" : 78.6955904
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.8278329802915,
+                  "lng" : 78.69707878029151
+               },
+               "southwest" : {
+                  "lat" : 10.8251350197085,
+                  "lng" : 78.6943808197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rania",
+               "short_name" : "Rania",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700096",
+               "short_name" : "700096",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Rania, Kolkata, West Bengal 700096, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4551286,
+                  "lng" : 88.35317670000001
+               },
+               "southwest" : {
+                  "lat" : 22.4521276,
+                  "lng" : 88.35165259999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4538562,
+               "lng" : 88.352417
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4551286,
+                  "lng" : 88.35376363029151
+               },
+               "southwest" : {
+                  "lat" : 22.4521276,
+                  "lng" : 88.3510656697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Street",
+               "short_name" : "NSC Bose St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Padi",
+               "short_name" : "Padi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tiruvallur",
+               "short_name" : "Tiruvallur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600050",
+               "short_name" : "600050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Street, Padi, Chennai, Tamil Nadu 600050, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0953354,
+                  "lng" : 80.1904802
+               },
+               "southwest" : {
+                  "lat" : 13.0930881,
+                  "lng" : 80.18867379999999
+               }
+            },
+            "location" : {
+               "lat" : 13.0939771,
+               "lng" : 80.1904016
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0955607302915,
+                  "lng" : 80.1909259802915
+               },
+               "southwest" : {
+                  "lat" : 13.0928627697085,
+                  "lng" : 80.18822801970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Narendrapur",
+               "short_name" : "Narendrapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South 24 Parganas",
+               "short_name" : "South 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Narendrapur, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4259873,
+                  "lng" : 88.4102118
+               },
+               "southwest" : {
+                  "lat" : 22.4208506,
+                  "lng" : 88.40743549999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4231176,
+               "lng" : 88.4090537
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4259873,
+                  "lng" : 88.4102118
+               },
+               "southwest" : {
+                  "lat" : 22.4208506,
+                  "lng" : 88.40743549999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600081",
+               "short_name" : "600081",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Chennai, Tamil Nadu 600081, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.140803,
+                  "lng" : 80.29408599999999
+               },
+               "southwest" : {
+                  "lat" : 13.1403743,
+                  "lng" : 80.29151159999999
+               }
+            },
+            "location" : {
+               "lat" : 13.1406252,
+               "lng" : 80.29273359999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.1419376302915,
+                  "lng" : 80.2941477802915
+               },
+               "southwest" : {
+                  "lat" : 13.1392396697085,
+                  "lng" : 80.29144981970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jarganahalli",
+               "short_name" : "Jarganahalli",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "JP Nagar VI Phase",
+               "short_name" : "JP Nagar VI Phase",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "J. P. Nagar",
+               "short_name" : "J. P. Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Jarganahalli, JP Nagar VI Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8972809,
+                  "lng" : 77.57447909999999
+               },
+               "southwest" : {
+                  "lat" : 12.8969316,
+                  "lng" : 77.57204600000001
+               }
+            },
+            "location" : {
+               "lat" : 12.8972001,
+               "lng" : 77.5732665
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8984552302915,
+                  "lng" : 77.57461153029152
+               },
+               "southwest" : {
+                  "lat" : 12.8957572697085,
+                  "lng" : 77.5719135697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netaji Nagar",
+               "short_name" : "Netaji Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Netaji Nagar, Kolkata, West Bengal 700040, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4833756,
+                  "lng" : 88.3624353
+               },
+               "southwest" : {
+                  "lat" : 22.474811,
+                  "lng" : 88.35625039999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4752403,
+               "lng" : 88.3624353
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4833756,
+                  "lng" : 88.3624353
+               },
+               "southwest" : {
+                  "lat" : 22.474811,
+                  "lng" : 88.35625039999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Kolkata, West Bengal 700040, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4856805,
+                  "lng" : 88.35981
+               },
+               "southwest" : {
+                  "lat" : 22.481202,
+                  "lng" : 88.3548797
+               }
+            },
+            "location" : {
+               "lat" : 22.48213,
+               "lng" : 88.357744
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4856805,
+                  "lng" : 88.35981
+               },
+               "southwest" : {
+                  "lat" : 22.481202,
+                  "lng" : 88.3548797
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bansdroni Govt Colony",
+               "short_name" : "Bansdroni Govt Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bansdroni Government Colony",
+               "short_name" : "Bansdroni Government Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aurobindo Park",
+               "short_name" : "Aurobindo Park",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700070",
+               "short_name" : "700070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bansdroni Govt Colony, Bansdroni Government Colony, Aurobindo Park, Kolkata, West Bengal 700070, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4761994,
+                  "lng" : 88.35952209999999
+               },
+               "southwest" : {
+                  "lat" : 22.4735629,
+                  "lng" : 88.35425189999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4746532,
+               "lng" : 88.35717149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4762301302915,
+                  "lng" : 88.35952209999999
+               },
+               "southwest" : {
+                  "lat" : 22.47353216970849,
+                  "lng" : 88.35425189999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bansdroni Road",
+               "short_name" : "Bansdroni Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bansdroni Govt Colony",
+               "short_name" : "Bansdroni Govt Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700070",
+               "short_name" : "700070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bansdroni Road, Bansdroni Govt Colony, Kolkata, West Bengal 700070, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4759764,
+                  "lng" : 88.35949429999999
+               },
+               "southwest" : {
+                  "lat" : 22.4735756,
+                  "lng" : 88.3542765
+               }
+            },
+            "location" : {
+               "lat" : 22.4745944,
+               "lng" : 88.3567546
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4761249802915,
+                  "lng" : 88.35949429999999
+               },
+               "southwest" : {
+                  "lat" : 22.4734270197085,
+                  "lng" : 88.3542765
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

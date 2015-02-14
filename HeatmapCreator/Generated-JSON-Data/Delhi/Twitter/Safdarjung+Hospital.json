@@ -1,0 +1,137 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Safdarjung Hospital",
+               "short_name" : "Safdarjung Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Path for Patient Movement in hospital",
+               "short_name" : "Path for Patient Movement in hospital",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Safdarjung Campus",
+               "short_name" : "Safdarjung Campus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ansari Nagar West",
+               "short_name" : "Ansari Nagar West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110029",
+               "short_name" : "110029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Safdarjung Hospital, Path for Patient Movement in hospital, Safdarjung Campus, Ansari Nagar West, New Delhi, Delhi 110029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5681026,
+               "lng" : 77.20536109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5694515802915,
+                  "lng" : 77.2067100802915
+               },
+               "southwest" : {
+                  "lat" : 28.5667536197085,
+                  "lng" : 77.20401211970849
+               }
+            }
+         },
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burns Department,Safdarjung Hospital",
+               "short_name" : "Burns Department,Safdarjung Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Safdarjung Campus",
+               "short_name" : "Safdarjung Campus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ansari Nagar West",
+               "short_name" : "Ansari Nagar West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "Delhi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burns Department,Safdarjung Hospital, Safdarjung Campus, Ansari Nagar West, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5669873,
+               "lng" : 77.20502879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5683362802915,
+                  "lng" : 77.2063777802915
+               },
+               "southwest" : {
+                  "lat" : 28.5656383197085,
+                  "lng" : 77.2036798197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

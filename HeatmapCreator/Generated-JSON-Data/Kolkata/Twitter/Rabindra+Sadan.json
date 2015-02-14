@@ -1,0 +1,146 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabindra Sadan Metro 1",
+               "short_name" : "Rabindra Sadan Metro 1",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chowringhee Road",
+               "short_name" : "Chowringhee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sreepally",
+               "short_name" : "Sreepally",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gokhel Rd",
+               "short_name" : "Gokhel Rd",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700020",
+               "short_name" : "700020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rabindra Sadan Metro 1, Chowringhee Road, Sreepally, Gokhel Rd, Kolkata, West Bengal 700020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5410129,
+               "lng" : 88.34692269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5423618802915,
+                  "lng" : 88.34827168029149
+               },
+               "southwest" : {
+                  "lat" : 22.5396639197085,
+                  "lng" : 88.34557371970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rabindra Sadan",
+               "short_name" : "Rabindra Sadan",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ranibagan",
+               "short_name" : "Ranibagan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gora Bazar",
+               "short_name" : "Gora Bazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Berhampore",
+               "short_name" : "Berhampore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Murshidabad",
+               "short_name" : "Murshidabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "742101",
+               "short_name" : "742101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rabindra Sadan, Ranibagan, Gora Bazar, Berhampore, West Bengal 742101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.092324,
+                  "lng" : 88.25299679999999
+               },
+               "southwest" : {
+                  "lat" : 24.0916383,
+                  "lng" : 88.25215449999999
+               }
+            },
+            "location" : {
+               "lat" : 24.0919191,
+               "lng" : 88.25258269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0933301302915,
+                  "lng" : 88.25392463029151
+               },
+               "southwest" : {
+                  "lat" : 24.0906321697085,
+                  "lng" : 88.25122666970849
+               }
+            }
+         },
+         "types" : [ "museum", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajendra Place Metro Station",
+               "short_name" : "Rajendra Place Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dharamdas Shastri Marg",
+               "short_name" : "Dharamdas Shastri Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110060",
+               "short_name" : "110060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rajendra Place Metro Station, Dharamdas Shastri Marg, Rajinder Nagar, New Delhi, Delhi 110060, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6428476,
+                  "lng" : 77.17871579999999
+               },
+               "southwest" : {
+                  "lat" : 28.6419758,
+                  "lng" : 77.176855
+               }
+            },
+            "location" : {
+               "lat" : 28.6424557,
+               "lng" : 77.17808239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6437606802915,
+                  "lng" : 77.1791343802915
+               },
+               "southwest" : {
+                  "lat" : 28.6410627197085,
+                  "lng" : 77.17643641970849
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,739 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CIT Road",
+               "short_name" : "CIT Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CIT Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5914724,
+                  "lng" : 88.39421399999999
+               },
+               "southwest" : {
+                  "lat" : 22.5781579,
+                  "lng" : 88.3887668
+               }
+            },
+            "location" : {
+               "lat" : 22.5841994,
+               "lng" : 88.39155409999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5914724,
+                  "lng" : 88.39421399999999
+               },
+               "southwest" : {
+                  "lat" : 22.5781579,
+                  "lng" : 88.3887668
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CIT Road",
+               "short_name" : "CIT Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phool Bagan",
+               "short_name" : "Phool Bagan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kankurgachi",
+               "short_name" : "Kankurgachi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700054",
+               "short_name" : "700054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CIT Road, Phool Bagan, Kankurgachi, Kolkata, West Bengal 700054, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5782566,
+                  "lng" : 88.392248
+               },
+               "southwest" : {
+                  "lat" : 22.5741507,
+                  "lng" : 88.389782
+               }
+            },
+            "location" : {
+               "lat" : 22.5759774,
+               "lng" : 88.3919949
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5782566,
+                  "lng" : 88.39236398029149
+               },
+               "southwest" : {
+                  "lat" : 22.5741507,
+                  "lng" : 88.38966601970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doctor Sundari Mohan Avenue",
+               "short_name" : "Dr Sundari Mohan Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Doctor Sundari Mohan Avenue, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5590086,
+                  "lng" : 88.37276110000001
+               },
+               "southwest" : {
+                  "lat" : 22.5430908,
+                  "lng" : 88.369928
+               }
+            },
+            "location" : {
+               "lat" : 22.5511879,
+               "lng" : 88.37125879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5590086,
+                  "lng" : 88.37276110000001
+               },
+               "southwest" : {
+                  "lat" : 22.5430908,
+                  "lng" : 88.369928
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cit Road",
+               "short_name" : "Cit Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Port Heiden",
+               "short_name" : "Port Heiden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lake and Peninsula",
+               "short_name" : "Lake and Peninsula",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99549",
+               "short_name" : "99549",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cit Road, Port Heiden, AK 99549, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9256391,
+                  "lng" : -158.6076185
+               },
+               "southwest" : {
+                  "lat" : 56.9248171,
+                  "lng" : -158.6120612
+               }
+            },
+            "location" : {
+               "lat" : 56.9254419,
+               "lng" : -158.6093354
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9265770802915,
+                  "lng" : -158.6076185
+               },
+               "southwest" : {
+                  "lat" : 56.92387911970851,
+                  "lng" : -158.6120612
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CIT Road",
+               "short_name" : "CIT Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Subhas Sarobar Park",
+               "short_name" : "Subhas Sarobar Park",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Phool Bagan",
+               "short_name" : "Phool Bagan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beliaghata",
+               "short_name" : "Beliaghata",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700010",
+               "short_name" : "700010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CIT Road, Subhas Sarobar Park, Phool Bagan, Beliaghata, Kolkata, West Bengal 700010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5645166,
+                  "lng" : 88.3963801
+               },
+               "southwest" : {
+                  "lat" : 22.563887,
+                  "lng" : 88.3953546
+               }
+            },
+            "location" : {
+               "lat" : 22.5644659,
+               "lng" : 88.3957429
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5655507802915,
+                  "lng" : 88.39721633029151
+               },
+               "southwest" : {
+                  "lat" : 22.5628528197085,
+                  "lng" : 88.39451836970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C I T Road",
+               "short_name" : "C I T Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Subhas Sarobar Park",
+               "short_name" : "Subhas Sarobar Park",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Phool Bagan",
+               "short_name" : "Phool Bagan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beliaghata",
+               "short_name" : "Beliaghata",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700010",
+               "short_name" : "700010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C I T Road, Subhas Sarobar Park, Phool Bagan, Beliaghata, Kolkata, West Bengal 700010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5691965,
+                  "lng" : 88.39660440000002
+               },
+               "southwest" : {
+                  "lat" : 22.5651552,
+                  "lng" : 88.39453639999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5657156,
+               "lng" : 88.3958251
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5691965,
+                  "lng" : 88.39691938029151
+               },
+               "southwest" : {
+                  "lat" : 22.5651552,
+                  "lng" : 88.3942214197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CIT Road",
+               "short_name" : "CIT Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University of Southern Mindanao",
+               "short_name" : "University of Southern Mindanao",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kabacan",
+               "short_name" : "Kabacan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cotabato",
+               "short_name" : "Cotabato",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region XII",
+               "short_name" : "SOCCSKSARGEN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Southern Mindanao, CIT Road, Kabacan, Cotabato, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.1195771,
+                  "lng" : 124.8287924
+               },
+               "southwest" : {
+                  "lat" : 7.1193426,
+                  "lng" : 124.8280775
+               }
+            },
+            "location" : {
+               "lat" : 7.1193851,
+               "lng" : 124.8280775
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.120808830291502,
+                  "lng" : 124.8297839302915
+               },
+               "southwest" : {
+                  "lat" : 7.118110869708498,
+                  "lng" : 124.8270859697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CIT Road",
+               "short_name" : "CIT Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Entally",
+               "short_name" : "Entally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700014",
+               "short_name" : "700014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CIT Road, Entally, Kolkata, West Bengal 700014, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.555139,
+                  "lng" : 88.37307369999999
+               },
+               "southwest" : {
+                  "lat" : 22.554977,
+                  "lng" : 88.3722863
+               }
+            },
+            "location" : {
+               "lat" : 22.5551362,
+               "lng" : 88.3722997
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5564069802915,
+                  "lng" : 88.3740289802915
+               },
+               "southwest" : {
+                  "lat" : 22.5537090197085,
+                  "lng" : 88.37133101970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CITH Road",
+               "short_name" : "CITH Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mukteshwar",
+               "short_name" : "Mukteshwar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nainital",
+               "short_name" : "Nainital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttarakhand",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "263132",
+               "short_name" : "263132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CITH Road, Mukteshwar, Uttarakhand 263132, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4572935,
+                  "lng" : 79.6545696
+               },
+               "southwest" : {
+                  "lat" : 29.456634,
+                  "lng" : 79.6542041
+               }
+            },
+            "location" : {
+               "lat" : 29.4569028,
+               "lng" : 79.6544141
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4583127302915,
+                  "lng" : 79.6557358302915
+               },
+               "southwest" : {
+                  "lat" : 29.4556147697085,
+                  "lng" : 79.6530378697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CIT Road",
+               "short_name" : "CIT Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "AB Block",
+               "short_name" : "AB Block",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector-1",
+               "short_name" : "Sector-1",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bidhannagar",
+               "short_name" : "Bidhannagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700064",
+               "short_name" : "700064",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CIT Road, AB Block, Sector-1, Bidhannagar, Kolkata, West Bengal 700064",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5951465,
+               "lng" : 88.39937499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5964954802915,
+                  "lng" : 88.4007239802915
+               },
+               "southwest" : {
+                  "lat" : 22.5937975197085,
+                  "lng" : 88.39802601970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast Philadelphia",
+               "short_name" : "Northeast Philadelphia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia County",
+               "short_name" : "Philadelphia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19114",
+               "short_name" : "19114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Philadelphia, PA 19114, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0730084,
+                  "lng" : -74.98253699999999
+               },
+               "southwest" : {
+                  "lat" : 40.0715332,
+                  "lng" : -74.9846381
+               }
+            },
+            "location" : {
+               "lat" : 40.0725718,
+               "lng" : -74.9833912
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.07361978029149,
+                  "lng" : -74.98223856970849
+               },
+               "southwest" : {
+                  "lat" : 40.0709218197085,
+                  "lng" : -74.98493653029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

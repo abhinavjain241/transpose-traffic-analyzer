@@ -1,0 +1,378 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur Road",
+               "short_name" : "Paharpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dera Ismail Khan District",
+               "short_name" : "Dera Ismail Khan District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "N.W.F.P",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paharpur Road, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0826622,
+                  "lng" : 71.02837599999999
+               },
+               "southwest" : {
+                  "lat" : 32.0728707,
+                  "lng" : 71.0073285
+               }
+            },
+            "location" : {
+               "lat" : 32.0777617,
+               "lng" : 71.01790889999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0826622,
+                  "lng" : 71.02837599999999
+               },
+               "southwest" : {
+                  "lat" : 32.0728707,
+                  "lng" : 71.0073285
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur Road",
+               "short_name" : "Paharpur Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saharsa",
+               "short_name" : "Saharsa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "852127",
+               "short_name" : "852127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paharpur Road, Bihar 852127, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7499707,
+                  "lng" : 86.63466629999999
+               },
+               "southwest" : {
+                  "lat" : 25.7243179,
+                  "lng" : 86.62313639999999
+               }
+            },
+            "location" : {
+               "lat" : 25.7344199,
+               "lng" : 86.6307576
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7499707,
+                  "lng" : 86.63466629999999
+               },
+               "southwest" : {
+                  "lat" : 25.7243179,
+                  "lng" : 86.62313639999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur Road",
+               "short_name" : "Paharpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Garden Reach",
+               "short_name" : "Garden Reach",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700024",
+               "short_name" : "700024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paharpur Road, Garden Reach, Kolkata, West Bengal 700024, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5485844,
+                  "lng" : 88.293284
+               },
+               "southwest" : {
+                  "lat" : 22.53842,
+                  "lng" : 88.28538279999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5429322,
+               "lng" : 88.28653670000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5485844,
+                  "lng" : 88.293284
+               },
+               "southwest" : {
+                  "lat" : 22.53842,
+                  "lng" : 88.28538279999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur Road",
+               "short_name" : "Paharpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meerut",
+               "short_name" : "Meerut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "250401",
+               "short_name" : "250401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paharpur Road, Uttar Pradesh 250401, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1132317,
+                  "lng" : 77.85371019999999
+               },
+               "southwest" : {
+                  "lat" : 29.0956359,
+                  "lng" : 77.827068
+               }
+            },
+            "location" : {
+               "lat" : 29.1043454,
+               "lng" : 77.84045759999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1132317,
+                  "lng" : 77.85371019999999
+               },
+               "southwest" : {
+                  "lat" : 29.0956359,
+                  "lng" : 77.827068
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur Road",
+               "short_name" : "Paharpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Police Colony",
+               "short_name" : "Police Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Anisabad",
+               "short_name" : "Anisabad",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Patna",
+               "short_name" : "Patna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patna",
+               "short_name" : "Patna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "800002",
+               "short_name" : "800002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paharpur Road, Police Colony, Anisabad, Patna, Bihar 800002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.5871177,
+                  "lng" : 85.0916058
+               },
+               "southwest" : {
+                  "lat" : 25.5833366,
+                  "lng" : 85.08559439999999
+               }
+            },
+            "location" : {
+               "lat" : 25.5852409,
+               "lng" : 85.08945540000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.5871177,
+                  "lng" : 85.0916058
+               },
+               "southwest" : {
+                  "lat" : 25.5833366,
+                  "lng" : 85.08559439999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paharpur Road",
+               "short_name" : "Paharpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gahiri",
+               "short_name" : "Gahiri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Purvi Champaran",
+               "short_name" : "Purvi Champaran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "845458",
+               "short_name" : "845458",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paharpur Road, Gahiri, Bihar 845458, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6455396,
+                  "lng" : 84.56176809999999
+               },
+               "southwest" : {
+                  "lat" : 26.6350763,
+                  "lng" : 84.5378657
+               }
+            },
+            "location" : {
+               "lat" : 26.6390942,
+               "lng" : 84.5497084
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6455396,
+                  "lng" : 84.56176809999999
+               },
+               "southwest" : {
+                  "lat" : 26.6350763,
+                  "lng" : 84.5378657
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shakti Nagar",
+               "short_name" : "Shakti Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shakti Nagar, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1296787,
+                  "lng" : 82.7315141
+               },
+               "southwest" : {
+                  "lat" : 24.1035722,
+                  "lng" : 82.66574609999999
+               }
+            },
+            "location" : {
+               "lat" : 24.1207356,
+               "lng" : 82.6930529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1296787,
+                  "lng" : 82.7315141
+               },
+               "southwest" : {
+                  "lat" : 24.1035722,
+                  "lng" : 82.66574609999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

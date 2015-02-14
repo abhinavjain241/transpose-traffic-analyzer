@@ -1,0 +1,142 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hind Cinema",
+               "short_name" : "Hind Cinema",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Chandni Chawk",
+               "short_name" : "Chandni Chawk",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bowbazar",
+               "short_name" : "Bowbazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700072",
+               "short_name" : "700072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hind Cinema, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700072",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.564659,
+               "lng" : 88.359262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5660079802915,
+                  "lng" : 88.36061098029151
+               },
+               "southwest" : {
+                  "lat" : 22.5633100197085,
+                  "lng" : 88.3579130197085
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hind Cinema Hall",
+               "short_name" : "Hind Cinema Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "State Highway 8",
+               "short_name" : "SH 8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "RK Puram",
+               "short_name" : "RK Puram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kaithal",
+               "short_name" : "Kaithal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaithal",
+               "short_name" : "Kaithal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "136027",
+               "short_name" : "136027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hind Cinema Hall, State Highway 8, RK Puram, Kaithal, Haryana 136027, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.8055482,
+                  "lng" : 76.39880789999999
+               },
+               "southwest" : {
+                  "lat" : 29.8051061,
+                  "lng" : 76.39787969999999
+               }
+            },
+            "location" : {
+               "lat" : 29.8053271,
+               "lng" : 76.39834379999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8066761302915,
+                  "lng" : 76.39969278029149
+               },
+               "southwest" : {
+                  "lat" : 29.8039781697085,
+                  "lng" : 76.39699481970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

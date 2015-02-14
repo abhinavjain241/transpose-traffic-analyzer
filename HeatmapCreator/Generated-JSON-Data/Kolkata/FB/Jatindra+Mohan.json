@@ -1,0 +1,211 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jatindra Mohan",
+               "short_name" : "Jatindra Mohan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dum Dum Road",
+               "short_name" : "Dum Dum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dum Dum",
+               "short_name" : "Dum Dum",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paikpara",
+               "short_name" : "Paikpara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700030",
+               "short_name" : "700030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jatindra Mohan, Dum Dum Road, Dum Dum, Paikpara, Kolkata, West Bengal 700030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6187832,
+               "lng" : 88.389205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6201321802915,
+                  "lng" : 88.39055398029151
+               },
+               "southwest" : {
+                  "lat" : 22.6174342197085,
+                  "lng" : 88.38785601970851
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jatindra Mohan Avenue Road",
+               "short_name" : "Jatindra Mohan Ave Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jatindra Mohan Avenue Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6002716,
+                  "lng" : 88.36682499999999
+               },
+               "southwest" : {
+                  "lat" : 22.5902599,
+                  "lng" : 88.36357799999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5952909,
+               "lng" : 88.3650179
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6002716,
+                  "lng" : 88.36682499999999
+               },
+               "southwest" : {
+                  "lat" : 22.5902599,
+                  "lng" : 88.36357799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jatindra Mohan Avenue Br",
+               "short_name" : "Jatindra Mohan Avenue Br",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Rabindra Sarani",
+               "short_name" : "Rabindra Sarani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sovabazar",
+               "short_name" : "Sovabazar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baghbazar",
+               "short_name" : "Baghbazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700005",
+               "short_name" : "700005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jatindra Mohan Avenue Br, Rabindra Sarani, Sovabazar, Baghbazar, Kolkata, West Bengal 700005, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6011597,
+                  "lng" : 88.3641049
+               },
+               "southwest" : {
+                  "lat" : 22.6009636,
+                  "lng" : 88.36388719999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6010616,
+               "lng" : 88.363996
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.60241063029151,
+                  "lng" : 88.36534503029151
+               },
+               "southwest" : {
+                  "lat" : 22.5997126697085,
+                  "lng" : 88.36264706970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

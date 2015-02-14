@@ -1,0 +1,728 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Regensburg",
+               "short_name" : "R",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regensburg",
+               "short_name" : "R",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Upper Palatinate",
+               "short_name" : "Upper Palatinate",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regensburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0764158,
+                  "lng" : 12.1916077
+               },
+               "southwest" : {
+                  "lat" : 48.9667457,
+                  "lng" : 12.0290745
+               }
+            },
+            "location" : {
+               "lat" : 49.0134297,
+               "lng" : 12.1016236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0764158,
+                  "lng" : 12.1916077
+               },
+               "southwest" : {
+                  "lat" : 48.9667457,
+                  "lng" : 12.0290745
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R",
+               "short_name" : "R",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R, Illinois, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3317996,
+                  "lng" : -88.56428029999999
+               },
+               "southwest" : {
+                  "lat" : 39.2551611,
+                  "lng" : -88.58215919999999
+               }
+            },
+            "location" : {
+               "lat" : 39.29148780000001,
+               "lng" : -88.58196029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3317996,
+                  "lng" : -88.56428029999999
+               },
+               "southwest" : {
+                  "lat" : 39.2551611,
+                  "lng" : -88.58215919999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "c",
+               "short_name" : "c",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zöbern",
+               "short_name" : "Zöbern",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Neunkirchen",
+               "short_name" : "Neunkirchen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Niederösterreich",
+               "short_name" : "Niederösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2871",
+               "short_name" : "2871",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "c, 2871, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.51574710000001,
+                  "lng" : 16.1417448
+               },
+               "southwest" : {
+                  "lat" : 47.5150392,
+                  "lng" : 16.1397079
+               }
+            },
+            "location" : {
+               "lat" : 47.5154909,
+               "lng" : 16.140783
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5167421302915,
+                  "lng" : 16.1420753302915
+               },
+               "southwest" : {
+                  "lat" : 47.51404416970851,
+                  "lng" : 16.13937736970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calle R",
+               "short_name" : "Calle R",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Carabayllo",
+               "short_name" : "Carabayllo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calle R, Carabayllo, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.8842781,
+                  "lng" : -77.03634319999999
+               },
+               "southwest" : {
+                  "lat" : -11.8859053,
+                  "lng" : -77.0382664
+               }
+            },
+            "location" : {
+               "lat" : -11.8848306,
+               "lng" : -77.03767569999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.8837427197085,
+                  "lng" : -77.03595581970849
+               },
+               "southwest" : {
+                  "lat" : -11.8864406802915,
+                  "lng" : -77.03865378029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C",
+               "short_name" : "C",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guamani",
+               "short_name" : "Guamani",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC170140",
+               "short_name" : "EC170140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C, Quito EC170140, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.3136636,
+                  "lng" : -78.56257260000001
+               },
+               "southwest" : {
+                  "lat" : -0.3170153,
+                  "lng" : -78.56667759999999
+               }
+            },
+            "location" : {
+               "lat" : -0.3145813,
+               "lng" : -78.5644068
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3136636,
+                  "lng" : -78.56257260000001
+               },
+               "southwest" : {
+                  "lat" : -0.3170153,
+                  "lng" : -78.56667759999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C",
+               "short_name" : "C",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Off New Link Road",
+               "short_name" : "Off New Link Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milat Nagar",
+               "short_name" : "Milat Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri West",
+               "short_name" : "Andheri West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400102",
+               "short_name" : "400102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C, Off New Link Road, Milat Nagar, Andheri West, Mumbai, Maharashtra 400102, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1538832,
+                  "lng" : 72.8294916
+               },
+               "southwest" : {
+                  "lat" : 19.1536564,
+                  "lng" : 72.8292288
+               }
+            },
+            "location" : {
+               "lat" : 19.1537698,
+               "lng" : 72.8293602
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1551187802915,
+                  "lng" : 72.83070918029151
+               },
+               "southwest" : {
+                  "lat" : 19.1524208197085,
+                  "lng" : 72.82801121970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "c",
+               "short_name" : "c",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sankt Sigmund im Sellrain",
+               "short_name" : "St. Sigmund im Sellrain",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Innsbruck-Land",
+               "short_name" : "Innsbruck-Land",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tirol",
+               "short_name" : "Tirol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6184",
+               "short_name" : "6184",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "c, 6184, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.15340200000001,
+                  "lng" : 11.134416
+               },
+               "southwest" : {
+                  "lat" : 47.1513101,
+                  "lng" : 11.1339197
+               }
+            },
+            "location" : {
+               "lat" : 47.1523845,
+               "lng" : 11.1341034
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1537050302915,
+                  "lng" : 11.1355168302915
+               },
+               "southwest" : {
+                  "lat" : 47.15100706970851,
+                  "lng" : 11.1328188697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C",
+               "short_name" : "C",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Álvaro Obregón",
+               "short_name" : "Álvaro Obregón",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Federal",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C, Álvaro Obregón, Ciudad de México, D.F., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3887929,
+                  "lng" : -99.19655499999999
+               },
+               "southwest" : {
+                  "lat" : 19.3872426,
+                  "lng" : -99.1977529
+               }
+            },
+            "location" : {
+               "lat" : 19.3879674,
+               "lng" : -99.19706800000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3893667302915,
+                  "lng" : -99.19580496970849
+               },
+               "southwest" : {
+                  "lat" : 19.3866687697085,
+                  "lng" : -99.1985029302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C",
+               "short_name" : "C",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Paraiso",
+               "short_name" : "El Paraiso",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Guamani",
+               "short_name" : "Guamani",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C, Quito, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.3208555,
+                  "lng" : -78.55779559999999
+               },
+               "southwest" : {
+                  "lat" : -0.3208855,
+                  "lng" : -78.5587395
+               }
+            },
+            "location" : {
+               "lat" : -0.3208723,
+               "lng" : -78.55825419999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.319521519708498,
+                  "lng" : -78.5569185697085
+               },
+               "southwest" : {
+                  "lat" : -0.322219480291502,
+                  "lng" : -78.55961653029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C",
+               "short_name" : "C",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "San Francisco",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Luluncoto",
+               "short_name" : "Luluncoto",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC170145",
+               "short_name" : "EC170145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C, Quito EC170145, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.2468702,
+                  "lng" : -78.4869138
+               },
+               "southwest" : {
+                  "lat" : -0.247464,
+                  "lng" : -78.4871837
+               }
+            },
+            "location" : {
+               "lat" : -0.247464,
+               "lng" : -78.4871837
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.245818119708498,
+                  "lng" : -78.48569976970849
+               },
+               "southwest" : {
+                  "lat" : -0.2485160802915021,
+                  "lng" : -78.4883977302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C",
+               "short_name" : "C",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Isssteson Centenario",
+               "short_name" : "Isssteson Centenario",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hermosillo",
+               "short_name" : "Hermosillo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hermosillo",
+               "short_name" : "Hermosillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83260",
+               "short_name" : "83260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C, Isssteson Centenario, 83260 Hermosillo, SON, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0743706,
+                  "lng" : -110.9688744
+               },
+               "southwest" : {
+                  "lat" : 29.0737917,
+                  "lng" : -110.9689318
+               }
+            },
+            "location" : {
+               "lat" : 29.0743706,
+               "lng" : -110.9689316
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0754301302915,
+                  "lng" : -110.9675541197085
+               },
+               "southwest" : {
+                  "lat" : 29.0727321697085,
+                  "lng" : -110.9702520802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

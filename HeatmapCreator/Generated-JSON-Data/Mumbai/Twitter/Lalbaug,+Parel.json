@@ -1,0 +1,276 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lalbaug",
+               "short_name" : "Lalbaug",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Everard Nagar",
+               "short_name" : "Everard Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sion",
+               "short_name" : "Sion",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lalbaug, Everard Nagar, Sion, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0513382,
+                  "lng" : 72.87837619999999
+               },
+               "southwest" : {
+                  "lat" : 19.0473776,
+                  "lng" : 72.8729728
+               }
+            },
+            "location" : {
+               "lat" : 19.0497075,
+               "lng" : 72.875917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0513382,
+                  "lng" : 72.87837619999999
+               },
+               "southwest" : {
+                  "lat" : 19.0473776,
+                  "lng" : 72.8729728
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Parel",
+               "short_name" : "Lower Parel",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mahadev Palav Marg",
+               "short_name" : "Mahadev Palav Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Parel",
+               "short_name" : "Lower Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400013",
+               "short_name" : "400013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower Parel, Mahadev Palav Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9970047,
+                  "lng" : 72.83087829999999
+               },
+               "southwest" : {
+                  "lat" : 18.9939055,
+                  "lng" : 72.829227
+               }
+            },
+            "location" : {
+               "lat" : 18.9953333,
+               "lng" : 72.8300383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9970047,
+                  "lng" : 72.83140163029151
+               },
+               "southwest" : {
+                  "lat" : 18.9939055,
+                  "lng" : 72.82870366970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parel House",
+               "short_name" : "Parel House",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Doctor Ernest Borges Road",
+               "short_name" : "Dr Ernest Borges Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parel East",
+               "short_name" : "Parel East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400012",
+               "short_name" : "400012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parel House, Doctor Ernest Borges Road, Parel East, Mumbai, Maharashtra 400012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0023525,
+               "lng" : 72.8410492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0037014802915,
+                  "lng" : 72.84239818029151
+               },
+               "southwest" : {
+                  "lat" : 19.0010035197085,
+                  "lng" : 72.8397002197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Parel",
+               "short_name" : "Lower Parel",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "BDD Chawl",
+               "short_name" : "BDD Chawl",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lower Parel",
+               "short_name" : "Lower Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400013",
+               "short_name" : "400013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower Parel, BDD Chawl, Lower Parel, Mumbai, Maharashtra 400013, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9970283,
+               "lng" : 72.83119619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.99837728029151,
+                  "lng" : 72.83254518029149
+               },
+               "southwest" : {
+                  "lat" : 18.9956793197085,
+                  "lng" : 72.82984721970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

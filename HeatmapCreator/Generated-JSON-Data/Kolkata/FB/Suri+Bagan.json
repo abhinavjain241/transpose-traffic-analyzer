@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poliklinik Suri",
+               "short_name" : "Poliklinik Suri",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "87",
+               "short_name" : "87",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jalan Rajawali",
+               "short_name" : "Jalan Rajawali",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taman Berjaya",
+               "short_name" : "Taman Berjaya",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nibong Tebal",
+               "short_name" : "Nibong Tebal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pulau Pinang",
+               "short_name" : "Pulau Pinang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poliklinik Suri, 87, Jalan Rajawali, Taman Berjaya, Nibong Tebal, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1743818,
+               "lng" : 100.473681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.175730780291502,
+                  "lng" : 100.4750299802915
+               },
+               "southwest" : {
+                  "lat" : 5.173032819708498,
+                  "lng" : 100.4723320197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

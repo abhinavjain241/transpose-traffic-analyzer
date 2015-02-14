@@ -1,0 +1,530 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur",
+               "short_name" : "Kanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur Nagar",
+               "short_name" : "Kanpur Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "208002",
+               "short_name" : "208002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Kanpur, Uttar Pradesh 208002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4887184,
+                  "lng" : 80.3221307
+               },
+               "southwest" : {
+                  "lat" : 26.4791289,
+                  "lng" : 80.31026159999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4878169,
+               "lng" : 80.3206131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4887184,
+                  "lng" : 80.3221307
+               },
+               "southwest" : {
+                  "lat" : 26.4791289,
+                  "lng" : 80.31026159999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Swami Shradhananda Park, Block A",
+               "short_name" : "Swami Shradhananda Park, Block A",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Saroop Nagar",
+               "short_name" : "Saroop Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhalswa",
+               "short_name" : "Bhalswa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110042",
+               "short_name" : "110042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Swami Shradhananda Park, Block A, Saroop Nagar, Bhalswa, New Delhi, Delhi 110042",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.758318,
+               "lng" : 77.148106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7596669802915,
+                  "lng" : 77.14945498029151
+               },
+               "southwest" : {
+                  "lat" : 28.7569690197085,
+                  "lng" : 77.1467570197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khalasi Line",
+               "short_name" : "Khalasi Line",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur",
+               "short_name" : "Kanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur Nagar",
+               "short_name" : "Kanpur Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "208002",
+               "short_name" : "208002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4840728,
+                  "lng" : 80.317714
+               },
+               "southwest" : {
+                  "lat" : 26.4797598,
+                  "lng" : 80.3139707
+               }
+            },
+            "location" : {
+               "lat" : 26.4838167,
+               "lng" : 80.3154528
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4840728,
+                  "lng" : 80.317714
+               },
+               "southwest" : {
+                  "lat" : 26.4797598,
+                  "lng" : 80.3139707
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moti Vihar Society",
+               "short_name" : "Moti Vihar Society",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rawat Pur",
+               "short_name" : "Rawat Pur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur",
+               "short_name" : "Kanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur Nagar",
+               "short_name" : "Kanpur Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "208002",
+               "short_name" : "208002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Moti Vihar Society, Rawat Pur, Kanpur, Uttar Pradesh 208002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4838825,
+               "lng" : 80.3021353
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4852314802915,
+                  "lng" : 80.30348428029151
+               },
+               "southwest" : {
+                  "lat" : 26.4825335197085,
+                  "lng" : 80.30078631970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hema Nagar",
+               "short_name" : "Hema Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Boduppal",
+               "short_name" : "Boduppal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500092",
+               "short_name" : "500092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Hema Nagar, Boduppal, Hyderabad, Telangana 500092, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4149725,
+                  "lng" : 78.5698867
+               },
+               "southwest" : {
+                  "lat" : 17.4131217,
+                  "lng" : 78.5677474
+               }
+            },
+            "location" : {
+               "lat" : 17.4139213,
+               "lng" : 78.56863620000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4153960802915,
+                  "lng" : 78.5701660302915
+               },
+               "southwest" : {
+                  "lat" : 17.4126981197085,
+                  "lng" : 78.5674680697085
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Maharath Pur",
+               "short_name" : "Maharath Pur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Auraiya",
+               "short_name" : "Auraiya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "206129",
+               "short_name" : "206129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Maharath Pur, Uttar Pradesh 206129, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.477096,
+                  "lng" : 79.4030988
+               },
+               "southwest" : {
+                  "lat" : 26.4727664,
+                  "lng" : 79.39886659999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4756356,
+               "lng" : 79.40075299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.477096,
+                  "lng" : 79.4030988
+               },
+               "southwest" : {
+                  "lat" : 26.4727664,
+                  "lng" : 79.39886659999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar",
+               "short_name" : "Swaroop Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Reetor",
+               "short_name" : "Reetor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Etawah",
+               "short_name" : "Etawah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "206126",
+               "short_name" : "206126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar, Reetor, Uttar Pradesh 206126, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7662141,
+                  "lng" : 79.116916
+               },
+               "southwest" : {
+                  "lat" : 26.7650393,
+                  "lng" : 79.11532889999999
+               }
+            },
+            "location" : {
+               "lat" : 26.7654216,
+               "lng" : 79.11621889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7669756802915,
+                  "lng" : 79.1174714302915
+               },
+               "southwest" : {
+                  "lat" : 26.7642777197085,
+                  "lng" : 79.1147734697085
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaroop Nagar Road",
+               "short_name" : "Swaroop Nagar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swaroop Nagar Road, Hyderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4130651,
+                  "lng" : 78.5740371
+               },
+               "southwest" : {
+                  "lat" : 17.4061717,
+                  "lng" : 78.567296
+               }
+            },
+            "location" : {
+               "lat" : 17.4096931,
+               "lng" : 78.57106379999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4130651,
+                  "lng" : 78.5740371
+               },
+               "southwest" : {
+                  "lat" : 17.4061717,
+                  "lng" : 78.567296
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

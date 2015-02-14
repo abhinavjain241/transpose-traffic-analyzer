@@ -1,0 +1,266 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South North Banerjee Road",
+               "short_name" : "S N Banerjee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chandra Pally",
+               "short_name" : "Chandra Pally",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Barrakpur",
+               "short_name" : "New Barrakpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700133",
+               "short_name" : "700133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South North Banerjee Road, Chandra Pally, New Barrakpur, Kolkata, West Bengal 700133, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6911817,
+                  "lng" : 88.45058879999999
+               },
+               "southwest" : {
+                  "lat" : 22.6909279,
+                  "lng" : 88.44959449999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6910129,
+               "lng" : 88.4501202
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6924037802915,
+                  "lng" : 88.45144063029149
+               },
+               "southwest" : {
+                  "lat" : 22.6897058197085,
+                  "lng" : 88.44874266970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surendra Nath Banerjee Road",
+               "short_name" : "Surendra Nath Banerjee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dharmatala",
+               "short_name" : "Dharmatala",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700013",
+               "short_name" : "700013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Surendra Nath Banerjee Road, Dharmatala, Kolkata, West Bengal 700013",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5635827,
+               "lng" : 88.35157819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5649316802915,
+                  "lng" : 88.35292718029149
+               },
+               "southwest" : {
+                  "lat" : 22.56223371970849,
+                  "lng" : 88.35022921970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surendra Nath Banerjee Road",
+               "short_name" : "Surendra Nath Banerjee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taltala",
+               "short_name" : "Taltala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Surendra Nath Banerjee Road, Taltala, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5615891,
+                  "lng" : 88.36532199999999
+               },
+               "southwest" : {
+                  "lat" : 22.5605777,
+                  "lng" : 88.35707719999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5605777,
+               "lng" : 88.36532199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5624323802915,
+                  "lng" : 88.36532199999999
+               },
+               "southwest" : {
+                  "lat" : 22.5597344197085,
+                  "lng" : 88.35707719999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BANERJEE",
+               "short_name" : "BANERJEE",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State Highway 1",
+               "short_name" : "SH 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naihati",
+               "short_name" : "Naihati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743165",
+               "short_name" : "743165",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BANERJEE, 60, State Highway 1, Naihati, West Bengal 743165, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.8829104,
+               "lng" : 88.41502100000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8842593802915,
+                  "lng" : 88.41636998029152
+               },
+               "southwest" : {
+                  "lat" : 22.8815614197085,
+                  "lng" : 88.41367201970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

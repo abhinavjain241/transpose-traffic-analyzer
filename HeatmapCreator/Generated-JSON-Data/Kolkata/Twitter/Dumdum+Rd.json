@@ -1,0 +1,271 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dum Dum Road",
+               "short_name" : "Dum Dum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dum Dum Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6239157,
+                  "lng" : 88.4143945
+               },
+               "southwest" : {
+                  "lat" : 22.6184493,
+                  "lng" : 88.3791439
+               }
+            },
+            "location" : {
+               "lat" : 22.6205384,
+               "lng" : 88.3970552
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6239157,
+                  "lng" : 88.4143945
+               },
+               "southwest" : {
+                  "lat" : 22.6184493,
+                  "lng" : 88.3791439
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dum Dum Road",
+               "short_name" : "Dum Dum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sinthi",
+               "short_name" : "Sinthi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700050",
+               "short_name" : "700050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dum Dum Road, Sinthi, Kolkata, West Bengal 700050, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6294882,
+                  "lng" : 88.3922194
+               },
+               "southwest" : {
+                  "lat" : 22.6286967,
+                  "lng" : 88.38759209999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6288571,
+               "lng" : 88.3899004
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6304414302915,
+                  "lng" : 88.3922194
+               },
+               "southwest" : {
+                  "lat" : 22.62774346970849,
+                  "lng" : 88.38759209999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dum Dum Road",
+               "short_name" : "Dum Dum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Surer Math",
+               "short_name" : "Surer Math",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Melabagan Estate",
+               "short_name" : "Melabagan Estate",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Basak Bagan",
+               "short_name" : "Basak Bagan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "South Dum Dum",
+               "short_name" : "South Dum Dum",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700074",
+               "short_name" : "700074",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dum Dum Road, Surer Math, Melabagan Estate, Basak Bagan, South Dum Dum, Kolkata, West Bengal 700074",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.621785,
+               "lng" : 88.40656299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6231339802915,
+                  "lng" : 88.4079119802915
+               },
+               "southwest" : {
+                  "lat" : 22.6204360197085,
+                  "lng" : 88.4052140197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nalkur North Dum Dum Road",
+               "short_name" : "Nalkur North Dum Dum Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alipore",
+               "short_name" : "Alipore",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nimta",
+               "short_name" : "Nimta",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nalkur North Dum Dum Road, Alipore, Nimta, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.654816,
+                  "lng" : 88.40942799999999
+               },
+               "southwest" : {
+                  "lat" : 22.6543558,
+                  "lng" : 88.4052245
+               }
+            },
+            "location" : {
+               "lat" : 22.6546213,
+               "lng" : 88.4072764
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6559348802915,
+                  "lng" : 88.40942799999999
+               },
+               "southwest" : {
+                  "lat" : 22.6532369197085,
+                  "lng" : 88.4052245
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shimla Park",
+               "short_name" : "Shimla Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kausa",
+               "short_name" : "Kausa",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbra",
+               "short_name" : "Mumbra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400612",
+               "short_name" : "400612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shimla Park, Kausa, Mumbra, Thane, Maharashtra 400612, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1653668,
+                  "lng" : 73.03175569999999
+               },
+               "southwest" : {
+                  "lat" : 19.161607,
+                  "lng" : 73.0284297
+               }
+            },
+            "location" : {
+               "lat" : 19.1631326,
+               "lng" : 73.02982779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1653668,
+                  "lng" : 73.03175569999999
+               },
+               "southwest" : {
+                  "lat" : 19.161607,
+                  "lng" : 73.0284297
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

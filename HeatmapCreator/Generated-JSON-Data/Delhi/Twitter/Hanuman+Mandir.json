@@ -1,0 +1,1295 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Karera Narwar Road",
+               "short_name" : "Karera Narwar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Narwar",
+               "short_name" : "Narwar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shivpuri",
+               "short_name" : "Shivpuri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "473880",
+               "short_name" : "473880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Karera Narwar Road, Narwar, Madhya Pradesh 473880, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.6366853,
+                  "lng" : 77.9133064
+               },
+               "southwest" : {
+                  "lat" : 25.6362741,
+                  "lng" : 77.912888
+               }
+            },
+            "location" : {
+               "lat" : 25.6364797,
+               "lng" : 77.9130972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.63782868029151,
+                  "lng" : 77.91444618029149
+               },
+               "southwest" : {
+                  "lat" : 25.6351307197085,
+                  "lng" : 77.91174821970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Jorasanko",
+               "short_name" : "Jorasanko",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700007",
+               "short_name" : "700007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Jorasanko, Kolkata, West Bengal 700007",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.584803,
+               "lng" : 88.35799999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5861519802915,
+                  "lng" : 88.3593489802915
+               },
+               "southwest" : {
+                  "lat" : 22.58345401970849,
+                  "lng" : 88.35665101970849
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Alpharetta",
+               "short_name" : "Alpharetta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30004",
+               "short_name" : "30004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Alpharetta, GA 30004, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0842624,
+               "lng" : -84.27800309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0856113802915,
+                  "lng" : -84.27665411970848
+               },
+               "southwest" : {
+                  "lat" : 34.0829134197085,
+                  "lng" : -84.27935208029149
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hanuman Road Area",
+               "short_name" : "Hanuman Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.630013,
+               "lng" : 77.213635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6313619802915,
+                  "lng" : 77.21498398029151
+               },
+               "southwest" : {
+                  "lat" : 28.62866401970849,
+                  "lng" : 77.2122860197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir Bus Stop",
+               "short_name" : "Hanuman Mandir Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Thimayya Marg",
+               "short_name" : "Thimayya Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Delhi Cantonment",
+               "short_name" : "Delhi Cantonment",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110010",
+               "short_name" : "110010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir Bus Stop, Thimayya Marg, Delhi Cantonment, New Delhi, Delhi 110010, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5727138,
+               "lng" : 77.12095069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5740627802915,
+                  "lng" : 77.1222996802915
+               },
+               "southwest" : {
+                  "lat" : 28.5713648197085,
+                  "lng" : 77.1196017197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "National Highway 2",
+               "short_name" : "NH 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bihari",
+               "short_name" : "Bihari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanpur Dehat",
+               "short_name" : "Kanpur Dehat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "209301",
+               "short_name" : "209301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, National Highway 2, Bihari, Uttar Pradesh 209301, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.3616832,
+               "lng" : 79.86132719999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3630321802915,
+                  "lng" : 79.8626761802915
+               },
+               "southwest" : {
+                  "lat" : 26.36033421970849,
+                  "lng" : 79.85997821970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "National Highway 31",
+               "short_name" : "NH 31",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chorsua",
+               "short_name" : "Chorsua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nalanda",
+               "short_name" : "Nalanda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "803115",
+               "short_name" : "803115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, National Highway 31, Chorsua, Bihar 803115, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1122191,
+               "lng" : 85.5292779
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1135680802915,
+                  "lng" : 85.53062688029151
+               },
+               "southwest" : {
+                  "lat" : 25.11087011970849,
+                  "lng" : 85.52792891970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "National Highway 70",
+               "short_name" : "NH70",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Adampur",
+               "short_name" : "Adampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "144103",
+               "short_name" : "144103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, National Highway 70, Adampur, Punjab 144103, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.42978999999999,
+               "lng" : 75.71497029999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.43113898029149,
+                  "lng" : 75.71631928029149
+               },
+               "southwest" : {
+                  "lat" : 31.42844101970849,
+                  "lng" : 75.71362131970848
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Pocket 8, Block B",
+               "short_name" : "Pocket 8, Block B",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 19",
+               "short_name" : "Sector 19",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rohini",
+               "short_name" : "Rohini",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110089",
+               "short_name" : "110089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Pocket 8, Block B, Sector 19, Rohini, New Delhi, Haryana 110089, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.7314777,
+               "lng" : 77.1371181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7328266802915,
+                  "lng" : 77.13846708029151
+               },
+               "southwest" : {
+                  "lat" : 28.7301287197085,
+                  "lng" : 77.1357691197085
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Doctor Babasaheb Ambedkar Road",
+               "short_name" : "Dr Babasaheb Ambedkar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lal Baug",
+               "short_name" : "Lal Baug",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400012",
+               "short_name" : "400012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Doctor Babasaheb Ambedkar Road, Lal Baug, Parel, Mumbai, Maharashtra 400012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9909196,
+               "lng" : 72.8374809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9922685802915,
+                  "lng" : 72.83882988029151
+               },
+               "southwest" : {
+                  "lat" : 18.98957061970849,
+                  "lng" : 72.83613191970849
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chincholi Hanuman Temple",
+               "short_name" : "Chincholi Hanuman Temple",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Swami Vivekanand Road",
+               "short_name" : "Swami Vivekanand Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunder Nagar",
+               "short_name" : "Sunder Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Malad West",
+               "short_name" : "Malad West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400064",
+               "short_name" : "400064",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chincholi Hanuman Temple, Swami Vivekanand Road, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1780382,
+               "lng" : 72.8458236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1793871802915,
+                  "lng" : 72.84717258029151
+               },
+               "southwest" : {
+                  "lat" : 19.1766892197085,
+                  "lng" : 72.84447461970851
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "SH 8B",
+               "short_name" : "SH8B",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kaladera",
+               "short_name" : "Kaladera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303801",
+               "short_name" : "303801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, SH 8B, Kaladera, Rajasthan 303801, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.189778,
+               "lng" : 75.6201035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1911269802915,
+                  "lng" : 75.62145248029151
+               },
+               "southwest" : {
+                  "lat" : 27.1884290197085,
+                  "lng" : 75.6187545197085
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Temple",
+               "short_name" : "Hanuman Temple",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cheelandavadi",
+               "short_name" : "Cheelandavadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Rural",
+               "short_name" : "Bangalore Rural",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "562126",
+               "short_name" : "562126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Temple, Cheelandavadi, Karnataka 562126, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3342896,
+               "lng" : 77.32808589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.3356385802915,
+                  "lng" : 77.3294348802915
+               },
+               "southwest" : {
+                  "lat" : 12.3329406197085,
+                  "lng" : 77.32673691970848
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Temple",
+               "short_name" : "Hanuman Temple",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Tilak Nagar",
+               "short_name" : "Tilak Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302004",
+               "short_name" : "302004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Temple, Tilak Nagar, Jaipur, Rajasthan 302004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8950135,
+               "lng" : 75.81648849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8963624802915,
+                  "lng" : 75.81783748029149
+               },
+               "southwest" : {
+                  "lat" : 26.8936645197085,
+                  "lng" : 75.81513951970848
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Temple",
+               "short_name" : "Hanuman Temple",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Palam Road",
+               "short_name" : "Palam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Delhi Cantonment",
+               "short_name" : "Delhi Cantonment",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110010",
+               "short_name" : "110010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Temple, Palam Road, Delhi Cantonment, New Delhi, Delhi 110010, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5735937,
+               "lng" : 77.120536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5749426802915,
+                  "lng" : 77.12188498029151
+               },
+               "southwest" : {
+                  "lat" : 28.5722447197085,
+                  "lng" : 77.11918701970851
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 30",
+               "short_name" : "NH 30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kulharia",
+               "short_name" : "Kulharia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bhojpur",
+               "short_name" : "Bhojpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "802160",
+               "short_name" : "802160",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, National Highway 30, Kulharia, Bihar 802160, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.5809168,
+               "lng" : 84.770827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.5822657802915,
+                  "lng" : 84.77217598029149
+               },
+               "southwest" : {
+                  "lat" : 25.57956781970849,
+                  "lng" : 84.76947801970849
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 82",
+               "short_name" : "NH 82",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rana Nagar",
+               "short_name" : "Rana Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Manpur",
+               "short_name" : "Manpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gaya",
+               "short_name" : "Gaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "823003",
+               "short_name" : "823003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, National Highway 82, Rana Nagar, Manpur, Bihar 823003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.7970103,
+               "lng" : 85.0205981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7983592802915,
+                  "lng" : 85.02194708029151
+               },
+               "southwest" : {
+                  "lat" : 24.7956613197085,
+                  "lng" : 85.01924911970849
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Barh Billoure Road",
+               "short_name" : "Barh Billoure Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barh",
+               "short_name" : "Barh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patna",
+               "short_name" : "Patna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "803213",
+               "short_name" : "803213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Barh Billoure Road, Barh, Bihar 803213, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.4475681,
+               "lng" : 85.74809599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.4489170802915,
+                  "lng" : 85.74944498029149
+               },
+               "southwest" : {
+                  "lat" : 25.44621911970849,
+                  "lng" : 85.74674701970848
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sardar Vallabhbhai Patel Road",
+               "short_name" : "SVP Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Railway Godown",
+               "short_name" : "Central Railway Godown",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mazgaon",
+               "short_name" : "Mazgaon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400009",
+               "short_name" : "400009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Sardar Vallabhbhai Patel Road, Central Railway Godown, Mazgaon, Mumbai, Maharashtra 400009, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.959034,
+                  "lng" : 72.84175449999999
+               },
+               "southwest" : {
+                  "lat" : 18.9578635,
+                  "lng" : 72.84100859999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9584488,
+               "lng" : 72.84138159999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.95979773029151,
+                  "lng" : 72.8427305302915
+               },
+               "southwest" : {
+                  "lat" : 18.9570997697085,
+                  "lng" : 72.8400325697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanuman Mandir",
+               "short_name" : "Hanuman Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jhapa- Lasuna Road",
+               "short_name" : "Jhapa- Lasuna Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jhapa Bazaar",
+               "short_name" : "Jhapa Bazaar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kumarkhod",
+               "short_name" : "Kumarkhod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanuman Mandir, Jhapa- Lasuna Road, Kumarkhod 57200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4804576,
+               "lng" : 87.8542753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4818065802915,
+                  "lng" : 87.85562428029149
+               },
+               "southwest" : {
+                  "lat" : 26.47910861970849,
+                  "lng" : 87.85292631970849
+               }
+            }
+         },
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

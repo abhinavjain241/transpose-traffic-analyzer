@@ -1,0 +1,548 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane Station",
+               "short_name" : "Thane Station",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Naupada",
+               "short_name" : "Naupada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400602",
+               "short_name" : "400602",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane Station, Naupada, Thane West, Thane, Maharashtra 400602",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.189047,
+               "lng" : 72.97497199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1903959802915,
+                  "lng" : 72.9763209802915
+               },
+               "southwest" : {
+                  "lat" : 19.1876980197085,
+                  "lng" : 72.97362301970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cidco Bus Depot",
+               "short_name" : "Cidco Bus Depot",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Chendani Bunder Road",
+               "short_name" : "Chendani Bunder Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jambli Naka",
+               "short_name" : "Jambli Naka",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400601",
+               "short_name" : "400601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cidco Bus Depot, Chendani Bunder Road, Jambli Naka, Thane West, Thane, Maharashtra 400601, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1881819,
+                  "lng" : 72.9802035
+               },
+               "southwest" : {
+                  "lat" : 19.1876924,
+                  "lng" : 72.9794134
+               }
+            },
+            "location" : {
+               "lat" : 19.1879122,
+               "lng" : 72.97978089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1892861302915,
+                  "lng" : 72.98115743029152
+               },
+               "southwest" : {
+                  "lat" : 19.1865881697085,
+                  "lng" : 72.97845946970851
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane Station",
+               "short_name" : "Thane Station",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "TMT Reserved Flyover SATIS",
+               "short_name" : "TMT Reserved Flyover SATIS",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jambli Naka",
+               "short_name" : "Jambli Naka",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400601",
+               "short_name" : "400601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane Station, TMT Reserved Flyover SATIS, Jambli Naka, Thane West, Thane, Maharashtra 400601, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1869537,
+                  "lng" : 72.9759121
+               },
+               "southwest" : {
+                  "lat" : 19.186603,
+                  "lng" : 72.97535289999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1867987,
+               "lng" : 72.975629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1881273302915,
+                  "lng" : 72.9769814802915
+               },
+               "southwest" : {
+                  "lat" : 19.1854293697085,
+                  "lng" : 72.97428351970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4370",
+               "short_name" : "4370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane, Thane QLD 4370, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -28.1609299,
+               "lng" : 151.70061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.1595809197085,
+                  "lng" : 151.7019589802915
+               },
+               "southwest" : {
+                  "lat" : -28.1622788802915,
+                  "lng" : 151.6992610197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane Station (E)",
+               "short_name" : "Thane Station (E)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Daulat Nagar",
+               "short_name" : "Daulat Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane East",
+               "short_name" : "Thane East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400603",
+               "short_name" : "400603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane Station (E), Daulat Nagar, Thane East, Thane, Maharashtra 400603",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.185137,
+               "lng" : 72.976668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1864859802915,
+                  "lng" : 72.97801698029151
+               },
+               "southwest" : {
+                  "lat" : 19.18378801970849,
+                  "lng" : 72.97531901970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane Station Bus Stop",
+               "short_name" : "Thane Station Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Station Road",
+               "short_name" : "Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Daulat Nagar",
+               "short_name" : "Daulat Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane East",
+               "short_name" : "Thane East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400603",
+               "short_name" : "400603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane Station Bus Stop, Station Road, Daulat Nagar, Thane East, Thane, Maharashtra 400603, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1852186,
+               "lng" : 72.97504839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1865675802915,
+                  "lng" : 72.9763973802915
+               },
+               "southwest" : {
+                  "lat" : 19.1838696197085,
+                  "lng" : 72.97369941970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane Station Road",
+               "short_name" : "Thane Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400601",
+               "short_name" : "400601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane Station Road, Thane West, Thane, Maharashtra 400601, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2049104,
+                  "lng" : 72.9781272
+               },
+               "southwest" : {
+                  "lat" : 19.197205,
+                  "lng" : 72.97731039999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2009233,
+               "lng" : 72.97760029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2049104,
+                  "lng" : 72.97906778029152
+               },
+               "southwest" : {
+                  "lat" : 19.197205,
+                  "lng" : 72.97636981970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane Station Road",
+               "short_name" : "Thane Station Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jambli Naka",
+               "short_name" : "Jambli Naka",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400601",
+               "short_name" : "400601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thane Station Road, Jambli Naka, Thane West, Thane, Maharashtra 400601, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1877376,
+                  "lng" : 72.9770118
+               },
+               "southwest" : {
+                  "lat" : 19.1866701,
+                  "lng" : 72.9760569
+               }
+            },
+            "location" : {
+               "lat" : 19.1867208,
+               "lng" : 72.9766336
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1885528302915,
+                  "lng" : 72.97788333029149
+               },
+               "southwest" : {
+                  "lat" : 19.1858548697085,
+                  "lng" : 72.97518536970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

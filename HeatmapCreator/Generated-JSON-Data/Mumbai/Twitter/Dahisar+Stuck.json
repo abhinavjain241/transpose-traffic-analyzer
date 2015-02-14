@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dahisar",
+               "short_name" : "Dahisar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "401303",
+               "short_name" : "401303",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dahisar, Maharashtra 401303, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.50253,
+                  "lng" : 72.87653
+               },
+               "southwest" : {
+                  "lat" : 19.48359,
+                  "lng" : 72.85105
+               }
+            },
+            "location" : {
+               "lat" : 19.4945979,
+               "lng" : 72.86040969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.50253,
+                  "lng" : 72.87653
+               },
+               "southwest" : {
+                  "lat" : 19.48359,
+                  "lng" : 72.85105
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

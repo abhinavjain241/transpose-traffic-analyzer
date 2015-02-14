@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Busy Been (Monasteries)",
+               "short_name" : "Busy Been (Monasteries)",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shankarapuram",
+               "short_name" : "Shankarapuram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560004",
+               "short_name" : "560004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Busy Been (Monasteries), Shankarapuram, Bengaluru, Karnataka 560004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.951783,
+               "lng" : 77.569417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9531319802915,
+                  "lng" : 77.57076598029151
+               },
+               "southwest" : {
+                  "lat" : 12.9504340197085,
+                  "lng" : 77.56806801970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "school", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

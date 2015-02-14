@@ -1,0 +1,616 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Road",
+               "short_name" : "Desh Bandhu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nabagram",
+               "short_name" : "Nabagram",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Konnagar",
+               "short_name" : "Konnagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nabagram Colony",
+               "short_name" : "Nabagram Colony",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hooghly",
+               "short_name" : "Hooghly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "712246",
+               "short_name" : "712246",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Road, Nabagram, Konnagar, Nabagram Colony, West Bengal 712246, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7038495,
+                  "lng" : 88.3419827
+               },
+               "southwest" : {
+                  "lat" : 22.702859,
+                  "lng" : 88.3400348
+               }
+            },
+            "location" : {
+               "lat" : 22.7030964,
+               "lng" : 88.3410487
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7047032302915,
+                  "lng" : 88.34235773029151
+               },
+               "southwest" : {
+                  "lat" : 22.7020052697085,
+                  "lng" : 88.33965976970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Nagar",
+               "short_name" : "Desh Bandhu Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baguiati",
+               "short_name" : "Baguiati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Nagar, Baguiati, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.618187,
+                  "lng" : 88.43063099999999
+               },
+               "southwest" : {
+                  "lat" : 22.610286,
+                  "lng" : 88.421492
+               }
+            },
+            "location" : {
+               "lat" : 22.6136891,
+               "lng" : 88.42706020000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.618187,
+                  "lng" : 88.43063099999999
+               },
+               "southwest" : {
+                  "lat" : 22.610286,
+                  "lng" : 88.421492
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Gupta Marg",
+               "short_name" : "Desh Bandhu Gupta Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dwarka",
+               "short_name" : "Dwarka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110078",
+               "short_name" : "110078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Gupta Marg, Dwarka, New Delhi, Delhi 110078, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6034714,
+                  "lng" : 77.055943
+               },
+               "southwest" : {
+                  "lat" : 28.5952151,
+                  "lng" : 77.0484376
+               }
+            },
+            "location" : {
+               "lat" : 28.5996151,
+               "lng" : 77.0526539
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6034714,
+                  "lng" : 77.055943
+               },
+               "southwest" : {
+                  "lat" : 28.5952151,
+                  "lng" : 77.0484376
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Gupta Road",
+               "short_name" : "DB Gupta Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paharganj",
+               "short_name" : "Paharganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110055",
+               "short_name" : "110055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Gupta Road, Paharganj, New Delhi, Delhi 110055, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6450267,
+                  "lng" : 77.21814119999999
+               },
+               "southwest" : {
+                  "lat" : 28.6440763,
+                  "lng" : 77.215368
+               }
+            },
+            "location" : {
+               "lat" : 28.6443633,
+               "lng" : 77.2167087
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6459004802915,
+                  "lng" : 77.21814119999999
+               },
+               "southwest" : {
+                  "lat" : 28.6432025197085,
+                  "lng" : 77.215368
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Market",
+               "short_name" : "Desh Bandhu Market",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ashutosh Mukherjee Road",
+               "short_name" : "Ashutosh Mukherjee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paddapukur",
+               "short_name" : "Paddapukur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700025",
+               "short_name" : "700025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Market, Ashutosh Mukherjee Road, Paddapukur, Bhowanipore, Kolkata, West Bengal 700025, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5313847,
+                  "lng" : 88.3461178
+               },
+               "southwest" : {
+                  "lat" : 22.5311269,
+                  "lng" : 88.345844
+               }
+            },
+            "location" : {
+               "lat" : 22.5312558,
+               "lng" : 88.3459809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5326047802915,
+                  "lng" : 88.34732988029151
+               },
+               "southwest" : {
+                  "lat" : 22.5299068197085,
+                  "lng" : 88.34463191970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Nagar",
+               "short_name" : "Desh Bandhu Nagar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Desh Bandhu Nagar",
+               "short_name" : "Desh Bandhu Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baguiati",
+               "short_name" : "Baguiati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700059",
+               "short_name" : "700059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Nagar, Desh Bandhu Nagar, Baguiati, Kolkata, West Bengal 700059, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6173855,
+                  "lng" : 88.42927739999999
+               },
+               "southwest" : {
+                  "lat" : 22.6152327,
+                  "lng" : 88.4247371
+               }
+            },
+            "location" : {
+               "lat" : 22.6173855,
+               "lng" : 88.4247371
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6176580802915,
+                  "lng" : 88.42927739999999
+               },
+               "southwest" : {
+                  "lat" : 22.6149601197085,
+                  "lng" : 88.4247371
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ST. Stephen School",
+               "short_name" : "ST. Stephen School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 35",
+               "short_name" : "NH 35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Habra",
+               "short_name" : "Habra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743233",
+               "short_name" : "743233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ST. Stephen School, National Highway 35, Habra, West Bengal 743233, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.8384736,
+               "lng" : 88.64789309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8398225802915,
+                  "lng" : 88.6492420802915
+               },
+               "southwest" : {
+                  "lat" : 22.8371246197085,
+                  "lng" : 88.64654411970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Chittoranjan Road",
+               "short_name" : "Desh Bandhu Chittoranjan Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jessore",
+               "short_name" : "Jessore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jessore",
+               "short_name" : "Jessore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Chittoranjan Road, Jessore, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1590593,
+                  "lng" : 89.2139213
+               },
+               "southwest" : {
+                  "lat" : 23.1578708,
+                  "lng" : 89.2136617
+               }
+            },
+            "location" : {
+               "lat" : 23.1586353,
+               "lng" : 89.2138387
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1598140302915,
+                  "lng" : 89.21514048029151
+               },
+               "southwest" : {
+                  "lat" : 23.1571160697085,
+                  "lng" : 89.2124425197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Desh Bandhu Medical Hall",
+               "short_name" : "Desh Bandhu Medical Hall",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shri Ram Colony",
+               "short_name" : "Shri Ram Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sindhi Camp",
+               "short_name" : "Sindhi Camp",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302006",
+               "short_name" : "302006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Desh Bandhu Medical Hall, Shri Ram Colony, Sindhi Camp, Jaipur, Rajasthan 302006, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9237256,
+               "lng" : 75.80313599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9250745802915,
+                  "lng" : 75.80448498029151
+               },
+               "southwest" : {
+                  "lat" : 26.92237661970849,
+                  "lng" : 75.8017870197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

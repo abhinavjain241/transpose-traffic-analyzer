@@ -1,0 +1,1177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DTC Shivaji Stadium Terminal",
+               "short_name" : "DTC Shivaji Stadium Terminal",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Shaheed Bhagat Singh Marg",
+               "short_name" : "Shaheed Bhagat Singh Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "DTC Shivaji Stadium Terminal, Shaheed Bhagat Singh Marg, Shivaji Stadium, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6331095,
+                  "lng" : 77.21574629999999
+               },
+               "southwest" : {
+                  "lat" : 28.6320278,
+                  "lng" : 77.2151119
+               }
+            },
+            "location" : {
+               "lat" : 28.63259,
+               "lng" : 77.2154563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6339176302915,
+                  "lng" : 77.2167780802915
+               },
+               "southwest" : {
+                  "lat" : 28.6312196697085,
+                  "lng" : 77.21408011970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hanuman Road Area",
+               "short_name" : "Hanuman Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.62925,
+               "lng" : 77.21210499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6305989802915,
+                  "lng" : 77.2134539802915
+               },
+               "southwest" : {
+                  "lat" : 28.6279010197085,
+                  "lng" : 77.2107560197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Adarsh Indira Nagar",
+               "short_name" : "Adarsh Indira Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Juna Bazar",
+               "short_name" : "Juna Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kasba Peth",
+               "short_name" : "Kasba Peth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411011",
+               "short_name" : "411011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Adarsh Indira Nagar, Juna Bazar, Kasba Peth, Pune, Maharashtra 411011",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.526006,
+               "lng" : 73.860625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5273549802915,
+                  "lng" : 73.86197398029151
+               },
+               "southwest" : {
+                  "lat" : 18.5246570197085,
+                  "lng" : 73.8592760197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.633253,
+                  "lng" : 77.215762
+               },
+               "southwest" : {
+                  "lat" : 28.632012,
+                  "lng" : 77.2127199
+               }
+            },
+            "location" : {
+               "lat" : 28.6326787,
+               "lng" : 77.2135699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6339814802915,
+                  "lng" : 77.215762
+               },
+               "southwest" : {
+                  "lat" : 28.6312835197085,
+                  "lng" : 77.2127199
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "State Highway 46",
+               "short_name" : "SH 46",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Haliyal",
+               "short_name" : "Haliyal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uttara Kannada",
+               "short_name" : "Uttara Kannada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "581329",
+               "short_name" : "581329",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, State Highway 46, Haliyal, Karnataka 581329, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 15.3301519,
+               "lng" : 74.77026699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.3315008802915,
+                  "lng" : 74.7716159802915
+               },
+               "southwest" : {
+                  "lat" : 15.3288029197085,
+                  "lng" : 74.76891801970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Shaheed Bhagat Singh Marg",
+               "short_name" : "Shaheed Bhagat Singh Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Shaheed Bhagat Singh Marg, Shivaji Stadium, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6329916,
+               "lng" : 77.21520509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6343405802915,
+                  "lng" : 77.21655408029149
+               },
+               "southwest" : {
+                  "lat" : 28.6316426197085,
+                  "lng" : 77.21385611970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium Road",
+               "short_name" : "Shivaji Stadium Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Model Town",
+               "short_name" : "Model Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "132108",
+               "short_name" : "132108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium Road, Model Town, Panipat, Haryana 132108, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3909874,
+                  "lng" : 76.95470619999999
+               },
+               "southwest" : {
+                  "lat" : 29.3884869,
+                  "lng" : 76.95418429999999
+               }
+            },
+            "location" : {
+               "lat" : 29.3897393,
+               "lng" : 76.9542637
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3910861302915,
+                  "lng" : 76.95579423029149
+               },
+               "southwest" : {
+                  "lat" : 29.38838816970851,
+                  "lng" : 76.95309626970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Hockey Stadium",
+               "short_name" : "Shivaji Hockey Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Shaheed Bhagat Singh Marg",
+               "short_name" : "Shaheed Bhagat Singh Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Hockey Stadium, Shaheed Bhagat Singh Marg, Shivaji Stadium, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6329161,
+                  "lng" : 77.2144079
+               },
+               "southwest" : {
+                  "lat" : 28.6323636,
+                  "lng" : 77.2133826
+               }
+            },
+            "location" : {
+               "lat" : 28.6325167,
+               "lng" : 77.21374949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6339888302915,
+                  "lng" : 77.21524423029152
+               },
+               "southwest" : {
+                  "lat" : 28.63129086970849,
+                  "lng" : 77.2125462697085
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shri Chhatrapati Shivaji Stadium",
+               "short_name" : "Shri Chhatrapati Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Manganwlarpeth",
+               "short_name" : "Manganwlarpeth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolhapur",
+               "short_name" : "Kolhapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolhapur",
+               "short_name" : "Kolhapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shri Chhatrapati Shivaji Stadium, Manganwlarpeth, Kolhapur, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.6940675,
+                  "lng" : 74.22964499999999
+               },
+               "southwest" : {
+                  "lat" : 16.6922033,
+                  "lng" : 74.2276669
+               }
+            },
+            "location" : {
+               "lat" : 16.6929745,
+               "lng" : 74.2285708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.6944843802915,
+                  "lng" : 74.2300049302915
+               },
+               "southwest" : {
+                  "lat" : 16.6917864197085,
+                  "lng" : 74.22730696970849
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "MSEB Colony",
+               "short_name" : "MSEB Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhandara",
+               "short_name" : "Bhandara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bhandara",
+               "short_name" : "Bhandara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "441904",
+               "short_name" : "441904",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, MSEB Colony, Bhandara, Maharashtra 441904, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.1597353,
+                  "lng" : 79.65564789999999
+               },
+               "southwest" : {
+                  "lat" : 21.1581445,
+                  "lng" : 79.6543068
+               }
+            },
+            "location" : {
+               "lat" : 21.1589422,
+               "lng" : 79.6549471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.1602888802915,
+                  "lng" : 79.65632633029151
+               },
+               "southwest" : {
+                  "lat" : 21.15759091970849,
+                  "lng" : 79.65362836970849
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Malkapur",
+               "short_name" : "Malkapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolhapur",
+               "short_name" : "Kolhapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "415101",
+               "short_name" : "415101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Malkapur, Maharashtra 415101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.9218124,
+                  "lng" : 73.93473659999999
+               },
+               "southwest" : {
+                  "lat" : 16.9208559,
+                  "lng" : 73.9331921
+               }
+            },
+            "location" : {
+               "lat" : 16.9215072,
+               "lng" : 73.9339614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9226831302915,
+                  "lng" : 73.93531333029151
+               },
+               "southwest" : {
+                  "lat" : 16.9199851697085,
+                  "lng" : 73.9326153697085
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ram Lal Chowk",
+               "short_name" : "Ram Lal Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Model Town",
+               "short_name" : "Model Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panipat",
+               "short_name" : "Panipat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "132108",
+               "short_name" : "132108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Ram Lal Chowk, Model Town, Panipat, Haryana 132108, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3908924,
+                  "lng" : 76.95624579999999
+               },
+               "southwest" : {
+                  "lat" : 29.3888732,
+                  "lng" : 76.9543791
+               }
+            },
+            "location" : {
+               "lat" : 29.3895636,
+               "lng" : 76.9553042
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3912317802915,
+                  "lng" : 76.9566614302915
+               },
+               "southwest" : {
+                  "lat" : 29.38853381970851,
+                  "lng" : 76.9539634697085
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Abhyudhya Nagar",
+               "short_name" : "Abhyudhya Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ratnagiri",
+               "short_name" : "Ratnagiri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ratnagiri",
+               "short_name" : "Ratnagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "415612",
+               "short_name" : "415612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Abhyudhya Nagar, Ratnagiri, Maharashtra 415612, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.9898995,
+                  "lng" : 73.3129751
+               },
+               "southwest" : {
+                  "lat" : 16.9876521,
+                  "lng" : 73.31064619999999
+               }
+            },
+            "location" : {
+               "lat" : 16.9886462,
+               "lng" : 73.31154739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9901247802915,
+                  "lng" : 73.31315963029151
+               },
+               "southwest" : {
+                  "lat" : 16.9874268197085,
+                  "lng" : 73.31046166970849
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stadium",
+               "short_name" : "Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Veer Santaji Ghorpade Road",
+               "short_name" : "Veer Santaji Ghorpade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mangalwar Peth",
+               "short_name" : "Mangalwar Peth",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kasba Peth",
+               "short_name" : "Kasba Peth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411011",
+               "short_name" : "411011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stadium, Veer Santaji Ghorpade Road, Mangalwar Peth, Kasba Peth, Pune, Maharashtra 411011, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.52608,
+                  "lng" : 73.86199689999999
+               },
+               "southwest" : {
+                  "lat" : 18.5256519,
+                  "lng" : 73.8615183
+               }
+            },
+            "location" : {
+               "lat" : 18.5258626,
+               "lng" : 73.86166229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5272149302915,
+                  "lng" : 73.8631065802915
+               },
+               "southwest" : {
+                  "lat" : 18.5245169697085,
+                  "lng" : 73.86040861970849
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Shivaji Road",
+               "short_name" : "Shivaji Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pandharpur Wal",
+               "short_name" : "Pandharpur Wal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sangli",
+               "short_name" : "Sangli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sangli",
+               "short_name" : "Sangli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "416410",
+               "short_name" : "416410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Shivaji Road, Pandharpur Wal, Sangli, Maharashtra 416410, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.8214853,
+                  "lng" : 74.6430874
+               },
+               "southwest" : {
+                  "lat" : 16.8205061,
+                  "lng" : 74.641108
+               }
+            },
+            "location" : {
+               "lat" : 16.8209733,
+               "lng" : 74.64205609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.8223446802915,
+                  "lng" : 74.6434466802915
+               },
+               "southwest" : {
+                  "lat" : 16.81964671970849,
+                  "lng" : 74.64074871970848
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Samarth Nagar",
+               "short_name" : "Samarth Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jalna",
+               "short_name" : "Jalna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalna",
+               "short_name" : "Jalna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431213",
+               "short_name" : "431213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Samarth Nagar, Jalna, Maharashtra 431213, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8334184,
+                  "lng" : 75.8731646
+               },
+               "southwest" : {
+                  "lat" : 19.8306884,
+                  "lng" : 75.8698957
+               }
+            },
+            "location" : {
+               "lat" : 19.8322252,
+               "lng" : 75.8719134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8334184,
+                  "lng" : 75.8731646
+               },
+               "southwest" : {
+                  "lat" : 19.8306884,
+                  "lng" : 75.8698957
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Stadium",
+               "short_name" : "Shivaji Stadium",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Pawar Nagar",
+               "short_name" : "Pawar Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karad",
+               "short_name" : "Karad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Satara",
+               "short_name" : "Satara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "415110",
+               "short_name" : "415110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Stadium, Pawar Nagar, Karad, Maharashtra 415110, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.2845436,
+                  "lng" : 74.18801309999999
+               },
+               "southwest" : {
+                  "lat" : 17.2829966,
+                  "lng" : 74.1865861
+               }
+            },
+            "location" : {
+               "lat" : 17.2839238,
+               "lng" : 74.1874818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2851190802915,
+                  "lng" : 74.1886485802915
+               },
+               "southwest" : {
+                  "lat" : 17.2824211197085,
+                  "lng" : 74.18595061970849
+               }
+            }
+         },
+         "types" : [ "stadium", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

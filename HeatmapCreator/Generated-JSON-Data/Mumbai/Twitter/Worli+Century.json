@@ -1,0 +1,207 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Century Bhavan",
+               "short_name" : "Century Bhavan",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sadanand Hasu Tandel Marg",
+               "short_name" : "Sadanand Hasu Tandel Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Century Bazaar",
+               "short_name" : "Century Bazaar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400030",
+               "short_name" : "400030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Century Bhavan, Sadanand Hasu Tandel Marg, Century Bazaar, Worli, Mumbai, Maharashtra 400030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.012443,
+               "lng" : 72.8236017
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0137919802915,
+                  "lng" : 72.82495068029151
+               },
+               "southwest" : {
+                  "lat" : 19.01109401970849,
+                  "lng" : 72.82225271970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Century Bazaar Bus Stop",
+               "short_name" : "Century Bazaar Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Swatantrya Veer Savarkar Marg",
+               "short_name" : "Swatantrya Veer Savarkar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Adarsh Nagar",
+               "short_name" : "Adarsh Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400025",
+               "short_name" : "400025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Century Bazaar Bus Stop, Swatantrya Veer Savarkar Marg, Adarsh Nagar, Worli, Mumbai, Maharashtra 400025, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0125042,
+               "lng" : 72.82243799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0138531802915,
+                  "lng" : 72.8237869802915
+               },
+               "southwest" : {
+                  "lat" : 19.0111552197085,
+                  "lng" : 72.8210890197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C Block Century Staff Quarters",
+               "short_name" : "C Block Century Staff Quarters",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Pandurang Budhkar Marg",
+               "short_name" : "Pandurang Budhkar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400030",
+               "short_name" : "400030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C Block Century Staff Quarters, Pandurang Budhkar Marg, Worli, Mumbai, Maharashtra 400030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0068674,
+               "lng" : 72.82116909999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0082163802915,
+                  "lng" : 72.82251808029149
+               },
+               "southwest" : {
+                  "lat" : 19.0055184197085,
+                  "lng" : 72.81982011970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

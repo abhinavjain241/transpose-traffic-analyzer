@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kona Expressway",
+               "short_name" : "Kona Expy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kona Expressway, Howrah, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6069657,
+                  "lng" : 88.31572300000001
+               },
+               "southwest" : {
+                  "lat" : 22.565857,
+                  "lng" : 88.25709409999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5853023,
+               "lng" : 88.28630769999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6069657,
+                  "lng" : 88.31572300000001
+               },
+               "southwest" : {
+                  "lat" : 22.565857,
+                  "lng" : 88.25709409999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

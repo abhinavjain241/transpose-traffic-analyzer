@@ -1,0 +1,340 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ali Drive",
+               "short_name" : "Ali Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middletown",
+               "short_name" : "Middletown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "3, Middletown",
+               "short_name" : "3, Middletown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Frederick County",
+               "short_name" : "Frederick County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21769",
+               "short_name" : "21769",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ali Drive, Middletown, MD 21769, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.447263,
+                  "lng" : -77.52131700000001
+               },
+               "southwest" : {
+                  "lat" : 39.442302,
+                  "lng" : -77.52535899999999
+               }
+            },
+            "location" : {
+               "lat" : 39.445002,
+               "lng" : -77.5248472
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.447263,
+                  "lng" : -77.52131700000001
+               },
+               "southwest" : {
+                  "lat" : 39.442302,
+                  "lng" : -77.52535899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Md Ali Road",
+               "short_name" : "Md Ali Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Raniganj",
+               "short_name" : "Raniganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713347",
+               "short_name" : "713347",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Md Ali Road, Raniganj, West Bengal 713347, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.6091901,
+                  "lng" : 87.11973329999999
+               },
+               "southwest" : {
+                  "lat" : 23.6072799,
+                  "lng" : 87.119113
+               }
+            },
+            "location" : {
+               "lat" : 23.6080149,
+               "lng" : 87.11933119999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.6095839802915,
+                  "lng" : 87.12077213029151
+               },
+               "southwest" : {
+                  "lat" : 23.6068860197085,
+                  "lng" : 87.11807416970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ali Court",
+               "short_name" : "Ali Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huntingtown",
+               "short_name" : "Huntingtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "2, Prince Frederick",
+               "short_name" : "2, Prince Frederick",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Calvert County",
+               "short_name" : "Calvert County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20639",
+               "short_name" : "20639",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ali Court, Huntingtown, MD 20639, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.591114,
+                  "lng" : -76.5476468
+               },
+               "southwest" : {
+                  "lat" : 38.589025,
+                  "lng" : -76.55096
+               }
+            },
+            "location" : {
+               "lat" : 38.5901347,
+               "lng" : -76.54942920000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.59141848029149,
+                  "lng" : -76.5476468
+               },
+               "southwest" : {
+                  "lat" : 38.5887205197085,
+                  "lng" : -76.55096
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doctor Chandar Agarwal",
+               "short_name" : "Doctor Chandar Agarwal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jesal Park",
+               "short_name" : "Jesal Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhayandar East",
+               "short_name" : "Bhayandar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Bhayandar",
+               "short_name" : "Mira Bhayandar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "401105",
+               "short_name" : "401105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Doctor Chandar Agarwal, Jesal Park, Bhayandar East, Mira Bhayandar, Maharashtra 401105, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3141782,
+               "lng" : 72.854203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3155271802915,
+                  "lng" : 72.85555198029151
+               },
+               "southwest" : {
+                  "lat" : 19.3128292197085,
+                  "lng" : 72.8528540197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Md Ali Bazaar Road",
+               "short_name" : "Md Ali Bazaar Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shakirabad",
+               "short_name" : "Shakirabad",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vaniyambadi",
+               "short_name" : "Vaniyambadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "635751",
+               "short_name" : "635751",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Md Ali Bazaar Road, Shakirabad, Vaniyambadi, Tamil Nadu 635751, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6825895,
+                  "lng" : 78.61452439999999
+               },
+               "southwest" : {
+                  "lat" : 12.6800275,
+                  "lng" : 78.61431109999999
+               }
+            },
+            "location" : {
+               "lat" : 12.6813266,
+               "lng" : 78.61445309999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6826574802915,
+                  "lng" : 78.6157667302915
+               },
+               "southwest" : {
+                  "lat" : 12.6799595197085,
+                  "lng" : 78.61306876970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

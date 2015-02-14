@@ -1,0 +1,199 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baguiati Road",
+               "short_name" : "Baguiati Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baguiati Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6137397,
+                  "lng" : 88.42786699999999
+               },
+               "southwest" : {
+                  "lat" : 22.6102313,
+                  "lng" : 88.42126519999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6120247,
+               "lng" : 88.4245519
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6137397,
+                  "lng" : 88.42786699999999
+               },
+               "southwest" : {
+                  "lat" : 22.6102313,
+                  "lng" : 88.42126519999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baguiati Road",
+               "short_name" : "Baguiati Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "UDAYAN PALLY",
+               "short_name" : "UDAYAN PALLY",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baguihati",
+               "short_name" : "Baguihati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700159",
+               "short_name" : "700159",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baguiati Road, UDAYAN PALLY, Baguihati, Kolkata, West Bengal 700159, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6101492,
+                  "lng" : 88.43154319999999
+               },
+               "southwest" : {
+                  "lat" : 22.608944,
+                  "lng" : 88.42805799999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6096401,
+               "lng" : 88.4297981
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6108955802915,
+                  "lng" : 88.43154319999999
+               },
+               "southwest" : {
+                  "lat" : 22.60819761970849,
+                  "lng" : 88.42805799999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baguiati Road",
+               "short_name" : "Baguiati Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Desh Bandhu Nagar",
+               "short_name" : "Desh Bandhu Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baguiati",
+               "short_name" : "Baguiati",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajarhat Gopalpur",
+               "short_name" : "Rajarhat Gopalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700059",
+               "short_name" : "700059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baguiati Road, Desh Bandhu Nagar, Baguiati, Rajarhat Gopalpur, West Bengal 700059, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6134033,
+               "lng" : 88.4235892
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6147522802915,
+                  "lng" : 88.42493818029151
+               },
+               "southwest" : {
+                  "lat" : 22.61205431970849,
+                  "lng" : 88.4222402197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,404 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz Police Department",
+               "short_name" : "Santa Cruz Police Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "155",
+               "short_name" : "155",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Center Street",
+               "short_name" : "Center St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cruz",
+               "short_name" : "Santa Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95060",
+               "short_name" : "95060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4913",
+               "short_name" : "4913",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz Police Department, 155 Center Street, Santa Cruz, CA 95060, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.96716,
+               "lng" : -122.027417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9685089802915,
+                  "lng" : -122.0260680197085
+               },
+               "southwest" : {
+                  "lat" : 36.9658110197085,
+                  "lng" : -122.0287659802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santacruz",
+               "short_name" : "Santacruz",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sen Nagar",
+               "short_name" : "Sen Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz West",
+               "short_name" : "Santacruz West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400055",
+               "short_name" : "400055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santacruz, MG Road, Sen Nagar, Santacruz West, Mumbai, Maharashtra 400055, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0845774,
+                  "lng" : 72.8420983
+               },
+               "southwest" : {
+                  "lat" : 19.0802618,
+                  "lng" : 72.84127219999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0825552,
+               "lng" : 72.84176269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0845774,
+                  "lng" : 72.84303423029151
+               },
+               "southwest" : {
+                  "lat" : 19.0802618,
+                  "lng" : 72.8403362697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santacruz Police Beat Office",
+               "short_name" : "Santacruz Police Beat Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "LIC Colony",
+               "short_name" : "LIC Colony",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Suresh Colony",
+               "short_name" : "Suresh Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vile Parle",
+               "short_name" : "Vile Parle",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai City",
+               "short_name" : "Mumbai City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400057",
+               "short_name" : "400057",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santacruz Police Beat Office, LIC Colony, Suresh Colony, Vile Parle, Mumbai, Maharashtra 400057, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0999839,
+               "lng" : 72.84366199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1013328802915,
+                  "lng" : 72.84501098029151
+               },
+               "southwest" : {
+                  "lat" : 19.09863491970849,
+                  "lng" : 72.8423130197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz Police Auditor",
+               "short_name" : "Santa Cruz Police Auditor",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "915",
+               "short_name" : "915",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cedar Street",
+               "short_name" : "Cedar St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cruz",
+               "short_name" : "Santa Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95060",
+               "short_name" : "95060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3801",
+               "short_name" : "3801",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz Police Auditor, 915 Cedar Street, Santa Cruz, CA 95060, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.9749403,
+               "lng" : -122.0278832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9762892802915,
+                  "lng" : -122.0265342197085
+               },
+               "southwest" : {
+                  "lat" : 36.9735913197085,
+                  "lng" : -122.0292321802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tucson Santa Cruz Police Department",
+               "short_name" : "Tucson Santa Cruz Police Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4410",
+               "short_name" : "4410",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Park Avenue",
+               "short_name" : "S Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairgrounds",
+               "short_name" : "Fairgrounds",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima County",
+               "short_name" : "Pima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85706",
+               "short_name" : "85706",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tucson Santa Cruz Police Department, 4410 South Park Avenue, Tucson, AZ 85706, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.1713376,
+               "lng" : -110.9566507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1726865802915,
+                  "lng" : -110.9553017197085
+               },
+               "southwest" : {
+                  "lat" : 32.1699886197085,
+                  "lng" : -110.9579996802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz Police Station",
+               "short_name" : "Santa Cruz Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "La Pastora",
+               "short_name" : "La Pastora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan-Laventille",
+               "short_name" : "San Juan-Laventille",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz Police Station, La Pastora, Trinidad and Tobago",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7152824,
+               "lng" : -61.4690638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.7166313802915,
+                  "lng" : -61.46771481970849
+               },
+               "southwest" : {
+                  "lat" : 10.7139334197085,
+                  "lng" : -61.4704127802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

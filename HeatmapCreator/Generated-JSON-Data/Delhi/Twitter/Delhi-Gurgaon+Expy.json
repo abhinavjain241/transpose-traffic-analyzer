@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delhi-Gurgaon Expressway",
+               "short_name" : "Delhi-Gurgaon Expy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delhi-Gurgaon Expressway, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5793574,
+                  "lng" : 77.1447754
+               },
+               "southwest" : {
+                  "lat" : 28.3927234,
+                  "lng" : 76.9791639
+               }
+            },
+            "location" : {
+               "lat" : 28.4791244,
+               "lng" : 77.0703872
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5793574,
+                  "lng" : 77.1447754
+               },
+               "southwest" : {
+                  "lat" : 28.3927234,
+                  "lng" : 76.9791639
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

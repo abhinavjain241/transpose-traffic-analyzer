@@ -1,0 +1,393 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Matunga",
+               "short_name" : "Matunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kings Circle, Matunga, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0274535,
+                  "lng" : 72.85621189999999
+               },
+               "southwest" : {
+                  "lat" : 19.0257819,
+                  "lng" : 72.8543595
+               }
+            },
+            "location" : {
+               "lat" : 19.0262711,
+               "lng" : 72.85531329999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0279666802915,
+                  "lng" : 72.85663468029149
+               },
+               "southwest" : {
+                  "lat" : 19.0252687197085,
+                  "lng" : 72.85393671970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pell City",
+               "short_name" : "Pell City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Clair County",
+               "short_name" : "St Clair County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35128",
+               "short_name" : "35128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Circle, Pell City, AL 35128, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.566557,
+                  "lng" : -86.2744378
+               },
+               "southwest" : {
+                  "lat" : 33.5534356,
+                  "lng" : -86.28569
+               }
+            },
+            "location" : {
+               "lat" : 33.5626771,
+               "lng" : -86.27991220000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.566557,
+                  "lng" : -86.2744378
+               },
+               "southwest" : {
+                  "lat" : 33.5534356,
+                  "lng" : -86.28569
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancaster County",
+               "short_name" : "Lancaster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29720",
+               "short_name" : "29720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Circle, Lancaster, SC 29720, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.704444,
+                  "lng" : -80.7738758
+               },
+               "southwest" : {
+                  "lat" : 34.6999368,
+                  "lng" : -80.779594
+               }
+            },
+            "location" : {
+               "lat" : 34.7017087,
+               "lng" : -80.77598209999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.704444,
+                  "lng" : -80.7738758
+               },
+               "southwest" : {
+                  "lat" : 34.6999368,
+                  "lng" : -80.779594
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55443",
+               "short_name" : "55443",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Circle, Minneapolis, MN 55443, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.115269,
+                  "lng" : -93.347099
+               },
+               "southwest" : {
+                  "lat" : 45.112596,
+                  "lng" : -93.351173
+               }
+            },
+            "location" : {
+               "lat" : 45.1139252,
+               "lng" : -93.3493811
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.11528148029149,
+                  "lng" : -93.347099
+               },
+               "southwest" : {
+                  "lat" : 45.11258351970849,
+                  "lng" : -93.351173
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Chicago",
+               "short_name" : "West Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DuPage County",
+               "short_name" : "Dupage County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60185",
+               "short_name" : "60185",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Circle, West Chicago, IL 60185, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9062246,
+                  "lng" : -88.2043894
+               },
+               "southwest" : {
+                  "lat" : 41.903653,
+                  "lng" : -88.2084151
+               }
+            },
+            "location" : {
+               "lat" : 41.9043248,
+               "lng" : -88.2076543
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9062877802915,
+                  "lng" : -88.2043894
+               },
+               "southwest" : {
+                  "lat" : 41.9035898197085,
+                  "lng" : -88.2084151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Circle",
+               "short_name" : "Kings Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shelby",
+               "short_name" : "Shelby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "6, Shelby",
+               "short_name" : "6, Shelby",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cleveland County",
+               "short_name" : "Cleveland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28150",
+               "short_name" : "28150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Circle, Shelby, NC 28150, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.28231,
+                  "lng" : -81.518371
+               },
+               "southwest" : {
+                  "lat" : 35.2795377,
+                  "lng" : -81.524294
+               }
+            },
+            "location" : {
+               "lat" : 35.2805823,
+               "lng" : -81.52213519999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.28231,
+                  "lng" : -81.518371
+               },
+               "southwest" : {
+                  "lat" : 35.2795377,
+                  "lng" : -81.524294
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

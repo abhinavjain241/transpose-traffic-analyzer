@@ -1,0 +1,194 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vinay Marg",
+               "short_name" : "Vinay Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alwar",
+               "short_name" : "Alwar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alwar",
+               "short_name" : "Alwar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301001",
+               "short_name" : "301001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vinay Marg, Alwar, Rajasthan 301001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5557353,
+                  "lng" : 76.6208419
+               },
+               "southwest" : {
+                  "lat" : 27.5543241,
+                  "lng" : 76.61229729999999
+               }
+            },
+            "location" : {
+               "lat" : 27.5556914,
+               "lng" : 76.6165578
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.55637868029151,
+                  "lng" : 76.6208419
+               },
+               "southwest" : {
+                  "lat" : 27.5536807197085,
+                  "lng" : 76.61229729999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vinay Marg",
+               "short_name" : "Vinay Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vinay Marg, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5954224,
+                  "lng" : 77.19620159999999
+               },
+               "southwest" : {
+                  "lat" : 28.5795439,
+                  "lng" : 77.1898422
+               }
+            },
+            "location" : {
+               "lat" : 28.5870184,
+               "lng" : 77.1938263
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5954224,
+                  "lng" : 77.19620159999999
+               },
+               "southwest" : {
+                  "lat" : 28.5795439,
+                  "lng" : 77.1898422
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vinay Marg",
+               "short_name" : "Vinay Marg",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "D1 Flats",
+               "short_name" : "D1 Flats",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Block D 2",
+               "short_name" : "Block D 2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chanakyapuri",
+               "short_name" : "Chanakyapuri",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110021",
+               "short_name" : "110021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vinay Marg, D1 Flats, Block D 2, Chanakyapuri, New Delhi, Delhi 110021",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.586567,
+               "lng" : 77.19381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5879159802915,
+                  "lng" : 77.1951589802915
+               },
+               "southwest" : {
+                  "lat" : 28.5852180197085,
+                  "lng" : 77.19246101970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

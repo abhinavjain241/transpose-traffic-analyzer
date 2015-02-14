@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sardarnagar",
+               "short_name" : "Sardarnagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hansol",
+               "short_name" : "Hansol",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ahmedabad",
+               "short_name" : "Ahmedabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ahmedabad",
+               "short_name" : "Ahmedabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "382475",
+               "short_name" : "382475",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sardarnagar, Hansol, Ahmedabad, Gujarat 382475, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.090126,
+                  "lng" : 72.6301141
+               },
+               "southwest" : {
+                  "lat" : 23.077425,
+                  "lng" : 72.6032919
+               }
+            },
+            "location" : {
+               "lat" : 23.0830442,
+               "lng" : 72.62042270000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.090126,
+                  "lng" : 72.6301141
+               },
+               "southwest" : {
+                  "lat" : 23.077425,
+                  "lng" : 72.6032919
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

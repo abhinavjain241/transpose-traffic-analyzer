@@ -1,0 +1,753 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sugar Land",
+               "short_name" : "Sugar Land",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fort Bend County",
+               "short_name" : "Fort Bend County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77478",
+               "short_name" : "77478",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, Sugar Land, TX 77478, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.61397,
+                  "lng" : -95.60394769999999
+               },
+               "southwest" : {
+                  "lat" : 29.6120573,
+                  "lng" : -95.6077784
+               }
+            },
+            "location" : {
+               "lat" : 29.61229429999999,
+               "lng" : -95.60540680000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6143626302915,
+                  "lng" : -95.60394769999999
+               },
+               "southwest" : {
+                  "lat" : 29.6116646697085,
+                  "lng" : -95.6077784
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Abuja",
+               "short_name" : "Abuja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal Capital Territory",
+               "short_name" : "FCT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Business District, Abuja, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.083174699999999,
+                  "lng" : 7.525214699999998
+               },
+               "southwest" : {
+                  "lat" : 9.0325478,
+                  "lng" : 7.453518599999999
+               }
+            },
+            "location" : {
+               "lat" : 9.052480700000002,
+               "lng" : 7.4868283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.083174699999999,
+                  "lng" : 7.525214699999998
+               },
+               "southwest" : {
+                  "lat" : 9.0325478,
+                  "lng" : 7.453518599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "College of Business",
+               "short_name" : "College of Business",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Massey University",
+               "short_name" : "Massey University",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Palmerston North",
+               "short_name" : "Palmerston North",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palmerston North City",
+               "short_name" : "Palmerston North City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4474",
+               "short_name" : "4474",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, College of Business University Avenue, Massey University, Palmerston North 4474, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.3836857,
+                  "lng" : 175.619238
+               },
+               "southwest" : {
+                  "lat" : -40.3839175,
+                  "lng" : 175.6187913
+               }
+            },
+            "location" : {
+               "lat" : -40.3838016,
+               "lng" : 175.6190146
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.3824526197085,
+                  "lng" : 175.6203636302915
+               },
+               "southwest" : {
+                  "lat" : -40.38515058029149,
+                  "lng" : 175.6176656697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Business Centre",
+               "short_name" : "Central Business Centre",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW10 0UR",
+               "short_name" : "NW10 0UR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Business Centre, London NW10 0UR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.55403810000001,
+                  "lng" : -0.2523664
+               },
+               "southwest" : {
+                  "lat" : 51.5533385,
+                  "lng" : -0.2530704
+               }
+            },
+            "location" : {
+               "lat" : 51.5535678,
+               "lng" : -0.2530704
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5550372802915,
+                  "lng" : -0.251369419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5523393197085,
+                  "lng" : -0.2540673802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Business Park Drive",
+               "short_name" : "Central Business Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfolk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Business Park Drive, Norfolk, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9126819,
+                  "lng" : -76.246909
+               },
+               "southwest" : {
+                  "lat" : 36.9093863,
+                  "lng" : -76.25535789999999
+               }
+            },
+            "location" : {
+               "lat" : 36.9115336,
+               "lng" : -76.2516351
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9126819,
+                  "lng" : -76.246909
+               },
+               "southwest" : {
+                  "lat" : 36.9093863,
+                  "lng" : -76.25535789999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Avenue",
+               "short_name" : "Central Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "NTPC Permanent Township",
+               "short_name" : "NTPC Permanent Township",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lakshmipur",
+               "short_name" : "Lakshmipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malda",
+               "short_name" : "Malda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "732215",
+               "short_name" : "732215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Avenue, NTPC Permanent Township, Lakshmipur, West Bengal 732215, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.8161853,
+               "lng" : 87.95343269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8175342802915,
+                  "lng" : 87.9547816802915
+               },
+               "southwest" : {
+                  "lat" : 24.81483631970849,
+                  "lng" : 87.95208371970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Business",
+               "short_name" : "Business",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parañaque",
+               "short_name" : "Parañaque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Business, Parañaque, Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4632035,
+                  "lng" : 121.031465
+               },
+               "southwest" : {
+                  "lat" : 14.4627354,
+                  "lng" : 121.030256
+               }
+            },
+            "location" : {
+               "lat" : 14.4629659,
+               "lng" : 121.0307503
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4643184302915,
+                  "lng" : 121.0322094802915
+               },
+               "southwest" : {
+                  "lat" : 14.46162046970849,
+                  "lng" : 121.0295115197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wharf Road",
+               "short_name" : "Wharf Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M33 2ZG",
+               "short_name" : "M33 2ZG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, 3 Wharf Road, Sale, Sale M33 2ZG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4263731,
+               "lng" : -2.3151489
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4277220802915,
+                  "lng" : -2.313799919708498
+               },
+               "southwest" : {
+                  "lat" : 53.4250241197085,
+                  "lng" : -2.316497880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wharf Road",
+               "short_name" : "Wharf Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M33 2ZH",
+               "short_name" : "M33 2ZH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, 4 Wharf Road, Sale, Sale M33 2ZH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4266415,
+               "lng" : -2.3156024
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42799048029149,
+                  "lng" : -2.314253419708498
+               },
+               "southwest" : {
+                  "lat" : 53.42529251970849,
+                  "lng" : -2.316951380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wharf Road",
+               "short_name" : "Wharf Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M33 2ZD",
+               "short_name" : "M33 2ZD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, 1 Wharf Road, Sale, Sale M33 2ZD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4259847,
+               "lng" : -2.3158684
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4273336802915,
+                  "lng" : -2.314519419708498
+               },
+               "southwest" : {
+                  "lat" : 53.4246357197085,
+                  "lng" : -2.317217380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wharf Road",
+               "short_name" : "Wharf Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M33 2ZJ",
+               "short_name" : "M33 2ZJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, 5 Wharf Road, Sale, Sale M33 2ZJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4270831,
+               "lng" : -2.3151693
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4284320802915,
+                  "lng" : -2.313820319708498
+               },
+               "southwest" : {
+                  "lat" : 53.4257341197085,
+                  "lng" : -2.316518280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wharf Road",
+               "short_name" : "Wharf Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M33 2ZE",
+               "short_name" : "M33 2ZE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, 2 Wharf Road, Sale, Sale M33 2ZE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4262535,
+               "lng" : -2.3161864
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4276024802915,
+                  "lng" : -2.314837419708498
+               },
+               "southwest" : {
+                  "lat" : 53.42490451970851,
+                  "lng" : -2.317535380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

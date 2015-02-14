@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamilnadu Tourism",
+               "short_name" : "Tamilnadu Tourism",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lokmanya Tilak Marg Number 2",
+               "short_name" : "Lokmanya Tilak Marg Number 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lokmanya Tilak Colony",
+               "short_name" : "Lokmanya Tilak Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar East",
+               "short_name" : "Dadar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400014",
+               "short_name" : "400014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tamilnadu Tourism, Lokmanya Tilak Marg Number 2, Lokmanya Tilak Colony, Dadar East, Mumbai, Maharashtra 400014, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.017962,
+               "lng" : 72.84503099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0193109802915,
+                  "lng" : 72.8463799802915
+               },
+               "southwest" : {
+                  "lat" : 19.0166130197085,
+                  "lng" : 72.84368201970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

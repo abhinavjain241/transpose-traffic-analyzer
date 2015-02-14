@@ -1,0 +1,374 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Bumper Street",
+               "short_name" : "S Bumper St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Angora",
+               "short_name" : "Angora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haynes",
+               "short_name" : "Haynes",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Morrill County",
+               "short_name" : "Morrill County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69331",
+               "short_name" : "69331",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Bumper Street, Angora, NE 69331, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8439854,
+                  "lng" : -103.090993
+               },
+               "southwest" : {
+                  "lat" : 41.8403783,
+                  "lng" : -103.0921055
+               }
+            },
+            "location" : {
+               "lat" : 41.8418672,
+               "lng" : -103.0920702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8439854,
+                  "lng" : -103.0902002697085
+               },
+               "southwest" : {
+                  "lat" : 41.8403783,
+                  "lng" : -103.0928982302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bumper's House",
+               "short_name" : "Bumper's House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "71/1k",
+               "short_name" : "71/1k",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sambhunath Pandit Street",
+               "short_name" : "Sambhunath Pandit St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700025",
+               "short_name" : "700025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bumper's House, 71/1k, Sambhunath Pandit Street, Bhowanipore, Kolkata, West Bengal 700025, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5373945,
+               "lng" : 88.3428217
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5387434802915,
+                  "lng" : 88.34417068029151
+               },
+               "southwest" : {
+                  "lat" : 22.53604551970849,
+                  "lng" : 88.34147271970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Robinson's Rock",
+               "short_name" : "Robinson's Rock",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Phippsburg",
+               "short_name" : "Phippsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagadahoc County",
+               "short_name" : "Sagadahoc County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04562",
+               "short_name" : "04562",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Robinson's Rock, Phippsburg, ME 04562, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7595355,
+               "lng" : -69.8509803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.76088448029149,
+                  "lng" : -69.84963131970851
+               },
+               "southwest" : {
+                  "lat" : 43.7581865197085,
+                  "lng" : -69.85232928029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Bumper",
+               "short_name" : "The Bumper",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Gifford Pinchot National Forest",
+               "short_name" : "Gifford Pinchot National Forest",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Skamania County",
+               "short_name" : "Skamania County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The Bumper, Gifford Pinchot National Forest, Washington, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.1892864,
+               "lng" : -121.5598056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1906353802915,
+                  "lng" : -121.5584566197085
+               },
+               "southwest" : {
+                  "lat" : 46.1879374197085,
+                  "lng" : -121.5611545802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bumper Road",
+               "short_name" : "Bumper Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Dorado",
+               "short_name" : "El Dorado",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "El Dorado County",
+               "short_name" : "El Dorado County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95623",
+               "short_name" : "95623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bumper Road, El Dorado, CA 95623, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6563328,
+                  "lng" : -120.8757422
+               },
+               "southwest" : {
+                  "lat" : 38.645273,
+                  "lng" : -120.884949
+               }
+            },
+            "location" : {
+               "lat" : 38.6510809,
+               "lng" : -120.8774366
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6563328,
+                  "lng" : -120.8757422
+               },
+               "southwest" : {
+                  "lat" : 38.645273,
+                  "lng" : -120.884949
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road 2397",
+               "short_name" : "Rd 2397",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aztec",
+               "short_name" : "Aztec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan County",
+               "short_name" : "San Juan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87410",
+               "short_name" : "87410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road 2397, Aztec, NM 87410, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.924845,
+                  "lng" : -107.886846
+               },
+               "southwest" : {
+                  "lat" : 36.920005,
+                  "lng" : -107.8892323
+               }
+            },
+            "location" : {
+               "lat" : 36.9223921,
+               "lng" : -107.8873197
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.924845,
+                  "lng" : -107.8866901697085
+               },
+               "southwest" : {
+                  "lat" : 36.920005,
+                  "lng" : -107.8893881302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

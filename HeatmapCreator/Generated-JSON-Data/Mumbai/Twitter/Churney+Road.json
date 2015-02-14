@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue de Charni",
+               "short_name" : "Rue de Charni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Publier",
+               "short_name" : "Publier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "74",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74500",
+               "short_name" : "74500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue de Charni, 74500 Publier, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.384372,
+                  "lng" : 6.556932199999999
+               },
+               "southwest" : {
+                  "lat" : 46.383956,
+                  "lng" : 6.555322899999999
+               }
+            },
+            "location" : {
+               "lat" : 46.384185,
+               "lng" : 6.555951899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.38551298029149,
+                  "lng" : 6.557476530291501
+               },
+               "southwest" : {
+                  "lat" : 46.3828150197085,
+                  "lng" : 6.554778569708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charni Road Railway Station",
+               "short_name" : "Charni Road Railway Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Maharshi Karve Road",
+               "short_name" : "Maharshi Karve Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Girgaon",
+               "short_name" : "Girgaon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400004",
+               "short_name" : "400004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Charni Road Railway Station, Maharshi Karve Road, Girgaon, Mumbai, Maharashtra 400004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9521858,
+               "lng" : 72.8175833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9535347802915,
+                  "lng" : 72.81893228029149
+               },
+               "southwest" : {
+                  "lat" : 18.9508368197085,
+                  "lng" : 72.81623431970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

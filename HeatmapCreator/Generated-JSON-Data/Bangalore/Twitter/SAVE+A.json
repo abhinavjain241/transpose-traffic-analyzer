@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Savy",
+               "short_name" : "Savy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aisne",
+               "short_name" : "Aisne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Picardy",
+               "short_name" : "Picardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Savy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.849838,
+                  "lng" : 3.2203451
+               },
+               "southwest" : {
+                  "lat" : 49.8182419,
+                  "lng" : 3.174906
+               }
+            },
+            "location" : {
+               "lat" : 49.82929,
+               "lng" : 3.192617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.849838,
+                  "lng" : 3.2203451
+               },
+               "southwest" : {
+                  "lat" : 49.8182419,
+                  "lng" : 3.174906
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

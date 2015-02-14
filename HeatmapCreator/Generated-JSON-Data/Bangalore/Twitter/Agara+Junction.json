@@ -1,0 +1,339 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumbai–Agra Highway",
+               "short_name" : "NH 3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "National Highway 3",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2067378,
+                  "lng" : 78.15214899999999
+               },
+               "southwest" : {
+                  "lat" : 19.0530607,
+                  "lng" : 72.88142139999999
+               }
+            },
+            "location" : {
+               "lat" : 22.9008166,
+               "lng" : 75.9758246
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2067378,
+                  "lng" : 78.15214899999999
+               },
+               "southwest" : {
+                  "lat" : 19.0530607,
+                  "lng" : 72.88142139999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agra Shamshabad Raja Kherah Marg",
+               "short_name" : "MDR 113W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "282001",
+               "short_name" : "282001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Agra Shamshabad Raja Kherah Marg, Agra, Uttar Pradesh 282001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1516565,
+                  "lng" : 78.0513424
+               },
+               "southwest" : {
+                  "lat" : 27.1333842,
+                  "lng" : 78.03353520000002
+               }
+            },
+            "location" : {
+               "lat" : 27.1434904,
+               "lng" : 78.0433821
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1516565,
+                  "lng" : 78.0513424
+               },
+               "southwest" : {
+                  "lat" : 27.1333842,
+                  "lng" : 78.03353520000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MDR 113W",
+               "short_name" : "MDR113W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "283125",
+               "short_name" : "283125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MDR 113W, Uttar Pradesh 283125, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0316362,
+                  "lng" : 78.14453949999999
+               },
+               "southwest" : {
+                  "lat" : 26.9502316,
+                  "lng" : 78.11685249999999
+               }
+            },
+            "location" : {
+               "lat" : 26.9912404,
+               "lng" : 78.1353268
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0316362,
+                  "lng" : 78.14453949999999
+               },
+               "southwest" : {
+                  "lat" : 26.9502316,
+                  "lng" : 78.11685249999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MDR 113W",
+               "short_name" : "MDR113W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MDR 113W, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0881559,
+                  "lng" : 78.11685249999999
+               },
+               "southwest" : {
+                  "lat" : 27.0316362,
+                  "lng" : 78.08073
+               }
+            },
+            "location" : {
+               "lat" : 27.0616133,
+               "lng" : 78.0983592
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0881559,
+                  "lng" : 78.11685249999999
+               },
+               "southwest" : {
+                  "lat" : 27.0316362,
+                  "lng" : 78.08073
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MDR 113W",
+               "short_name" : "MDR113W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agra",
+               "short_name" : "Agra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MDR 113W, Agra, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1334262,
+                  "lng" : 78.08073
+               },
+               "southwest" : {
+                  "lat" : 27.0881559,
+                  "lng" : 78.0512734
+               }
+            },
+            "location" : {
+               "lat" : 27.1109702,
+               "lng" : 78.06623879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1334262,
+                  "lng" : 78.08073
+               },
+               "southwest" : {
+                  "lat" : 27.0881559,
+                  "lng" : 78.0512734
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MDR 113W",
+               "short_name" : "MDR113W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhaulpur",
+               "short_name" : "Dhaulpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "328025",
+               "short_name" : "328025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MDR 113W, Uttar Pradesh 328025, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9502316,
+                  "lng" : 78.1785562
+               },
+               "southwest" : {
+                  "lat" : 26.8965042,
+                  "lng" : 78.14312699999999
+               }
+            },
+            "location" : {
+               "lat" : 26.9209459,
+               "lng" : 78.1589171
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9502316,
+                  "lng" : 78.1785562
+               },
+               "southwest" : {
+                  "lat" : 26.8965042,
+                  "lng" : 78.14312699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Null Bazar",
+               "short_name" : "Null Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhuleshwar",
+               "short_name" : "Bhuleshwar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400003",
+               "short_name" : "400003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Null Bazar, Bhuleshwar, Mumbai, Maharashtra 400003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9582251,
+                  "lng" : 72.831762
+               },
+               "southwest" : {
+                  "lat" : 18.9567119,
+                  "lng" : 72.8284879
+               }
+            },
+            "location" : {
+               "lat" : 18.9578557,
+               "lng" : 72.82957669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9588174802915,
+                  "lng" : 72.831762
+               },
+               "southwest" : {
+                  "lat" : 18.9561195197085,
+                  "lng" : 72.8284879
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

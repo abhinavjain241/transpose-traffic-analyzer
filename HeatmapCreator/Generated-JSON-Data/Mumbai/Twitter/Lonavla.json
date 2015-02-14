@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lonavala",
+               "short_name" : "Lonavala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lonavala, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.7911992,
+                  "lng" : 73.4616709
+               },
+               "southwest" : {
+                  "lat" : 18.7235325,
+                  "lng" : 73.36177479999999
+               }
+            },
+            "location" : {
+               "lat" : 18.74806,
+               "lng" : 73.40722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.7911992,
+                  "lng" : 73.4616709
+               },
+               "southwest" : {
+                  "lat" : 18.7235325,
+                  "lng" : 73.36177479999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

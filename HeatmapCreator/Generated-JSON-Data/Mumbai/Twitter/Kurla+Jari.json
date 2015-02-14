@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jari Mari",
+               "short_name" : "Jari Mari",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Magan Nathuram Road",
+               "short_name" : "Magan Nathuram Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shivaji Nagar",
+               "short_name" : "Shivaji Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakinaka",
+               "short_name" : "Sakinaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400072",
+               "short_name" : "400072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jari Mari, Magan Nathuram Road, Shivaji Nagar, Sakinaka, Mumbai, Maharashtra 400072, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0940508,
+               "lng" : 72.8831854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0953997802915,
+                  "lng" : 72.8845343802915
+               },
+               "southwest" : {
+                  "lat" : 19.09270181970849,
+                  "lng" : 72.88183641970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jari Mari",
+               "short_name" : "Jari Mari",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakinaka",
+               "short_name" : "Sakinaka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jari Mari, Sakinaka, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0940559,
+                  "lng" : 72.88541699999999
+               },
+               "southwest" : {
+                  "lat" : 19.088358,
+                  "lng" : 72.88046369999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0918606,
+               "lng" : 72.8825928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0940559,
+                  "lng" : 72.88541699999999
+               },
+               "southwest" : {
+                  "lat" : 19.088358,
+                  "lng" : 72.88046369999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

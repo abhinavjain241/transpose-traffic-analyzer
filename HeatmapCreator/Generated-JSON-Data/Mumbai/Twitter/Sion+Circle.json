@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sion Circle",
+               "short_name" : "Sion Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sion",
+               "short_name" : "Sion",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400022",
+               "short_name" : "400022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sion Circle, Sion, Mumbai, Maharashtra 400022, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0431743,
+                  "lng" : 72.86452129999999
+               },
+               "southwest" : {
+                  "lat" : 19.0421121,
+                  "lng" : 72.8631256
+               }
+            },
+            "location" : {
+               "lat" : 19.0429257,
+               "lng" : 72.8637782
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0439921802915,
+                  "lng" : 72.86517243029149
+               },
+               "southwest" : {
+                  "lat" : 19.0412942197085,
+                  "lng" : 72.86247446970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route de Sion",
+               "short_name" : "Route de Sion",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sierre",
+               "short_name" : "Sierre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sierre",
+               "short_name" : "Sierre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valais",
+               "short_name" : "VS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Route de Sion, Sierre, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2915991,
+                  "lng" : 7.527988499999998
+               },
+               "southwest" : {
+                  "lat" : 46.2764141,
+                  "lng" : 7.4981632
+               }
+            },
+            "location" : {
+               "lat" : 46.2834286,
+               "lng" : 7.513672300000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2915991,
+                  "lng" : 7.527988499999998
+               },
+               "southwest" : {
+                  "lat" : 46.2764141,
+                  "lng" : 7.4981632
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

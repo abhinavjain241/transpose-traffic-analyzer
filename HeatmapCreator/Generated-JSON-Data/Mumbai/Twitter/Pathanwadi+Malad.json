@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pathan Wadi",
+               "short_name" : "Pathan Wadi",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Malad East",
+               "short_name" : "Malad East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400097",
+               "short_name" : "400097",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pathan Wadi, Malad East, Mumbai, Maharashtra 400097, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.18332,
+                  "lng" : 72.86413089999999
+               },
+               "southwest" : {
+                  "lat" : 19.1771506,
+                  "lng" : 72.858214
+               }
+            },
+            "location" : {
+               "lat" : 19.1802594,
+               "lng" : 72.86127999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.18332,
+                  "lng" : 72.86413089999999
+               },
+               "southwest" : {
+                  "lat" : 19.1771506,
+                  "lng" : 72.858214
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malad",
+               "short_name" : "Malad",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Reserve Bank of India Staff Quarters",
+               "short_name" : "Reserve Bank of India Staff Quarters",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Raheja Township",
+               "short_name" : "Raheja Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Malad East",
+               "short_name" : "Malad East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400097",
+               "short_name" : "400097",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malad, Reserve Bank of India Staff Quarters, Raheja Township, Malad East, Mumbai, Maharashtra 400097, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.180237,
+               "lng" : 72.8554149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1815859802915,
+                  "lng" : 72.85676388029151
+               },
+               "southwest" : {
+                  "lat" : 19.17888801970849,
+                  "lng" : 72.85406591970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

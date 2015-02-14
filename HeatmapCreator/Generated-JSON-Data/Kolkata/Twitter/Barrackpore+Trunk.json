@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barrackpore",
+               "short_name" : "Barrackpore",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700120",
+               "short_name" : "700120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barrackpore, Kolkata, West Bengal 700120",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.760108,
+               "lng" : 88.371076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7614569802915,
+                  "lng" : 88.37242498029151
+               },
+               "southwest" : {
+                  "lat" : 22.7587590197085,
+                  "lng" : 88.36972701970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barrackpore Trunk Road",
+               "short_name" : "Barrackpore Trunk Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barrackpore Trunk Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7615209,
+                  "lng" : 88.380973
+               },
+               "southwest" : {
+                  "lat" : 22.6016396,
+                  "lng" : 88.36616959999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6811943,
+               "lng" : 88.3757382
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7615209,
+                  "lng" : 88.380973
+               },
+               "southwest" : {
+                  "lat" : 22.6016396,
+                  "lng" : 88.36616959999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barrackpore",
+               "short_name" : "Barrackpore",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Barrackpore",
+               "short_name" : "Barrackpore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700120",
+               "short_name" : "700120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barrackpore, Barrackpore, West Bengal 700120, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.7610257,
+               "lng" : 88.3695602
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7623746802915,
+                  "lng" : 88.37090918029151
+               },
+               "southwest" : {
+                  "lat" : 22.75967671970849,
+                  "lng" : 88.3682112197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

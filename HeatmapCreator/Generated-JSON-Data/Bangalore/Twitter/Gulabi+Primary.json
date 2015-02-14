@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gulabi Primary and High School",
+               "short_name" : "Gulabi Primary and High School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Nandi Durga Road",
+               "short_name" : "Nandi Durga Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jayamahal Extension",
+               "short_name" : "Jayamahal Extension",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jayamahal",
+               "short_name" : "Jayamahal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560046",
+               "short_name" : "560046",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gulabi Primary and High School, Nandi Durga Road, Jayamahal Extension, Jayamahal, Bengaluru, Karnataka 560046, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.001567,
+               "lng" : 77.5987969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0029159802915,
+                  "lng" : 77.60014588029151
+               },
+               "southwest" : {
+                  "lat" : 13.0002180197085,
+                  "lng" : 77.59744791970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

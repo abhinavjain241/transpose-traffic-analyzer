@@ -1,0 +1,211 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saraswat Bank",
+               "short_name" : "Saraswat Bank",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Warje Malwadi Road",
+               "short_name" : "Warje Malwadi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pandurang Colony",
+               "short_name" : "Pandurang Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Erandwane",
+               "short_name" : "Erandwane",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411004",
+               "short_name" : "411004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saraswat Bank, Warje Malwadi Road, Pandurang Colony, Erandwane, Pune, Maharashtra 411004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.5079834,
+               "lng" : 73.83025619999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5093323802915,
+                  "lng" : 73.83160518029149
+               },
+               "southwest" : {
+                  "lat" : 18.5066344197085,
+                  "lng" : 73.82890721970848
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "RSC Road Number 43",
+               "short_name" : "RSC Rd Number 43",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 4 Charkop",
+               "short_name" : "Sector 4 Charkop",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali West",
+               "short_name" : "Kandivali West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400067",
+               "short_name" : "400067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "RSC Road Number 43, Sector 4 Charkop, Kandivali West, Mumbai, Maharashtra 400067, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2217716,
+                  "lng" : 72.833367
+               },
+               "southwest" : {
+                  "lat" : 19.2193407,
+                  "lng" : 72.8328504
+               }
+            },
+            "location" : {
+               "lat" : 19.2201072,
+               "lng" : 72.8330981
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2219051302915,
+                  "lng" : 72.83445768029151
+               },
+               "southwest" : {
+                  "lat" : 19.2192071697085,
+                  "lng" : 72.83175971970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saraswat Bank Bhawan",
+               "short_name" : "Saraswat Bank Bhawan",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shanker Ghanekar Marg",
+               "short_name" : "Shanker Ghanekar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prabhadevi",
+               "short_name" : "Prabhadevi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400025",
+               "short_name" : "400025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saraswat Bank Bhawan, Shanker Ghanekar Marg, Prabhadevi, Mumbai, Maharashtra 400025, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0139138,
+               "lng" : 72.8300612
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0152627802915,
+                  "lng" : 72.83141018029151
+               },
+               "southwest" : {
+                  "lat" : 19.01256481970849,
+                  "lng" : 72.82871221970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

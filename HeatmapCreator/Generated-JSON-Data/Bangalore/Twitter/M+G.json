@@ -1,0 +1,792 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munich",
+               "short_name" : "M",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2482197,
+                  "lng" : 11.7228755
+               },
+               "southwest" : {
+                  "lat" : 48.0616018,
+                  "lng" : 11.360796
+               }
+            },
+            "location" : {
+               "lat" : 48.1351253,
+               "lng" : 11.5819806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2482197,
+                  "lng" : 11.7228755
+               },
+               "southwest" : {
+                  "lat" : 48.0616018,
+                  "lng" : 11.360796
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gera",
+               "short_name" : "G",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thuringia",
+               "short_name" : "Technische Hochschule",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gera, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9766184,
+                  "lng" : 12.1695209
+               },
+               "southwest" : {
+                  "lat" : 50.79861760000001,
+                  "lng" : 11.9980384
+               }
+            },
+            "location" : {
+               "lat" : 50.8850706,
+               "lng" : 12.0807203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9766184,
+                  "lng" : 12.1695209
+               },
+               "southwest" : {
+                  "lat" : 50.79861760000001,
+                  "lng" : 11.9980384
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Croix County",
+               "short_name" : "St Croix County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Wisconsin, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8698035,
+                  "lng" : -92.4154344
+               },
+               "southwest" : {
+                  "lat" : 44.8669429,
+                  "lng" : -92.563064
+               }
+            },
+            "location" : {
+               "lat" : 44.869788,
+               "lng" : -92.4888536
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8698035,
+                  "lng" : -92.4154344
+               },
+               "southwest" : {
+                  "lat" : 44.8669429,
+                  "lng" : -92.563064
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Osceola",
+               "short_name" : "Osceola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polk County",
+               "short_name" : "Polk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54020",
+               "short_name" : "54020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M, Osceola, WI 54020, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3183971,
+                  "lng" : -92.67607989999999
+               },
+               "southwest" : {
+                  "lat" : 45.3179508,
+                  "lng" : -92.70508599999999
+               }
+            },
+            "location" : {
+               "lat" : 45.3179706,
+               "lng" : -92.69129509999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3195229302915,
+                  "lng" : -92.67607989999999
+               },
+               "southwest" : {
+                  "lat" : 45.3168249697085,
+                  "lng" : -92.70508599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "001",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abyan",
+               "short_name" : "Abyan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Yemen",
+               "short_name" : "YE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Yemen",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0110023,
+                  "lng" : 45.1186287
+               },
+               "southwest" : {
+                  "lat" : 12.9965199,
+                  "lng" : 45.0952803
+               }
+            },
+            "location" : {
+               "lat" : 13.0039004,
+               "lng" : 45.1068496
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0110023,
+                  "lng" : 45.1186287
+               },
+               "southwest" : {
+                  "lat" : 12.9965199,
+                  "lng" : 45.0952803
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G",
+               "short_name" : "G",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "29/30",
+               "short_name" : "29/30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ganja Avenue",
+               "short_name" : "Ganja Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khatai",
+               "short_name" : "Khatai",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baku",
+               "short_name" : "Baku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baku",
+               "short_name" : "Baku",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AZ1126",
+               "short_name" : "AZ1126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G, 29/30 Ganja Avenue, Baku AZ1126, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.35632409999999,
+                  "lng" : 49.9615544
+               },
+               "southwest" : {
+                  "lat" : 40.3558876,
+                  "lng" : 49.9611899
+               }
+            },
+            "location" : {
+               "lat" : 40.3561058,
+               "lng" : 49.9613721
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.35745483029149,
+                  "lng" : 49.9627211302915
+               },
+               "southwest" : {
+                  "lat" : 40.3547568697085,
+                  "lng" : 49.9600231697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida de los Presidentes",
+               "short_name" : "Avenida de los Presidentes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Habana",
+               "short_name" : "La Habana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plaza de la Revolución",
+               "short_name" : "Plaza de la Revolución",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "La Habana",
+               "short_name" : "La Habana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avenida de los Presidentes, La Habana, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1446321,
+                  "lng" : -82.38607589999999
+               },
+               "southwest" : {
+                  "lat" : 23.1337697,
+                  "lng" : -82.39599389999999
+               }
+            },
+            "location" : {
+               "lat" : 23.139272,
+               "lng" : -82.39086429999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1446321,
+                  "lng" : -82.38607589999999
+               },
+               "southwest" : {
+                  "lat" : 23.1337697,
+                  "lng" : -82.39599389999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G",
+               "short_name" : "G",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Rue du Lycée Technique",
+               "short_name" : "Rue du Lycée Technique",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vieux Cocody",
+               "short_name" : "Vieux Cocody",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cocody",
+               "short_name" : "Cocody",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Abidjan",
+               "short_name" : "Abidjan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abidjan",
+               "short_name" : "Abidjan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lagunes",
+               "short_name" : "Lagunes",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "G, Rue du Lycée Technique, Abidjan, Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.3520419,
+                  "lng" : -4.0025343
+               },
+               "southwest" : {
+                  "lat" : 5.351916399999999,
+                  "lng" : -4.0027719
+               }
+            },
+            "location" : {
+               "lat" : 5.3519739,
+               "lng" : -4.0026537
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353328130291501,
+                  "lng" : -4.001304119708498
+               },
+               "southwest" : {
+                  "lat" : 5.350630169708498,
+                  "lng" : -4.004002080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ma El Aynayne Avenue",
+               "short_name" : "Ma El Aynayne Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Agdal",
+               "short_name" : "Agdal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rabat",
+               "short_name" : "Rabat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rabat-Sale-Zemmour-Zaer",
+               "short_name" : "Rabat-Sale-Zemmour-Zaer",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Ma El Aynayne Avenue, Rabat, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9908226,
+                  "lng" : -6.8556157
+               },
+               "southwest" : {
+                  "lat" : 33.9906786,
+                  "lng" : -6.855818999999999
+               }
+            },
+            "location" : {
+               "lat" : 33.99074890000001,
+               "lng" : -6.8557155
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.99209958029149,
+                  "lng" : -6.854368369708498
+               },
+               "southwest" : {
+                  "lat" : 33.9894016197085,
+                  "lng" : -6.857066330291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caborca",
+               "short_name" : "Caborca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Son.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Caborca, Son., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.7253884,
+                  "lng" : -112.1583112
+               },
+               "southwest" : {
+                  "lat" : 30.6966906,
+                  "lng" : -112.1612358
+               }
+            },
+            "location" : {
+               "lat" : 30.7111583,
+               "lng" : -112.1600445
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7253884,
+                  "lng" : -112.1583112
+               },
+               "southwest" : {
+                  "lat" : 30.6966906,
+                  "lng" : -112.1612358
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Çayqırq yolu",
+               "short_name" : "Çayqırq yolu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cayqiraq",
+               "short_name" : "Cayqiraq",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Masallı",
+               "short_name" : "Masallı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Çayqırq yolu, Cayqiraq, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.96131829999999,
+                  "lng" : 48.6844632
+               },
+               "southwest" : {
+                  "lat" : 38.9611513,
+                  "lng" : 48.68422140000001
+               }
+            },
+            "location" : {
+               "lat" : 38.9612288,
+               "lng" : 48.6843613
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9625837802915,
+                  "lng" : 48.6856912802915
+               },
+               "southwest" : {
+                  "lat" : 38.9598858197085,
+                  "lng" : 48.6829933197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nueva Aurora 1",
+               "short_name" : "Nueva Aurora 1",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Arcadia",
+               "short_name" : "La Arcadia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Quito, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.3182257,
+                  "lng" : -78.5494482
+               },
+               "southwest" : {
+                  "lat" : -0.3186452,
+                  "lng" : -78.55372559999999
+               }
+            },
+            "location" : {
+               "lat" : -0.3184504,
+               "lng" : -78.55150999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.317086469708498,
+                  "lng" : -78.5494482
+               },
+               "southwest" : {
+                  "lat" : -0.3197844302915021,
+                  "lng" : -78.55372559999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M",
+               "short_name" : "M",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reparto Terrazas",
+               "short_name" : "Reparto Terrazas",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Cuba",
+               "short_name" : "Santiago de Cuba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Cuba",
+               "short_name" : "Santiago de Cuba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Cuba",
+               "short_name" : "Santiago de Cuba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M, Santiago de Cuba, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0293855,
+                  "lng" : -75.8055997
+               },
+               "southwest" : {
+                  "lat" : 20.0275812,
+                  "lng" : -75.8099127
+               }
+            },
+            "location" : {
+               "lat" : 20.028559,
+               "lng" : -75.80761939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.02983233029151,
+                  "lng" : -75.8055997
+               },
+               "southwest" : {
+                  "lat" : 20.0271343697085,
+                  "lng" : -75.8099127
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

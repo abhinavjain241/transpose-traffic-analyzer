@@ -1,0 +1,635 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangla Sahib Road",
+               "short_name" : "Bangla Sahib Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangla Sahib Road, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6376205,
+                  "lng" : 77.2116178
+               },
+               "southwest" : {
+                  "lat" : 28.6278465,
+                  "lng" : 77.20823539999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6324594,
+               "lng" : 77.2085208
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6376205,
+                  "lng" : 77.2116178
+               },
+               "southwest" : {
+                  "lat" : 28.6278465,
+                  "lng" : 77.20823539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangla Sahib Lane",
+               "short_name" : "Bangla Sahib Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hanuman Road Area",
+               "short_name" : "Hanuman Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangla Sahib Lane, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6287781,
+                  "lng" : 77.2114139
+               },
+               "southwest" : {
+                  "lat" : 28.6257377,
+                  "lng" : 77.210663
+               }
+            },
+            "location" : {
+               "lat" : 28.6276495,
+               "lng" : 77.2107836
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6287781,
+                  "lng" : 77.21238743029151
+               },
+               "southwest" : {
+                  "lat" : 28.6257377,
+                  "lng" : 77.20968946970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangla Sahib Lane",
+               "short_name" : "Bangla Sahib Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangla Sahib Lane, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6324386,
+                  "lng" : 77.21172100000001
+               },
+               "southwest" : {
+                  "lat" : 28.6298884,
+                  "lng" : 77.20983199999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6309723,
+               "lng" : 77.210184
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6325124802915,
+                  "lng" : 77.21212548029152
+               },
+               "southwest" : {
+                  "lat" : 28.6298145197085,
+                  "lng" : 77.2094275197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangla Sahib Marg",
+               "short_name" : "Bangla Sahib Marg",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "DIZ Staff Quarts",
+               "short_name" : "DIZ Staff Quarts",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangla Sahib Marg, DIZ Staff Quarts, Connaught Place, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.631838,
+               "lng" : 77.208557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.63318698029151,
+                  "lng" : 77.20990598029151
+               },
+               "southwest" : {
+                  "lat" : 28.6304890197085,
+                  "lng" : 77.20720801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gurudwara Bangla Sahib",
+               "short_name" : "Gurudwara Bangla Sahib",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hanuman Road Area",
+               "short_name" : "Hanuman Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gurudwara Bangla Sahib, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.625465,
+               "lng" : 77.20940399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6268139802915,
+                  "lng" : 77.2107529802915
+               },
+               "southwest" : {
+                  "lat" : 28.6241160197085,
+                  "lng" : 77.20805501970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangla",
+               "short_name" : "Bangla",
+               "types" : [ "neighborhood", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangla",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6445244,
+                  "lng" : 74.8386313
+               },
+               "southwest" : {
+                  "lat" : 32.6361585,
+                  "lng" : 74.8286964
+               }
+            },
+            "location" : {
+               "lat" : 32.6422616,
+               "lng" : 74.8346296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6445244,
+                  "lng" : 74.8386313
+               },
+               "southwest" : {
+                  "lat" : 32.6361585,
+                  "lng" : 74.8286964
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gurudwara Bangla Sahib",
+               "short_name" : "Gurudwara Bangla Sahib",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hanuman Road Area",
+               "short_name" : "Hanuman Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gurudwara Bangla Sahib, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6263283,
+               "lng" : 77.20909469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6276772802915,
+                  "lng" : 77.2104436802915
+               },
+               "southwest" : {
+                  "lat" : 28.62497931970849,
+                  "lng" : 77.2077457197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangla Sahib Sarovar",
+               "short_name" : "Bangla Sahib Sarovar",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Hanuman Road Area",
+               "short_name" : "Hanuman Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangla Sahib Sarovar, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6272535,
+                  "lng" : 77.2089228
+               },
+               "southwest" : {
+                  "lat" : 28.6263931,
+                  "lng" : 77.20795280000002
+               }
+            },
+            "location" : {
+               "lat" : 28.6269037,
+               "lng" : 77.20844950000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6281722802915,
+                  "lng" : 77.20978678029152
+               },
+               "southwest" : {
+                  "lat" : 28.62547431970849,
+                  "lng" : 77.20708881970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gurudwara Bangla Sahib",
+               "short_name" : "Gurudwara Bangla Sahib",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shivpuri Gwalior Bypass (SH-25)",
+               "short_name" : "Shivpuri Gwalior Bypass (SH-25)",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brahma Nagar Colony",
+               "short_name" : "Brahma Nagar Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jhansi",
+               "short_name" : "Jhansi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhansi",
+               "short_name" : "Jhansi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "284003",
+               "short_name" : "284003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gurudwara Bangla Sahib, Shivpuri Gwalior Bypass (SH-25), Brahma Nagar Colony, Jhansi, Uttar Pradesh 284003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.473287,
+               "lng" : 78.544427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.4746359802915,
+                  "lng" : 78.54577598029151
+               },
+               "southwest" : {
+                  "lat" : 25.4719380197085,
+                  "lng" : 78.54307801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gurdwara Bangla Sahib",
+               "short_name" : "Gurdwara Bangla Sahib",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bagichi Het Ram",
+               "short_name" : "Bagichi Het Ram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Patiala",
+               "short_name" : "Patiala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patiala",
+               "short_name" : "Patiala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "147001",
+               "short_name" : "147001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gurdwara Bangla Sahib, Bagichi Het Ram, Patiala, Punjab 147001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.330214,
+               "lng" : 76.39466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.33156298029149,
+                  "lng" : 76.3960089802915
+               },
+               "southwest" : {
+                  "lat" : 30.3288650197085,
+                  "lng" : 76.39331101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

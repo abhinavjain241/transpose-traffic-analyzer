@@ -1,0 +1,456 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "JW Marriott Chennai",
+               "short_name" : "JW Marriott Chennai",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "MRC Nagar",
+               "short_name" : "MRC Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Raja Annamalai Puram",
+               "short_name" : "Raja Annamalai Puram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600028",
+               "short_name" : "600028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "JW Marriott Chennai, MRC Nagar, Raja Annamalai Puram, Chennai, Tamil Nadu 600028, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.018601,
+                  "lng" : 80.2736659
+               },
+               "southwest" : {
+                  "lat" : 13.0180958,
+                  "lng" : 80.2729837
+               }
+            },
+            "location" : {
+               "lat" : 13.018325,
+               "lng" : 80.273645
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0196973802915,
+                  "lng" : 80.27467378029149
+               },
+               "southwest" : {
+                  "lat" : 13.0169994197085,
+                  "lng" : 80.27197581970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "JW Marriott",
+               "short_name" : "JW Marriott",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Jalan Mega Kuningan Timur I",
+               "short_name" : "Jl. Mega Kuningan Timur I",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Kuningan",
+               "short_name" : "East Kuningan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Setiabudi",
+               "short_name" : "Setiabudi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "South Jakarta City",
+               "short_name" : "South Jakarta City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Special Capital Region of Jakarta",
+               "short_name" : "Special Capital Region of Jakarta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12950",
+               "short_name" : "12950",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "JW Marriott, Jalan Mega Kuningan Timur I, Setiabudi, South Jakarta City, Special Capital Region of Jakarta 12950, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.2268167,
+                  "lng" : 106.8275304
+               },
+               "southwest" : {
+                  "lat" : -6.2273608,
+                  "lng" : 106.8267605
+               }
+            },
+            "location" : {
+               "lat" : -6.2270888,
+               "lng" : 106.8271454
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.225739769708498,
+                  "lng" : 106.8284944302915
+               },
+               "southwest" : {
+                  "lat" : -6.228437730291502,
+                  "lng" : 106.8257964697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "JW Marriott Tripoli",
+               "short_name" : "JW Marriott Tripoli",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Tripoli",
+               "short_name" : "Tripoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tripoli",
+               "short_name" : "Tripoli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Libya",
+               "short_name" : "LY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "JW Marriott Tripoli, Tripoli, Libya",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.890633,
+               "lng" : 13.164411
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8919819802915,
+                  "lng" : 13.1657599802915
+               },
+               "southwest" : {
+                  "lat" : 32.8892840197085,
+                  "lng" : 13.1630620197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "JW Marriott Marquis Dubai",
+               "short_name" : "JW Marriott Marquis Dubai",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Business Bay",
+               "short_name" : "Business Bay",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubai",
+               "short_name" : "Dubai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "JW Marriott Marquis Dubai - Dubai - United Arab Emirates",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1856,
+               "lng" : 55.2566
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1869489802915,
+                  "lng" : 55.2579489802915
+               },
+               "southwest" : {
+                  "lat" : 25.18425101970849,
+                  "lng" : 55.2552510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "JW Marriott Essex House New York",
+               "short_name" : "JW Marriott Essex House New York",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10019",
+               "short_name" : "10019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "JW Marriott Essex House New York, New York, NY 10019, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7665578,
+                  "lng" : -73.97802249999999
+               },
+               "southwest" : {
+                  "lat" : 40.7657993,
+                  "lng" : -73.97900749999999
+               }
+            },
+            "location" : {
+               "lat" : 40.766252,
+               "lng" : -73.97851199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7675275302915,
+                  "lng" : -73.97716601970849
+               },
+               "southwest" : {
+                  "lat" : 40.7648295697085,
+                  "lng" : -73.9798639802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "JW Marriott Indianapolis",
+               "short_name" : "JW Marriott Indianapolis",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion County",
+               "short_name" : "Marion County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46204",
+               "short_name" : "46204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "JW Marriott Indianapolis, Indianapolis, IN 46204, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7671254,
+                  "lng" : -86.16733690000001
+               },
+               "southwest" : {
+                  "lat" : 39.76597580000001,
+                  "lng" : -86.16954059999999
+               }
+            },
+            "location" : {
+               "lat" : 39.766667,
+               "lng" : -86.168194
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.76789958029151,
+                  "lng" : -86.1670897697085
+               },
+               "southwest" : {
+                  "lat" : 39.76520161970851,
+                  "lng" : -86.1697877302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "J. W. Marriott",
+               "short_name" : "J. W. Marriott",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Khlong Toei",
+               "short_name" : "Khlong Toei",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khlong Toei",
+               "short_name" : "Khlong Toei",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10110",
+               "short_name" : "10110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "J. W. Marriott, Khlong Toei, Khlong Toei, Bangkok 10110, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.742273,
+                  "lng" : 100.5522614
+               },
+               "southwest" : {
+                  "lat" : 13.740977,
+                  "lng" : 100.5518559
+               }
+            },
+            "location" : {
+               "lat" : 13.7416783,
+               "lng" : 100.5520263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7429739802915,
+                  "lng" : 100.5534076302915
+               },
+               "southwest" : {
+                  "lat" : 13.7402760197085,
+                  "lng" : 100.5507096697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

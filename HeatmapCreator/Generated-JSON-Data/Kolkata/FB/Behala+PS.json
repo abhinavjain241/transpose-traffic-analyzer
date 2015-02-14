@@ -1,0 +1,202 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakshin Behala Road",
+               "short_name" : "Dakshin Behala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paschim Barisha",
+               "short_name" : "Paschim Barisha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700063",
+               "short_name" : "700063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dakshin Behala Road, Paschim Barisha, Kolkata, West Bengal 700063, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4776798,
+                  "lng" : 88.3014804
+               },
+               "southwest" : {
+                  "lat" : 22.4686141,
+                  "lng" : 88.2971199
+               }
+            },
+            "location" : {
+               "lat" : 22.4734359,
+               "lng" : 88.2988397
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4776798,
+                  "lng" : 88.3014804
+               },
+               "southwest" : {
+                  "lat" : 22.4686141,
+                  "lng" : 88.2971199
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "PS Engineering College",
+               "short_name" : "PS Engineering College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Buroshibtalla",
+               "short_name" : "Buroshibtalla",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700034",
+               "short_name" : "700034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PS Engineering College, Buroshibtalla, Behala, Kolkata, West Bengal 700034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5007398,
+               "lng" : 88.3296637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5020887802915,
+                  "lng" : 88.33101268029151
+               },
+               "southwest" : {
+                  "lat" : 22.49939081970849,
+                  "lng" : 88.3283147197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakshin Behala Road",
+               "short_name" : "Dakshin Behala Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saheb Bagan Colony",
+               "short_name" : "Saheb Bagan Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paschim Barisha",
+               "short_name" : "Paschim Barisha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700063",
+               "short_name" : "700063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dakshin Behala Road, Saheb Bagan Colony, Paschim Barisha, Kolkata, West Bengal 700063",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.471537,
+               "lng" : 88.2980139
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4728859802915,
+                  "lng" : 88.29936288029151
+               },
+               "southwest" : {
+                  "lat" : 22.47018801970849,
+                  "lng" : 88.29666491970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

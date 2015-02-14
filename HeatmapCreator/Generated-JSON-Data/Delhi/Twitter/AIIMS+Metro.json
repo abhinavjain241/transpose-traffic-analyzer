@@ -1,0 +1,281 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "AIIMS Metro Station",
+               "short_name" : "AIIMS Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "AIIMS Campus",
+               "short_name" : "AIIMS Campus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ansari Nagar East",
+               "short_name" : "Ansari Nagar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110029",
+               "short_name" : "110029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AIIMS Metro Station, AIIMS Campus, Ansari Nagar East, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5671713,
+               "lng" : 77.2083646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5685202802915,
+                  "lng" : 77.20971358029151
+               },
+               "southwest" : {
+                  "lat" : 28.5658223197085,
+                  "lng" : 77.2070156197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AIIMS Metro Station",
+               "short_name" : "AIIMS Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sri Aurobindo Marg",
+               "short_name" : "Sri Aurobindo Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "AIIMS Campus",
+               "short_name" : "AIIMS Campus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ansari Nagar East",
+               "short_name" : "Ansari Nagar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110029",
+               "short_name" : "110029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AIIMS Metro Station, Sri Aurobindo Marg, AIIMS Campus, Ansari Nagar East, New Delhi, Delhi 110029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5676377,
+               "lng" : 77.2081536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5689866802915,
+                  "lng" : 77.20950258029151
+               },
+               "southwest" : {
+                  "lat" : 28.5662887197085,
+                  "lng" : 77.20680461970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aiims Metro Station",
+               "short_name" : "Aiims Metro Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sri Aurobindo Marg",
+               "short_name" : "Sri Aurobindo Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "AIIMS Campus",
+               "short_name" : "AIIMS Campus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ansari Nagar East",
+               "short_name" : "Ansari Nagar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110029",
+               "short_name" : "110029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aiims Metro Station, Sri Aurobindo Marg, AIIMS Campus, Ansari Nagar East, New Delhi, Delhi 110029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.566815,
+               "lng" : 77.2081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5681639802915,
+                  "lng" : 77.20944898029151
+               },
+               "southwest" : {
+                  "lat" : 28.5654660197085,
+                  "lng" : 77.20675101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "AIIMS",
+               "short_name" : "AIIMS",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "AIIMS Campus",
+               "short_name" : "AIIMS Campus",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ansari Nagar East",
+               "short_name" : "Ansari Nagar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110029",
+               "short_name" : "110029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "AIIMS, AIIMS Campus, Ansari Nagar East, New Delhi, Delhi 110029, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5682196,
+                  "lng" : 77.2084916
+               },
+               "southwest" : {
+                  "lat" : 28.5680548,
+                  "lng" : 77.2083547
+               }
+            },
+            "location" : {
+               "lat" : 28.5681376,
+               "lng" : 77.20842709999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5694861802915,
+                  "lng" : 77.20977213029151
+               },
+               "southwest" : {
+                  "lat" : 28.5667882197085,
+                  "lng" : 77.20707416970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

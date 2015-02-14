@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taj Mansingh Hotel Road",
+               "short_name" : "Taj Mansingh Hotel Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Block",
+               "short_name" : "South Block",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Man Singh Road Area",
+               "short_name" : "Man Singh Road Area",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taj Mansingh Hotel Road, South Block, Man Singh Road Area, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.60521,
+                  "lng" : 77.2243258
+               },
+               "southwest" : {
+                  "lat" : 28.6044227,
+                  "lng" : 77.2226807
+               }
+            },
+            "location" : {
+               "lat" : 28.6049762,
+               "lng" : 77.2230922
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6061653302915,
+                  "lng" : 77.22485223029152
+               },
+               "southwest" : {
+                  "lat" : 28.6034673697085,
+                  "lng" : 77.2221542697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,486 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol Chakkar",
+               "short_name" : "Gol Chakkar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 61",
+               "short_name" : "Sector 61",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Noida",
+               "short_name" : "Noida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gautam Buddh Nagar",
+               "short_name" : "Gautam Buddh Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "201307",
+               "short_name" : "201307",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol Chakkar, Sector 61, Noida, Uttar Pradesh 201307, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5988432,
+                  "lng" : 77.36962339999999
+               },
+               "southwest" : {
+                  "lat" : 28.5958356,
+                  "lng" : 77.3685187
+               }
+            },
+            "location" : {
+               "lat" : 28.5965008,
+               "lng" : 77.3691362
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5988432,
+                  "lng" : 77.3704200302915
+               },
+               "southwest" : {
+                  "lat" : 28.5958356,
+                  "lng" : 77.36772206970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol-Chakkar",
+               "short_name" : "Gol-Chakkar",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Inner Circle Road",
+               "short_name" : "Inner Cir Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BH Area",
+               "short_name" : "BH Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhatkidih",
+               "short_name" : "Dhatkidih",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jamshedpur",
+               "short_name" : "Jamshedpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Singhbhum",
+               "short_name" : "East Singhbhum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jharkhand",
+               "short_name" : "JH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "831005",
+               "short_name" : "831005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol-Chakkar, Inner Circle Road, BH Area, Dhatkidih, Jamshedpur, Jharkhand 831005, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.8020337,
+                  "lng" : 86.1721994
+               },
+               "southwest" : {
+                  "lat" : 22.8019557,
+                  "lng" : 86.17214709999999
+               }
+            },
+            "location" : {
+               "lat" : 22.8019947,
+               "lng" : 86.1721732
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8033436802915,
+                  "lng" : 86.1735222302915
+               },
+               "southwest" : {
+                  "lat" : 22.8006457197085,
+                  "lng" : 86.17082426970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol Chakkar",
+               "short_name" : "Gol Chakkar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Knowledge Park II",
+               "short_name" : "Knowledge Park II",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Greater Noida",
+               "short_name" : "Greater Noida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gautam Buddh Nagar",
+               "short_name" : "Gautam Buddh Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "201310",
+               "short_name" : "201310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol Chakkar, Knowledge Park II, Greater Noida, Uttar Pradesh 201310, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4570876,
+                  "lng" : 77.49748889999999
+               },
+               "southwest" : {
+                  "lat" : 28.4568776,
+                  "lng" : 77.49722869999999
+               }
+            },
+            "location" : {
+               "lat" : 28.4569609,
+               "lng" : 77.49739679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4583315802915,
+                  "lng" : 77.4987077802915
+               },
+               "southwest" : {
+                  "lat" : 28.4556336197085,
+                  "lng" : 77.49600981970849
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol Chakkar",
+               "short_name" : "Gol Chakkar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Block B",
+               "short_name" : "Block B",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dilshad Garden",
+               "short_name" : "Dilshad Garden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North East Delhi",
+               "short_name" : "North East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110095",
+               "short_name" : "110095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol Chakkar, Block B, Dilshad Garden, New Delhi, Delhi 110095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6778412,
+               "lng" : 77.30785399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6791901802915,
+                  "lng" : 77.30920298029149
+               },
+               "southwest" : {
+                  "lat" : 28.6764922197085,
+                  "lng" : 77.30650501970848
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol Chakkar",
+               "short_name" : "Gol Chakkar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kayasthwara Mohalla",
+               "short_name" : "Kayasthwara Mohalla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rewari",
+               "short_name" : "Rewari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rewari",
+               "short_name" : "Rewari",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "123401",
+               "short_name" : "123401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol Chakkar, Kayasthwara Mohalla, Rewari, Haryana 123401, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.200827,
+               "lng" : 76.61936039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2021759802915,
+                  "lng" : 76.6207093802915
+               },
+               "southwest" : {
+                  "lat" : 28.1994780197085,
+                  "lng" : 76.61801141970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol Chakkar",
+               "short_name" : "Gol Chakkar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ganesh Nagar",
+               "short_name" : "Ganesh Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol Chakkar, Ganesh Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2207078,
+                  "lng" : 74.9425775
+               },
+               "southwest" : {
+                  "lat" : 30.2204633,
+                  "lng" : 74.94227979999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2206202,
+               "lng" : 74.9423863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2219345302915,
+                  "lng" : 74.94377763029149
+               },
+               "southwest" : {
+                  "lat" : 30.2192365697085,
+                  "lng" : 74.94107966970849
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gol Chakkar",
+               "short_name" : "Gol Chakkar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bada Bazar Road",
+               "short_name" : "Bada Bazar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Rajinder Nagar",
+               "short_name" : "Old Rajinder Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajinder Nagar",
+               "short_name" : "Rajinder Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi (state)",
+               "short_name" : "Delhi (state)",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110060",
+               "short_name" : "110060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gol Chakkar, Bada Bazar Road, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi (state) 110060, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6389806,
+                  "lng" : 77.18358979999999
+               },
+               "southwest" : {
+                  "lat" : 28.6386415,
+                  "lng" : 77.18323590000001
+               }
+            },
+            "location" : {
+               "lat" : 28.6388018,
+               "lng" : 77.1834286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6401600302915,
+                  "lng" : 77.18476183029151
+               },
+               "southwest" : {
+                  "lat" : 28.63746206970849,
+                  "lng" : 77.1820638697085
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

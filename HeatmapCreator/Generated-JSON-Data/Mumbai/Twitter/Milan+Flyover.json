@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "58/111",
+               "short_name" : "58/111",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Prince Anwar Shah Road",
+               "short_name" : "Prince Anwar Shah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lord's More",
+               "short_name" : "Lord's More",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tollygunge",
+               "short_name" : "Tollygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700045",
+               "short_name" : "700045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "58/111, Milan, Prince Anwar Shah Road, Lord's More, Tollygunge, Kolkata, West Bengal 700045, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5028968,
+               "lng" : 88.35292509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5042457802915,
+                  "lng" : 88.3542740802915
+               },
+               "southwest" : {
+                  "lat" : 22.5015478197085,
+                  "lng" : 88.3515761197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flyover Road",
+               "short_name" : "Flyover Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tinsukia",
+               "short_name" : "Tinsukia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tinsukia",
+               "short_name" : "Tinsukia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "786125",
+               "short_name" : "786125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Flyover Road, Tinsukia, Assam 786125, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4888976,
+                  "lng" : 95.3658683
+               },
+               "southwest" : {
+                  "lat" : 27.4852727,
+                  "lng" : 95.36350829999999
+               }
+            },
+            "location" : {
+               "lat" : 27.4865137,
+               "lng" : 95.3653983
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4888976,
+                  "lng" : 95.36603728029151
+               },
+               "southwest" : {
+                  "lat" : 27.4852727,
+                  "lng" : 95.3633393197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

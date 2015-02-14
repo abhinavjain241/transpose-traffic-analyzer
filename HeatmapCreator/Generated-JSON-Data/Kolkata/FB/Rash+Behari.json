@@ -1,0 +1,187 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rash Behari Avenue",
+               "short_name" : "Rash Behari Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rash Behari Avenue, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5221098,
+                  "lng" : 88.3752853
+               },
+               "southwest" : {
+                  "lat" : 22.516623,
+                  "lng" : 88.338549
+               }
+            },
+            "location" : {
+               "lat" : 22.5181191,
+               "lng" : 88.35667839999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5221098,
+                  "lng" : 88.3752853
+               },
+               "southwest" : {
+                  "lat" : 22.516623,
+                  "lng" : 88.338549
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rash Behari Avenue Connector",
+               "short_name" : "Rash Behari Ave Connector",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rash Behari Avenue Connector, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5199114,
+                  "lng" : 88.4016161
+               },
+               "southwest" : {
+                  "lat" : 22.5133129,
+                  "lng" : 88.3752593
+               }
+            },
+            "location" : {
+               "lat" : 22.5165238,
+               "lng" : 88.3884436
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5199114,
+                  "lng" : 88.4016161
+               },
+               "southwest" : {
+                  "lat" : 22.5133129,
+                  "lng" : 88.3752593
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rash Behari Avenue Connector",
+               "short_name" : "Rash Behari Ave Connector",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhakuria",
+               "short_name" : "Dhakuria",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700019",
+               "short_name" : "700019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rash Behari Avenue Connector, Dhakuria, Kolkata, West Bengal 700019, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.521187,
+                  "lng" : 88.3719328
+               },
+               "southwest" : {
+                  "lat" : 22.5208913,
+                  "lng" : 88.36945519999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5210017,
+               "lng" : 88.3706693
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5223881302915,
+                  "lng" : 88.3720429802915
+               },
+               "southwest" : {
+                  "lat" : 22.5196901697085,
+                  "lng" : 88.36934501970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

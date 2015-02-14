@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sealdah",
+               "short_name" : "Sealdah",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajabazar",
+               "short_name" : "Rajabazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sealdah, Rajabazar, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5707955,
+                  "lng" : 88.3777559
+               },
+               "southwest" : {
+                  "lat" : 22.5586781,
+                  "lng" : 88.366901
+               }
+            },
+            "location" : {
+               "lat" : 22.5654725,
+               "lng" : 88.37127959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5707955,
+                  "lng" : 88.3777559
+               },
+               "southwest" : {
+                  "lat" : 22.5586781,
+                  "lng" : 88.366901
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sealdah",
+               "short_name" : "Sealdah",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sealdah",
+               "short_name" : "Sealdah",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajabazar",
+               "short_name" : "Rajabazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700014",
+               "short_name" : "700014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sealdah, Sealdah, Rajabazar, Kolkata, West Bengal 700014",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.568383,
+               "lng" : 88.372418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5697319802915,
+                  "lng" : 88.37376698029149
+               },
+               "southwest" : {
+                  "lat" : 22.5670340197085,
+                  "lng" : 88.37106901970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

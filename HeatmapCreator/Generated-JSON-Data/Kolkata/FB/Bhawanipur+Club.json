@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Club",
+               "short_name" : "Club",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Trail",
+               "short_name" : "Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kadamtala",
+               "short_name" : "Kadamtala",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bantra",
+               "short_name" : "Bantra",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ichapur",
+               "short_name" : "Ichapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711104",
+               "short_name" : "711104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Club, Trail, Kadamtala, Bantra, Ichapur, Howrah, West Bengal 711104, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5858857,
+                  "lng" : 88.3154306
+               },
+               "southwest" : {
+                  "lat" : 22.5857791,
+                  "lng" : 88.31533400000001
+               }
+            },
+            "location" : {
+               "lat" : 22.5858324,
+               "lng" : 88.3153823
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5871813802915,
+                  "lng" : 88.31673128029151
+               },
+               "southwest" : {
+                  "lat" : 22.5844834197085,
+                  "lng" : 88.3140333197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

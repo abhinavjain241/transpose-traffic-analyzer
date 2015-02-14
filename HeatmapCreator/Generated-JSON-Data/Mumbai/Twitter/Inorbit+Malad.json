@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inorbit Road",
+               "short_name" : "Inorbit Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mindspace",
+               "short_name" : "Mindspace",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Malad West",
+               "short_name" : "Malad West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Inorbit Road, Mindspace, Malad West, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1741426,
+                  "lng" : 72.83629479999999
+               },
+               "southwest" : {
+                  "lat" : 19.1718928,
+                  "lng" : 72.8346086
+               }
+            },
+            "location" : {
+               "lat" : 19.1729102,
+               "lng" : 72.8360117
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1743666802915,
+                  "lng" : 72.8368006802915
+               },
+               "southwest" : {
+                  "lat" : 19.1716687197085,
+                  "lng" : 72.8341027197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

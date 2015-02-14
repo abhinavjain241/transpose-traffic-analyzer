@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topsia Road",
+               "short_name" : "Topsia Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Topsia Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5344441,
+                  "lng" : 88.3990819
+               },
+               "southwest" : {
+                  "lat" : 22.5303248,
+                  "lng" : 88.39317899999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5329412,
+               "lng" : 88.39749719999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5344441,
+                  "lng" : 88.3990819
+               },
+               "southwest" : {
+                  "lat" : 22.5303248,
+                  "lng" : 88.39317899999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Topsia Road",
+               "short_name" : "E Topsia Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Topsia",
+               "short_name" : "East Topsia",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Topsia",
+               "short_name" : "Topsia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Topsia Road, East Topsia, Topsia, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.541366,
+                  "lng" : 88.39385679999999
+               },
+               "southwest" : {
+                  "lat" : 22.5370356,
+                  "lng" : 88.38857419999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5387624,
+               "lng" : 88.3909477
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.541366,
+                  "lng" : 88.39385679999999
+               },
+               "southwest" : {
+                  "lat" : 22.5370356,
+                  "lng" : 88.38857419999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topsia North Road",
+               "short_name" : "Topsia N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tangra",
+               "short_name" : "Tangra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700046",
+               "short_name" : "700046",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Topsia North Road, Tangra, Kolkata, West Bengal 700046, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5481028,
+                  "lng" : 88.3885214
+               },
+               "southwest" : {
+                  "lat" : 22.546041,
+                  "lng" : 88.38604889999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5467557,
+               "lng" : 88.3874357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.54842088029151,
+                  "lng" : 88.38863413029151
+               },
+               "southwest" : {
+                  "lat" : 22.5457229197085,
+                  "lng" : 88.38593616970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topsia Road South",
+               "short_name" : "Topsia Rd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gobra",
+               "short_name" : "Gobra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700046",
+               "short_name" : "700046",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Topsia Road South, Gobra, Kolkata, West Bengal 700046",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5384305,
+               "lng" : 88.3830069
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5397794802915,
+                  "lng" : 88.38435588029149
+               },
+               "southwest" : {
+                  "lat" : 22.5370815197085,
+                  "lng" : 88.38165791970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bannerghatta Flyover",
+               "short_name" : "Bannerghatta Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "3rd Phase",
+               "short_name" : "3rd Phase",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "J. P. Nagar",
+               "short_name" : "J. P. Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bannerghatta Flyover, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9167272,
+                  "lng" : 77.60028389999999
+               },
+               "southwest" : {
+                  "lat" : 12.9144763,
+                  "lng" : 77.5997993
+               }
+            },
+            "location" : {
+               "lat" : 12.915047,
+               "lng" : 77.599807
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9169507302915,
+                  "lng" : 77.60139058029151
+               },
+               "southwest" : {
+                  "lat" : 12.9142527697085,
+                  "lng" : 77.5986926197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jayadeva Flyover",
+               "short_name" : "Jayadeva Flyover",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Marenahalli Road",
+               "short_name" : "Marenahalli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BHBCS Layout",
+               "short_name" : "BHBCS Layout",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stage 2",
+               "short_name" : "Stage 2",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "BTM Layout",
+               "short_name" : "BTM Layout",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jayadeva Flyover, Marenahalli Road, BHBCS Layout, Stage 2, BTM Layout, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9166478,
+               "lng" : 77.5999224
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9179967802915,
+                  "lng" : 77.60127138029151
+               },
+               "southwest" : {
+                  "lat" : 12.9152988197085,
+                  "lng" : 77.59857341970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

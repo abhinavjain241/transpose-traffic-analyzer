@@ -1,0 +1,383 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Place",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nehru Place, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5522469,
+                  "lng" : 77.258646
+               },
+               "southwest" : {
+                  "lat" : 28.546065,
+                  "lng" : 77.24690679999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5503314,
+               "lng" : 77.2501893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5522469,
+                  "lng" : 77.258646
+               },
+               "southwest" : {
+                  "lat" : 28.546065,
+                  "lng" : 77.24690679999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Place",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Place",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110048",
+               "short_name" : "110048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nehru Place, Nehru Place, New Delhi, Delhi 110048, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5515961,
+                  "lng" : 77.25246729999999
+               },
+               "southwest" : {
+                  "lat" : 28.5512773,
+                  "lng" : 77.25101769999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5514411,
+               "lng" : 77.2517407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5527856802915,
+                  "lng" : 77.25309148029149
+               },
+               "southwest" : {
+                  "lat" : 28.5500877197085,
+                  "lng" : 77.25039351970848
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Place",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Chirag Enclave",
+               "short_name" : "Chirag Enclave",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Greater Kailash",
+               "short_name" : "Greater Kailash",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110048",
+               "short_name" : "110048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nehru Place, Chirag Enclave, Greater Kailash, New Delhi, Delhi 110048",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.547428,
+               "lng" : 77.249394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5487769802915,
+                  "lng" : 77.25074298029151
+               },
+               "southwest" : {
+                  "lat" : 28.5460790197085,
+                  "lng" : 77.2480450197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bombay Heights",
+               "short_name" : "Bombay Heights",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pietermaritzburg",
+               "short_name" : "PMB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indlovu DC",
+               "short_name" : "Indlovu DC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "KwaZulu-Natal",
+               "short_name" : "KZN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3201",
+               "short_name" : "3201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nehru Place, Pietermaritzburg, 3201, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.54424,
+                  "lng" : 30.39691
+               },
+               "southwest" : {
+                  "lat" : -29.54575,
+                  "lng" : 30.394419
+               }
+            },
+            "location" : {
+               "lat" : -29.5451484,
+               "lng" : 30.396136
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.5436460197085,
+                  "lng" : 30.3970134802915
+               },
+               "southwest" : {
+                  "lat" : -29.5463439802915,
+                  "lng" : 30.3943155197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cashmere",
+               "short_name" : "Cashmere",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8022",
+               "short_name" : "8022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nehru Place, Cashmere, Christchurch 8022, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -43.5731818,
+                  "lng" : 172.6225441
+               },
+               "southwest" : {
+                  "lat" : -43.5741612,
+                  "lng" : 172.6188076
+               }
+            },
+            "location" : {
+               "lat" : -43.5735501,
+               "lng" : 172.6205899
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.5723225197085,
+                  "lng" : 172.6225441
+               },
+               "southwest" : {
+                  "lat" : -43.5750204802915,
+                  "lng" : 172.6188076
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Place",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Nehru Place",
+               "short_name" : "Nehru Place",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110019",
+               "short_name" : "110019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nehru Place, Nehru Place, New Delhi, Delhi 110019, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5484303,
+               "lng" : 77.249245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5497792802915,
+                  "lng" : 77.25059398029151
+               },
+               "southwest" : {
+                  "lat" : 28.5470813197085,
+                  "lng" : 77.24789601970851
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

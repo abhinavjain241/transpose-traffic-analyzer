@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bamboo Villa",
+               "short_name" : "Bamboo Villa",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Acharya Jagadish Chandra Bose Road",
+               "short_name" : "AJC Bose Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taltala",
+               "short_name" : "Taltala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700014",
+               "short_name" : "700014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bamboo Villa, Acharya Jagadish Chandra Bose Road, Taltala, Kolkata, West Bengal 700014, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5531507,
+               "lng" : 88.36424679999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5544996802915,
+                  "lng" : 88.3655957802915
+               },
+               "southwest" : {
+                  "lat" : 22.5518017197085,
+                  "lng" : 88.36289781970848
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

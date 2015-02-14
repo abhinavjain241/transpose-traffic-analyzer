@@ -1,0 +1,146 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LOKHANDWALA",
+               "short_name" : "LOKHANDWALA",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ramling Nagar Road",
+               "short_name" : "Ramling Nagar Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aditya Nagar",
+               "short_name" : "Aditya Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Solapur",
+               "short_name" : "Solapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solapur",
+               "short_name" : "Solapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "413004",
+               "short_name" : "413004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LOKHANDWALA, Ramling Nagar Road, Aditya Nagar, Solapur, Maharashtra 413004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.6454969,
+                  "lng" : 75.89012149999999
+               },
+               "southwest" : {
+                  "lat" : 17.6448706,
+                  "lng" : 75.8897004
+               }
+            },
+            "location" : {
+               "lat" : 17.6451837,
+               "lng" : 75.88991089999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.6465327302915,
+                  "lng" : 75.8912599302915
+               },
+               "southwest" : {
+                  "lat" : 17.64383476970849,
+                  "lng" : 75.88856196970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lokhandwala",
+               "short_name" : "Lokhandwala",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "Maharashtra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400101",
+               "short_name" : "400101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lokhandwala, Kandivali East, Mumbai, Maharashtra 400101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1953715,
+                  "lng" : 72.8778506
+               },
+               "southwest" : {
+                  "lat" : 19.1933856,
+                  "lng" : 72.87543649999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1947659,
+               "lng" : 72.87684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1957275302915,
+                  "lng" : 72.87799253029149
+               },
+               "southwest" : {
+                  "lat" : 19.1930295697085,
+                  "lng" : 72.87529456970849
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

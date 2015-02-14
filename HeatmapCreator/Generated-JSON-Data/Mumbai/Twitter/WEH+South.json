@@ -1,0 +1,211 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "We Island",
+               "short_name" : "We Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "We Island, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.907152,
+                  "lng" : 95.3772979
+               },
+               "southwest" : {
+                  "lat" : 5.771877,
+                  "lng" : 95.215186
+               }
+            },
+            "location" : {
+               "lat" : 5.8419361,
+               "lng" : 95.3207069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.907152,
+                  "lng" : 95.3772979
+               },
+               "southwest" : {
+                  "lat" : 5.771877,
+                  "lng" : 95.215186
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weihai Dashuibo Airport",
+               "short_name" : "Weihai Dashuibo Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dashuipozhen",
+               "short_name" : "Dashuipozhen",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wendeng",
+               "short_name" : "Wendeng",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Weihai",
+               "short_name" : "Weihai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shandong",
+               "short_name" : "Shandong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weihai Dashuibo Airport (WEH), Dashuipozhen, Wendeng, Weihai, Shandong, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.1869444,
+               "lng" : 122.2288889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1882933802915,
+                  "lng" : 122.2302378802915
+               },
+               "southwest" : {
+                  "lat" : 37.18559541970851,
+                  "lng" : 122.2275399197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weh",
+               "short_name" : "Weh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. John River City",
+               "short_name" : "St. John River City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Bassa",
+               "short_name" : "Grand Bassa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weh, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.066433399999999,
+                  "lng" : -9.9782037
+               },
+               "southwest" : {
+                  "lat" : 6.0613549,
+                  "lng" : -9.9852419
+               }
+            },
+            "location" : {
+               "lat" : 6.0641873,
+               "lng" : -9.9814414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.066433399999999,
+                  "lng" : -9.9782037
+               },
+               "southwest" : {
+                  "lat" : 6.0613549,
+                  "lng" : -9.9852419
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weh",
+               "short_name" : "Weh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District 3",
+               "short_name" : "District 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Bassa",
+               "short_name" : "Grand Bassa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weh, Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.5652804,
+                  "lng" : -9.3525838
+               },
+               "southwest" : {
+                  "lat" : 6.5518934,
+                  "lng" : -9.371209199999999
+               }
+            },
+            "location" : {
+               "lat" : 6.5574263,
+               "lng" : -9.358984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.5652804,
+                  "lng" : -9.3525838
+               },
+               "southwest" : {
+                  "lat" : 6.5518934,
+                  "lng" : -9.371209199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

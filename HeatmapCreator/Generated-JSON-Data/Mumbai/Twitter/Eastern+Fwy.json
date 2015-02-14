@@ -1,0 +1,160 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Freeway",
+               "short_name" : "Eastern Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Freeway, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0655378,
+                  "lng" : 72.9146851
+               },
+               "southwest" : {
+                  "lat" : 18.957604,
+                  "lng" : 72.8426733
+               }
+            },
+            "location" : {
+               "lat" : 19.0135074,
+               "lng" : 72.87155109999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0655378,
+                  "lng" : 72.9146851
+               },
+               "southwest" : {
+                  "lat" : 18.957604,
+                  "lng" : 72.8426733
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Freeway",
+               "short_name" : "Eastern Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Freeway, Melbourne VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.7797262,
+                  "lng" : 145.1778968
+               },
+               "southwest" : {
+                  "lat" : -37.8046825,
+                  "lng" : 144.9895643
+               }
+            },
+            "location" : {
+               "lat" : -37.779945,
+               "lng" : 145.0839172
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.7797262,
+                  "lng" : 145.1778968
+               },
+               "southwest" : {
+                  "lat" : -37.8046825,
+                  "lng" : 144.9895643
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Eastern Freeway",
+               "short_name" : "S Eastern Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Eastern Freeway, South Australia, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.9670407,
+                  "lng" : 139.3279383
+               },
+               "southwest" : {
+                  "lat" : -35.153522,
+                  "lng" : 138.6491907
+               }
+            },
+            "location" : {
+               "lat" : -35.084667,
+               "lng" : 138.9581526
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.9670407,
+                  "lng" : 139.3279383
+               },
+               "southwest" : {
+                  "lat" : -35.153522,
+                  "lng" : 138.6491907
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

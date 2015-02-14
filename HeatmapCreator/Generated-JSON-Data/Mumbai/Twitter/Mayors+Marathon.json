@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mosinee City Hall",
+               "short_name" : "Mosinee City Hall",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "225",
+               "short_name" : "225",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mosinee",
+               "short_name" : "Mosinee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marathon County",
+               "short_name" : "Marathon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54455",
+               "short_name" : "54455",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1443",
+               "short_name" : "1443",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Mosinee City Hall, 225 Main Street, Mosinee, WI 54455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.7926379,
+               "lng" : -89.7011349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.79398688029149,
+                  "lng" : -89.6997859197085
+               },
+               "southwest" : {
+                  "lat" : 44.79128891970849,
+                  "lng" : -89.70248388029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

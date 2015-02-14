@@ -1,0 +1,366 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat",
+               "short_name" : "Senapati Bapat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parner",
+               "short_name" : "Parner",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ahmednagar",
+               "short_name" : "Ahmednagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "414302",
+               "short_name" : "414302",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat, Parner, Maharashtra 414302, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0023069,
+                  "lng" : 74.4402133
+               },
+               "southwest" : {
+                  "lat" : 19.0022224,
+                  "lng" : 74.43811939999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0023036,
+               "lng" : 74.43928289999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0036136302915,
+                  "lng" : 74.4405153302915
+               },
+               "southwest" : {
+                  "lat" : 19.0009156697085,
+                  "lng" : 74.4378173697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat Marg",
+               "short_name" : "Senapati Bapat Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat Marg, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0462177,
+                  "lng" : 72.84780019999999
+               },
+               "southwest" : {
+                  "lat" : 18.995194,
+                  "lng" : 72.823347
+               }
+            },
+            "location" : {
+               "lat" : 19.0163231,
+               "lng" : 72.8401231
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0462177,
+                  "lng" : 72.84780019999999
+               },
+               "southwest" : {
+                  "lat" : 18.995194,
+                  "lng" : 72.823347
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat Road",
+               "short_name" : "SB Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat Road, Pune, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5414848,
+                  "lng" : 73.8319065
+               },
+               "southwest" : {
+                  "lat" : 18.520194,
+                  "lng" : 73.82753760000001
+               }
+            },
+            "location" : {
+               "lat" : 18.5304283,
+               "lng" : 73.829939
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5414848,
+                  "lng" : 73.8319065
+               },
+               "southwest" : {
+                  "lat" : 18.520194,
+                  "lng" : 73.82753760000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Range Hill Road",
+               "short_name" : "Range Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Range Hill Road, Pune, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5610833,
+                  "lng" : 73.8415536
+               },
+               "southwest" : {
+                  "lat" : 18.538502,
+                  "lng" : 73.8338873
+               }
+            },
+            "location" : {
+               "lat" : 18.5489666,
+               "lng" : 73.8390417
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5610833,
+                  "lng" : 73.8415536
+               },
+               "southwest" : {
+                  "lat" : 18.538502,
+                  "lng" : 73.8338873
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat",
+               "short_name" : "Senapati Bapat",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shree Krishna Nagar",
+               "short_name" : "Shree Krishna Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wadarvadi",
+               "short_name" : "Wadarvadi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411016",
+               "short_name" : "411016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat, Shree Krishna Nagar, Wadarvadi, Pune, Maharashtra 411016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.5273169,
+               "lng" : 73.8307131
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5286658802915,
+                  "lng" : 73.83206208029149
+               },
+               "southwest" : {
+                  "lat" : 18.5259679197085,
+                  "lng" : 73.82936411970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senapati Bapat",
+               "short_name" : "Senapati Bapat",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Joshi Wada",
+               "short_name" : "Joshi Wada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sadashiv Peth",
+               "short_name" : "Sadashiv Peth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411030",
+               "short_name" : "411030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Senapati Bapat, Joshi Wada, Sadashiv Peth, Pune, Maharashtra 411030",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.5128146,
+               "lng" : 73.8436703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5141635802915,
+                  "lng" : 73.84501928029151
+               },
+               "southwest" : {
+                  "lat" : 18.5114656197085,
+                  "lng" : 73.84232131970849
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

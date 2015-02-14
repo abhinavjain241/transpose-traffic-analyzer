@@ -1,0 +1,476 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar West",
+               "short_name" : "Ghatkopar West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.098551,
+                  "lng" : 72.9199469
+               },
+               "southwest" : {
+                  "lat" : 19.090764,
+                  "lng" : 72.91169099999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0951711,
+               "lng" : 72.9157884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.098551,
+                  "lng" : 72.9199469
+               },
+               "southwest" : {
+                  "lat" : 19.090764,
+                  "lng" : 72.91169099999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhan Nagar",
+               "short_name" : "Bhan Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302021",
+               "short_name" : "302021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Bhan Nagar, Jaipur, Rajasthan 302021, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9059089,
+                  "lng" : 75.7534768
+               },
+               "southwest" : {
+                  "lat" : 26.901777,
+                  "lng" : 75.747461
+               }
+            },
+            "location" : {
+               "lat" : 26.9040519,
+               "lng" : 75.75023139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9059089,
+                  "lng" : 75.7534768
+               },
+               "southwest" : {
+                  "lat" : 26.901777,
+                  "lng" : 75.747461
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhavani Nagar",
+               "short_name" : "Bhavani Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belagavi",
+               "short_name" : "Belagavi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belagavi",
+               "short_name" : "Belagavi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "590006",
+               "short_name" : "590006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Bhavani Nagar, Belagavi, Karnataka 590006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.8360644,
+                  "lng" : 74.48420949999999
+               },
+               "southwest" : {
+                  "lat" : 15.8357848,
+                  "lng" : 74.4830029
+               }
+            },
+            "location" : {
+               "lat" : 15.8360393,
+               "lng" : 74.48375089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.8372735802915,
+                  "lng" : 74.48495518029151
+               },
+               "southwest" : {
+                  "lat" : 15.8345756197085,
+                  "lng" : 74.4822572197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Antop Hill",
+               "short_name" : "Antop Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Antop Hill, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0268941,
+                  "lng" : 72.862976
+               },
+               "southwest" : {
+                  "lat" : 19.0186671,
+                  "lng" : 72.8601359
+               }
+            },
+            "location" : {
+               "lat" : 19.0235547,
+               "lng" : 72.8615174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0268941,
+                  "lng" : 72.862976
+               },
+               "southwest" : {
+                  "lat" : 19.0186671,
+                  "lng" : 72.8601359
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bandra West",
+               "short_name" : "Bandra West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400050",
+               "short_name" : "400050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Bandra West, Mumbai, Maharashtra 400050, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0520665,
+                  "lng" : 72.8333895
+               },
+               "southwest" : {
+                  "lat" : 19.0462479,
+                  "lng" : 72.8272674
+               }
+            },
+            "location" : {
+               "lat" : 19.0475315,
+               "lng" : 72.82850959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0520665,
+                  "lng" : 72.8333895
+               },
+               "southwest" : {
+                  "lat" : 19.0462479,
+                  "lng" : 72.8272674
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar West",
+               "short_name" : "Ghatkopar West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400086",
+               "short_name" : "400086",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0947316,
+                  "lng" : 72.91753109999999
+               },
+               "southwest" : {
+                  "lat" : 19.0916798,
+                  "lng" : 72.91426969999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0933394,
+               "lng" : 72.9154192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0947316,
+                  "lng" : 72.91753109999999
+               },
+               "southwest" : {
+                  "lat" : 19.0916798,
+                  "lng" : 72.91426969999999
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nityanand Nagar",
+               "short_name" : "Nityanand Nagar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Antop Hill",
+               "short_name" : "Antop Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai City",
+               "short_name" : "Mumbai City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400037",
+               "short_name" : "400037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nityanand Nagar, Antop Hill, Mumbai, Maharashtra 400037, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0247561,
+                  "lng" : 72.8638172
+               },
+               "southwest" : {
+                  "lat" : 19.0230266,
+                  "lng" : 72.8620416
+               }
+            },
+            "location" : {
+               "lat" : 19.0238533,
+               "lng" : 72.86281649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0252403302915,
+                  "lng" : 72.86427838029149
+               },
+               "southwest" : {
+                  "lat" : 19.02254236970849,
+                  "lng" : 72.86158041970849
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

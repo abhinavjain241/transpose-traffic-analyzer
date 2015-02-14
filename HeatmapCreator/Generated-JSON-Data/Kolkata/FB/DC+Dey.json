@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DC Dey Road",
+               "short_name" : "DC Dey Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seal Lane",
+               "short_name" : "Seal Lane",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tangra",
+               "short_name" : "Tangra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700015",
+               "short_name" : "700015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "DC Dey Road, Seal Lane, Tangra, Kolkata, West Bengal 700015, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5625222,
+                  "lng" : 88.38167059999999
+               },
+               "southwest" : {
+                  "lat" : 22.5611342,
+                  "lng" : 88.3780232
+               }
+            },
+            "location" : {
+               "lat" : 22.5619014,
+               "lng" : 88.37986310000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5631771802915,
+                  "lng" : 88.38167059999999
+               },
+               "southwest" : {
+                  "lat" : 22.5604792197085,
+                  "lng" : 88.3780232
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

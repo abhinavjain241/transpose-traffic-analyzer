@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue de la Discipline",
+               "short_name" : "Rue de la Discipline",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charleroi",
+               "short_name" : "Charleroi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Région wallonne",
+               "short_name" : "Région wallonne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue de la Discipline, Charleroi, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.43315279999999,
+                  "lng" : 4.4686153
+               },
+               "southwest" : {
+                  "lat" : 50.429955,
+                  "lng" : 4.4646786
+               }
+            },
+            "location" : {
+               "lat" : 50.4314426,
+               "lng" : 4.467233999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.43315279999999,
+                  "lng" : 4.4686153
+               },
+               "southwest" : {
+                  "lat" : 50.429955,
+                  "lng" : 4.4646786
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Discipline Avenue",
+               "short_name" : "Discipline Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77014",
+               "short_name" : "77014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Discipline Avenue, Houston, TX 77014, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.97298739999999,
+                  "lng" : -95.47324499999999
+               },
+               "southwest" : {
+                  "lat" : 29.9724935,
+                  "lng" : -95.4736588
+               }
+            },
+            "location" : {
+               "lat" : 29.9727991,
+               "lng" : -95.4735098
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9740894302915,
+                  "lng" : -95.4721029197085
+               },
+               "southwest" : {
+                  "lat" : 29.9713914697085,
+                  "lng" : -95.47480088029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

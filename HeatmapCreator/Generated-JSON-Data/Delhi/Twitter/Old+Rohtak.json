@@ -1,0 +1,266 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Rohtak Road",
+               "short_name" : "Old Rohtak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Old Rohtak Road, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.670989,
+                  "lng" : 77.20164810000001
+               },
+               "southwest" : {
+                  "lat" : 28.6634475,
+                  "lng" : 77.15818279999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6677308,
+               "lng" : 77.1797175
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.670989,
+                  "lng" : 77.20164810000001
+               },
+               "southwest" : {
+                  "lat" : 28.6634475,
+                  "lng" : 77.15818279999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Rohtak Road",
+               "short_name" : "Old Rohtak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phase 3",
+               "short_name" : "Phase 3",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shivaji Nagar",
+               "short_name" : "Shivaji Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Daya Basti",
+               "short_name" : "Daya Basti",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110052",
+               "short_name" : "110052",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Rohtak Road, Phase 3, Shivaji Nagar, Daya Basti, New Delhi, Delhi 110052, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6706667,
+                  "lng" : 77.16660209999999
+               },
+               "southwest" : {
+                  "lat" : 28.6702342,
+                  "lng" : 77.1663726
+               }
+            },
+            "location" : {
+               "lat" : 28.6704083,
+               "lng" : 77.1664529
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6717994302915,
+                  "lng" : 77.16783633029151
+               },
+               "southwest" : {
+                  "lat" : 28.6691014697085,
+                  "lng" : 77.1651383697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rohtak Road",
+               "short_name" : "Rohtak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110063",
+               "short_name" : "110063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rohtak Road, New Delhi, Delhi 110063, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.678108,
+                  "lng" : 77.1170973
+               },
+               "southwest" : {
+                  "lat" : 28.6763462,
+                  "lng" : 77.109364
+               }
+            },
+            "location" : {
+               "lat" : 28.6766005,
+               "lng" : 77.1140925
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6785760802915,
+                  "lng" : 77.1170973
+               },
+               "southwest" : {
+                  "lat" : 28.6758781197085,
+                  "lng" : 77.109364
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Rohtak Road",
+               "short_name" : "Old Rohtak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beri Wala Bagh",
+               "short_name" : "Beri Wala Bagh",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kishan Ganj",
+               "short_name" : "Kishan Ganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110007",
+               "short_name" : "110007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Rohtak Road, Beri Wala Bagh, Kishan Ganj, New Delhi, Delhi 110007",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6639224,
+               "lng" : 77.1989928
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.66527138029149,
+                  "lng" : 77.20034178029151
+               },
+               "southwest" : {
+                  "lat" : 28.6625734197085,
+                  "lng" : 77.19764381970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

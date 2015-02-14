@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BHAD Colony",
+               "short_name" : "BHAD Colony",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Akurli Nagar",
+               "short_name" : "Akurli Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Defence Colony",
+               "short_name" : "Defence Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400101",
+               "short_name" : "400101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BHAD Colony, Akurli Nagar, Defence Colony, Kandivali East, Mumbai, Maharashtra 400101",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.204481,
+               "lng" : 72.86392600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2058299802915,
+                  "lng" : 72.86527498029152
+               },
+               "southwest" : {
+                  "lat" : 19.20313201970849,
+                  "lng" : 72.86257701970851
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

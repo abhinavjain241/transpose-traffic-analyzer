@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Möllintie",
+               "short_name" : "Möllintie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seinäjoki",
+               "short_name" : "Seinäjoki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61410",
+               "short_name" : "61410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Möllintie, 61410 Seinäjoki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.9207541,
+                  "lng" : 22.5489604
+               },
+               "southwest" : {
+                  "lat" : 62.9176215,
+                  "lng" : 22.5306232
+               }
+            },
+            "location" : {
+               "lat" : 62.918679,
+               "lng" : 22.5392876
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.9207541,
+                  "lng" : 22.5489604
+               },
+               "southwest" : {
+                  "lat" : 62.9176215,
+                  "lng" : 22.5306232
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Möllintie",
+               "short_name" : "Möllintie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mäntyharju",
+               "short_name" : "Mäntyharju",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52700",
+               "short_name" : "52700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Möllintie, 52700 Mäntyharju, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.47296049999999,
+                  "lng" : 26.7719782
+               },
+               "southwest" : {
+                  "lat" : 61.465484,
+                  "lng" : 26.7577379
+               }
+            },
+            "location" : {
+               "lat" : 61.47156339999999,
+               "lng" : 26.7656964
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.47296049999999,
+                  "lng" : 26.7719782
+               },
+               "southwest" : {
+                  "lat" : 61.465484,
+                  "lng" : 26.7577379
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Möllintie",
+               "short_name" : "Möllintie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ristiina",
+               "short_name" : "Ristiina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50670",
+               "short_name" : "50670",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Möllintie, 50670 Ristiina, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.5840542,
+                  "lng" : 27.0866638
+               },
+               "southwest" : {
+                  "lat" : 61.57938470000001,
+                  "lng" : 27.0806212
+               }
+            },
+            "location" : {
+               "lat" : 61.58194379999999,
+               "lng" : 27.0813443
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.5840542,
+                  "lng" : 27.0866638
+               },
+               "southwest" : {
+                  "lat" : 61.57938470000001,
+                  "lng" : 27.0806212
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

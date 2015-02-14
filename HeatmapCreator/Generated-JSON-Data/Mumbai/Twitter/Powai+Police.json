@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powai Police Station",
+               "short_name" : "Powai Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "DP Road Number 9",
+               "short_name" : "DP Rd Number 9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rambaug",
+               "short_name" : "Rambaug",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandivali",
+               "short_name" : "Chandivali",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Powai",
+               "short_name" : "Powai",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400076",
+               "short_name" : "400076",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Powai Police Station, DP Road Number 9, Rambaug, Chandivali, Powai, Mumbai, Maharashtra 400076, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1196553,
+               "lng" : 72.8995147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1210042802915,
+                  "lng" : 72.90086368029151
+               },
+               "southwest" : {
+                  "lat" : 19.11830631970849,
+                  "lng" : 72.8981657197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

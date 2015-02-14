@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Line",
+               "short_name" : "Central Railway Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Line, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0464471,
+                  "lng" : 73.9657388
+               },
+               "southwest" : {
+                  "lat" : 19.9482655,
+                  "lng" : 73.84190630000001
+               }
+            },
+            "location" : {
+               "lat" : 19.9973563,
+               "lng" : 73.9038226
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0464471,
+                  "lng" : 73.9657388
+               },
+               "southwest" : {
+                  "lat" : 19.9482655,
+                  "lng" : 73.84190630000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway",
+               "short_name" : "Central Railway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2300604,
+                  "lng" : 73.10250359999999
+               },
+               "southwest" : {
+                  "lat" : 19.1865179,
+                  "lng" : 73.0375761
+               }
+            },
+            "location" : {
+               "lat" : 19.2082892,
+               "lng" : 73.0700398
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2300604,
+                  "lng" : 73.10250359999999
+               },
+               "southwest" : {
+                  "lat" : 19.1865179,
+                  "lng" : 73.0375761
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

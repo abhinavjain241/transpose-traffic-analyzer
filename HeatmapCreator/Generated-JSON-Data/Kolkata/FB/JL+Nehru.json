@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalan Nehru",
+               "short_name" : "Jalan Nehru",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taman Birch",
+               "short_name" : "Taman Birch",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ipoh",
+               "short_name" : "Ipoh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perak",
+               "short_name" : "Perak",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30100",
+               "short_name" : "30100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jalan Nehru, Taman Birch, 30100 Ipoh, Perak, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.590674300000001,
+                  "lng" : 101.0699875
+               },
+               "southwest" : {
+                  "lat" : 4.589505,
+                  "lng" : 101.0678975
+               }
+            },
+            "location" : {
+               "lat" : 4.5905483,
+               "lng" : 101.069047
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.591438630291503,
+                  "lng" : 101.0702914802915
+               },
+               "southwest" : {
+                  "lat" : 4.588740669708499,
+                  "lng" : 101.0675935197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

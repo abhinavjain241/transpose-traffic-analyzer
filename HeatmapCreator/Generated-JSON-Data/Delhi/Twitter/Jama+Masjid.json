@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jama Masjid",
+               "short_name" : "Jama Masjid",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Chandni Chowk",
+               "short_name" : "Chandni Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6516059,
+                  "lng" : 77.23460899999999
+               },
+               "southwest" : {
+                  "lat" : 28.6497348,
+                  "lng" : 77.23236870000001
+               }
+            },
+            "location" : {
+               "lat" : 28.6511623,
+               "lng" : 77.23412929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6520193302915,
+                  "lng" : 77.23483783029153
+               },
+               "southwest" : {
+                  "lat" : 28.6493213697085,
+                  "lng" : 77.2321398697085
+               }
+            }
+         },
+         "types" : [ "mosque", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

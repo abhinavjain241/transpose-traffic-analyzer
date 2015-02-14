@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jeevika Pharmacy",
+               "short_name" : "Jeevika Pharmacy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Service Road",
+               "short_name" : "Service Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aswath Nagar",
+               "short_name" : "Aswath Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chinnapanna Halli",
+               "short_name" : "Chinnapanna Halli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560037",
+               "short_name" : "560037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jeevika Pharmacy, Service Road, Aswath Nagar, Chinnapanna Halli, Bengaluru, Karnataka 560037, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9658461,
+               "lng" : 77.70239889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9671950802915,
+                  "lng" : 77.7037478802915
+               },
+               "southwest" : {
+                  "lat" : 12.9644971197085,
+                  "lng" : 77.7010499197085
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

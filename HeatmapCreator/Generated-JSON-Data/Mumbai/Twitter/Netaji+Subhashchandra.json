@@ -1,0 +1,970 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Marg",
+               "short_name" : "Netaji Subhash Chandra Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gohana",
+               "short_name" : "Gohana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonepat",
+               "short_name" : "Sonepat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "131301",
+               "short_name" : "131301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Marg, Gohana, Haryana 131301, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.137522,
+                  "lng" : 76.7025816
+               },
+               "southwest" : {
+                  "lat" : 29.1318763,
+                  "lng" : 76.6982866
+               }
+            },
+            "location" : {
+               "lat" : 29.1340466,
+               "lng" : 76.69981159999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.137522,
+                  "lng" : 76.7025816
+               },
+               "southwest" : {
+                  "lat" : 29.1318763,
+                  "lng" : 76.6982866
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Road",
+               "short_name" : "Netaji Subhash Chandra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kharkar Alley",
+               "short_name" : "Kharkar Alley",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400601",
+               "short_name" : "400601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Road, Kharkar Alley, Thane West, Thane, Maharashtra 400601, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1970771,
+                  "lng" : 72.9782439
+               },
+               "southwest" : {
+                  "lat" : 19.1946182,
+                  "lng" : 72.97785979999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1957417,
+               "lng" : 72.9780732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1971966302915,
+                  "lng" : 72.97940083029151
+               },
+               "southwest" : {
+                  "lat" : 19.19449866970849,
+                  "lng" : 72.97670286970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Road",
+               "short_name" : "Netaji Subhash Chandra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dande Pada",
+               "short_name" : "Dande Pada",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chinchani",
+               "short_name" : "Chinchani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "401503",
+               "short_name" : "401503",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Road, Dande Pada, Chinchani, Maharashtra 401503, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8956311,
+                  "lng" : 72.6847126
+               },
+               "southwest" : {
+                  "lat" : 19.8954319,
+                  "lng" : 72.6826501
+               }
+            },
+            "location" : {
+               "lat" : 19.895611,
+               "lng" : 72.68367739999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8968804802915,
+                  "lng" : 72.68503033029151
+               },
+               "southwest" : {
+                  "lat" : 19.8941825197085,
+                  "lng" : 72.68233236970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhaschandra Road",
+               "short_name" : "Netaji Subhaschandra Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dehu",
+               "short_name" : "Dehu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "412114",
+               "short_name" : "412114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhaschandra Road, Dehu, Maharashtra 412114, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.7105317,
+                  "lng" : 73.77869509999999
+               },
+               "southwest" : {
+                  "lat" : 18.7091589,
+                  "lng" : 73.7779209
+               }
+            },
+            "location" : {
+               "lat" : 18.7097529,
+               "lng" : 73.7783221
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.7111942802915,
+                  "lng" : 73.77965698029149
+               },
+               "southwest" : {
+                  "lat" : 18.70849631970849,
+                  "lng" : 73.77695901970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "Netaji Subhash Chandra Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.956251,
+                  "lng" : 72.82498509999999
+               },
+               "southwest" : {
+                  "lat" : 18.926854,
+                  "lng" : 72.8077985
+               }
+            },
+            "location" : {
+               "lat" : 18.9443041,
+               "lng" : 72.8226976
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.956251,
+                  "lng" : 72.82498509999999
+               },
+               "southwest" : {
+                  "lat" : 18.926854,
+                  "lng" : 72.8077985
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "Netaji Subhash Chandra Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jalpaiguri",
+               "short_name" : "Jalpaiguri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalpaiguri",
+               "short_name" : "Jalpaiguri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Road, Jalpaiguri, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5586977,
+                  "lng" : 88.73083129999999
+               },
+               "southwest" : {
+                  "lat" : 26.5236197,
+                  "lng" : 88.71907659999999
+               }
+            },
+            "location" : {
+               "lat" : 26.53921,
+               "lng" : 88.7200589
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5586977,
+                  "lng" : 88.73083129999999
+               },
+               "southwest" : {
+                  "lat" : 26.5236197,
+                  "lng" : 88.71907659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NSC Bose Road",
+               "short_name" : "NSC Bose Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "NSC Bose Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4931122,
+                  "lng" : 88.41831140000001
+               },
+               "southwest" : {
+                  "lat" : 22.4124192,
+                  "lng" : 88.34511670000001
+               }
+            },
+            "location" : {
+               "lat" : 22.4561492,
+               "lng" : 88.38562170000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4931122,
+                  "lng" : 88.41831140000001
+               },
+               "southwest" : {
+                  "lat" : 22.4124192,
+                  "lng" : 88.34511670000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Road",
+               "short_name" : "Netaji Subhash Chandra Bose Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dombivli",
+               "short_name" : "Dombivli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Road, Dombivli, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2322415,
+                  "lng" : 73.08885979999999
+               },
+               "southwest" : {
+                  "lat" : 19.2199843,
+                  "lng" : 73.08668039999999
+               }
+            },
+            "location" : {
+               "lat" : 19.226134,
+               "lng" : 73.0875111
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2322415,
+                  "lng" : 73.0891190802915
+               },
+               "southwest" : {
+                  "lat" : 19.2199843,
+                  "lng" : 73.08642111970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "NS Road",
+               "short_name" : "NS Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mulund West",
+               "short_name" : "Mulund West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "NS Road, Mulund West, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1789574,
+                  "lng" : 72.95684439999999
+               },
+               "southwest" : {
+                  "lat" : 19.1730603,
+                  "lng" : 72.9502856
+               }
+            },
+            "location" : {
+               "lat" : 19.1754223,
+               "lng" : 72.9542189
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1789574,
+                  "lng" : 72.95684439999999
+               },
+               "southwest" : {
+                  "lat" : 19.1730603,
+                  "lng" : 72.9502856
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Tower",
+               "short_name" : "Netaji Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ashok Avenue",
+               "short_name" : "Ashok Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sangati Colony",
+               "short_name" : "Sangati Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Netaji Nagar",
+               "short_name" : "Netaji Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700040",
+               "short_name" : "700040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Tower, Ashok Avenue, Sangati Colony, Netaji Nagar, Kolkata, West Bengal 700040, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4771047,
+                  "lng" : 88.36084839999999
+               },
+               "southwest" : {
+                  "lat" : 22.476775,
+                  "lng" : 88.3604448
+               }
+            },
+            "location" : {
+               "lat" : 22.4769398,
+               "lng" : 88.3606466
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4782888302915,
+                  "lng" : 88.36199558029151
+               },
+               "southwest" : {
+                  "lat" : 22.47559086970849,
+                  "lng" : 88.35929761970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Udyan",
+               "short_name" : "Netaji Subhash Chandra Udyan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Savata Nagar",
+               "short_name" : "Savata Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "422008",
+               "short_name" : "422008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Udyan, Savata Nagar, Nashik, Maharashtra 422008, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.980478,
+               "lng" : 73.758246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9818269802915,
+                  "lng" : 73.75959498029151
+               },
+               "southwest" : {
+                  "lat" : 19.97912901970849,
+                  "lng" : 73.7568970197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Chowk",
+               "short_name" : "Netaji Subhash Chandra Chowk",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "National Highway 92",
+               "short_name" : "NH92",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Park Mohalla",
+               "short_name" : "Park Mohalla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhind",
+               "short_name" : "Bhind",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bhind",
+               "short_name" : "Bhind",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "477001",
+               "short_name" : "477001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Chowk, National Highway 92, Park Mohalla, Bhind, Madhya Pradesh 477001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5574499,
+               "lng" : 78.77361329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5587988802915,
+                  "lng" : 78.77496228029149
+               },
+               "southwest" : {
+                  "lat" : 26.55610091970849,
+                  "lng" : 78.77226431970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra College",
+               "short_name" : "Netaji Subhash Chandra College",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Khadakpura",
+               "short_name" : "Khadakpura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanded",
+               "short_name" : "Nanded",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nanded",
+               "short_name" : "Nanded",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431604",
+               "short_name" : "431604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra College, Khadakpura, Nanded, Maharashtra 431604, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.14942,
+                  "lng" : 77.3144174
+               },
+               "southwest" : {
+                  "lat" : 19.1488727,
+                  "lng" : 77.31365559999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1491582,
+               "lng" : 77.3138654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1504953302915,
+                  "lng" : 77.3153854802915
+               },
+               "southwest" : {
+                  "lat" : 19.1477973697085,
+                  "lng" : 77.31268751970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose International Airport",
+               "short_name" : "Netaji Subhash Chandra Bose International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700052",
+               "short_name" : "700052",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose International Airport (CCU), Kolkata, West Bengal 700052, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6797377,
+                  "lng" : 88.4532062
+               },
+               "southwest" : {
+                  "lat" : 22.6329996,
+                  "lng" : 88.4323138
+               }
+            },
+            "location" : {
+               "lat" : 22.6520429,
+               "lng" : 88.44632989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6797377,
+                  "lng" : 88.4532062
+               },
+               "southwest" : {
+                  "lat" : 22.6329996,
+                  "lng" : 88.4323138
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netaji Subhash Chandra Bose Nagar",
+               "short_name" : "Netaji Subhash Chandra Bose Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moti Nagar",
+               "short_name" : "Moti Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500045",
+               "short_name" : "500045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netaji Subhash Chandra Bose Nagar, Moti Nagar, Hyderabad, Telangana 500045, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4463551,
+                  "lng" : 78.424505
+               },
+               "southwest" : {
+                  "lat" : 17.44068,
+                  "lng" : 78.416032
+               }
+            },
+            "location" : {
+               "lat" : 17.4438204,
+               "lng" : 78.42047889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4463551,
+                  "lng" : 78.424505
+               },
+               "southwest" : {
+                  "lat" : 17.44068,
+                  "lng" : 78.416032
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sill Road",
+               "short_name" : "Sill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sodus Point",
+               "short_name" : "Sodus Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sodus",
+               "short_name" : "Sodus",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14555",
+               "short_name" : "14555",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sill Road, Sodus Point, NY 14555, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2548497,
+                  "lng" : -76.980988
+               },
+               "southwest" : {
+                  "lat" : 43.24573180000001,
+                  "lng" : -76.98884269999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2501395,
+               "lng" : -76.98434569999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2548497,
+                  "lng" : -76.980988
+               },
+               "southwest" : {
+                  "lat" : 43.24573180000001,
+                  "lng" : -76.98884269999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sill Road",
+               "short_name" : "Sill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Locke",
+               "short_name" : "Locke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13092",
+               "short_name" : "13092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sill Road, Locke, NY 13092, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6260185,
+                  "lng" : -76.5041315
+               },
+               "southwest" : {
+                  "lat" : 42.6221954,
+                  "lng" : -76.52210719999999
+               }
+            },
+            "location" : {
+               "lat" : 42.6233369,
+               "lng" : -76.5125438
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6260185,
+                  "lng" : -76.5041315
+               },
+               "southwest" : {
+                  "lat" : 42.6221954,
+                  "lng" : -76.52210719999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

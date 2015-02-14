@@ -1,0 +1,733 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dapodi",
+               "short_name" : "Dapodi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pimpri-Chinchwad",
+               "short_name" : "Pimpri-Chinchwad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Dapodi, Pimpri-Chinchwad, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.599924,
+                  "lng" : 73.83262479999999
+               },
+               "southwest" : {
+                  "lat" : 18.5887301,
+                  "lng" : 73.824668
+               }
+            },
+            "location" : {
+               "lat" : 18.5950806,
+               "lng" : 73.82867329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.599924,
+                  "lng" : 73.83262479999999
+               },
+               "southwest" : {
+                  "lat" : 18.5887301,
+                  "lng" : 73.824668
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4th Street",
+               "short_name" : "4th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Velachery",
+               "short_name" : "Velachery",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600042",
+               "short_name" : "600042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4th Street, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9869244,
+                  "lng" : 80.2298193
+               },
+               "southwest" : {
+                  "lat" : 12.986664,
+                  "lng" : 80.2265992
+               }
+            },
+            "location" : {
+               "lat" : 12.9869048,
+               "lng" : 80.22821220000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9881431802915,
+                  "lng" : 80.2298193
+               },
+               "southwest" : {
+                  "lat" : 12.9854452197085,
+                  "lng" : 80.2265992
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1st Street",
+               "short_name" : "1st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Velachery",
+               "short_name" : "Velachery",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600042",
+               "short_name" : "600042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1st Street, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.98711,
+                  "lng" : 80.2298498
+               },
+               "southwest" : {
+                  "lat" : 12.9857344,
+                  "lng" : 80.2286287
+               }
+            },
+            "location" : {
+               "lat" : 12.9864638,
+               "lng" : 80.22976059999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9877711802915,
+                  "lng" : 80.2305882302915
+               },
+               "southwest" : {
+                  "lat" : 12.9850732197085,
+                  "lng" : 80.2278902697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Velachery",
+               "short_name" : "Velachery",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Velachery, Chennai, Tamil Nadu, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9875829,
+                  "lng" : 80.232207
+               },
+               "southwest" : {
+                  "lat" : 12.9851561,
+                  "lng" : 80.22313199999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9862553,
+               "lng" : 80.22899439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9877184802915,
+                  "lng" : 80.232207
+               },
+               "southwest" : {
+                  "lat" : 12.9850205197085,
+                  "lng" : 80.22313199999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3rd Street",
+               "short_name" : "3rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Velachery",
+               "short_name" : "Velachery",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600042",
+               "short_name" : "600042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3rd Street, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.986502,
+                  "lng" : 80.22976059999999
+               },
+               "southwest" : {
+                  "lat" : 12.9864638,
+                  "lng" : 80.2290498
+               }
+            },
+            "location" : {
+               "lat" : 12.9864905,
+               "lng" : 80.2292892
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9878318802915,
+                  "lng" : 80.2307541802915
+               },
+               "southwest" : {
+                  "lat" : 12.9851339197085,
+                  "lng" : 80.22805621970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gulbarga",
+               "short_name" : "Gulbarga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.20269,
+                  "lng" : 76.98621
+               },
+               "southwest" : {
+                  "lat" : 17.17455,
+                  "lng" : 76.94893990000001
+               }
+            },
+            "location" : {
+               "lat" : 17.1918108,
+               "lng" : 76.9671865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.20269,
+                  "lng" : 76.98621
+               },
+               "southwest" : {
+                  "lat" : 17.17455,
+                  "lng" : 76.94893990000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ramaswamipalya",
+               "short_name" : "Ramaswamipalya",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lingarajapuram",
+               "short_name" : "Lingarajapuram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Ramaswamipalya, Lingarajapuram, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0049531,
+                  "lng" : 77.6360959
+               },
+               "southwest" : {
+                  "lat" : 13.0039601,
+                  "lng" : 77.6338291
+               }
+            },
+            "location" : {
+               "lat" : 13.0042746,
+               "lng" : 77.6348189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0058055802915,
+                  "lng" : 77.6363114802915
+               },
+               "southwest" : {
+                  "lat" : 13.0031076197085,
+                  "lng" : 77.63361351970849
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2nd Street",
+               "short_name" : "2nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Velachery",
+               "short_name" : "Velachery",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600042",
+               "short_name" : "600042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2nd Street, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9860985,
+                  "lng" : 80.22969119999999
+               },
+               "southwest" : {
+                  "lat" : 12.9859246,
+                  "lng" : 80.2292624
+               }
+            },
+            "location" : {
+               "lat" : 12.9860828,
+               "lng" : 80.22968349999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9873605302915,
+                  "lng" : 80.2308257802915
+               },
+               "southwest" : {
+                  "lat" : 12.9846625697085,
+                  "lng" : 80.22812781970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latur",
+               "short_name" : "Latur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431522",
+               "short_name" : "431522",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Maharashtra 431522, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.61204,
+                  "lng" : 76.5660001
+               },
+               "southwest" : {
+                  "lat" : 18.59544,
+                  "lng" : 76.54603
+               }
+            },
+            "location" : {
+               "lat" : 18.6047009,
+               "lng" : 76.5560481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.61204,
+                  "lng" : 76.5660001
+               },
+               "southwest" : {
+                  "lat" : 18.59544,
+                  "lng" : 76.54603
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kareem Ganj",
+               "short_name" : "Kareem Ganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gaya",
+               "short_name" : "Gaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gaya",
+               "short_name" : "Gaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "823001",
+               "short_name" : "823001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Kareem Ganj, Gaya, Bihar 823001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7955664,
+                  "lng" : 84.99315
+               },
+               "southwest" : {
+                  "lat" : 24.7938465,
+                  "lng" : 84.99070909999999
+               }
+            },
+            "location" : {
+               "lat" : 24.7943724,
+               "lng" : 84.99247989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7960554302915,
+                  "lng" : 84.99327853029151
+               },
+               "southwest" : {
+                  "lat" : 24.7933574697085,
+                  "lng" : 84.9905805697085
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seva Nagar",
+               "short_name" : "Seva Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Maripeda Bunglow",
+               "short_name" : "Maripeda Bunglow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warangal",
+               "short_name" : "Warangal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "506315",
+               "short_name" : "506315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Seva Nagar, Maripeda Bunglow, Telangana 506315, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3904882,
+                  "lng" : 79.8899201
+               },
+               "southwest" : {
+                  "lat" : 17.3870122,
+                  "lng" : 79.88521
+               }
+            },
+            "location" : {
+               "lat" : 17.3884028,
+               "lng" : 79.88638229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3904882,
+                  "lng" : 79.8899201
+               },
+               "southwest" : {
+                  "lat" : 17.3870122,
+                  "lng" : 79.88521
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

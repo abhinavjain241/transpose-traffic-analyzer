@@ -1,0 +1,262 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jor Bagh",
+               "short_name" : "Jor Bagh",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sri Aurobindo Marg",
+               "short_name" : "Sri Aurobindo Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Safdarjung Airport Area",
+               "short_name" : "Safdarjung Airport Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jor Bagh",
+               "short_name" : "Jor Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110003",
+               "short_name" : "110003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jor Bagh, Sri Aurobindo Marg, Safdarjung Airport Area, Jor Bagh, New Delhi, Delhi 110003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5862458,
+               "lng" : 77.2123218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5875947802915,
+                  "lng" : 77.21367078029149
+               },
+               "southwest" : {
+                  "lat" : 28.5848968197085,
+                  "lng" : 77.21097281970849
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jor Bagh",
+               "short_name" : "Jor Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jor Bagh, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.590185,
+                  "lng" : 77.2199871
+               },
+               "southwest" : {
+                  "lat" : 28.585689,
+                  "lng" : 77.212435
+               }
+            },
+            "location" : {
+               "lat" : 28.5877575,
+               "lng" : 77.215312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.590185,
+                  "lng" : 77.2199871
+               },
+               "southwest" : {
+                  "lat" : 28.585689,
+                  "lng" : 77.212435
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jor Bagh",
+               "short_name" : "Jor Bagh",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Civil Colony",
+               "short_name" : "Civil Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "BK Dutt Colony",
+               "short_name" : "BK Dutt Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110003",
+               "short_name" : "110003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jor Bagh, Civil Colony, BK Dutt Colony, New Delhi, Delhi 110003",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.585683,
+               "lng" : 77.212638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5870319802915,
+                  "lng" : 77.21398698029151
+               },
+               "southwest" : {
+                  "lat" : 28.5843340197085,
+                  "lng" : 77.2112890197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jor Bagh",
+               "short_name" : "Jor Bagh",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lodhi Road",
+               "short_name" : "Lodhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prathviraj Road Area",
+               "short_name" : "Prathviraj Road Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lodhi Estate",
+               "short_name" : "Lodhi Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110003",
+               "short_name" : "110003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jor Bagh, Lodhi Road, Prathviraj Road Area, Lodhi Estate, New Delhi, Delhi 110003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5896773,
+               "lng" : 77.2143576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5910262802915,
+                  "lng" : 77.2157065802915
+               },
+               "southwest" : {
+                  "lat" : 28.58832831970849,
+                  "lng" : 77.21300861970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

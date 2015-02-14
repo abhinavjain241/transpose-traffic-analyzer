@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prafulla Sarkar Street",
+               "short_name" : "Prafulla Sarkar St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chowringhee North",
+               "short_name" : "Chowringhee North",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bow Barracks",
+               "short_name" : "Bow Barracks",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700072",
+               "short_name" : "700072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prafulla Sarkar Street, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700072, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5680166,
+                  "lng" : 88.35568379999999
+               },
+               "southwest" : {
+                  "lat" : 22.5669926,
+                  "lng" : 88.35254309999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5673498,
+               "lng" : 88.35397159999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5688535802915,
+                  "lng" : 88.35568379999999
+               },
+               "southwest" : {
+                  "lat" : 22.5661556197085,
+                  "lng" : 88.35254309999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

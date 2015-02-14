@@ -1,0 +1,652 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal",
+               "short_name" : "Amar Mahal",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Santacruz Chembur Link Road",
+               "short_name" : "Santacruz Chembur Link Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pestom Sagar Colony",
+               "short_name" : "Pestom Sagar Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar East",
+               "short_name" : "Ghatkopar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400089",
+               "short_name" : "400089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal, Santacruz Chembur Link Road, Pestom Sagar Colony, Ghatkopar East, Mumbai, Maharashtra 400089, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0666532,
+               "lng" : 72.9006091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0680021802915,
+                  "lng" : 72.90195808029151
+               },
+               "southwest" : {
+                  "lat" : 19.0653042197085,
+                  "lng" : 72.89926011970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal",
+               "short_name" : "Amar Mahal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Amar Mahal",
+               "short_name" : "Amar Mahal",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pestom Sagar Road 1",
+               "short_name" : "Pestom Sagar Road 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pestom Sagar Colony",
+               "short_name" : "Pestom Sagar Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400089",
+               "short_name" : "400089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal, Amar Mahal, Pestom Sagar Road 1, Pestom Sagar Colony, Chembur, Mumbai, Maharashtra 400089, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0672979,
+               "lng" : 72.90038969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0686468802915,
+                  "lng" : 72.9017386802915
+               },
+               "southwest" : {
+                  "lat" : 19.0659489197085,
+                  "lng" : 72.89904071970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal",
+               "short_name" : "Amar Mahal",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Road Number 4",
+               "short_name" : "Rd Number 4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chandra Villa",
+               "short_name" : "Chandra Villa",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Matunga",
+               "short_name" : "Matunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400019",
+               "short_name" : "400019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal, Road Number 4, Chandra Villa, Matunga, Mumbai, Maharashtra 400019, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0272612,
+                  "lng" : 72.858053
+               },
+               "southwest" : {
+                  "lat" : 19.0271574,
+                  "lng" : 72.8579082
+               }
+            },
+            "location" : {
+               "lat" : 19.0272093,
+               "lng" : 72.85798059999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0285582802915,
+                  "lng" : 72.8593295802915
+               },
+               "southwest" : {
+                  "lat" : 19.0258603197085,
+                  "lng" : 72.85663161970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal Building",
+               "short_name" : "Amar Mahal Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ghatkopar - Mahul Road",
+               "short_name" : "Ghatkopar - Mahul Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pestom Sagar Colony",
+               "short_name" : "Pestom Sagar Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar East",
+               "short_name" : "Ghatkopar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400089",
+               "short_name" : "400089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal Building, Ghatkopar - Mahul Road, Pestom Sagar Colony, Ghatkopar East, Mumbai, Maharashtra 400089, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0675024,
+                  "lng" : 72.90028149999999
+               },
+               "southwest" : {
+                  "lat" : 19.0671448,
+                  "lng" : 72.90002609999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0673236,
+               "lng" : 72.9001538
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0686725802915,
+                  "lng" : 72.90150278029151
+               },
+               "southwest" : {
+                  "lat" : 19.06597461970849,
+                  "lng" : 72.89880481970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal",
+               "short_name" : "Amar Mahal",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shree Nagar",
+               "short_name" : "Shree Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Shri Nagar",
+               "short_name" : "Shri Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400604",
+               "short_name" : "400604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal, Shree Nagar, Shri Nagar, Thane West, Thane, Maharashtra 400604, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.188903,
+                  "lng" : 72.9434641
+               },
+               "southwest" : {
+                  "lat" : 19.1887131,
+                  "lng" : 72.9433057
+               }
+            },
+            "location" : {
+               "lat" : 19.1888326,
+               "lng" : 72.9434037
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1901570302915,
+                  "lng" : 72.94473388029149
+               },
+               "southwest" : {
+                  "lat" : 19.1874590697085,
+                  "lng" : 72.94203591970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal Building",
+               "short_name" : "Amar Mahal Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "South Dnyaneshwar Marg",
+               "short_name" : "S Dnyaneshwar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Juhu Tara",
+               "short_name" : "Juhu Tara",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Juhu",
+               "short_name" : "Juhu",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400049",
+               "short_name" : "400049",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal Building, South Dnyaneshwar Marg, Juhu Tara, Juhu, Mumbai, Maharashtra 400049, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.114509,
+                  "lng" : 72.82599130000001
+               },
+               "southwest" : {
+                  "lat" : 19.1143801,
+                  "lng" : 72.82578409999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1144445,
+               "lng" : 72.8258877
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1157935302915,
+                  "lng" : 72.82723668029151
+               },
+               "southwest" : {
+                  "lat" : 19.11309556970849,
+                  "lng" : 72.8245387197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal Building",
+               "short_name" : "Amar Mahal Building",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "G.M. Road",
+               "short_name" : "G.M. Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pestom Sagar Colony",
+               "short_name" : "Pestom Sagar Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar East",
+               "short_name" : "Ghatkopar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400089",
+               "short_name" : "400089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal Building, G.M. Road, Chembur, Pestom Sagar Colony, Ghatkopar East, Mumbai, Maharashtra 400089, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0673664,
+               "lng" : 72.90022279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0687153802915,
+                  "lng" : 72.90157178029149
+               },
+               "southwest" : {
+                  "lat" : 19.06601741970849,
+                  "lng" : 72.89887381970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal Apartment",
+               "short_name" : "Amar Mahal Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kamla Nehru Nagar",
+               "short_name" : "Kamla Nehru Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ulhasnagar",
+               "short_name" : "Ulhasnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "421002",
+               "short_name" : "421002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal Apartment, Kamla Nehru Nagar, Ulhasnagar, Maharashtra 421002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2336,
+               "lng" : 73.1717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2349489802915,
+                  "lng" : 73.17304898029151
+               },
+               "southwest" : {
+                  "lat" : 19.2322510197085,
+                  "lng" : 73.17035101970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amar Mahal Junction Flyover",
+               "short_name" : "Amar Mahal Junction Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amar Mahal Junction Flyover, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.067288,
+                  "lng" : 72.9018621
+               },
+               "southwest" : {
+                  "lat" : 19.0623722,
+                  "lng" : 72.8949386
+               }
+            },
+            "location" : {
+               "lat" : 19.0651985,
+               "lng" : 72.89900879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.067288,
+                  "lng" : 72.9018621
+               },
+               "southwest" : {
+                  "lat" : 19.0623722,
+                  "lng" : 72.8949386
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

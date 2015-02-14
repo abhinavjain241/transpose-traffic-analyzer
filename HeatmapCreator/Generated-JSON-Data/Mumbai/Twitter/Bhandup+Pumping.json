@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhandup Pumping Station",
+               "short_name" : "Bhandup Pumping Station",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mulund - Airoli Bridge Road",
+               "short_name" : "Mulund - Airoli Bridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mulund East",
+               "short_name" : "Mulund East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400081",
+               "short_name" : "400081",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhandup Pumping Station, Mulund - Airoli Bridge Road, Mulund East, Mumbai, Maharashtra 400081, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1545709,
+               "lng" : 72.95781939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1559198802915,
+                  "lng" : 72.9591683802915
+               },
+               "southwest" : {
+                  "lat" : 19.1532219197085,
+                  "lng" : 72.9564704197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

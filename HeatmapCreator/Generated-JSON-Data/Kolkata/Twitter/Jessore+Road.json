@@ -1,0 +1,327 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rail Road",
+               "short_name" : "Rail Road",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jessore",
+               "short_name" : "Jessore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jessore",
+               "short_name" : "Jessore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rail Road, Jessore, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1641735,
+                  "lng" : 89.2125195
+               },
+               "southwest" : {
+                  "lat" : 23.1638135,
+                  "lng" : 89.2122406
+               }
+            },
+            "location" : {
+               "lat" : 23.1640205,
+               "lng" : 89.2123567
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1653424802915,
+                  "lng" : 89.2137290302915
+               },
+               "southwest" : {
+                  "lat" : 23.1626445197085,
+                  "lng" : 89.21103106970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jessore Road",
+               "short_name" : "Jessore Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jessore Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6458856,
+                  "lng" : 88.433672
+               },
+               "southwest" : {
+                  "lat" : 22.6042327,
+                  "lng" : 88.3808081
+               }
+            },
+            "location" : {
+               "lat" : 22.6225204,
+               "lng" : 88.41404410000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6458856,
+                  "lng" : 88.433672
+               },
+               "southwest" : {
+                  "lat" : 22.6042327,
+                  "lng" : 88.3808081
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jessore Road",
+               "short_name" : "Jessore Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kailas Nagar",
+               "short_name" : "Kailas Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hridaypur",
+               "short_name" : "Hridaypur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700127",
+               "short_name" : "700127",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jessore Road, Kailas Nagar, Hridaypur, Kolkata, West Bengal 700127, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7155649,
+                  "lng" : 88.4754775
+               },
+               "southwest" : {
+                  "lat" : 22.7114299,
+                  "lng" : 88.47490879999999
+               }
+            },
+            "location" : {
+               "lat" : 22.7134885,
+               "lng" : 88.47509909999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7155649,
+                  "lng" : 88.47654213029149
+               },
+               "southwest" : {
+                  "lat" : 22.7114299,
+                  "lng" : 88.47384416970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Jessore Road",
+               "short_name" : "Upper Jessore Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sonadanga",
+               "short_name" : "Sonadanga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khulna",
+               "short_name" : "Khulna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khulna",
+               "short_name" : "Khulna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Jessore Road, Khulna, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.829173,
+                  "lng" : 89.5626401
+               },
+               "southwest" : {
+                  "lat" : 22.8164221,
+                  "lng" : 89.54923939999999
+               }
+            },
+            "location" : {
+               "lat" : 22.8213074,
+               "lng" : 89.5549706
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.829173,
+                  "lng" : 89.5626401
+               },
+               "southwest" : {
+                  "lat" : 22.8164221,
+                  "lng" : 89.54923939999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jessore Road",
+               "short_name" : "Jessore Road",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "kolkata Airport Quarters",
+               "short_name" : "kolkata Airport Quarters",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kaikhali",
+               "short_name" : "Kaikhali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700028",
+               "short_name" : "700028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jessore Road, kolkata Airport Quarters, Kaikhali, Kolkata, West Bengal 700028, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6409323,
+                  "lng" : 88.4305859
+               },
+               "southwest" : {
+                  "lat" : 22.6392092,
+                  "lng" : 88.4284991
+               }
+            },
+            "location" : {
+               "lat" : 22.6401282,
+               "lng" : 88.42957849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.64141973029151,
+                  "lng" : 88.43089148029151
+               },
+               "southwest" : {
+                  "lat" : 22.6387217697085,
+                  "lng" : 88.4281935197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

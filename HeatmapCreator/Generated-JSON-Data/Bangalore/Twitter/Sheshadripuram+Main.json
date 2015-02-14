@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sheshadripuram Main Road",
+               "short_name" : "Sheshadripuram Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seshadripuram",
+               "short_name" : "Seshadripuram",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Velachery",
+               "short_name" : "Velachery",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600042",
+               "short_name" : "600042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sheshadripuram Main Road, Seshadripuram, Velachery, Chennai, Tamil Nadu 600042, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9804842,
+                  "lng" : 80.2311551
+               },
+               "southwest" : {
+                  "lat" : 12.9785877,
+                  "lng" : 80.2296566
+               }
+            },
+            "location" : {
+               "lat" : 12.9792144,
+               "lng" : 80.23025320000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9808849302915,
+                  "lng" : 80.23175483029151
+               },
+               "southwest" : {
+                  "lat" : 12.9781869697085,
+                  "lng" : 80.2290568697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

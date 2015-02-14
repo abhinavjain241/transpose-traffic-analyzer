@@ -1,0 +1,241 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Traffic Department",
+               "short_name" : "Police Traffic Department",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Madinat Khalifa",
+               "short_name" : "Madinat Khalifa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Doha",
+               "short_name" : "Doha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doha",
+               "short_name" : "Doha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police Traffic Department, Doha, Qatar",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.3222394,
+               "lng" : 51.4728372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3235883802915,
+                  "lng" : 51.4741861802915
+               },
+               "southwest" : {
+                  "lat" : 25.3208904197085,
+                  "lng" : 51.4714882197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Department Headquarters",
+               "short_name" : "Traffic Department Headquarters",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Omar Bin Abdul Aziz Street",
+               "short_name" : "Omar Bin Abdul Aziz St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madinat Khalifa South",
+               "short_name" : "Madinat Khalifa South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Madinat Khalifa",
+               "short_name" : "Madinat Khalifa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Doha",
+               "short_name" : "Doha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doha",
+               "short_name" : "Doha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Traffic Department Headquarters, Omar Bin Abdul Aziz Street, Doha, Qatar",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.3216698,
+               "lng" : 51.4787463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3230187802915,
+                  "lng" : 51.4800952802915
+               },
+               "southwest" : {
+                  "lat" : 25.3203208197085,
+                  "lng" : 51.4773973197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ipeleng Traffic Department",
+               "short_name" : "Ipeleng Traffic Department",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mabopane Unit A",
+               "short_name" : "Mabopane Unit A",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mabopane",
+               "short_name" : "Mabopane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pretoria",
+               "short_name" : "Pretoria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gauteng",
+               "short_name" : "GP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0190",
+               "short_name" : "0190",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ipeleng Traffic Department, Mabopane, 0190, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4949213,
+                  "lng" : 28.0487797
+               },
+               "southwest" : {
+                  "lat" : -25.497599,
+                  "lng" : 28.0448261
+               }
+            },
+            "location" : {
+               "lat" : -25.4964058,
+               "lng" : 28.0471508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.49491116970849,
+                  "lng" : 28.0487797
+               },
+               "southwest" : {
+                  "lat" : -25.4976091302915,
+                  "lng" : 28.0448261
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiao Tong Bu Jiu Zhi Gong Lu",
+               "short_name" : "Jiao Tong Bu Jiu Zhi Gong Lu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pingshan Xian",
+               "short_name" : "Pingshan Xian",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shijiazhuang Shi",
+               "short_name" : "Shijiazhuang Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hebei Sheng",
+               "short_name" : "Hebei Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jiao Tong Bu Jiu Zhi Gong Lu, Pingshan Xian, Shijiazhuang Shi, Hebei Sheng, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2465698,
+                  "lng" : 114.205051
+               },
+               "southwest" : {
+                  "lat" : 38.2393163,
+                  "lng" : 114.2001894
+               }
+            },
+            "location" : {
+               "lat" : 38.2443772,
+               "lng" : 114.2047633
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2465698,
+                  "lng" : 114.205051
+               },
+               "southwest" : {
+                  "lat" : 38.2393163,
+                  "lng" : 114.2001894
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

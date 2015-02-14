@@ -1,0 +1,122 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ambulance",
+               "short_name" : "Ambulance",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Goa",
+               "short_name" : "Goa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Goa",
+               "short_name" : "North Goa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Goa",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "403512",
+               "short_name" : "403512",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ambulance, Goa, Goa 403512, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 15.7198284,
+               "lng" : 73.79632219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.7211773802915,
+                  "lng" : 73.7976711802915
+               },
+               "southwest" : {
+                  "lat" : 15.7184794197085,
+                  "lng" : 73.7949732197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "air ambulance india",
+               "short_name" : "air ambulance india",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Junapur Village",
+               "short_name" : "Junapur Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaunapur",
+               "short_name" : "Jaunapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110047",
+               "short_name" : "110047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "air ambulance india, Junapur Village, Jaunapur, New Delhi, Delhi 110047, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.4624474,
+               "lng" : 77.15426839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4637963802915,
+                  "lng" : 77.1556173802915
+               },
+               "southwest" : {
+                  "lat" : 28.4610984197085,
+                  "lng" : 77.1529194197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

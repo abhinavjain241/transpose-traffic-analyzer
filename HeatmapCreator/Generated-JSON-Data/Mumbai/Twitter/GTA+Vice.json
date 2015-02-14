@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenida Vice",
+               "short_name" : "Av Vice",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Piura",
+               "short_name" : "Piura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piura",
+               "short_name" : "Piura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piura",
+               "short_name" : "Piura",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avenida Vice, Piura, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.1873653,
+                  "lng" : -80.64162519999999
+               },
+               "southwest" : {
+                  "lat" : -5.1918383,
+                  "lng" : -80.64330699999999
+               }
+            },
+            "location" : {
+               "lat" : -5.1897654,
+               "lng" : -80.6425077
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.1873653,
+                  "lng" : -80.6411171197085
+               },
+               "southwest" : {
+                  "lat" : -5.1918383,
+                  "lng" : -80.6438150802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

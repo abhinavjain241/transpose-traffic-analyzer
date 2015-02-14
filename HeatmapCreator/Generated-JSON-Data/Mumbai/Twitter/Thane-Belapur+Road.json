@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thane-Belapur Road",
+               "short_name" : "Thane-Belapur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thane-Belapur Road, Navi Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.196049,
+                  "lng" : 73.0300542
+               },
+               "southwest" : {
+                  "lat" : 19.0324209,
+                  "lng" : 72.9871777
+               }
+            },
+            "location" : {
+               "lat" : 19.1141298,
+               "lng" : 73.00867
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.196049,
+                  "lng" : 73.0300542
+               },
+               "southwest" : {
+                  "lat" : 19.0324209,
+                  "lng" : 72.9871777
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

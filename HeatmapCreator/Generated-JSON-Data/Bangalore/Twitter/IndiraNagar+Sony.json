@@ -1,0 +1,168 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abhishek Tower",
+               "short_name" : "Abhishek Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Punjabi Galli",
+               "short_name" : "Punjabi Galli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maharashtra Nagar",
+               "short_name" : "Maharashtra Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Borivali West",
+               "short_name" : "Borivali West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400092",
+               "short_name" : "400092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abhishek Tower, Punjabi Galli, Maharashtra Nagar, Borivali West, Mumbai, Maharashtra 400092, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2304271,
+                  "lng" : 72.85267650000002
+               },
+               "southwest" : {
+                  "lat" : 19.2301631,
+                  "lng" : 72.852465
+               }
+            },
+            "location" : {
+               "lat" : 19.2302951,
+               "lng" : 72.85257080000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2316440802915,
+                  "lng" : 72.85391973029152
+               },
+               "southwest" : {
+                  "lat" : 19.2289461197085,
+                  "lng" : 72.85122176970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sony Apartment",
+               "short_name" : "Sony Apartment",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Venkateshwara Nagar Colony",
+               "short_name" : "Venkateshwara Nagar Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Janahvi Chitra Residency",
+               "short_name" : "Janahvi Chitra Residency",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ananth Nagar",
+               "short_name" : "Ananth Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "A S Rao Nagar",
+               "short_name" : "A S Rao Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "SC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500062",
+               "short_name" : "500062",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sony Apartment, Venkateshwara Nagar Colony, Janahvi Chitra Residency, Ananth Nagar, A S Rao Nagar, Secunderabad, Telangana 500062, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.475987,
+                  "lng" : 78.54943449999999
+               },
+               "southwest" : {
+                  "lat" : 17.4757573,
+                  "lng" : 78.5493347
+               }
+            },
+            "location" : {
+               "lat" : 17.4758883,
+               "lng" : 78.5493821
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4772211302915,
+                  "lng" : 78.55073358029149
+               },
+               "southwest" : {
+                  "lat" : 17.47452316970849,
+                  "lng" : 78.54803561970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

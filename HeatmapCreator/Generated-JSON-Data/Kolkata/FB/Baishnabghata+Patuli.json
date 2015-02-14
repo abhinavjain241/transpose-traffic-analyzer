@@ -1,0 +1,270 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baishnabghata Patuli",
+               "short_name" : "Baishnabghata Patuli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baishnabghata Patuli Township",
+               "short_name" : "Baishnabghata Patuli Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Patuli",
+               "short_name" : "Patuli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700047",
+               "short_name" : "700047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baishnabghata Patuli, Baishnabghata Patuli Township, Patuli, Kolkata, West Bengal 700047",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4762752,
+               "lng" : 88.38211939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4776241802915,
+                  "lng" : 88.3834683802915
+               },
+               "southwest" : {
+                  "lat" : 22.4749262197085,
+                  "lng" : 88.3807704197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baishnabghata Apartment",
+               "short_name" : "Baishnabghata Apartment",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Eastern Metropolitan Bypass",
+               "short_name" : "EM Bypass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baishnabghata Patuli Township",
+               "short_name" : "Baishnabghata Patuli Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Patuli",
+               "short_name" : "Patuli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700094",
+               "short_name" : "700094",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baishnabghata Apartment, Eastern Metropolitan Bypass, Baishnabghata Patuli Township, Patuli, Kolkata, West Bengal 700094, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.4789537,
+               "lng" : 88.39011669999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4803026802915,
+                  "lng" : 88.3914656802915
+               },
+               "southwest" : {
+                  "lat" : 22.4776047197085,
+                  "lng" : 88.3887677197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baishnabghata",
+               "short_name" : "Baishnabghata",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Garia",
+               "short_name" : "Garia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700047",
+               "short_name" : "700047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baishnabghata, Garia, Kolkata, West Bengal 700047, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.471538,
+                  "lng" : 88.38046609999999
+               },
+               "southwest" : {
+                  "lat" : 22.4692359,
+                  "lng" : 88.37733589999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4705889,
+               "lng" : 88.3788627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4717359302915,
+                  "lng" : 88.38046609999999
+               },
+               "southwest" : {
+                  "lat" : 22.4690379697085,
+                  "lng" : 88.37733589999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baishnabghata Patuli Township",
+               "short_name" : "Baishnabghata Patuli Twp",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Patuli",
+               "short_name" : "Patuli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baishnabghata Patuli Township, Patuli, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4797971,
+                  "lng" : 88.3940741
+               },
+               "southwest" : {
+                  "lat" : 22.467954,
+                  "lng" : 88.3777671
+               }
+            },
+            "location" : {
+               "lat" : 22.4746513,
+               "lng" : 88.38295599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4797971,
+                  "lng" : 88.3940741
+               },
+               "southwest" : {
+                  "lat" : 22.467954,
+                  "lng" : 88.3777671
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

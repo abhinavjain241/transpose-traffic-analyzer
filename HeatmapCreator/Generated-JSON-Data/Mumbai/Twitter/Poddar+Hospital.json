@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B P Poddar Hospital",
+               "short_name" : "B P Poddar Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Anandapur",
+               "short_name" : "Anandapur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "East Kolkata Township",
+               "short_name" : "East Kolkata Twp",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700107",
+               "short_name" : "700107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B P Poddar Hospital, Anandapur, East Kolkata Township, Kolkata, West Bengal 700107, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5144632,
+               "lng" : 88.40948499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5158121802915,
+                  "lng" : 88.4108339802915
+               },
+               "southwest" : {
+                  "lat" : 22.5131142197085,
+                  "lng" : 88.40813601970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Podar Hospital",
+               "short_name" : "Podar Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Doctor Annie Besant Road",
+               "short_name" : "Dr Annie Besant Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BDD Chawls Worli",
+               "short_name" : "BDD Chawls Worli",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400018",
+               "short_name" : "400018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Podar Hospital, Doctor Annie Besant Road, BDD Chawls Worli, Worli, Mumbai, Maharashtra 400018, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0032924,
+                  "lng" : 72.81710910000001
+               },
+               "southwest" : {
+                  "lat" : 19.0010405,
+                  "lng" : 72.815752
+               }
+            },
+            "location" : {
+               "lat" : 19.0021926,
+               "lng" : 72.81628289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0035154302915,
+                  "lng" : 72.81777953029153
+               },
+               "southwest" : {
+                  "lat" : 19.0008174697085,
+                  "lng" : 72.81508156970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poddar House",
+               "short_name" : "Poddar House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1A",
+               "short_name" : "1A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nanda Mullick Lane",
+               "short_name" : "Nanda Mullick Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ram Bagan",
+               "short_name" : "Ram Bagan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Poddar House, 1A, Nanda Mullick Lane, Ram Bagan, Kolkata, West Bengal 700006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.58873,
+                  "lng" : 88.3592585
+               },
+               "southwest" : {
+                  "lat" : 22.5885188,
+                  "lng" : 88.3590469
+               }
+            },
+            "location" : {
+               "lat" : 22.5886244,
+               "lng" : 88.35915270000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5899733802915,
+                  "lng" : 88.36050168029149
+               },
+               "southwest" : {
+                  "lat" : 22.58727541970849,
+                  "lng" : 88.35780371970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

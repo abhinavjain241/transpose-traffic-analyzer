@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maharana Pratap ISBT",
+               "short_name" : "Maharana Pratap ISBT",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Yudhister Setu",
+               "short_name" : "Yudhister Setu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inter State Bus Terminal",
+               "short_name" : "Inter State Bus Terminal",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kashmere Gate",
+               "short_name" : "Kashmere Gate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maharana Pratap ISBT, Yudhister Setu, Inter State Bus Terminal, Kashmere Gate, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6697863,
+                  "lng" : 77.23212579999999
+               },
+               "southwest" : {
+                  "lat" : 28.6677599,
+                  "lng" : 77.22875329999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6686576,
+               "lng" : 77.23009709999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6701220802915,
+                  "lng" : 77.23212579999999
+               },
+               "southwest" : {
+                  "lat" : 28.6674241197085,
+                  "lng" : 77.22875329999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ISBT",
+               "short_name" : "ISBT",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ludlow Castle",
+               "short_name" : "Ludlow Castle",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110054",
+               "short_name" : "110054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ISBT, Ludlow Castle, Civil Lines, New Delhi, Delhi 110054",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.668797,
+               "lng" : 77.226609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6701459802915,
+                  "lng" : 77.22795798029149
+               },
+               "southwest" : {
+                  "lat" : 28.6674480197085,
+                  "lng" : 77.22526001970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ISBT",
+               "short_name" : "ISBT",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lala Hardev Sahai Marg",
+               "short_name" : "Lala Hardev Sahai Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ludlow Castle",
+               "short_name" : "Ludlow Castle",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110054",
+               "short_name" : "110054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ISBT, Lala Hardev Sahai Marg, Ludlow Castle, Civil Lines, New Delhi, Delhi 110054, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6685175,
+               "lng" : 77.22555439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6698664802915,
+                  "lng" : 77.2269033802915
+               },
+               "southwest" : {
+                  "lat" : 28.6671685197085,
+                  "lng" : 77.2242054197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

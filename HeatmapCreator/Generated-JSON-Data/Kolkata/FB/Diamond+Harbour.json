@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diamond Harbour",
+               "short_name" : "Diamond Harbour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South 24 Parganas",
+               "short_name" : "South 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diamond Harbour, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2187861,
+                  "lng" : 88.2314093
+               },
+               "southwest" : {
+                  "lat" : 22.1766616,
+                  "lng" : 88.1691881
+               }
+            },
+            "location" : {
+               "lat" : 22.2,
+               "lng" : 88.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2187861,
+                  "lng" : 88.2314093
+               },
+               "southwest" : {
+                  "lat" : 22.1766616,
+                  "lng" : 88.1691881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diamond Harbour",
+               "short_name" : "Diamond Harbour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch City",
+               "short_name" : "Christchurch City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diamond Harbour, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -43.622028,
+                  "lng" : 172.744819
+               },
+               "southwest" : {
+                  "lat" : -43.6695836,
+                  "lng" : 172.717505
+               }
+            },
+            "location" : {
+               "lat" : -43.62882510000001,
+               "lng" : 172.7260727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.622028,
+                  "lng" : 172.744819
+               },
+               "southwest" : {
+                  "lat" : -43.6695836,
+                  "lng" : 172.717505
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diamond Harbour",
+               "short_name" : "Diamond Harbour",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hatuganj",
+               "short_name" : "Hatuganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Diamond Harbour",
+               "short_name" : "Diamond Harbour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South 24 Parganas",
+               "short_name" : "South 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743331",
+               "short_name" : "743331",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Diamond Harbour, Hatuganj, Diamond Harbour, West Bengal 743331",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.192631,
+               "lng" : 88.19118499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.1939799802915,
+                  "lng" : 88.1925339802915
+               },
+               "southwest" : {
+                  "lat" : 22.1912820197085,
+                  "lng" : 88.18983601970848
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

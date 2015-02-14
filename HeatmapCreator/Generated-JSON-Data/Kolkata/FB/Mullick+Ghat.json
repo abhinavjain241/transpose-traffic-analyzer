@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mullick Cottage",
+               "short_name" : "Mullick Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Tallabag",
+               "short_name" : "Tallabag",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hazaribag",
+               "short_name" : "Hazaribag",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhaka",
+               "short_name" : "Dhaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1209",
+               "short_name" : "1209",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mullick Cottage, Dhaka 1209, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7404733,
+                  "lng" : 90.3701717
+               },
+               "southwest" : {
+                  "lat" : 23.7403112,
+                  "lng" : 90.37002149999999
+               }
+            },
+            "location" : {
+               "lat" : 23.74039,
+               "lng" : 90.37009089999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7417412302915,
+                  "lng" : 90.37144558029151
+               },
+               "southwest" : {
+                  "lat" : 23.7390432697085,
+                  "lng" : 90.3687476197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghat Road",
+               "short_name" : "Ghat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jayashree Park",
+               "short_name" : "Jayashree Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Behala",
+               "short_name" : "Behala",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700034",
+               "short_name" : "700034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ghat Road, Jayashree Park, Behala, Kolkata, West Bengal 700034, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4912164,
+                  "lng" : 88.32665310000002
+               },
+               "southwest" : {
+                  "lat" : 22.4910398,
+                  "lng" : 88.3266503
+               }
+            },
+            "location" : {
+               "lat" : 22.4910553,
+               "lng" : 88.3266529
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4924770802915,
+                  "lng" : 88.32800068029151
+               },
+               "southwest" : {
+                  "lat" : 22.4897791197085,
+                  "lng" : 88.32530271970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goregaon",
+               "short_name" : "Goregaon",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Grampanchayat Road",
+               "short_name" : "Grampanchayat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jay Prakash Nagar",
+               "short_name" : "Jay Prakash Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Goregaon West",
+               "short_name" : "Goregaon West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400063",
+               "short_name" : "400063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goregaon, Grampanchayat Road, Jay Prakash Nagar, Goregaon West, Mumbai, Maharashtra 400063, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1660368,
+                  "lng" : 72.8499399
+               },
+               "southwest" : {
+                  "lat" : 19.1631577,
+                  "lng" : 72.84931739999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1648436,
+               "lng" : 72.84951699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1660368,
+                  "lng" : 72.8509776302915
+               },
+               "southwest" : {
+                  "lat" : 19.1631577,
+                  "lng" : 72.84827966970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

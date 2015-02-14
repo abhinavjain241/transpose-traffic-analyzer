@@ -1,0 +1,196 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ram Kamal",
+               "short_name" : "Ram Kamal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Basweshwar Nagar",
+               "short_name" : "Basweshwar Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kautha",
+               "short_name" : "Kautha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanded",
+               "short_name" : "Nanded",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nanded",
+               "short_name" : "Nanded",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431603",
+               "short_name" : "431603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ram Kamal, Basweshwar Nagar, Kautha, Nanded, Maharashtra 431603, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.140498,
+               "lng" : 77.31114699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1418469802915,
+                  "lng" : 77.3124959802915
+               },
+               "southwest" : {
+                  "lat" : 19.1391490197085,
+                  "lng" : 77.3097980197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ram Kamal Street",
+               "short_name" : "Ram Kamal St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700023",
+               "short_name" : "700023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ram Kamal Street, Kolkata, West Bengal 700023, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5411012,
+                  "lng" : 88.32497069999999
+               },
+               "southwest" : {
+                  "lat" : 22.540327,
+                  "lng" : 88.3208647
+               }
+            },
+            "location" : {
+               "lat" : 22.5404611,
+               "lng" : 88.32293190000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5420630802915,
+                  "lng" : 88.32497069999999
+               },
+               "southwest" : {
+                  "lat" : 22.5393651197085,
+                  "lng" : 88.3208647
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamal",
+               "short_name" : "Kamal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hira Nagar",
+               "short_name" : "Hira Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mulund West",
+               "short_name" : "Mulund West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400080",
+               "short_name" : "400080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamal, Hira Nagar, Mulund West, Mumbai, Maharashtra 400080, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1604757,
+               "lng" : 72.94755239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1618246802915,
+                  "lng" : 72.9489013802915
+               },
+               "southwest" : {
+                  "lat" : 19.1591267197085,
+                  "lng" : 72.9462034197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

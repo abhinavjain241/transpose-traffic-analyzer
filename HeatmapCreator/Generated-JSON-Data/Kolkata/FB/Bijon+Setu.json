@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bijon Setu",
+               "short_name" : "Bijon Setu",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rash Behari Avenue",
+               "short_name" : "Rash Behari Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ekdalia",
+               "short_name" : "Ekdalia",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ballygunge",
+               "short_name" : "Ballygunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700019",
+               "short_name" : "700019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bijon Setu, Rash Behari Avenue, Ekdalia, Ballygunge, Kolkata, West Bengal 700019, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5206804,
+               "lng" : 88.3708942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5220293802915,
+                  "lng" : 88.37224318029151
+               },
+               "southwest" : {
+                  "lat" : 22.5193314197085,
+                  "lng" : 88.36954521970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

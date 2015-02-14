@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maniktala Main Road",
+               "short_name" : "Maniktala Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maniktala Main Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5835339,
+                  "lng" : 88.40121789999999
+               },
+               "southwest" : {
+                  "lat" : 22.577489,
+                  "lng" : 88.3796184
+               }
+            },
+            "location" : {
+               "lat" : 22.5802392,
+               "lng" : 88.3904587
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5835339,
+                  "lng" : 88.40121789999999
+               },
+               "southwest" : {
+                  "lat" : 22.577489,
+                  "lng" : 88.3796184
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

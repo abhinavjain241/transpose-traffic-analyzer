@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandhurst Road",
+               "short_name" : "Sandhurst Road",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dr Meisheri Road",
+               "short_name" : "Dr Meisheri Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Railway Godown",
+               "short_name" : "Central Railway Godown",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Umerkhadi",
+               "short_name" : "Umerkhadi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400009",
+               "short_name" : "400009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sandhurst Road, Dr Meisheri Road, Central Railway Godown, Umerkhadi, Mumbai, Maharashtra 400009, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9637787,
+                  "lng" : 72.84067879999999
+               },
+               "southwest" : {
+                  "lat" : 18.9607297,
+                  "lng" : 72.83875979999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9614896,
+               "lng" : 72.8399625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9637787,
+                  "lng" : 72.84106828029151
+               },
+               "southwest" : {
+                  "lat" : 18.9607297,
+                  "lng" : 72.83837031970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatakol",
+               "short_name" : "Chatakol",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lakshminagar",
+               "short_name" : "Lakshminagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "South Dum Dum",
+               "short_name" : "South Dum Dum",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700074",
+               "short_name" : "700074",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chatakol, Lakshminagar, South Dum Dum, Kolkata, West Bengal 700074, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6244688,
+                  "lng" : 88.40701439999999
+               },
+               "southwest" : {
+                  "lat" : 22.6216708,
+                  "lng" : 88.4038664
+               }
+            },
+            "location" : {
+               "lat" : 22.6229758,
+               "lng" : 88.40549180000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6244688,
+                  "lng" : 88.40701439999999
+               },
+               "southwest" : {
+                  "lat" : 22.6216708,
+                  "lng" : 88.4038664
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bichali Ghat",
+               "short_name" : "Bichali Ghat",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rajabagan Dock Yard",
+               "short_name" : "Rajabagan Dock Yard",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Metiabruz",
+               "short_name" : "Metiabruz",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700024",
+               "short_name" : "700024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bichali Ghat, Rajabagan Dock Yard, Metiabruz, Kolkata, West Bengal 700024, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5521854,
+                  "lng" : 88.28575359999999
+               },
+               "southwest" : {
+                  "lat" : 22.5492923,
+                  "lng" : 88.28022829999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5504113,
+               "lng" : 88.28321819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5521854,
+                  "lng" : 88.28575359999999
+               },
+               "southwest" : {
+                  "lat" : 22.5492923,
+                  "lng" : 88.28022829999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

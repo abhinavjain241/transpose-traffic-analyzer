@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prem Bari Pul",
+               "short_name" : "Prem Bari Pul",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Block AP",
+               "short_name" : "Block AP",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Poorvi Shalimar Bagh",
+               "short_name" : "Poorvi Shalimar Bagh",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shalimar Bagh",
+               "short_name" : "Shalimar Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110088",
+               "short_name" : "110088",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prem Bari Pul, Block AP, Poorvi Shalimar Bagh, Shalimar Bagh, New Delhi, Delhi 110088",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.700191,
+               "lng" : 77.15804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7015399802915,
+                  "lng" : 77.1593889802915
+               },
+               "southwest" : {
+                  "lat" : 28.6988420197085,
+                  "lng" : 77.15669101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prembadi Bridge Bus Stop",
+               "short_name" : "Prembadi Bridge Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Shahid Sukhdev Nagar",
+               "short_name" : "Shahid Sukhdev Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Block A",
+               "short_name" : "Block A",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wazirpur Industrial Area",
+               "short_name" : "Wazirpur Industrial Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wazirpur",
+               "short_name" : "Wazirpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110052",
+               "short_name" : "110052",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prembadi Bridge Bus Stop, Shahid Sukhdev Nagar, Block A, Wazirpur Industrial Area, Wazirpur, New Delhi, Delhi 110052, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6999,
+               "lng" : 77.1583208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7012489802915,
+                  "lng" : 77.15966978029151
+               },
+               "southwest" : {
+                  "lat" : 28.6985510197085,
+                  "lng" : 77.1569718197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

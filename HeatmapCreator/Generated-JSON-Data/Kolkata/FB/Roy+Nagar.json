@@ -1,0 +1,199 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roy Nagar",
+               "short_name" : "Roy Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bansdroni",
+               "short_name" : "Bansdroni",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700070",
+               "short_name" : "700070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Roy Nagar, Bansdroni, Kolkata, West Bengal 700070, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4716031,
+                  "lng" : 88.36184689999999
+               },
+               "southwest" : {
+                  "lat" : 22.468869,
+                  "lng" : 88.36008989999999
+               }
+            },
+            "location" : {
+               "lat" : 22.4704059,
+               "lng" : 88.36066099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4716031,
+                  "lng" : 88.3623173802915
+               },
+               "southwest" : {
+                  "lat" : 22.468869,
+                  "lng" : 88.35961941970848
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roy Nagar",
+               "short_name" : "Roy Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gannavaram",
+               "short_name" : "Gannavaram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krishna",
+               "short_name" : "Krishna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "521101",
+               "short_name" : "521101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Roy Nagar, Gannavaram, Andhra Pradesh 521101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.5474003,
+                  "lng" : 80.81089249999999
+               },
+               "southwest" : {
+                  "lat" : 16.5406727,
+                  "lng" : 80.80188059999999
+               }
+            },
+            "location" : {
+               "lat" : 16.5442151,
+               "lng" : 80.8058293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.5474003,
+                  "lng" : 80.81089249999999
+               },
+               "southwest" : {
+                  "lat" : 16.5406727,
+                  "lng" : 80.80188059999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roy Nagar",
+               "short_name" : "Roy Nagar",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Karimganj",
+               "short_name" : "Karimganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karimganj",
+               "short_name" : "Karimganj",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sylhet Division",
+               "short_name" : "Sylhet Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "788710",
+               "short_name" : "788710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Roy Nagar, Karimganj, Sylhet Division 788710",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8661132,
+                  "lng" : 92.3703969
+               },
+               "southwest" : {
+                  "lat" : 24.8659087,
+                  "lng" : 92.36983359999999
+               }
+            },
+            "location" : {
+               "lat" : 24.8659932,
+               "lng" : 92.3699864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8673599302915,
+                  "lng" : 92.37146423029151
+               },
+               "southwest" : {
+                  "lat" : 24.86466196970849,
+                  "lng" : 92.36876626970849
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

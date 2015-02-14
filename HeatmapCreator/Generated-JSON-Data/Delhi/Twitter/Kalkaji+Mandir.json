@@ -1,0 +1,156 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalkaji Mandir Metro Station",
+               "short_name" : "Kalkaji Mandir Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lotus Temple Road",
+               "short_name" : "Lotus Temple Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block 9",
+               "short_name" : "Block 9",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kalkaji",
+               "short_name" : "Kalkaji",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110048",
+               "short_name" : "110048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalkaji Mandir Metro Station, Lotus Temple Road, Block 9, Kalkaji, New Delhi, Delhi 110048, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5501881,
+                  "lng" : 77.25953989999999
+               },
+               "southwest" : {
+                  "lat" : 28.5490655,
+                  "lng" : 77.2585182
+               }
+            },
+            "location" : {
+               "lat" : 28.5494507,
+               "lng" : 77.25910399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5509757802915,
+                  "lng" : 77.26037803029151
+               },
+               "southwest" : {
+                  "lat" : 28.5482778197085,
+                  "lng" : 77.2576800697085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalkaji Mandir Bus Stop",
+               "short_name" : "Kalkaji Mandir Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ma Anandmayee Marg",
+               "short_name" : "Ma Anandmayee Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "NSIC Estate",
+               "short_name" : "NSIC Estate",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Okhla Phase III",
+               "short_name" : "Okhla Phase III",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Okhla Industrial Area",
+               "short_name" : "Okhla Industrial Area",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110020",
+               "short_name" : "110020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalkaji Mandir Bus Stop, Ma Anandmayee Marg, NSIC Estate, Okhla Phase III, Okhla Industrial Area, New Delhi, Delhi 110020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5482983,
+               "lng" : 77.2628814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5496472802915,
+                  "lng" : 77.26423038029151
+               },
+               "southwest" : {
+                  "lat" : 28.5469493197085,
+                  "lng" : 77.26153241970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

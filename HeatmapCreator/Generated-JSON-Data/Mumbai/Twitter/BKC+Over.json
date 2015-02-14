@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Over Comers Church",
+               "short_name" : "Over Comers Church",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dharavi",
+               "short_name" : "Dharavi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai City",
+               "short_name" : "Mumbai City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400017",
+               "short_name" : "400017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Over Comers Church, Dharavi, Mumbai, Maharashtra 400017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0416249,
+               "lng" : 72.8556306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0429738802915,
+                  "lng" : 72.85697958029149
+               },
+               "southwest" : {
+                  "lat" : 19.0402759197085,
+                  "lng" : 72.85428161970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

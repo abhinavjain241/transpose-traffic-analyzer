@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Prakash Thorat Marg",
+               "short_name" : "Prakash Thorat Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chembur Gaothan",
+               "short_name" : "Chembur Gaothan",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400071",
+               "short_name" : "400071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chembur, Prakash Thorat Marg, Chembur Gaothan, Chembur, Mumbai, Maharashtra 400071, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0630969,
+                  "lng" : 72.9022018
+               },
+               "southwest" : {
+                  "lat" : 19.0620542,
+                  "lng" : 72.90026589999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0625773,
+               "lng" : 72.9012527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0639245302915,
+                  "lng" : 72.90258283029149
+               },
+               "southwest" : {
+                  "lat" : 19.0612265697085,
+                  "lng" : 72.89988486970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ramakrishna Chemburkar Marg",
+               "short_name" : "RC Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Postal Colony",
+               "short_name" : "Postal Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla East",
+               "short_name" : "Kurla East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400071",
+               "short_name" : "400071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chembur, Ramakrishna Chemburkar Marg, Postal Colony, Kurla East, Mumbai, Maharashtra 400071, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0613184,
+               "lng" : 72.897514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0626673802915,
+                  "lng" : 72.89886298029151
+               },
+               "southwest" : {
+                  "lat" : 19.05996941970849,
+                  "lng" : 72.89616501970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Court",
+               "short_name" : "Eastern Court",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "VN Purav Marg",
+               "short_name" : "VN Purav Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sindhi Society",
+               "short_name" : "Sindhi Society",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400071",
+               "short_name" : "400071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eastern Court, VN Purav Marg, Sindhi Society, Chembur, Mumbai, Maharashtra 400071, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0537479,
+               "lng" : 72.89027849999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0550968802915,
+                  "lng" : 72.89162748029149
+               },
+               "southwest" : {
+                  "lat" : 19.0523989197085,
+                  "lng" : 72.88892951970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

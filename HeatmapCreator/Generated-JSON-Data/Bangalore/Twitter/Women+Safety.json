@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Safety Team/Self Defense for Women by Women",
+               "short_name" : "The Safety Team/Self Defense for Women by Women",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "366",
+               "short_name" : "366",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dorset Street",
+               "short_name" : "Dorset St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Burlington",
+               "short_name" : "South Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittenden County",
+               "short_name" : "Chittenden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05403",
+               "short_name" : "05403",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Safety Team/Self Defense for Women by Women, 366 Dorset Street, South Burlington, VT 05403, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.458545,
+               "lng" : -73.179182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4598939802915,
+                  "lng" : -73.1778330197085
+               },
+               "southwest" : {
+                  "lat" : 44.4571960197085,
+                  "lng" : -73.18053098029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

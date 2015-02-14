@@ -1,0 +1,498 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pooja Path",
+               "short_name" : "Pooja Path",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "C Block",
+               "short_name" : "C Block",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baldev Nagar",
+               "short_name" : "Baldev Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "305004",
+               "short_name" : "305004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pooja Path, C Block, Baldev Nagar, Ajmer, Rajasthan 305004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.501321,
+                  "lng" : 74.63673539999999
+               },
+               "southwest" : {
+                  "lat" : 26.499079,
+                  "lng" : 74.63451739999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4998661,
+               "lng" : 74.6362499
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5015489802915,
+                  "lng" : 74.63697538029149
+               },
+               "southwest" : {
+                  "lat" : 26.4988510197085,
+                  "lng" : 74.63427741970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puja Marg",
+               "short_name" : "Puja Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "305001",
+               "short_name" : "305001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Puja Marg, Ajmer, Rajasthan 305001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4362395,
+                  "lng" : 74.65833929999999
+               },
+               "southwest" : {
+                  "lat" : 26.4347372,
+                  "lng" : 74.6561
+               }
+            },
+            "location" : {
+               "lat" : 26.4352804,
+               "lng" : 74.65790079999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4368373302915,
+                  "lng" : 74.6585686302915
+               },
+               "southwest" : {
+                  "lat" : 26.4341393697085,
+                  "lng" : 74.65587066970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pooja Marg",
+               "short_name" : "Pooja Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BITS Pilani",
+               "short_name" : "BITS",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "BITS",
+               "short_name" : "BITS",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pilani",
+               "short_name" : "Pilani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhunjhunu",
+               "short_name" : "Jhunjhunu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "333031",
+               "short_name" : "333031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BITS Pilani, Pooja Marg, BITS, Pilani, Rajasthan 333031, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3584993,
+                  "lng" : 75.58642039999999
+               },
+               "southwest" : {
+                  "lat" : 28.3557823,
+                  "lng" : 75.58385799999999
+               }
+            },
+            "location" : {
+               "lat" : 28.35706,
+               "lng" : 75.5848306
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3584993,
+                  "lng" : 75.5864881802915
+               },
+               "southwest" : {
+                  "lat" : 28.3557823,
+                  "lng" : 75.58379021970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pooja Path",
+               "short_name" : "Pooja Path",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rani Sati Nagar",
+               "short_name" : "Rani Sati Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nirman Nagar",
+               "short_name" : "Nirman Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Brijlalpura",
+               "short_name" : "Brijlalpura",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jaipur",
+               "short_name" : "Jaipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pooja Path, Rani Sati Nagar, Nirman Nagar, Brijlalpura, Jaipur, Rajasthan, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8900358,
+                  "lng" : 75.7452045
+               },
+               "southwest" : {
+                  "lat" : 26.8896147,
+                  "lng" : 75.74430049999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8896661,
+               "lng" : 75.74456259999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8911742302915,
+                  "lng" : 75.7461014802915
+               },
+               "southwest" : {
+                  "lat" : 26.8884762697085,
+                  "lng" : 75.74340351970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Puja",
+               "short_name" : "Via Puja",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prata di Pordenone",
+               "short_name" : "Prata di Pordenone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prata di Pordenone",
+               "short_name" : "Prata di Pordenone",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pordenone",
+               "short_name" : "PN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Friuli-Venezia Giulia",
+               "short_name" : "Friuli-Venezia Giulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33080",
+               "short_name" : "33080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Puja, 33080 Prata di Pordenone PN, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.891528,
+                  "lng" : 12.589432
+               },
+               "southwest" : {
+                  "lat" : 45.889282,
+                  "lng" : 12.5838249
+               }
+            },
+            "location" : {
+               "lat" : 45.8900995,
+               "lng" : 12.5865967
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8917539802915,
+                  "lng" : 12.589432
+               },
+               "southwest" : {
+                  "lat" : 45.8890560197085,
+                  "lng" : 12.5838249
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalan Puja",
+               "short_name" : "Jl. Puja",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Margaluyu",
+               "short_name" : "Margaluyu",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kecamatan Purabaya",
+               "short_name" : "Kecamatan Purabaya",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sukabumi",
+               "short_name" : "Sukabumi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jawa Barat",
+               "short_name" : "Jawa Bar.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43187",
+               "short_name" : "43187",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jalan Puja, Kecamatan Purabaya, Sukabumi, Jawa Barat 43187, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.092815700000001,
+                  "lng" : 106.9393754
+               },
+               "southwest" : {
+                  "lat" : -7.099377899999999,
+                  "lng" : 106.9227712
+               }
+            },
+            "location" : {
+               "lat" : -7.096212899999999,
+               "lng" : 106.9316629
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.092815700000001,
+                  "lng" : 106.9393754
+               },
+               "southwest" : {
+                  "lat" : -7.099377899999999,
+                  "lng" : 106.9227712
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Puja",
+               "short_name" : "Via Puja",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trecroci",
+               "short_name" : "Trecroci",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polia",
+               "short_name" : "Polia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Vibo Valentia",
+               "short_name" : "VV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89813",
+               "short_name" : "89813",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Puja, 89813 Trecroci VV, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7555263,
+                  "lng" : 16.3176795
+               },
+               "southwest" : {
+                  "lat" : 38.7554192,
+                  "lng" : 16.3167061
+               }
+            },
+            "location" : {
+               "lat" : 38.7554568,
+               "lng" : 16.317217
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7568217302915,
+                  "lng" : 16.3185417802915
+               },
+               "southwest" : {
+                  "lat" : 38.7541237697085,
+                  "lng" : 16.3158438197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

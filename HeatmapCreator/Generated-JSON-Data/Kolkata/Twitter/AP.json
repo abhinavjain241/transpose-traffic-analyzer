@@ -1,0 +1,187 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Amapá",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Amapá, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.4431666,
+                  "lng" : -49.8766847
+               },
+               "southwest" : {
+                  "lat" : -1.2361787,
+                  "lng" : -54.8762441
+               }
+            },
+            "location" : {
+               "lat" : 0.9019925,
+               "lng" : -52.0029565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.4431666,
+                  "lng" : -49.8766847
+               },
+               "southwest" : {
+                  "lat" : -1.2361787,
+                  "lng" : -54.8762441
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1565479,
+                  "lng" : 84.79194509999999
+               },
+               "southwest" : {
+                  "lat" : 12.596836,
+                  "lng" : 76.749786
+               }
+            },
+            "location" : {
+               "lat" : 15.9128998,
+               "lng" : 79.7399875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1565479,
+                  "lng" : 84.79194509999999
+               },
+               "southwest" : {
+                  "lat" : 12.596836,
+                  "lng" : 76.749786
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ascoli Piceno",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marche",
+               "short_name" : "Marche",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ascoli Piceno, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0797794,
+                  "lng" : 13.9163652
+               },
+               "southwest" : {
+                  "lat" : 42.687158,
+                  "lng" : 13.1875328
+               }
+            },
+            "location" : {
+               "lat" : 42.86389330000001,
+               "lng" : 13.5899733
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0797794,
+                  "lng" : 13.9163652
+               },
+               "southwest" : {
+                  "lat" : 42.687158,
+                  "lng" : 13.1875328
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Apo",
+               "short_name" : "Mount Apo",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Mount Apo Natural Park",
+               "short_name" : "Mount Apo Natural Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mount Apo, Mount Apo Natural Park, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.9968002,
+                  "lng" : 125.2822495
+               },
+               "southwest" : {
+                  "lat" : 6.976183499999999,
+                  "lng" : 125.2612209
+               }
+            },
+            "location" : {
+               "lat" : 6.9864356,
+               "lng" : 125.2725259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.9968002,
+                  "lng" : 125.2822495
+               },
+               "southwest" : {
+                  "lat" : 6.976183499999999,
+                  "lng" : 125.2612209
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

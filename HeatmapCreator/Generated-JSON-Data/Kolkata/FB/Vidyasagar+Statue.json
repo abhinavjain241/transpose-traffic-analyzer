@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vidyasagar Statue",
+               "short_name" : "Vidyasagar Statue",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Medinipur",
+               "short_name" : "Medinipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Medinipur",
+               "short_name" : "West Medinipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "721101",
+               "short_name" : "721101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vidyasagar Statue, Medinipur, West Bengal 721101",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.425665,
+               "lng" : 87.31988339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4359788,
+                  "lng" : 87.3358908
+               },
+               "southwest" : {
+                  "lat" : 22.4153504,
+                  "lng" : 87.30387600000002
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

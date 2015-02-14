@@ -1,0 +1,264 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azad Market",
+               "short_name" : "Azad Market",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Peer Gate Area",
+               "short_name" : "Peer Gate Area",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhopal",
+               "short_name" : "Bhopal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bhopal",
+               "short_name" : "Bhopal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "462001",
+               "short_name" : "462001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.261789,
+                  "lng" : 77.40565309999999
+               },
+               "southwest" : {
+                  "lat" : 23.258697,
+                  "lng" : 77.39833279999999
+               }
+            },
+            "location" : {
+               "lat" : 23.260623,
+               "lng" : 77.40205779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.261789,
+                  "lng" : 77.40565309999999
+               },
+               "southwest" : {
+                  "lat" : 23.258697,
+                  "lng" : 77.39833279999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azad Market",
+               "short_name" : "Azad Market",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Beri Wala Bagh",
+               "short_name" : "Beri Wala Bagh",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kishan Ganj",
+               "short_name" : "Kishan Ganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azad Market, Beri Wala Bagh, Kishan Ganj, New Delhi, Delhi 110006",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.663154,
+               "lng" : 77.207077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6645029802915,
+                  "lng" : 77.20842598029151
+               },
+               "southwest" : {
+                  "lat" : 28.6618050197085,
+                  "lng" : 77.2057280197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azad Market Road",
+               "short_name" : "Azad Market Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sadar Bazaar",
+               "short_name" : "Sadar Bazaar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110055",
+               "short_name" : "110055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azad Market Road, Sadar Bazaar, New Delhi, Delhi 110055, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6643263,
+                  "lng" : 77.2155305
+               },
+               "southwest" : {
+                  "lat" : 28.6627864,
+                  "lng" : 77.207967
+               }
+            },
+            "location" : {
+               "lat" : 28.6630977,
+               "lng" : 77.2115604
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6649053302915,
+                  "lng" : 77.2155305
+               },
+               "southwest" : {
+                  "lat" : 28.6622073697085,
+                  "lng" : 77.207967
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azad Market Road",
+               "short_name" : "Azad Market Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rohtas",
+               "short_name" : "Rohtas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "821309",
+               "short_name" : "821309",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azad Market Road, Bihar 821309, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.157764,
+                  "lng" : 84.3985069
+               },
+               "southwest" : {
+                  "lat" : 25.126241,
+                  "lng" : 84.3893956
+               }
+            },
+            "location" : {
+               "lat" : 25.1416755,
+               "lng" : 84.3935772
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.157764,
+                  "lng" : 84.3985069
+               },
+               "southwest" : {
+                  "lat" : 25.126241,
+                  "lng" : 84.3893956
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

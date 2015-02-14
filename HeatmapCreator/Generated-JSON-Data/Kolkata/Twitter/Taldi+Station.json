@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taldi",
+               "short_name" : "Taldi",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Taldi Station Road",
+               "short_name" : "Taldi Station Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taldi",
+               "short_name" : "Taldi",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "South 24 Parganas",
+               "short_name" : "South 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "743376",
+               "short_name" : "743376",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taldi, Taldi Station Road, Taldi, West Bengal 743376, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.3433479,
+               "lng" : 88.6094892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.3446968802915,
+                  "lng" : 88.61083818029149
+               },
+               "southwest" : {
+                  "lat" : 22.34199891970849,
+                  "lng" : 88.60814021970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

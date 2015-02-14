@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BKC Road",
+               "short_name" : "BKC Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "BKC Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.074951,
+                  "lng" : 72.8754529
+               },
+               "southwest" : {
+                  "lat" : 19.0526942,
+                  "lng" : 72.8468857
+               }
+            },
+            "location" : {
+               "lat" : 19.0642262,
+               "lng" : 72.8607121
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.074951,
+                  "lng" : 72.8754529
+               },
+               "southwest" : {
+                  "lat" : 19.0526942,
+                  "lng" : 72.8468857
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bkc Road",
+               "short_name" : "Bkc Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kwazakele 1",
+               "short_name" : "Kwazakele 1",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ibhayi",
+               "short_name" : "Ibhayi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Port Elizabeth",
+               "short_name" : "Port Elizabeth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Cape",
+               "short_name" : "EC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6205",
+               "short_name" : "6205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bkc Road, Ibhayi, 6205, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.876973,
+                  "lng" : 25.59971
+               },
+               "southwest" : {
+                  "lat" : -33.878149,
+                  "lng" : 25.5989
+               }
+            },
+            "location" : {
+               "lat" : -33.8771599,
+               "lng" : 25.599542
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.8762120197085,
+                  "lng" : 25.6006539802915
+               },
+               "southwest" : {
+                  "lat" : -33.8789099802915,
+                  "lng" : 25.59795601970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garfa Main Road",
+               "short_name" : "Garfa Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Garfa Main Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5101461,
+                  "lng" : 88.3845807
+               },
+               "southwest" : {
+                  "lat" : 22.4971454,
+                  "lng" : 88.37433949999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5033496,
+               "lng" : 88.3841934
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5101461,
+                  "lng" : 88.3845807
+               },
+               "southwest" : {
+                  "lat" : 22.4971454,
+                  "lng" : 88.37433949999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

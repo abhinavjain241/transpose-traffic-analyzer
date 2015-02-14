@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chawri Bazar Metro Station",
+               "short_name" : "Chawri Bazar Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hauz Qazi Chowk",
+               "short_name" : "Hauz Qazi Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phatak Badal Beg",
+               "short_name" : "Phatak Badal Beg",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kaccha Pandit Main Bazar",
+               "short_name" : "Kaccha Pandit Main Bazar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lal Kuan Bazar",
+               "short_name" : "Lal Kuan Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Old Delhi",
+               "short_name" : "Old Delhi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110006",
+               "short_name" : "110006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chawri Bazar Metro Station, Hauz Qazi Chowk, Phatak Badal Beg, Kaccha Pandit Main Bazar, Lal Kuan Bazar, Old Delhi, New Delhi, Delhi 110006, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6494074,
+               "lng" : 77.2263241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6507563802915,
+                  "lng" : 77.2276730802915
+               },
+               "southwest" : {
+                  "lat" : 28.6480584197085,
+                  "lng" : 77.22497511970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

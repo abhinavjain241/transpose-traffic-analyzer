@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nahar Singh",
+               "short_name" : "Nahar Singh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bijnor",
+               "short_name" : "Bijnor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "246737",
+               "short_name" : "246737",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nahar Singh, Uttar Pradesh 246737, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1616337,
+                  "lng" : 78.38866349999999
+               },
+               "southwest" : {
+                  "lat" : 29.159432,
+                  "lng" : 78.38630329999999
+               }
+            },
+            "location" : {
+               "lat" : 29.160544,
+               "lng" : 78.38724449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1618818302915,
+                  "lng" : 78.3888323802915
+               },
+               "southwest" : {
+                  "lat" : 29.1591838697085,
+                  "lng" : 78.3861344197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nahar Singh",
+               "short_name" : "Nahar Singh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solan",
+               "short_name" : "Solan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "174101",
+               "short_name" : "174101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nahar Singh, Himachal Pradesh 174101, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.0060405,
+               "lng" : 76.70269759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0073894802915,
+                  "lng" : 76.70404658029149
+               },
+               "southwest" : {
+                  "lat" : 31.0046915197085,
+                  "lng" : 76.70134861970848
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

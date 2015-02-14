@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gariahat Road",
+               "short_name" : "Gariahat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gariahat Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5227634,
+                  "lng" : 88.3677704
+               },
+               "southwest" : {
+                  "lat" : 22.5029231,
+                  "lng" : 88.36458700000001
+               }
+            },
+            "location" : {
+               "lat" : 22.5132518,
+               "lng" : 88.3671385
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5227634,
+                  "lng" : 88.3677704
+               },
+               "southwest" : {
+                  "lat" : 22.5029231,
+                  "lng" : 88.36458700000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gariahat Road",
+               "short_name" : "Gariahat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South End Park",
+               "short_name" : "South End Park",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhakuria",
+               "short_name" : "Dhakuria",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700045",
+               "short_name" : "700045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gariahat Road, South End Park, Dhakuria, Kolkata, West Bengal 700045",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5108532,
+               "lng" : 88.3670954
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5122021802915,
+                  "lng" : 88.36844438029149
+               },
+               "southwest" : {
+                  "lat" : 22.5095042197085,
+                  "lng" : 88.36574641970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,271 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yeshwantpur Circle",
+               "short_name" : "Yeshwantpur Circle",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "8th Main Road",
+               "short_name" : "8th Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Subedarpalya",
+               "short_name" : "Subedarpalya",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Malleshwara",
+               "short_name" : "Malleshwara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560012",
+               "short_name" : "560012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yeshwantpur Circle, 8th Main Road, Subedarpalya, Malleshwara, Bengaluru, Karnataka 560012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.0186173,
+               "lng" : 77.5578039
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0199662802915,
+                  "lng" : 77.55915288029149
+               },
+               "southwest" : {
+                  "lat" : 13.0172683197085,
+                  "lng" : 77.55645491970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malleswaram Circle Bus Stop",
+               "short_name" : "Malleswaram Circle Bus Stop",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sampige Road",
+               "short_name" : "Sampige Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palace Guttahalli",
+               "short_name" : "Palace Guttahalli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru Urban",
+               "short_name" : "Bengaluru Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560003",
+               "short_name" : "560003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malleswaram Circle Bus Stop, Sampige Road, Palace Guttahalli, Bengaluru, Karnataka 560003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9977831,
+               "lng" : 77.5712935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9991320802915,
+                  "lng" : 77.57264248029151
+               },
+               "southwest" : {
+                  "lat" : 12.9964341197085,
+                  "lng" : 77.56994451970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malleswaram Circle Bus Stand",
+               "short_name" : "Malleswaram Circle Bus Stand",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sampige Road",
+               "short_name" : "Sampige Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malleshwara",
+               "short_name" : "Malleshwara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560003",
+               "short_name" : "560003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malleswaram Circle Bus Stand, Sampige Road, Malleshwara, Bengaluru, Karnataka 560003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9979157,
+               "lng" : 77.5713542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9992646802915,
+                  "lng" : 77.57270318029151
+               },
+               "southwest" : {
+                  "lat" : 12.9965667197085,
+                  "lng" : 77.57000521970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malleswaram Circle Bus Stop",
+               "short_name" : "Malleswaram Circle Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "5th Cross Road",
+               "short_name" : "5th Cross Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malleshwara",
+               "short_name" : "Malleshwara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560003",
+               "short_name" : "560003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malleswaram Circle Bus Stop, 5th Cross Road, Malleshwara, Bengaluru, Karnataka 560003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9968894,
+               "lng" : 77.56880289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9982383802915,
+                  "lng" : 77.5701518802915
+               },
+               "southwest" : {
+                  "lat" : 12.9955404197085,
+                  "lng" : 77.5674539197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

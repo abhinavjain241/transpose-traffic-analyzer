@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanhaiya Nagar Metro Station",
+               "short_name" : "Kanhaiya Nagar Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Block F",
+               "short_name" : "Block F",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "JJ Colony Wazirpur",
+               "short_name" : "JJ Colony Wazirpur",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ashok Vihar",
+               "short_name" : "Ashok Vihar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110034",
+               "short_name" : "110034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanhaiya Nagar Metro Station, Block F, JJ Colony Wazirpur, Ashok Vihar, New Delhi, Delhi 110034, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.683221,
+                  "lng" : 77.1652072
+               },
+               "southwest" : {
+                  "lat" : 28.6815577,
+                  "lng" : 77.16426749999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6827239,
+               "lng" : 77.1646033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.68373833029149,
+                  "lng" : 77.16608633029151
+               },
+               "southwest" : {
+                  "lat" : 28.6810403697085,
+                  "lng" : 77.1633883697085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

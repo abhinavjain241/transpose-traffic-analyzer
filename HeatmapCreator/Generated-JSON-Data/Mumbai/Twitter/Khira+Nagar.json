@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khira Nagar",
+               "short_name" : "Khira Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz West",
+               "short_name" : "Santacruz West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400054",
+               "short_name" : "400054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khira Nagar, Santacruz West, Mumbai, Maharashtra 400054, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.089766,
+                  "lng" : 72.838252
+               },
+               "southwest" : {
+                  "lat" : 19.0866101,
+                  "lng" : 72.8356556
+               }
+            },
+            "location" : {
+               "lat" : 19.0880415,
+               "lng" : 72.83714689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.089766,
+                  "lng" : 72.8383027802915
+               },
+               "southwest" : {
+                  "lat" : 19.0866101,
+                  "lng" : 72.83560481970849
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khira Nagar",
+               "short_name" : "Khira Nagar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Swami Vivekanand Road",
+               "short_name" : "Swami Vivekanand Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khira Nagar",
+               "short_name" : "Khira Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santacruz West",
+               "short_name" : "Santacruz West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400054",
+               "short_name" : "400054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khira Nagar, Swami Vivekanand Road, Khira Nagar, Santacruz West, Mumbai, Maharashtra 400054, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0872442,
+               "lng" : 72.8380251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0885931802915,
+                  "lng" : 72.83937408029151
+               },
+               "southwest" : {
+                  "lat" : 19.0858952197085,
+                  "lng" : 72.8366761197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

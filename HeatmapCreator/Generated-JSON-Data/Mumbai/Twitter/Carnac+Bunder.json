@@ -1,0 +1,152 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnac Bunder",
+               "short_name" : "Carnac Bunder",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Indira Docks",
+               "short_name" : "Indira Docks",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Port Trust",
+               "short_name" : "Mumbai Port Trust",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mazgaon",
+               "short_name" : "Mazgaon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carnac Bunder, Indira Docks, Mumbai Port Trust, Mazgaon, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.949047,
+                  "lng" : 72.8429993
+               },
+               "southwest" : {
+                  "lat" : 18.9451149,
+                  "lng" : 72.8397408
+               }
+            },
+            "location" : {
+               "lat" : 18.94733,
+               "lng" : 72.84063279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.949047,
+                  "lng" : 72.8429993
+               },
+               "southwest" : {
+                  "lat" : 18.9451149,
+                  "lng" : 72.8397408
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnac Road",
+               "short_name" : "Carnac Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chhatrapati Shivaji Terminus Area",
+               "short_name" : "Chhatrapati Shivaji Terminus Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fort",
+               "short_name" : "Fort",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carnac Road, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9488515,
+                  "lng" : 72.8369831
+               },
+               "southwest" : {
+                  "lat" : 18.9482828,
+                  "lng" : 72.8351593
+               }
+            },
+            "location" : {
+               "lat" : 18.9486373,
+               "lng" : 72.835971
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9499161302915,
+                  "lng" : 72.83742018029152
+               },
+               "southwest" : {
+                  "lat" : 18.9472181697085,
+                  "lng" : 72.8347222197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

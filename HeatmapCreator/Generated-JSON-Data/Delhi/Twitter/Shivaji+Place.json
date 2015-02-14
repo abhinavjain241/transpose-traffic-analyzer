@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaji Place",
+               "short_name" : "Shivaji Place",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vishal Enclave",
+               "short_name" : "Vishal Enclave",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tagore Garden Extension",
+               "short_name" : "Tagore Garden Extension",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Delhi",
+               "short_name" : "West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110027",
+               "short_name" : "110027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivaji Place, Vishal Enclave, Tagore Garden Extension, New Delhi, Delhi 110027, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6547889,
+                  "lng" : 77.124949
+               },
+               "southwest" : {
+                  "lat" : 28.648647,
+                  "lng" : 77.11854799999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6532067,
+               "lng" : 77.1225079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6547889,
+                  "lng" : 77.124949
+               },
+               "southwest" : {
+                  "lat" : 28.648647,
+                  "lng" : 77.11854799999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

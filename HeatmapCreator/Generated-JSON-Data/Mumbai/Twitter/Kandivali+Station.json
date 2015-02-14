@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandivali",
+               "short_name" : "Kandivali",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Jethava Nagar",
+               "short_name" : "Jethava Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kandivali East",
+               "short_name" : "Kandivali East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400067",
+               "short_name" : "400067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kandivali, Jethava Nagar, Kandivali East, Mumbai, Maharashtra 400067, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2060315,
+                  "lng" : 72.8524125
+               },
+               "southwest" : {
+                  "lat" : 19.2031251,
+                  "lng" : 72.8515541
+               }
+            },
+            "location" : {
+               "lat" : 19.2045159,
+               "lng" : 72.85200949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2060315,
+                  "lng" : 72.8533322802915
+               },
+               "southwest" : {
+                  "lat" : 19.2031251,
+                  "lng" : 72.85063431970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

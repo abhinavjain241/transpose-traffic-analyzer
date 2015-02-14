@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ananda Palit Road",
+               "short_name" : "Ananda Palit Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Entally",
+               "short_name" : "Entally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ananda Palit Road, Entally, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5580464,
+                  "lng" : 88.3755164
+               },
+               "southwest" : {
+                  "lat" : 22.5550132,
+                  "lng" : 88.3722698
+               }
+            },
+            "location" : {
+               "lat" : 22.5564383,
+               "lng" : 88.3743928
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5580464,
+                  "lng" : 88.3755164
+               },
+               "southwest" : {
+                  "lat" : 22.5550132,
+                  "lng" : 88.3722698
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

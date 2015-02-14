@@ -1,0 +1,403 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goodwin Driver Training",
+               "short_name" : "Goodwin Driver Training",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "13A",
+               "short_name" : "13A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Church Street",
+               "short_name" : "Church St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warrenpoint",
+               "short_name" : "Warrenpoint",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newry",
+               "short_name" : "Newry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT34 3HN",
+               "short_name" : "BT34 3HN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goodwin Driver Training, 13A Church Street, Warrenpoint, Newry, Down BT34 3HN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1009901,
+               "lng" : -6.253594499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1023390802915,
+                  "lng" : -6.252245519708497
+               },
+               "southwest" : {
+                  "lat" : 54.0996411197085,
+                  "lng" : -6.254943480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "All Points Driver Training",
+               "short_name" : "All Points Driver Training",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Seymour Avenue",
+               "short_name" : "Seymour Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT19 1BN",
+               "short_name" : "BT19 1BN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "All Points Driver Training, Seymour Avenue, Bangor, Down BT19 1BN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6627623,
+               "lng" : -5.704242300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.66411128029149,
+                  "lng" : -5.702893319708498
+               },
+               "southwest" : {
+                  "lat" : 54.66141331970849,
+                  "lng" : -5.705591280291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andrews Driving School",
+               "short_name" : "Andrews Driving School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lisburn",
+               "short_name" : "Lisburn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT27 5PT",
+               "short_name" : "BT27 5PT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Andrews Driving School, Lisburn, Down BT27 5PT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.49794000000001,
+               "lng" : -6.045211999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.49928898029151,
+                  "lng" : -6.043863019708497
+               },
+               "southwest" : {
+                  "lat" : 54.49659101970851,
+                  "lng" : -6.046560980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4 SEASONS DRIVING SCHOOL",
+               "short_name" : "4 SEASONS DRIVING SCHOOL",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Newry",
+               "short_name" : "Newry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT34 1HY",
+               "short_name" : "BT34 1HY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 SEASONS DRIVING SCHOOL, Newry, Down BT34 1HY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.18943100000001,
+               "lng" : -6.330954999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.19077998029151,
+                  "lng" : -6.329606019708498
+               },
+               "southwest" : {
+                  "lat" : 54.18808201970851,
+                  "lng" : -6.332303980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auto Academy - Driving School",
+               "short_name" : "Auto Academy - Driving School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT32 4RW",
+               "short_name" : "BT32 4RW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auto Academy - Driving School, Banbridge, Down BT32 4RW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.347137,
+               "lng" : -6.256361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3484859802915,
+                  "lng" : -6.255012019708499
+               },
+               "southwest" : {
+                  "lat" : 54.3457880197085,
+                  "lng" : -6.257709980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greg Raggett Clutch Down Driving School",
+               "short_name" : "Greg Raggett Clutch Down Driving School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King George's Drive",
+               "short_name" : "King George's Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Haw",
+               "short_name" : "New Haw",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Addlestone",
+               "short_name" : "Addlestone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Addlestone",
+               "short_name" : "Addlestone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT15 3RW",
+               "short_name" : "KT15 3RW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greg Raggett Clutch Down Driving School, 44 King George's Drive, Addlestone, Surrey KT15 3RW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3507453,
+               "lng" : -0.5029103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3520942802915,
+                  "lng" : -0.5015613197084979
+               },
+               "southwest" : {
+                  "lat" : 51.3493963197085,
+                  "lng" : -0.504259280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Driving Instructor? A Cert 2 Pass.co.uk",
+               "short_name" : "Driving Instructor? A Cert 2 Pass.co.uk",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mary Street",
+               "short_name" : "Mary St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newtownards",
+               "short_name" : "Newtownards",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT23 4FA",
+               "short_name" : "BT23 4FA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Driving Instructor? A Cert 2 Pass.co.uk, 23 Mary Street, Newtownards, Down BT23 4FA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5940618,
+               "lng" : -5.6967258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.59541078029149,
+                  "lng" : -5.695376819708499
+               },
+               "southwest" : {
+                  "lat" : 54.5927128197085,
+                  "lng" : -5.698074780291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

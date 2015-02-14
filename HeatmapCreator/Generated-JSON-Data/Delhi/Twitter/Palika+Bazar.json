@@ -1,0 +1,627 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazar",
+               "short_name" : "Palika Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazar, Connaught Place, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.632202,
+                  "lng" : 77.219662
+               },
+               "southwest" : {
+                  "lat" : 28.629881,
+                  "lng" : 77.2166909
+               }
+            },
+            "location" : {
+               "lat" : 28.6310085,
+               "lng" : 77.2186001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6323904802915,
+                  "lng" : 77.219662
+               },
+               "southwest" : {
+                  "lat" : 28.6296925197085,
+                  "lng" : 77.2166909
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazar",
+               "short_name" : "Palika Bazar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gurdwara Bazar",
+               "short_name" : "Gurdwara Bazar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kot Kapura",
+               "short_name" : "Kot Kapura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faridkot",
+               "short_name" : "Faridkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151204",
+               "short_name" : "151204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazar, Gurdwara Bazar, Kot Kapura, Punjab 151204, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5817265,
+                  "lng" : 74.8205205
+               },
+               "southwest" : {
+                  "lat" : 30.5814912,
+                  "lng" : 74.81978509999999
+               }
+            },
+            "location" : {
+               "lat" : 30.5816253,
+               "lng" : 74.8201905
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5829578302915,
+                  "lng" : 74.82150178029151
+               },
+               "southwest" : {
+                  "lat" : 30.5802598697085,
+                  "lng" : 74.81880381970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazar",
+               "short_name" : "Palika Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rani Talab",
+               "short_name" : "Rani Talab",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jind",
+               "short_name" : "Jind",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jind",
+               "short_name" : "Jind",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "126102",
+               "short_name" : "126102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazar, Rani Talab, Jind, Haryana 126102, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3142201,
+                  "lng" : 76.31989609999999
+               },
+               "southwest" : {
+                  "lat" : 29.311719,
+                  "lng" : 76.31492109999999
+               }
+            },
+            "location" : {
+               "lat" : 29.3127471,
+               "lng" : 76.3177759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3143185302915,
+                  "lng" : 76.31989609999999
+               },
+               "southwest" : {
+                  "lat" : 29.3116205697085,
+                  "lng" : 76.31492109999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazaar",
+               "short_name" : "Palika Bazaar",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Nangal Road",
+               "short_name" : "Nangal Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Professor Colony",
+               "short_name" : "Professor Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Una",
+               "short_name" : "Una",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Una",
+               "short_name" : "Una",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Himachal Pradesh",
+               "short_name" : "HP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "174303",
+               "short_name" : "174303",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazaar, Nangal Road, Professor Colony, Una, Himachal Pradesh 174303, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4649,
+                  "lng" : 76.2792295
+               },
+               "southwest" : {
+                  "lat" : 31.4643508,
+                  "lng" : 76.2787144
+               }
+            },
+            "location" : {
+               "lat" : 31.4646254,
+               "lng" : 76.278972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4659743802915,
+                  "lng" : 76.2803209302915
+               },
+               "southwest" : {
+                  "lat" : 31.4632764197085,
+                  "lng" : 76.27762296970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazar",
+               "short_name" : "Palika Bazar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "19D",
+               "short_name" : "19D",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector 19",
+               "short_name" : "Sector 19",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chandigarh",
+               "short_name" : "Chandigarh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chandigarh",
+               "short_name" : "Chandigarh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chandigarh",
+               "short_name" : "CH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "160019",
+               "short_name" : "160019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazar, 19D, Sector 19, Chandigarh, Chandigarh 160019, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.728329,
+                  "lng" : 76.79337439999999
+               },
+               "southwest" : {
+                  "lat" : 30.7275881,
+                  "lng" : 76.7925085
+               }
+            },
+            "location" : {
+               "lat" : 30.7279207,
+               "lng" : 76.79288819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7293075302915,
+                  "lng" : 76.7942904302915
+               },
+               "southwest" : {
+                  "lat" : 30.7266095697085,
+                  "lng" : 76.79159246970849
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazaar",
+               "short_name" : "Palika Bazaar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rajiv Chowk",
+               "short_name" : "Rajiv Chowk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palika Bazar",
+               "short_name" : "Palika Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi (state)",
+               "short_name" : "Delhi (state)",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazaar, Rajiv Chowk, Palika Bazar, Connaught Place, New Delhi, Delhi (state) 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6314062,
+                  "lng" : 77.2195036
+               },
+               "southwest" : {
+                  "lat" : 28.6299851,
+                  "lng" : 77.21812849999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6308464,
+               "lng" : 77.21877979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6320446302915,
+                  "lng" : 77.22016503029151
+               },
+               "southwest" : {
+                  "lat" : 28.6293466697085,
+                  "lng" : 77.2174670697085
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazar",
+               "short_name" : "Palika Bazar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Unjha",
+               "short_name" : "Unjha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mehsana",
+               "short_name" : "Mehsana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "384170",
+               "short_name" : "384170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazar, Unjha, Gujarat 384170, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8036925,
+               "lng" : 72.39003989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8050414802915,
+                  "lng" : 72.3913888802915
+               },
+               "southwest" : {
+                  "lat" : 23.8023435197085,
+                  "lng" : 72.38869091970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazaar",
+               "short_name" : "Palika Bazaar",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shivaji Nagar",
+               "short_name" : "Shivaji Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Secunderabad",
+               "short_name" : "SC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500003",
+               "short_name" : "500003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4352778,
+                  "lng" : 78.49987969999999
+               },
+               "southwest" : {
+                  "lat" : 17.4348187,
+                  "lng" : 78.4993271
+               }
+            },
+            "location" : {
+               "lat" : 17.4350198,
+               "lng" : 78.499656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4363972302915,
+                  "lng" : 78.50095238029151
+               },
+               "southwest" : {
+                  "lat" : 17.43369926970849,
+                  "lng" : 78.4982544197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palika Bazaar",
+               "short_name" : "Palika Bazaar",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Model Colony",
+               "short_name" : "Model Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "East Bhatia Nagar",
+               "short_name" : "East Bhatia Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jagadhri",
+               "short_name" : "Jagadhri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yamuna Nagar",
+               "short_name" : "Yamuna Nagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "135001",
+               "short_name" : "135001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palika Bazaar, Model Colony, East Bhatia Nagar, Jagadhri, Haryana 135001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1387067,
+                  "lng" : 77.2993379
+               },
+               "southwest" : {
+                  "lat" : 30.1378625,
+                  "lng" : 77.29843679999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1383409,
+               "lng" : 77.2989656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1396335802915,
+                  "lng" : 77.3002363302915
+               },
+               "southwest" : {
+                  "lat" : 30.13693561970851,
+                  "lng" : 77.29753836970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

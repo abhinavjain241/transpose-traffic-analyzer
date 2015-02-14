@@ -1,0 +1,207 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suraj Water Park",
+               "short_name" : "Suraj Water Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dongripada",
+               "short_name" : "Dongripada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400607",
+               "short_name" : "400607",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Suraj Water Park, Dongripada, Thane West, Thane, Maharashtra 400607",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.255362,
+               "lng" : 72.971237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2567109802915,
+                  "lng" : 72.97258598029151
+               },
+               "southwest" : {
+                  "lat" : 19.25401301970849,
+                  "lng" : 72.96988801970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suraj Water Park",
+               "short_name" : "Suraj Water Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Dongripada",
+               "short_name" : "Dongripada",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Thane West",
+               "short_name" : "Thane West",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400615",
+               "short_name" : "400615",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Suraj Water Park, Dongripada, Thane West, Thane West, Maharashtra 400615, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.255891,
+                  "lng" : 72.97168479999999
+               },
+               "southwest" : {
+                  "lat" : 19.2532069,
+                  "lng" : 72.9691174
+               }
+            },
+            "location" : {
+               "lat" : 19.2545293,
+               "lng" : 72.97004699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2558979302915,
+                  "lng" : 72.9717500802915
+               },
+               "southwest" : {
+                  "lat" : 19.25319996970849,
+                  "lng" : 72.96905211970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "amusement_park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suraj Apartment",
+               "short_name" : "Suraj Apartment",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Tithal Road",
+               "short_name" : "Tithal Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Government Colony",
+               "short_name" : "Government Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Valsad",
+               "short_name" : "Valsad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valsad",
+               "short_name" : "Valsad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "396001",
+               "short_name" : "396001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Suraj Apartment, Tithal Road, Government Colony, Valsad, Gujarat 396001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.607717,
+               "lng" : 72.925732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.6090659802915,
+                  "lng" : 72.92708098029151
+               },
+               "southwest" : {
+                  "lat" : 20.6063680197085,
+                  "lng" : 72.9243830197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

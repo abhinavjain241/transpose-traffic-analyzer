@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Safdarjung Road",
+               "short_name" : "Safdarjung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Safdarjung Road, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6009157,
+                  "lng" : 77.21289709999999
+               },
+               "southwest" : {
+                  "lat" : 28.5914618,
+                  "lng" : 77.20503579999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5956991,
+               "lng" : 77.20769369999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6009157,
+                  "lng" : 77.21289709999999
+               },
+               "southwest" : {
+                  "lat" : 28.5914618,
+                  "lng" : 77.20503579999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Safdarjung Station",
+               "short_name" : "Safdarjung Station",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "New Moti Bagh",
+               "short_name" : "New Moti Bagh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110021",
+               "short_name" : "110021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Safdarjung Station, New Moti Bagh, New Delhi, Delhi 110021, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5834588,
+                  "lng" : 77.1901307
+               },
+               "southwest" : {
+                  "lat" : 28.5815627,
+                  "lng" : 77.1841725
+               }
+            },
+            "location" : {
+               "lat" : 28.5823068,
+               "lng" : 77.18715739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5838597302915,
+                  "lng" : 77.1901307
+               },
+               "southwest" : {
+                  "lat" : 28.5811617697085,
+                  "lng" : 77.1841725
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Junction Drive",
+               "short_name" : "Junction Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cantonment",
+               "short_name" : "Cantonment",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Escambia County",
+               "short_name" : "Escambia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32533",
+               "short_name" : "32533",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Junction Drive, Cantonment, FL 32533, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.590157,
+                  "lng" : -87.26063789999999
+               },
+               "southwest" : {
+                  "lat" : 30.58684899999999,
+                  "lng" : -87.2642692
+               }
+            },
+            "location" : {
+               "lat" : 30.587415,
+               "lng" : -87.26231
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.590157,
+                  "lng" : -87.26063789999999
+               },
+               "southwest" : {
+                  "lat" : 30.58684899999999,
+                  "lng" : -87.2642692
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cantonment Bridge",
+               "short_name" : "Z6011",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Natore",
+               "short_name" : "Natore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajshahi Division",
+               "short_name" : "Rajshahi Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cantonment Bridge, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.2754159,
+                  "lng" : 89.014264
+               },
+               "southwest" : {
+                  "lat" : 24.2743327,
+                  "lng" : 89.0126118
+               }
+            },
+            "location" : {
+               "lat" : 24.2744403,
+               "lng" : 89.0139341
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.2762232802915,
+                  "lng" : 89.0147868802915
+               },
+               "southwest" : {
+                  "lat" : 24.2735253197085,
+                  "lng" : 89.01208891970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangpur Cantonment - Ghagat Bridge Road",
+               "short_name" : "Z5014",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rangpur",
+               "short_name" : "Rangpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rangpur Division",
+               "short_name" : "Rangpur Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rangpur Cantonment - Ghagat Bridge Road, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7617114,
+                  "lng" : 89.2294677
+               },
+               "southwest" : {
+                  "lat" : 25.7488238,
+                  "lng" : 89.20277539999999
+               }
+            },
+            "location" : {
+               "lat" : 25.7575488,
+               "lng" : 89.213425
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7617114,
+                  "lng" : 89.2294677
+               },
+               "southwest" : {
+                  "lat" : 25.7488238,
+                  "lng" : 89.20277539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

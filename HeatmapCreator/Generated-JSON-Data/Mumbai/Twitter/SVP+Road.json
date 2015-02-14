@@ -1,0 +1,335 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sardar Vallabhbhai Patel Road",
+               "short_name" : "SVP Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sardar Vallabhbhai Patel Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9603063,
+                  "lng" : 72.8427063
+               },
+               "southwest" : {
+                  "lat" : 18.9556232,
+                  "lng" : 72.8124373
+               }
+            },
+            "location" : {
+               "lat" : 18.9580666,
+               "lng" : 72.82768299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9603063,
+                  "lng" : 72.8427063
+               },
+               "southwest" : {
+                  "lat" : 18.9556232,
+                  "lng" : 72.8124373
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SVP Road",
+               "short_name" : "SVP Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Panch Hatdi",
+               "short_name" : "Panch Hatdi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Porbandar",
+               "short_name" : "Porbandar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porbandar",
+               "short_name" : "Porbandar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "360575",
+               "short_name" : "360575",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SVP Road, Panch Hatdi, Porbandar, Gujarat 360575, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.6426478,
+                  "lng" : 69.6207541
+               },
+               "southwest" : {
+                  "lat" : 21.6416826,
+                  "lng" : 69.6064951
+               }
+            },
+            "location" : {
+               "lat" : 21.6420055,
+               "lng" : 69.6140482
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.6435141802915,
+                  "lng" : 69.6207541
+               },
+               "southwest" : {
+                  "lat" : 21.6408162197085,
+                  "lng" : 69.6064951
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sardar Vallabhai Patel Road",
+               "short_name" : "SVP Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vidya Vihar",
+               "short_name" : "Vidya Vihar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mulund West",
+               "short_name" : "Mulund West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400080",
+               "short_name" : "400080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sardar Vallabhai Patel Road, Vidya Vihar, Mulund West, Mumbai, Maharashtra 400080, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1731093,
+                  "lng" : 72.95684439999999
+               },
+               "southwest" : {
+                  "lat" : 19.1718273,
+                  "lng" : 72.9552872
+               }
+            },
+            "location" : {
+               "lat" : 19.1724133,
+               "lng" : 72.9561757
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1738172802915,
+                  "lng" : 72.9574147802915
+               },
+               "southwest" : {
+                  "lat" : 19.1711193197085,
+                  "lng" : 72.95471681970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SVP Road",
+               "short_name" : "SVP Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kandivali West",
+               "short_name" : "Kandivali West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400067",
+               "short_name" : "400067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SVP Road, Kandivali West, Mumbai, Maharashtra 400067, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.201407,
+                  "lng" : 72.8466057
+               },
+               "southwest" : {
+                  "lat" : 19.1982277,
+                  "lng" : 72.84551380000001
+               }
+            },
+            "location" : {
+               "lat" : 19.1997379,
+               "lng" : 72.8458349
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.201407,
+                  "lng" : 72.84740873029151
+               },
+               "southwest" : {
+                  "lat" : 19.1982277,
+                  "lng" : 72.84471076970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SVP Road",
+               "short_name" : "SVP Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Adil Nagar",
+               "short_name" : "Adil Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucknow",
+               "short_name" : "Lucknow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "226020",
+               "short_name" : "226020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SVP Road, Adil Nagar, Lucknow, Uttar Pradesh 226020, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9119964,
+                  "lng" : 80.9665959
+               },
+               "southwest" : {
+                  "lat" : 26.9116012,
+                  "lng" : 80.965734
+               }
+            },
+            "location" : {
+               "lat" : 26.9117663,
+               "lng" : 80.96621639999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9131477802915,
+                  "lng" : 80.9675139302915
+               },
+               "southwest" : {
+                  "lat" : 26.9104498197085,
+                  "lng" : 80.9648159697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

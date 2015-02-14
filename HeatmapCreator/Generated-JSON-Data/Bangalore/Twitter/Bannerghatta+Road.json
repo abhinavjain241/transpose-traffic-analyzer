@@ -1,0 +1,247 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bannerghatta Road",
+               "short_name" : "Bannerghatta Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bannerghatta Road, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.8231352,
+                  "lng" : 77.6087167
+               },
+               "southwest" : {
+                  "lat" : 12.7954814,
+                  "lng" : 77.53890439999999
+               }
+            },
+            "location" : {
+               "lat" : 12.808906,
+               "lng" : 77.5784285
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8231352,
+                  "lng" : 77.6087167
+               },
+               "southwest" : {
+                  "lat" : 12.7954814,
+                  "lng" : 77.53890439999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bannerghatta Road",
+               "short_name" : "Bannerghatta Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jai Bheema Nagar",
+               "short_name" : "Jai Bheema Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sheshadripuram",
+               "short_name" : "Sheshadripuram",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560003",
+               "short_name" : "560003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bannerghatta Road, Jai Bheema Nagar, Sheshadripuram, Bengaluru, Karnataka 560003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9933928,
+                  "lng" : 77.5715805
+               },
+               "southwest" : {
+                  "lat" : 12.9909768,
+                  "lng" : 77.5714577
+               }
+            },
+            "location" : {
+               "lat" : 12.9929094,
+               "lng" : 77.57147979999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9935337802915,
+                  "lng" : 77.5728680802915
+               },
+               "southwest" : {
+                  "lat" : 12.9908358197085,
+                  "lng" : 77.57017011970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bannerghatta Main Road",
+               "short_name" : "Bannerghatta Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bannerghatta Main Road, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9252054,
+                  "lng" : 77.6016032
+               },
+               "southwest" : {
+                  "lat" : 12.9035957,
+                  "lng" : 77.5989077
+               }
+            },
+            "location" : {
+               "lat" : 12.9144763,
+               "lng" : 77.5998051
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9252054,
+                  "lng" : 77.6016044302915
+               },
+               "southwest" : {
+                  "lat" : 12.9035957,
+                  "lng" : 77.5989064697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bannerghatta Road",
+               "short_name" : "Bannerghatta Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anuradha Industrial Estate",
+               "short_name" : "Anuradha Industrial Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kumaraswamy Layout",
+               "short_name" : "Kumaraswamy Layout",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bannerghatta Road, Anuradha Industrial Estate, Kumaraswamy Layout, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9013421,
+               "lng" : 77.567318
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9026910802915,
+                  "lng" : 77.56866698029151
+               },
+               "southwest" : {
+                  "lat" : 12.8999931197085,
+                  "lng" : 77.56596901970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

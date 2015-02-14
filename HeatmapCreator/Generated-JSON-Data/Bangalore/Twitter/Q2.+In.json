@@ -1,0 +1,823 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Quadrate",
+               "short_name" : "Quadrate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mannheim",
+               "short_name" : "MA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karlsruhe",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68161",
+               "short_name" : "68161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Q2, 68161 Mannheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.48878819999999,
+                  "lng" : 8.4691536
+               },
+               "southwest" : {
+                  "lat" : 49.487722,
+                  "lng" : 8.4676189
+               }
+            },
+            "location" : {
+               "lat" : 49.48878819999999,
+               "lng" : 8.4683242
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.48960408029149,
+                  "lng" : 8.469735230291503
+               },
+               "southwest" : {
+                  "lat" : 49.48690611970849,
+                  "lng" : 8.467037269708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edendale Q",
+               "short_name" : "Edendale Q",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pietermaritzburg",
+               "short_name" : "PMB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indlovu DC",
+               "short_name" : "Indlovu DC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "KwaZulu-Natal",
+               "short_name" : "KZN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3217",
+               "short_name" : "3217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Q2, Pietermaritzburg, 3217, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.663988,
+                  "lng" : 30.35939699999999
+               },
+               "southwest" : {
+                  "lat" : -29.66436999999999,
+                  "lng" : 30.358524
+               }
+            },
+            "location" : {
+               "lat" : -29.66436999999999,
+               "lng" : 30.358524
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.6628300197085,
+                  "lng" : 30.36030948029149
+               },
+               "southwest" : {
+                  "lat" : -29.6655279802915,
+                  "lng" : 30.3576115197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2 Road",
+               "short_name" : "Q2 Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "GIDC",
+               "short_name" : "GIDC",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rajkot",
+               "short_name" : "Rajkot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rajkot",
+               "short_name" : "Rajkot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "360003",
+               "short_name" : "360003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Q2 Road, GIDC, Rajkot, Gujarat 360003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2799103,
+                  "lng" : 70.82307
+               },
+               "southwest" : {
+                  "lat" : 22.2787488,
+                  "lng" : 70.8229181
+               }
+            },
+            "location" : {
+               "lat" : 22.2799103,
+               "lng" : 70.82307
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2806785302915,
+                  "lng" : 70.8243430302915
+               },
+               "southwest" : {
+                  "lat" : 22.2779805697085,
+                  "lng" : 70.8216450697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Bamiyan",
+               "short_name" : "Bamiyan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bamiyan",
+               "short_name" : "Bamiyan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Q2, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6617962,
+                  "lng" : 67.7163041
+               },
+               "southwest" : {
+                  "lat" : 34.6593869,
+                  "lng" : 67.71481279999999
+               }
+            },
+            "location" : {
+               "lat" : 34.6606132,
+               "lng" : 67.7155865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6619405302915,
+                  "lng" : 67.7169074302915
+               },
+               "southwest" : {
+                  "lat" : 34.6592425697085,
+                  "lng" : 67.71420946970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Boulevard Center",
+               "short_name" : "Boulevard Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1685",
+               "short_name" : "1685",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Colorado Boulevard",
+               "short_name" : "S Colorado Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cory - Merrill",
+               "short_name" : "Cory - Merrill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver County",
+               "short_name" : "Denver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80222",
+               "short_name" : "80222",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boulevard Center, 1685 South Colorado Boulevard Q2, Denver, CO 80222, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6860329,
+                  "lng" : -104.9423309
+               },
+               "southwest" : {
+                  "lat" : 39.6858347,
+                  "lng" : -104.9423906
+               }
+            },
+            "location" : {
+               "lat" : 39.6859338,
+               "lng" : -104.9423608
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6872827802915,
+                  "lng" : -104.9410117697085
+               },
+               "southwest" : {
+                  "lat" : 39.6845848197085,
+                  "lng" : -104.9437097302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "3970",
+               "short_name" : "3970",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Rebouças",
+               "short_name" : "Av. Rebouças",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pinheiros",
+               "short_name" : "Pinheiros",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Colorado Springs",
+               "short_name" : "Colorado Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05402-600",
+               "short_name" : "05402-600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenida Rebouças, 3970 - Q2 - Pinheiros, Colorado Springs - SP, 05402-600, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5719559,
+                  "lng" : -46.6955253
+               },
+               "southwest" : {
+                  "lat" : -23.5733725,
+                  "lng" : -46.6965181
+               }
+            },
+            "location" : {
+               "lat" : -23.5732487,
+               "lng" : -46.6959654
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5713152197085,
+                  "lng" : -46.6946727197085
+               },
+               "southwest" : {
+                  "lat" : -23.5740131802915,
+                  "lng" : -46.6973706802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University of Cambridge",
+               "short_name" : "University of Cambridge",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB2 1TJ",
+               "short_name" : "CB2 1TJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Q2, University of Cambridge, Cambridge, Cambridgeshire CB2 1TJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2059594,
+                  "lng" : 0.1179812
+               },
+               "southwest" : {
+                  "lat" : 52.20591049999999,
+                  "lng" : 0.11792
+               }
+            },
+            "location" : {
+               "lat" : 52.2059349,
+               "lng" : 0.1179534
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.20728393029149,
+                  "lng" : 0.119299580291502
+               },
+               "southwest" : {
+                  "lat" : 52.2045859697085,
+                  "lng" : 0.116601619708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Shopping Metrô Itaquera",
+               "short_name" : "Shopping Metrô Itaquera",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Avenida José Pinheiro Borges",
+               "short_name" : "Av. José Pinheiro Borges",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cidade Antonio Estevão de Carvalho",
+               "short_name" : "Cidade Antonio Estevão de Carvalho",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08220",
+               "short_name" : "08220",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shopping Metrô Itaquera - Avenida José Pinheiro Borges, Q2 - Cidade Antonio Estevão de Carvalho, São Paulo - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.540723,
+                  "lng" : -46.4713718
+               },
+               "southwest" : {
+                  "lat" : -23.5407491,
+                  "lng" : -46.47139929999999
+               }
+            },
+            "location" : {
+               "lat" : -23.5407341,
+               "lng" : -46.4713858
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5393870697085,
+                  "lng" : -46.4700365697085
+               },
+               "southwest" : {
+                  "lat" : -23.5420850302915,
+                  "lng" : -46.4727345302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Q2, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.327865,
+                  "lng" : -6.228661
+               },
+               "southwest" : {
+                  "lat" : 53.3278382,
+                  "lng" : -6.228735800000001
+               }
+            },
+            "location" : {
+               "lat" : 53.32785209999999,
+               "lng" : -6.228701399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.32920058029149,
+                  "lng" : -6.227349419708498
+               },
+               "southwest" : {
+                  "lat" : 53.32650261970849,
+                  "lng" : -6.230047380291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Zug",
+               "short_name" : "Zug",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zug",
+               "short_name" : "Zug",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zug",
+               "short_name" : "ZG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6300",
+               "short_name" : "6300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Q2, 6300 Zug, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1771781,
+                  "lng" : 8.5075138
+               },
+               "southwest" : {
+                  "lat" : 47.17716650000001,
+                  "lng" : 8.507467499999999
+               }
+            },
+            "location" : {
+               "lat" : 47.1771713,
+               "lng" : 8.507491699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.17852128029151,
+                  "lng" : 8.508839630291501
+               },
+               "southwest" : {
+                  "lat" : 47.17582331970851,
+                  "lng" : 8.506141669708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "The University of New South Wales",
+               "short_name" : "The University of New South Wales",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2033",
+               "short_name" : "2033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of New South Wales, Q2, Kensington NSW 2033, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.9176253,
+                  "lng" : 151.2315109
+               },
+               "southwest" : {
+                  "lat" : -33.9176875,
+                  "lng" : 151.2314395
+               }
+            },
+            "location" : {
+               "lat" : -33.9176551,
+               "lng" : 151.2314757
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.9163074197085,
+                  "lng" : 151.2328241802915
+               },
+               "southwest" : {
+                  "lat" : -33.9190053802915,
+                  "lng" : 151.2301262197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q2",
+               "short_name" : "Q2",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "East Melbourne",
+               "short_name" : "East Melbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3002",
+               "short_name" : "3002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Q2, East Melbourne VIC 3002, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.8197434,
+                  "lng" : 144.9847565
+               },
+               "southwest" : {
+                  "lat" : -37.8198352,
+                  "lng" : 144.9846785
+               }
+            },
+            "location" : {
+               "lat" : -37.8197856,
+               "lng" : 144.9847088
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8184403197085,
+                  "lng" : 144.9860664802915
+               },
+               "southwest" : {
+                  "lat" : -37.8211382802915,
+                  "lng" : 144.9833685197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

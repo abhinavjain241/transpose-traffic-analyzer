@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Government Law College",
+               "short_name" : "Government Law College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Churchgate",
+               "short_name" : "Churchgate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400020",
+               "short_name" : "400020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Government Law College, Churchgate, Mumbai, Maharashtra 400020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9345063,
+               "lng" : 72.8268243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9358552802915,
+                  "lng" : 72.82817328029151
+               },
+               "southwest" : {
+                  "lat" : 18.9331573197085,
+                  "lng" : 72.8254753197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

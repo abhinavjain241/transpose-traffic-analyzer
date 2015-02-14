@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruby Island",
+               "short_name" : "Ruby Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Pacific County",
+               "short_name" : "Pacific County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98624",
+               "short_name" : "98624",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ruby Island, Washington 98624, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.2803782,
+               "lng" : -124.0490422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2880893,
+                  "lng" : -124.0330348
+               },
+               "southwest" : {
+                  "lat" : 46.27266600000001,
+                  "lng" : -124.0650496
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

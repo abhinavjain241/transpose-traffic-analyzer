@@ -1,0 +1,434 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ganguly Road",
+               "short_name" : "Ganguly Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711201",
+               "short_name" : "711201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ganguly Road, Howrah, West Bengal 711201, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6488155,
+                  "lng" : 88.34173079999999
+               },
+               "southwest" : {
+                  "lat" : 22.6472172,
+                  "lng" : 88.34149549999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6481683,
+               "lng" : 88.3415713
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6493653302915,
+                  "lng" : 88.3429621302915
+               },
+               "southwest" : {
+                  "lat" : 22.6466673697085,
+                  "lng" : 88.34026416970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ganguly Road",
+               "short_name" : "Ganguly Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ward No. 10",
+               "short_name" : "Ward No. 10",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Khudirampally",
+               "short_name" : "Khudirampally",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Islampur",
+               "short_name" : "Islampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uttar Dinajpur",
+               "short_name" : "Uttar Dinajpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "733202",
+               "short_name" : "733202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ganguly Road, Ward No. 10, Khudirampally, Islampur, West Bengal 733202, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2566485,
+                  "lng" : 88.1833827
+               },
+               "southwest" : {
+                  "lat" : 26.2563743,
+                  "lng" : 88.18294779999999
+               }
+            },
+            "location" : {
+               "lat" : 26.2565968,
+               "lng" : 88.18302200000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2578603802915,
+                  "lng" : 88.18451423029151
+               },
+               "southwest" : {
+                  "lat" : 26.25516241970849,
+                  "lng" : 88.18181626970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarachand Ganguly Street",
+               "short_name" : "Tarachand Ganguly St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belur Math",
+               "short_name" : "Belur Math",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belur",
+               "short_name" : "Belur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711202",
+               "short_name" : "711202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tarachand Ganguly Street, Belur Math, Belur, Howrah, West Bengal 711202, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6255411,
+                  "lng" : 88.3532158
+               },
+               "southwest" : {
+                  "lat" : 22.6248106,
+                  "lng" : 88.3500674
+               }
+            },
+            "location" : {
+               "lat" : 22.6251761,
+               "lng" : 88.351635
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6265248302915,
+                  "lng" : 88.3532158
+               },
+               "southwest" : {
+                  "lat" : 22.6238268697085,
+                  "lng" : 88.3500674
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dwarik Ganguly Street",
+               "short_name" : "Dwarik Ganguly St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anami Sangha",
+               "short_name" : "Anami Sangha",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700026",
+               "short_name" : "700026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dwarik Ganguly Street, Anami Sangha, Kalighat, Kolkata, West Bengal 700026, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5201377,
+                  "lng" : 88.34639849999999
+               },
+               "southwest" : {
+                  "lat" : 22.520001,
+                  "lng" : 88.3448281
+               }
+            },
+            "location" : {
+               "lat" : 22.5201347,
+               "lng" : 88.3454278
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5214183302915,
+                  "lng" : 88.34696228029151
+               },
+               "southwest" : {
+                  "lat" : 22.5187203697085,
+                  "lng" : 88.3442643197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iswar Ganguly Street",
+               "short_name" : "Iswar Ganguly St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anami Sangha",
+               "short_name" : "Anami Sangha",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kalighat",
+               "short_name" : "Kalighat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700026",
+               "short_name" : "700026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Iswar Ganguly Street, Anami Sangha, Kalighat, Kolkata, West Bengal 700026, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5192613,
+                  "lng" : 88.3461647
+               },
+               "southwest" : {
+                  "lat" : 22.5191094,
+                  "lng" : 88.34532179999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5192613,
+               "lng" : 88.34532179999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5205343302915,
+                  "lng" : 88.34709223029151
+               },
+               "southwest" : {
+                  "lat" : 22.5178363697085,
+                  "lng" : 88.3443942697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gopal Ganguly Street",
+               "short_name" : "Gopal Ganguly St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Serampore",
+               "short_name" : "Serampore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hooghly",
+               "short_name" : "Hooghly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hooghly",
+               "short_name" : "Hooghly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "712201",
+               "short_name" : "712201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gopal Ganguly Street, Serampore, Hooghly, West Bengal 712201, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.749952,
+                  "lng" : 88.352476
+               },
+               "southwest" : {
+                  "lat" : 22.749787,
+                  "lng" : 88.3513074
+               }
+            },
+            "location" : {
+               "lat" : 22.7498428,
+               "lng" : 88.3518529
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7512184802915,
+                  "lng" : 88.35324068029151
+               },
+               "southwest" : {
+                  "lat" : 22.7485205197085,
+                  "lng" : 88.35054271970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

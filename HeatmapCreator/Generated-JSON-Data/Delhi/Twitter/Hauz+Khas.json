@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauz Khas",
+               "short_name" : "Hauz Khas",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hauz Khas, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.560816,
+                  "lng" : 77.212794
+               },
+               "southwest" : {
+                  "lat" : 28.539426,
+                  "lng" : 77.18117889999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5494489,
+               "lng" : 77.2001368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.560816,
+                  "lng" : 77.212794
+               },
+               "southwest" : {
+                  "lat" : 28.539426,
+                  "lng" : 77.18117889999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hauz Khas Metro Station",
+               "short_name" : "Hauz Khas Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Gamal Abdel Nasser Marg",
+               "short_name" : "Gamal Abdel Nasser Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sarvapriya Vihar",
+               "short_name" : "Sarvapriya Vihar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Block 1",
+               "short_name" : "Block 1",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sarvapriya Vihar",
+               "short_name" : "Sarvapriya Vihar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hauz Khas Metro Station, Gamal Abdel Nasser Marg, Sarvapriya Vihar, Block 1, Sarvapriya Vihar, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5433056,
+               "lng" : 77.2067749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5446545802915,
+                  "lng" : 77.20812388029151
+               },
+               "southwest" : {
+                  "lat" : 28.5419566197085,
+                  "lng" : 77.2054259197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

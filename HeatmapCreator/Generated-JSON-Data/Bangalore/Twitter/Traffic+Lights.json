@@ -1,0 +1,591 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Lights Driving School",
+               "short_name" : "Traffic Lights Driving School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tom Umpleby Close",
+               "short_name" : "Tom Umpleby Close",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northallerton",
+               "short_name" : "Northallerton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northallerton",
+               "short_name" : "Northallerton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL7 8PU",
+               "short_name" : "DL7 8PU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Lights Driving School, 1 Tom Umpleby Close, Northallerton, North Yorkshire DL7 8PU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.337895,
+               "lng" : -1.441268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.33924398029149,
+                  "lng" : -1.439919019708498
+               },
+               "southwest" : {
+                  "lat" : 54.33654601970849,
+                  "lng" : -1.442616980291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fahrschule TRAFFIC LIGHTS",
+               "short_name" : "Fahrschule TRAFFIC LIGHTS",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "197A",
+               "short_name" : "197A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bochumer Straße",
+               "short_name" : "Bochumer Str.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Recklinghausen",
+               "short_name" : "Recklinghausen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Recklinghausen",
+               "short_name" : "Recklinghausen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45661",
+               "short_name" : "45661",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fahrschule TRAFFIC LIGHTS, Bochumer Straße 197A, 45661 Recklinghausen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5656129,
+               "lng" : 7.209900299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5669618802915,
+                  "lng" : 7.211249280291501
+               },
+               "southwest" : {
+                  "lat" : 51.5642639197085,
+                  "lng" : 7.208551319708497
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Lights",
+               "short_name" : "Traffic Lights",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hay Al-Mustashifa",
+               "short_name" : "Hay Al-Mustashifa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Omdurman",
+               "short_name" : "Omdurman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omdurman",
+               "short_name" : "Omdurman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khartoum",
+               "short_name" : "Khartoum",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Traffic Lights, Omdurman, Sudan",
+         "geometry" : {
+            "location" : {
+               "lat" : 15.6514698,
+               "lng" : 32.4925375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6528187802915,
+                  "lng" : 32.49388648029149
+               },
+               "southwest" : {
+                  "lat" : 15.6501208197085,
+                  "lng" : 32.4911885197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "o/s Traffic Lights",
+               "short_name" : "o/s Traffic Lights",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Tarleton",
+               "short_name" : "Tarleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR4",
+               "short_name" : "PR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "o/s Traffic Lights, Tarleton, Preston, Lancashire PR4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.674049,
+               "lng" : -2.831954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6753979802915,
+                  "lng" : -2.830605019708498
+               },
+               "southwest" : {
+                  "lat" : 53.6727000197085,
+                  "lng" : -2.833302980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Lights (S-Bound)",
+               "short_name" : "Traffic Lights (S-Bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hassocks",
+               "short_name" : "Hassocks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN6",
+               "short_name" : "BN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Lights (S-Bound), Hassocks, West Sussex BN6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.93619899999999,
+               "lng" : -0.199264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.93754798029149,
+                  "lng" : -0.197915019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9348500197085,
+                  "lng" : -0.200612980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Lights (N-Bound)",
+               "short_name" : "Traffic Lights (N-Bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hassocks",
+               "short_name" : "Hassocks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN6",
+               "short_name" : "BN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Lights (N-Bound), Hassocks, West Sussex BN6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.936176,
+               "lng" : -0.199593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9375249802915,
+                  "lng" : -0.198244019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9348270197085,
+                  "lng" : -0.200941980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traffic Lights (E-bound)",
+               "short_name" : "Traffic Lights (E-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP2",
+               "short_name" : "SP2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traffic Lights (E-bound), Salisbury, Wiltshire SP2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.080894,
+               "lng" : -1.84672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0822429802915,
+                  "lng" : -1.845371019708498
+               },
+               "southwest" : {
+                  "lat" : 51.0795450197085,
+                  "lng" : -1.848068980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raheen (Traffic Lights)",
+               "short_name" : "Raheen (Traffic Lights)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Limerick",
+               "short_name" : "Limerick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Limerick",
+               "short_name" : "Limerick",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limerick",
+               "short_name" : "Limerick",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Raheen (Traffic Lights), Limerick, Co. Limerick, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.63158749999999,
+               "lng" : -8.6592685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.63293648029149,
+                  "lng" : -8.657919519708496
+               },
+               "southwest" : {
+                  "lat" : 52.6302385197085,
+                  "lng" : -8.660617480291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pemberton Traffic Lights",
+               "short_name" : "Pemberton Traffic Lights",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Llanelli",
+               "short_name" : "Llanelli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llanelli",
+               "short_name" : "Llanelli",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA14",
+               "short_name" : "SA14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pemberton Traffic Lights, Llanelli, Llanelli, Carmarthenshire SA14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.682987,
+               "lng" : -4.131394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.68433598029149,
+                  "lng" : -4.130045019708498
+               },
+               "southwest" : {
+                  "lat" : 51.68163801970849,
+                  "lng" : -4.132742980291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "adj Traffic Lights",
+               "short_name" : "adj Traffic Lights",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST1",
+               "short_name" : "ST1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "adj Traffic Lights, Stoke-on-Trent, Stoke-on-Trent, Stoke-on-Trent ST1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.024364,
+               "lng" : -2.155009
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0257129802915,
+                  "lng" : -2.153660019708498
+               },
+               "southwest" : {
+                  "lat" : 53.0230150197085,
+                  "lng" : -2.156357980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castletroy Traffic Lights",
+               "short_name" : "Castletroy Traffic Lights",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Limerick",
+               "short_name" : "Limerick",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limerick",
+               "short_name" : "Limerick",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castletroy Traffic Lights, Co. Limerick, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6665491,
+               "lng" : -8.571415099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.66789808029149,
+                  "lng" : -8.570066119708498
+               },
+               "southwest" : {
+                  "lat" : 52.6652001197085,
+                  "lng" : -8.572764080291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1072 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cologne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2505257,
+                  "lng" : 7.7918689
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            },
+            "location" : {
+               "lat" : 50.8993757,
+               "lng" : 6.776658299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2505257,
+                  "lng" : 7.7918689
+               },
+               "southwest" : {
+                  "lat" : 50.322701,
+                  "lng" : 5.8663425
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "南雅南路二段",
+               "short_name" : "南雅南路二段",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "板橋區",
+               "short_name" : "板橋區",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "新北市",
+               "short_name" : "新北市",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "220",
+               "short_name" : "220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K, 南雅南路二段板橋區新北市 Taiwan 220",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9975275,
+                  "lng" : 121.4521281
+               },
+               "southwest" : {
+                  "lat" : 24.997175,
+                  "lng" : 121.451782
+               }
+            },
+            "location" : {
+               "lat" : 24.9973512,
+               "lng" : 121.451955
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9987002302915,
+                  "lng" : 121.4533040302915
+               },
+               "southwest" : {
+                  "lat" : 24.9960022697085,
+                  "lng" : 121.4506060697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrera 20",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barbosa",
+               "short_name" : "Barbosa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carrera 20, Barbosa, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.43835,
+                  "lng" : -75.33362
+               },
+               "southwest" : {
+                  "lat" : 6.43576,
+                  "lng" : -75.33588999999999
+               }
+            },
+            "location" : {
+               "lat" : 6.43591,
+               "lng" : -75.33571999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.438403980291502,
+                  "lng" : -75.33340601970849
+               },
+               "southwest" : {
+                  "lat" : 6.435706019708498,
+                  "lng" : -75.3361039802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kandahar",
+               "short_name" : "Kandahar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pershing County",
+               "short_name" : "Pershing County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kandahar, Nevada, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8007618,
+                  "lng" : -119.1861989
+               },
+               "southwest" : {
+                  "lat" : 40.7727614,
+                  "lng" : -119.2230308
+               }
+            },
+            "location" : {
+               "lat" : 40.7798885,
+               "lng" : -119.2204803
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8007618,
+                  "lng" : -119.1861989
+               },
+               "southwest" : {
+                  "lat" : 40.7727614,
+                  "lng" : -119.2230308
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrera 22",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barbosa",
+               "short_name" : "Barbosa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carrera 22, Barbosa, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.44091,
+                  "lng" : -75.33255
+               },
+               "southwest" : {
+                  "lat" : 6.43891,
+                  "lng" : -75.33465
+               }
+            },
+            "location" : {
+               "lat" : 6.440779999999999,
+               "lng" : -75.33266999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.441258980291502,
+                  "lng" : -75.33225101970851
+               },
+               "southwest" : {
+                  "lat" : 6.438561019708498,
+                  "lng" : -75.33494898029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrera 9",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cundinamarca",
+               "short_name" : "Cundinamarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carrera 9, Madrid, Cundinamarca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.729680000000001,
+                  "lng" : -74.26799
+               },
+               "southwest" : {
+                  "lat" : 4.72813,
+                  "lng" : -74.26866
+               }
+            },
+            "location" : {
+               "lat" : 4.729680000000001,
+               "lng" : -74.26799
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.730253980291503,
+                  "lng" : -74.26697601970849
+               },
+               "southwest" : {
+                  "lat" : 4.727556019708499,
+                  "lng" : -74.26967398029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guamani",
+               "short_name" : "Guamani",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC170126",
+               "short_name" : "EC170126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K, Quito EC170126, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.344608,
+                  "lng" : -78.5544616
+               },
+               "southwest" : {
+                  "lat" : -0.3460129,
+                  "lng" : -78.559665
+               }
+            },
+            "location" : {
+               "lat" : -0.3453248,
+               "lng" : -78.5569982
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3439614697084979,
+                  "lng" : -78.5544616
+               },
+               "southwest" : {
+                  "lat" : -0.346659430291502,
+                  "lng" : -78.559665
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Arcadia",
+               "short_name" : "La Arcadia",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "K, Quito, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.3179945,
+                  "lng" : -78.55374479999999
+               },
+               "southwest" : {
+                  "lat" : -0.3182647,
+                  "lng" : -78.55751739999999
+               }
+            },
+            "location" : {
+               "lat" : -0.3180567,
+               "lng" : -78.55553159999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.316780619708498,
+                  "lng" : -78.55374479999999
+               },
+               "southwest" : {
+                  "lat" : -0.3194785802915021,
+                  "lng" : -78.55751739999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrera 6A",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Calera",
+               "short_name" : "La Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cundinamarca",
+               "short_name" : "Cundinamarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carrera 6A, La Calera, Cundinamarca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.725429999999999,
+                  "lng" : -73.96907999999999
+               },
+               "southwest" : {
+                  "lat" : 4.72457,
+                  "lng" : -73.96938999999999
+               }
+            },
+            "location" : {
+               "lat" : 4.72483,
+               "lng" : -73.96907999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.726348980291503,
+                  "lng" : -73.96788601970849
+               },
+               "southwest" : {
+                  "lat" : 4.723651019708498,
+                  "lng" : -73.97058398029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caborca",
+               "short_name" : "Caborca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "K, Caborca, SON, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.7192583,
+                  "lng" : -112.1557035
+               },
+               "southwest" : {
+                  "lat" : 30.69693899999999,
+                  "lng" : -112.1622405
+               }
+            },
+            "location" : {
+               "lat" : 30.7081759,
+               "lng" : -112.1571636
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7192583,
+                  "lng" : -112.1557035
+               },
+               "southwest" : {
+                  "lat" : 30.69693899999999,
+                  "lng" : -112.1622405
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sonoita",
+               "short_name" : "Sonoita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83570",
+               "short_name" : "83570",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K, 83570 Sonoita, SON, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8594535,
+                  "lng" : -112.8569871
+               },
+               "southwest" : {
+                  "lat" : 31.8565764,
+                  "lng" : -112.8727472
+               }
+            },
+            "location" : {
+               "lat" : 31.8582556,
+               "lng" : -112.8650503
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8594535,
+                  "lng" : -112.8569871
+               },
+               "southwest" : {
+                  "lat" : 31.8565764,
+                  "lng" : -112.8727472
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "K, Sonora, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.980015,
+                  "lng" : -111.0363561
+               },
+               "southwest" : {
+                  "lat" : 27.9717692,
+                  "lng" : -111.0368657
+               }
+            },
+            "location" : {
+               "lat" : 27.9752822,
+               "lng" : -111.0366163
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.980015,
+                  "lng" : -111.0352619197085
+               },
+               "southwest" : {
+                  "lat" : 27.9717692,
+                  "lng" : -111.0379598802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Sauzal",
+               "short_name" : "El Sauzal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22760",
+               "short_name" : "22760",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K, 22760 El Sauzal, BC, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8944781,
+                  "lng" : -116.6892816
+               },
+               "southwest" : {
+                  "lat" : 31.8909808,
+                  "lng" : -116.6933103
+               }
+            },
+            "location" : {
+               "lat" : 31.8930159,
+               "lng" : -116.6910353
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8944781,
+                  "lng" : -116.6892816
+               },
+               "southwest" : {
+                  "lat" : 31.8909808,
+                  "lng" : -116.6933103
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrera 10",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Honda",
+               "short_name" : "Honda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tolima",
+               "short_name" : "Tolima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carrera 10, Honda, Tolima, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.214729999999999,
+                  "lng" : -74.73385999999999
+               },
+               "southwest" : {
+                  "lat" : 5.202929999999999,
+                  "lng" : -74.73693
+               }
+            },
+            "location" : {
+               "lat" : 5.20876,
+               "lng" : -74.73640999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.214729999999999,
+                  "lng" : -74.73385999999999
+               },
+               "southwest" : {
+                  "lat" : 5.202929999999999,
+                  "lng" : -74.73693
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K",
+               "short_name" : "K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Batallon Chimborazo",
+               "short_name" : "Batallon Chimborazo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Marcopamba",
+               "short_name" : "Marcopamba",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC170131",
+               "short_name" : "EC170131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K, Distrito Metropolitano de Quito EC170131, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.251559,
+                  "lng" : -78.54302849999999
+               },
+               "southwest" : {
+                  "lat" : -0.2539035,
+                  "lng" : -78.5437573
+               }
+            },
+            "location" : {
+               "lat" : -0.2527961,
+               "lng" : -78.54331619999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.251382269708498,
+                  "lng" : -78.54204391970849
+               },
+               "southwest" : {
+                  "lat" : -0.2540802302915021,
+                  "lng" : -78.5447418802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "K K Tower",
+               "short_name" : "K K Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Kappattikavu Bus Stop",
+               "short_name" : "Kappattikavu Bus Stop",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eroor Road",
+               "short_name" : "Eroor Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eroor North",
+               "short_name" : "Eroor North",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Eroor",
+               "short_name" : "Eroor",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ernakulam",
+               "short_name" : "Ernakulam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ernakulam",
+               "short_name" : "EKM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "682306",
+               "short_name" : "682306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "K K Tower, Kappattikavu Bus Stop, Eroor Road, Eroor North, Eroor, Ernakulam, Kerala 682306, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.981218499999999,
+               "lng" : 76.3321656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.9825674802915,
+                  "lng" : 76.33351458029151
+               },
+               "southwest" : {
+                  "lat" : 9.979869519708497,
+                  "lng" : 76.33081661970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Block K",
+               "short_name" : "Block K",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "King Fahd Road",
+               "short_name" : "King Fahd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hijlah",
+               "short_name" : "Hijlah",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aseer Province",
+               "short_name" : "Aseer Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "62451",
+               "short_name" : "62451",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Block K, King Fahd Road, Hijlah 62451, Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.2813247,
+                  "lng" : 42.6679936
+               },
+               "southwest" : {
+                  "lat" : 18.2811286,
+                  "lng" : 42.6678112
+               }
+            },
+            "location" : {
+               "lat" : 18.2812494,
+               "lng" : 42.6679192
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.2825756302915,
+                  "lng" : 42.66925138029149
+               },
+               "southwest" : {
+                  "lat" : 18.2798776697085,
+                  "lng" : 42.6665534197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Block K",
+               "short_name" : "Block K",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "College of Information Communication Technologies",
+               "short_name" : "College of Information Communication Technologies",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bagamoyo Road",
+               "short_name" : "Bagamoyo Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mikocheni",
+               "short_name" : "Mikocheni",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dar es Salaam",
+               "short_name" : "DSM",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kinondoni",
+               "short_name" : "Kinondoni",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Block K, College of Information Communication Technologies, Bagamoyo Road, Dar es Salaam, Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.771129999999999,
+                  "lng" : 39.2404254
+               },
+               "southwest" : {
+                  "lat" : -6.7715934,
+                  "lng" : 39.239865
+               }
+            },
+            "location" : {
+               "lat" : -6.7713508,
+               "lng" : 39.24012810000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.770012719708498,
+                  "lng" : 39.2414941802915
+               },
+               "southwest" : {
+                  "lat" : -6.772710680291501,
+                  "lng" : 39.2387962197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SPM Road",
+               "short_name" : "SPM Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shahapur",
+               "short_name" : "Shahapur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belagam",
+               "short_name" : "Belagam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belagavi",
+               "short_name" : "Belagavi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "SPM Road, Shahapur, Belgaum, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.852021,
+                  "lng" : 74.51676399999999
+               },
+               "southwest" : {
+                  "lat" : 15.8460949,
+                  "lng" : 74.5160607
+               }
+            },
+            "location" : {
+               "lat" : 15.84908,
+               "lng" : 74.51643869999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.852021,
+                  "lng" : 74.51776133029151
+               },
+               "southwest" : {
+                  "lat" : 15.8460949,
+                  "lng" : 74.5150633697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

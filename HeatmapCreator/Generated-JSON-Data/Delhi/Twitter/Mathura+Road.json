@@ -1,0 +1,242 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mathura Road",
+               "short_name" : "Mathura Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mathura Road, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6252798,
+                  "lng" : 77.24178900000001
+               },
+               "southwest" : {
+                  "lat" : 28.5970692,
+                  "lng" : 77.239766
+               }
+            },
+            "location" : {
+               "lat" : 28.6112325,
+               "lng" : 77.2401732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6252798,
+                  "lng" : 77.24212648029152
+               },
+               "southwest" : {
+                  "lat" : 28.5970692,
+                  "lng" : 77.23942851970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aurangabad",
+               "short_name" : "Aurangabad",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mathura",
+               "short_name" : "Mathura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mathura",
+               "short_name" : "Mathura",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "281006",
+               "short_name" : "281006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Aurangabad, Mathura, Uttar Pradesh 281006",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.4435127,
+               "lng" : 77.7038955
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4448616802915,
+                  "lng" : 77.7052444802915
+               },
+               "southwest" : {
+                  "lat" : 27.4421637197085,
+                  "lng" : 77.70254651970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mathura Road",
+               "short_name" : "Mathura Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faridabad",
+               "short_name" : "Faridabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faridabad",
+               "short_name" : "Faridabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mathura Road, Faridabad, Haryana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4221553,
+                  "lng" : 77.317239
+               },
+               "southwest" : {
+                  "lat" : 28.34964,
+                  "lng" : 77.30698719999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3683877,
+               "lng" : 77.31468889999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4221553,
+                  "lng" : 77.317239
+               },
+               "southwest" : {
+                  "lat" : 28.34964,
+                  "lng" : 77.30698719999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mathura Road",
+               "short_name" : "Mathura Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Deolali Gaon",
+               "short_name" : "Deolali Gaon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nashik",
+               "short_name" : "Nashik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "422401",
+               "short_name" : "422401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mathura Road, Deolali Gaon, Nashik, Maharashtra 422401, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.9373386,
+                  "lng" : 73.8304428
+               },
+               "southwest" : {
+                  "lat" : 19.9244765,
+                  "lng" : 73.827646
+               }
+            },
+            "location" : {
+               "lat" : 19.93099,
+               "lng" : 73.82968439999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9373386,
+                  "lng" : 73.8304428
+               },
+               "southwest" : {
+                  "lat" : 19.9244765,
+                  "lng" : 73.827646
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

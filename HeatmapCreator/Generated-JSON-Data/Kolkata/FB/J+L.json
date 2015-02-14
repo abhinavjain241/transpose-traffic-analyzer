@@ -1,0 +1,414 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "J",
+               "short_name" : "J",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bradenton",
+               "short_name" : "Bradenton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manatee County",
+               "short_name" : "Manatee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34210",
+               "short_name" : "34210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "J, Bradenton, FL 34210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.463447,
+                  "lng" : -82.6702789
+               },
+               "southwest" : {
+                  "lat" : 27.462222,
+                  "lng" : -82.6732169
+               }
+            },
+            "location" : {
+               "lat" : 27.463447,
+               "lng" : -82.6732169
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.46418348029151,
+                  "lng" : -82.6702789
+               },
+               "southwest" : {
+                  "lat" : 27.4614855197085,
+                  "lng" : -82.6732169
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L",
+               "short_name" : "L",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Tránsito",
+               "short_name" : "El Tránsito",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC170140",
+               "short_name" : "EC170140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "L, Quito EC170140, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.2960132,
+                  "lng" : -78.5709755
+               },
+               "southwest" : {
+                  "lat" : -0.298958,
+                  "lng" : -78.5762623
+               }
+            },
+            "location" : {
+               "lat" : -0.2976748,
+               "lng" : -78.57376510000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.2960132,
+                  "lng" : -78.5709755
+               },
+               "southwest" : {
+                  "lat" : -0.298958,
+                  "lng" : -78.5762623
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "J",
+               "short_name" : "J",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Universidad del Valle de Guatemala",
+               "short_name" : "Universidad del Valle de Guatemala",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Interior UVG",
+               "short_name" : "Interior UVG",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vista Hermosa III",
+               "short_name" : "Vista Hermosa III",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Zona 15",
+               "short_name" : "Zona 15",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "Guate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "Guatemala",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "J, Universidad del Valle de Guatemala, Interior UVG, Guatemala, Guatemala",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.6055662,
+                  "lng" : -90.4879957
+               },
+               "southwest" : {
+                  "lat" : 14.6053338,
+                  "lng" : -90.4884517
+               }
+            },
+            "location" : {
+               "lat" : 14.6054928,
+               "lng" : -90.48824979999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.6067989802915,
+                  "lng" : -90.4868747197085
+               },
+               "southwest" : {
+                  "lat" : 14.6041010197085,
+                  "lng" : -90.4895726802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calle J",
+               "short_name" : "Calle J",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Carcelen Bajo",
+               "short_name" : "Carcelen Bajo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Carcelén",
+               "short_name" : "Carcelén",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "170120",
+               "short_name" : "170120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calle J, Distrito Metropolitano de Quito 170120, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.07292699999999999,
+                  "lng" : -78.45942459999999
+               },
+               "southwest" : {
+                  "lat" : -0.0770269,
+                  "lng" : -78.46900579999999
+               }
+            },
+            "location" : {
+               "lat" : -0.07377739999999999,
+               "lng" : -78.46484269999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.07292699999999999,
+                  "lng" : -78.45942459999999
+               },
+               "southwest" : {
+                  "lat" : -0.0770269,
+                  "lng" : -78.46900579999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calle J",
+               "short_name" : "Calle J",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villa Corpac",
+               "short_name" : "Villa Corpac",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Carabayllo",
+               "short_name" : "Carabayllo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calle J, Carabayllo, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.8892111,
+                  "lng" : -77.0339505
+               },
+               "southwest" : {
+                  "lat" : -11.8900551,
+                  "lng" : -77.03557909999999
+               }
+            },
+            "location" : {
+               "lat" : -11.8897229,
+               "lng" : -77.03455390000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.8882841197085,
+                  "lng" : -77.03341581970849
+               },
+               "southwest" : {
+                  "lat" : -11.8909820802915,
+                  "lng" : -77.0361137802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L Block",
+               "short_name" : "L Block",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ring Road",
+               "short_name" : "Ring Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kelvin Grove",
+               "short_name" : "Kelvin Grove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4059",
+               "short_name" : "4059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "L Block, Ring Road, Kelvin Grove QLD 4059, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.4517588,
+                  "lng" : 153.0173729
+               },
+               "southwest" : {
+                  "lat" : -27.4523491,
+                  "lng" : 153.0168647
+               }
+            },
+            "location" : {
+               "lat" : -27.452054,
+               "lng" : 153.0171188
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.4507049697085,
+                  "lng" : 153.0184677802915
+               },
+               "southwest" : {
+                  "lat" : -27.4534029302915,
+                  "lng" : 153.0157698197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

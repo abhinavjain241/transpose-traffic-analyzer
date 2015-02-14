@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagasandra Main Road",
+               "short_name" : "Nagasandra Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagasandra Main Road, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0405904,
+                  "lng" : 77.5104154
+               },
+               "southwest" : {
+                  "lat" : 13.0369582,
+                  "lng" : 77.49615559999999
+               }
+            },
+            "location" : {
+               "lat" : 13.038764,
+               "lng" : 77.5030045
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0405904,
+                  "lng" : 77.5104154
+               },
+               "southwest" : {
+                  "lat" : 13.0369582,
+                  "lng" : 77.49615559999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagasandra Main Road",
+               "short_name" : "Nagasandra Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basavanagudi",
+               "short_name" : "Basavanagudi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560004",
+               "short_name" : "560004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nagasandra Main Road, Basavanagudi, Bengaluru, Karnataka 560004, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.939312,
+                  "lng" : 77.572063
+               },
+               "southwest" : {
+                  "lat" : 12.9302782,
+                  "lng" : 77.5710481
+               }
+            },
+            "location" : {
+               "lat" : 12.9349915,
+               "lng" : 77.57171249999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.939312,
+                  "lng" : 77.57290453029151
+               },
+               "southwest" : {
+                  "lat" : 12.9302782,
+                  "lng" : 77.57020656970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

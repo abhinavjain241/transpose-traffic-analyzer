@@ -1,0 +1,170 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xi Bu Kuai Su Lu",
+               "short_name" : "Xi Bu Kuai Su Lu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Changchun Shi",
+               "short_name" : "Changchun Shi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jilin Sheng",
+               "short_name" : "Jilin Sheng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xi Bu Kuai Su Lu, Changchun Shi, Jilin Sheng, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9518032,
+                  "lng" : 125.2948816
+               },
+               "southwest" : {
+                  "lat" : 43.828657,
+                  "lng" : 125.268761
+               }
+            },
+            "location" : {
+               "lat" : 43.8889137,
+               "lng" : 125.2838357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9518032,
+                  "lng" : 125.2948816
+               },
+               "southwest" : {
+                  "lat" : 43.828657,
+                  "lng" : 125.268761
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Expressway",
+               "short_name" : "Western Expy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Genesee County",
+               "short_name" : "Genesee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Expressway, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0476324,
+                  "lng" : -77.9477292
+               },
+               "southwest" : {
+                  "lat" : 43.0269147,
+                  "lng" : -77.9696089
+               }
+            },
+            "location" : {
+               "lat" : 43.0385313,
+               "lng" : -77.95977999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0476324,
+                  "lng" : -77.9477292
+               },
+               "southwest" : {
+                  "lat" : 43.0269147,
+                  "lng" : -77.9696089
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southwest Expressway",
+               "short_name" : "Southwest Expy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oklahoma City",
+               "short_name" : "Oklahoma City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma County",
+               "short_name" : "Oklahoma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southwest Expressway, Oklahoma City, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4058583,
+                  "lng" : -97.49376410000001
+               },
+               "southwest" : {
+                  "lat" : 35.3868201,
+                  "lng" : -97.57717079999999
+               }
+            },
+            "location" : {
+               "lat" : 35.3914687,
+               "lng" : -97.53508909999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4058583,
+                  "lng" : -97.49376410000001
+               },
+               "southwest" : {
+                  "lat" : 35.3868201,
+                  "lng" : -97.57717079999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

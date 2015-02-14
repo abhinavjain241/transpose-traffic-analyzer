@@ -1,0 +1,340 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worli Seaface Road",
+               "short_name" : "Worli Seaface Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worli Seaface Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.015206,
+                  "lng" : 72.82015419999999
+               },
+               "southwest" : {
+                  "lat" : 18.9934531,
+                  "lng" : 72.81147990000001
+               }
+            },
+            "location" : {
+               "lat" : 19.0050896,
+               "lng" : 72.81365699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.015206,
+                  "lng" : 72.82015419999999
+               },
+               "southwest" : {
+                  "lat" : 18.9934531,
+                  "lng" : 72.81147990000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worli Seaface South",
+               "short_name" : "Worli Seaface South",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Worli Seaface Road",
+               "short_name" : "Worli Seaface Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400030",
+               "short_name" : "400030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Worli Seaface South, Worli Seaface Road, Worli, Mumbai, Maharashtra 400030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0053656,
+               "lng" : 72.8135714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0067145802915,
+                  "lng" : 72.81492038029151
+               },
+               "southwest" : {
+                  "lat" : 19.00401661970849,
+                  "lng" : 72.81222241970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worli Sea Face",
+               "short_name" : "Worli Sea Face",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400030",
+               "short_name" : "400030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Worli Sea Face, Worli, Mumbai, Maharashtra 400030, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0154779,
+                  "lng" : 72.8177599
+               },
+               "southwest" : {
+                  "lat" : 19.002471,
+                  "lng" : 72.81325799999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0091432,
+               "lng" : 72.8157283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0154779,
+                  "lng" : 72.8177599
+               },
+               "southwest" : {
+                  "lat" : 19.002471,
+                  "lng" : 72.81325799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worli Seaface Road",
+               "short_name" : "Worli Seaface Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worli Seaface Road, Worli, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0123015,
+                  "lng" : 72.81717279999999
+               },
+               "southwest" : {
+                  "lat" : 18.9936,
+                  "lng" : 72.812625
+               }
+            },
+            "location" : {
+               "lat" : 18.995542,
+               "lng" : 72.81362100000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0123015,
+                  "lng" : 72.81717279999999
+               },
+               "southwest" : {
+                  "lat" : 18.9936,
+                  "lng" : 72.812625
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sea Face House",
+               "short_name" : "Sea Face House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "BG Kher Marg",
+               "short_name" : "BG Kher Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Siddharth Nagar",
+               "short_name" : "Siddharth Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Worli",
+               "short_name" : "Worli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400018",
+               "short_name" : "400018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sea Face House, BG Kher Marg, Siddharth Nagar, Worli, Mumbai, Maharashtra 400018, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9949166,
+                  "lng" : 72.8146247
+               },
+               "southwest" : {
+                  "lat" : 18.9941951,
+                  "lng" : 72.81399709999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9945558,
+               "lng" : 72.8143109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9959048302915,
+                  "lng" : 72.81565988029151
+               },
+               "southwest" : {
+                  "lat" : 18.9932068697085,
+                  "lng" : 72.8129619197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

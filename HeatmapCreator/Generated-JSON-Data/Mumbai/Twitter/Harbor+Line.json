@@ -1,0 +1,122 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harbor Line",
+               "short_name" : "Harbor Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "BMC Colony",
+               "short_name" : "BMC Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400071",
+               "short_name" : "400071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harbor Line, Chembur Gaothan, Chembur, Mumbai, Maharashtra 400071, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0633652,
+               "lng" : 72.89954519999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0647141802915,
+                  "lng" : 72.9008941802915
+               },
+               "southwest" : {
+                  "lat" : 19.0620162197085,
+                  "lng" : 72.8981962197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Harbor Line",
+               "short_name" : "Central Harbor Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Harbor Line, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0571187,
+                  "lng" : 72.87222489999999
+               },
+               "southwest" : {
+                  "lat" : 19.0259637,
+                  "lng" : 72.8574558
+               }
+            },
+            "location" : {
+               "lat" : 19.0415412,
+               "lng" : 72.86484039999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0571187,
+                  "lng" : 72.87222489999999
+               },
+               "southwest" : {
+                  "lat" : 19.0259637,
+                  "lng" : 72.8574558
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

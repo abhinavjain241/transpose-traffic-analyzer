@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Road",
+               "short_name" : "New Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alipore",
+               "short_name" : "Alipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700027",
+               "short_name" : "700027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Road, Alipore, Kolkata, West Bengal 700027, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5266866,
+                  "lng" : 88.32833049999999
+               },
+               "southwest" : {
+                  "lat" : 22.5221685,
+                  "lng" : 88.3264142
+               }
+            },
+            "location" : {
+               "lat" : 22.5246181,
+               "lng" : 88.3276183
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5266866,
+                  "lng" : 88.3287213302915
+               },
+               "southwest" : {
+                  "lat" : 22.5221685,
+                  "lng" : 88.32602336970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

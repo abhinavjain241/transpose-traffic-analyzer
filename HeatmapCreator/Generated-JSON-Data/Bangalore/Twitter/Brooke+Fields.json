@@ -1,0 +1,281 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brooke Hall",
+               "short_name" : "Brooke Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Brooke Hall",
+               "short_name" : "Brooke Hall",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Flodden Road",
+               "short_name" : "Flodden Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Camberwell",
+               "short_name" : "Camberwell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE5 9LH",
+               "short_name" : "SE5 9LH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brooke Hall, Brooke Hall, 17 Flodden Road, Camberwell, London SE5 9LH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4747288,
+               "lng" : -0.1003777
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4760777802915,
+                  "lng" : -0.09902871970849797
+               },
+               "southwest" : {
+                  "lat" : 51.4733798197085,
+                  "lng" : -0.101726680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhadra Brooke Fields \" A\" Block",
+               "short_name" : "Bhadra Brooke Fields \" A\" Block",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1st Cross",
+               "short_name" : "1st cross",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kundalahalli",
+               "short_name" : "Kundalahalli",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Brookefield",
+               "short_name" : "Brookefield",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kundalahalli Village",
+               "short_name" : "Kundalahalli Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560037",
+               "short_name" : "560037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhadra Brooke Fields \" A\" Block, 1st Cross, Kundalahalli, Brookefield, Kundalahalli Village, Karnataka 560037, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9657716,
+               "lng" : 77.7195275
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9671205802915,
+                  "lng" : 77.72087648029151
+               },
+               "southwest" : {
+                  "lat" : 12.9644226197085,
+                  "lng" : 77.7181785197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brooke Street",
+               "short_name" : "Brooke St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dudley",
+               "short_name" : "Dudley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dudley",
+               "short_name" : "Dudley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DY2 8RB",
+               "short_name" : "DY2 8RB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brooke Street, Dudley, West Midlands DY2 8RB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5073097,
+                  "lng" : -2.0852493
+               },
+               "southwest" : {
+                  "lat" : 52.50630570000001,
+                  "lng" : -2.0878801
+               }
+            },
+            "location" : {
+               "lat" : 52.50680440000001,
+               "lng" : -2.086728
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.50815668029151,
+                  "lng" : -2.085215719708498
+               },
+               "southwest" : {
+                  "lat" : 52.50545871970851,
+                  "lng" : -2.087913680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Brooke Street",
+               "short_name" : "E Brooke St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Copper Ranch",
+               "short_name" : "Copper Ranch",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gilbert",
+               "short_name" : "Gilbert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa County",
+               "short_name" : "Maricopa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85296",
+               "short_name" : "85296",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Brooke Street, Gilbert, AZ 85296, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.3352177,
+                  "lng" : -111.7000057
+               },
+               "southwest" : {
+                  "lat" : 33.3351254,
+                  "lng" : -111.7020582
+               }
+            },
+            "location" : {
+               "lat" : 33.3352034,
+               "lng" : -111.7010808
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3365205302915,
+                  "lng" : -111.6996829697085
+               },
+               "southwest" : {
+                  "lat" : 33.3338225697085,
+                  "lng" : -111.7023809302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1597 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7029794,
+                  "lng" : 77.21177949999999
+               },
+               "southwest" : {
+                  "lat" : 28.6926,
+                  "lng" : 77.194681
+               }
+            },
+            "location" : {
+               "lat" : 28.6966531,
+               "lng" : 77.2057554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7029794,
+                  "lng" : 77.21177949999999
+               },
+               "southwest" : {
+                  "lat" : 28.6926,
+                  "lng" : 77.194681
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G.T.B. Nagar Metro Station",
+               "short_name" : "G.T.B. Nagar Metro Station",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ring Road",
+               "short_name" : "Ring Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110009",
+               "short_name" : "110009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G.T.B. Nagar Metro Station, Ring Road, GTB Nagar, New Delhi, Delhi 110009, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6976673,
+               "lng" : 77.20678839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6990162802915,
+                  "lng" : 77.2081373802915
+               },
+               "southwest" : {
+                  "lat" : 28.6963183197085,
+                  "lng" : 77.20543941970848
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 13",
+               "short_name" : "Street Number 13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 13, Guru Teg Bahadar Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2177306,
+                  "lng" : 74.9564939
+               },
+               "southwest" : {
+                  "lat" : 30.215397,
+                  "lng" : 74.95462429999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2162222,
+               "lng" : 74.95580579999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2179127802915,
+                  "lng" : 74.9569080802915
+               },
+               "southwest" : {
+                  "lat" : 30.2152148197085,
+                  "lng" : 74.95421011970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 17",
+               "short_name" : "Street Number 17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 17, Guru Teg Bahadar Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2190914,
+                  "lng" : 74.95613349999999
+               },
+               "southwest" : {
+                  "lat" : 30.2175936,
+                  "lng" : 74.95479229999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2183581,
+               "lng" : 74.9554455
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2196914802915,
+                  "lng" : 74.9568118802915
+               },
+               "southwest" : {
+                  "lat" : 30.2169935197085,
+                  "lng" : 74.95411391970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 15",
+               "short_name" : "Street Number 15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shaibzada Jujhar Singh Nagar",
+               "short_name" : "Shaibzada Jujhar Singh Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 15, Guru Teg Bahadar Nagar, Shaibzada Jujhar Singh Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.217671,
+                  "lng" : 74.9568412
+               },
+               "southwest" : {
+                  "lat" : 30.2153958,
+                  "lng" : 74.9560642
+               }
+            },
+            "location" : {
+               "lat" : 30.2166511,
+               "lng" : 74.9568201
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2178823802915,
+                  "lng" : 74.9578016802915
+               },
+               "southwest" : {
+                  "lat" : 30.2151844197085,
+                  "lng" : 74.95510371970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 19",
+               "short_name" : "Street Number 19",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shaibzada Jujhar Singh Nagar",
+               "short_name" : "Shaibzada Jujhar Singh Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 19, Shaibzada Jujhar Singh Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2197067,
+                  "lng" : 74.9591544
+               },
+               "southwest" : {
+                  "lat" : 30.21852719999999,
+                  "lng" : 74.956193
+               }
+            },
+            "location" : {
+               "lat" : 30.2192133,
+               "lng" : 74.9576131
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2204659302915,
+                  "lng" : 74.9591544
+               },
+               "southwest" : {
+                  "lat" : 30.2177679697085,
+                  "lng" : 74.956193
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 12",
+               "short_name" : "Street Number 12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 12, Guru Teg Bahadar Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2177479,
+                  "lng" : 74.9561173
+               },
+               "southwest" : {
+                  "lat" : 30.2150705,
+                  "lng" : 74.9541157
+               }
+            },
+            "location" : {
+               "lat" : 30.2164754,
+               "lng" : 74.95507790000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2177581802915,
+                  "lng" : 74.95646548029151
+               },
+               "southwest" : {
+                  "lat" : 30.2150602197085,
+                  "lng" : 74.95376751970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 11",
+               "short_name" : "Street Number 11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 11, Guru Teg Bahadar Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2177745,
+                  "lng" : 74.95541790000001
+               },
+               "southwest" : {
+                  "lat" : 30.2150553,
+                  "lng" : 74.9535942
+               }
+            },
+            "location" : {
+               "lat" : 30.2163992,
+               "lng" : 74.95437939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2177745,
+                  "lng" : 74.95585503029152
+               },
+               "southwest" : {
+                  "lat" : 30.2150553,
+                  "lng" : 74.95315706970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 20",
+               "short_name" : "Street Number 20",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Patel Nagar",
+               "short_name" : "Patel Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 20, Patel Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.218844,
+                  "lng" : 74.9576917
+               },
+               "southwest" : {
+                  "lat" : 30.2175461,
+                  "lng" : 74.9567574
+               }
+            },
+            "location" : {
+               "lat" : 30.2181729,
+               "lng" : 74.95731119999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2195440302915,
+                  "lng" : 74.9585735302915
+               },
+               "southwest" : {
+                  "lat" : 30.2168460697085,
+                  "lng" : 74.9558755697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 18",
+               "short_name" : "Street Number 18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Patel Nagar",
+               "short_name" : "Patel Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 18, Patel Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2192951,
+                  "lng" : 74.9570846
+               },
+               "southwest" : {
+                  "lat" : 30.217567,
+                  "lng" : 74.9554885
+               }
+            },
+            "location" : {
+               "lat" : 30.21852719999999,
+               "lng" : 74.956193
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2197800302915,
+                  "lng" : 74.95763553029151
+               },
+               "southwest" : {
+                  "lat" : 30.2170820697085,
+                  "lng" : 74.95493756970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 14",
+               "short_name" : "Street Number 14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shaibzada Jujhar Singh Nagar",
+               "short_name" : "Shaibzada Jujhar Singh Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 14, Guru Teg Bahadar Nagar, Shaibzada Jujhar Singh Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2176221,
+                  "lng" : 74.956828
+               },
+               "southwest" : {
+                  "lat" : 30.2159007,
+                  "lng" : 74.9553442
+               }
+            },
+            "location" : {
+               "lat" : 30.2166523,
+               "lng" : 74.9561597
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2181103802915,
+                  "lng" : 74.95743508029152
+               },
+               "southwest" : {
+                  "lat" : 30.2154124197085,
+                  "lng" : 74.95473711970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Jalandhar, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3077101,
+                  "lng" : 75.576165
+               },
+               "southwest" : {
+                  "lat" : 31.2998531,
+                  "lng" : 75.5639171
+               }
+            },
+            "location" : {
+               "lat" : 31.3036265,
+               "lng" : 75.56988079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3077101,
+                  "lng" : 75.576165
+               },
+               "southwest" : {
+                  "lat" : 31.2998531,
+                  "lng" : 75.5639171
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street Number 16",
+               "short_name" : "Street Number 16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shaibzada Jujhar Singh Nagar",
+               "short_name" : "Shaibzada Jujhar Singh Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Street Number 16, Guru Teg Bahadar Nagar, Shaibzada Jujhar Singh Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2176289,
+                  "lng" : 74.9578551
+               },
+               "southwest" : {
+                  "lat" : 30.21675419999999,
+                  "lng" : 74.95703189999999
+               }
+            },
+            "location" : {
+               "lat" : 30.2172193,
+               "lng" : 74.95741630000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2185405302915,
+                  "lng" : 74.95879248029151
+               },
+               "southwest" : {
+                  "lat" : 30.2158425697085,
+                  "lng" : 74.9560945197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guru Tegh Bahadur Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Panvel",
+               "short_name" : "Panvel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raigad",
+               "short_name" : "Raigad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "410206",
+               "short_name" : "410206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guru Tegh Bahadur Nagar, Panvel, Navi Mumbai, Maharashtra 410206, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0000729,
+                  "lng" : 73.1332821
+               },
+               "southwest" : {
+                  "lat" : 18.9938441,
+                  "lng" : 73.12682789999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9974358,
+               "lng" : 73.1297972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0000729,
+                  "lng" : 73.1332821
+               },
+               "southwest" : {
+                  "lat" : 18.9938441,
+                  "lng" : 73.12682789999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Amritsar",
+               "short_name" : "Amritsar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amritsar",
+               "short_name" : "Amritsar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Amritsar, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.628613,
+                  "lng" : 74.91909099999999
+               },
+               "southwest" : {
+                  "lat" : 31.6217311,
+                  "lng" : 74.89873100000001
+               }
+            },
+            "location" : {
+               "lat" : 31.6252611,
+               "lng" : 74.90772370000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.628613,
+                  "lng" : 74.91909099999999
+               },
+               "southwest" : {
+                  "lat" : 31.6217311,
+                  "lng" : 74.89873100000001
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Outram Lines",
+               "short_name" : "Outram Lines",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110009",
+               "short_name" : "110009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Outram Lines, GTB Nagar, New Delhi, Delhi 110009",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.698439,
+               "lng" : 77.20605399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6997879802915,
+                  "lng" : 77.2074029802915
+               },
+               "southwest" : {
+                  "lat" : 28.6970900197085,
+                  "lng" : 77.2047050197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guru Teg Bahadar Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shaibzada Jujhar Singh Nagar",
+               "short_name" : "Shaibzada Jujhar Singh Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathinda",
+               "short_name" : "Bathinda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "151001",
+               "short_name" : "151001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guru Teg Bahadar Nagar, Shaibzada Jujhar Singh Nagar, Bathinda, Punjab 151001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.217733,
+                  "lng" : 74.960921
+               },
+               "southwest" : {
+                  "lat" : 30.2147309,
+                  "lng" : 74.953377
+               }
+            },
+            "location" : {
+               "lat" : 30.2167002,
+               "lng" : 74.95667850000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.217733,
+                  "lng" : 74.960921
+               },
+               "southwest" : {
+                  "lat" : 30.2147309,
+                  "lng" : 74.953377
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhuri",
+               "short_name" : "Dhuri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sangrur",
+               "short_name" : "Sangrur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "148024",
+               "short_name" : "148024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Dhuri, Punjab 148024, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.367667,
+                  "lng" : 75.85685889999999
+               },
+               "southwest" : {
+                  "lat" : 30.358114,
+                  "lng" : 75.84540199999999
+               }
+            },
+            "location" : {
+               "lat" : 30.3626513,
+               "lng" : 75.8519429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.367667,
+                  "lng" : 75.85685889999999
+               },
+               "southwest" : {
+                  "lat" : 30.358114,
+                  "lng" : 75.84540199999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khanna",
+               "short_name" : "Khanna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ludhiana",
+               "short_name" : "Ludhiana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Khanna, Punjab, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.70822179999999,
+                  "lng" : 76.23792399999999
+               },
+               "southwest" : {
+                  "lat" : 30.701493,
+                  "lng" : 76.229332
+               }
+            },
+            "location" : {
+               "lat" : 30.7065504,
+               "lng" : 76.234619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.70822179999999,
+                  "lng" : 76.23792399999999
+               },
+               "southwest" : {
+                  "lat" : 30.701493,
+                  "lng" : 76.229332
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kareli",
+               "short_name" : "Kareli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Allahabad",
+               "short_name" : "Allahabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allahabad",
+               "short_name" : "Allahabad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "211016",
+               "short_name" : "211016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Kareli, Allahabad, Uttar Pradesh 211016, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.4342097,
+                  "lng" : 81.8222712
+               },
+               "southwest" : {
+                  "lat" : 25.4238496,
+                  "lng" : 81.8129969
+               }
+            },
+            "location" : {
+               "lat" : 25.4284691,
+               "lng" : 81.8182485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.4342097,
+                  "lng" : 81.8222712
+               },
+               "southwest" : {
+                  "lat" : 25.4238496,
+                  "lng" : 81.8129969
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guru Teg Bahadur Nagar",
+               "short_name" : "Guru Teg Bahadur Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jalandhar",
+               "short_name" : "Jalandhar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "144003",
+               "short_name" : "144003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Guru Teg Bahadur Nagar, GTB Nagar, Jalandhar, Punjab 144003, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.3042449,
+               "lng" : 75.5701954
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3055938802915,
+                  "lng" : 75.57154438029151
+               },
+               "southwest" : {
+                  "lat" : 31.3028959197085,
+                  "lng" : 75.56884641970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GTB Nagar",
+               "short_name" : "GTB Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Everard Nagar",
+               "short_name" : "Everard Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sion",
+               "short_name" : "Sion",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400022",
+               "short_name" : "400022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "GTB Nagar, Everard Nagar, Sion, Mumbai, Maharashtra 400022, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0504647,
+                  "lng" : 72.87795509999999
+               },
+               "southwest" : {
+                  "lat" : 19.0479159,
+                  "lng" : 72.8744375
+               }
+            },
+            "location" : {
+               "lat" : 19.0493833,
+               "lng" : 72.8762862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0505392802915,
+                  "lng" : 72.87795509999999
+               },
+               "southwest" : {
+                  "lat" : 19.0478413197085,
+                  "lng" : 72.8744375
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G.T.B.Nagar",
+               "short_name" : "G.T.B.Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sindh Seva Samiti Nagar",
+               "short_name" : "Sindh Seva Samiti Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Antop Hill",
+               "short_name" : "Antop Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "G.T.B.Nagar, Sindh Seva Samiti Nagar, Antop Hill, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0344146,
+                  "lng" : 72.864992
+               },
+               "southwest" : {
+                  "lat" : 19.0323774,
+                  "lng" : 72.86249119999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0338842,
+               "lng" : 72.86306259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0347449802915,
+                  "lng" : 72.86509058029149
+               },
+               "southwest" : {
+                  "lat" : 19.0320470197085,
+                  "lng" : 72.86239261970849
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G T B Nagar",
+               "short_name" : "G T B Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mukherjee Nagar",
+               "short_name" : "Mukherjee Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North West Delhi",
+               "short_name" : "North West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110009",
+               "short_name" : "110009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G T B Nagar, Mukherjee Nagar, New Delhi, Delhi 110009, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7115747,
+                  "lng" : 77.20441989999999
+               },
+               "southwest" : {
+                  "lat" : 28.7071047,
+                  "lng" : 77.2002304
+               }
+            },
+            "location" : {
+               "lat" : 28.7093396,
+               "lng" : 77.2015432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7115747,
+                  "lng" : 77.20441989999999
+               },
+               "southwest" : {
+                  "lat" : 28.7071047,
+                  "lng" : 77.2002304
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

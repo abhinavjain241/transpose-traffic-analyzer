@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exide More Bus Stop - Bhawanipur",
+               "short_name" : "Exide More Bus Stop - Bhawanipur",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chowringhee Road",
+               "short_name" : "Chowringhee Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gokhel Road",
+               "short_name" : "Gokhel Road",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bhowanipore",
+               "short_name" : "Bhowanipore",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700020",
+               "short_name" : "700020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Exide More Bus Stop - Bhawanipur, Chowringhee Road, Gokhel Road, Bhowanipore, Kolkata, West Bengal 700020, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5409469,
+               "lng" : 88.34702590000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5422958802915,
+                  "lng" : 88.34837488029152
+               },
+               "southwest" : {
+                  "lat" : 22.53959791970849,
+                  "lng" : 88.34567691970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

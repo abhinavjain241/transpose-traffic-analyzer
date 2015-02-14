@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asmara Lines",
+               "short_name" : "Asmara Lines",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Delhi Cantonment",
+               "short_name" : "Delhi Cantonment",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South West Delhi",
+               "short_name" : "South West Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110010",
+               "short_name" : "110010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Asmara Lines, Delhi Cantonment, New Delhi, Delhi 110010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5856617,
+                  "lng" : 77.14627489999999
+               },
+               "southwest" : {
+                  "lat" : 28.5794907,
+                  "lng" : 77.13936579999999
+               }
+            },
+            "location" : {
+               "lat" : 28.582607,
+               "lng" : 77.1434831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5856617,
+                  "lng" : 77.14627489999999
+               },
+               "southwest" : {
+                  "lat" : 28.5794907,
+                  "lng" : 77.13936579999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

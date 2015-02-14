@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dahisar Check Naka",
+               "short_name" : "Dahisar Check Naka",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Western Express Highway",
+               "short_name" : "Western Express Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Diamond Industrial Estate",
+               "short_name" : "Diamond Industrial Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dahisar East",
+               "short_name" : "Dahisar East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400068",
+               "short_name" : "400068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dahisar Check Naka, Western Express Highway, Diamond Industrial Estate, Dahisar East, Mumbai, Maharashtra 400068, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.257382,
+               "lng" : 72.87174130000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2587309802915,
+                  "lng" : 72.87309028029152
+               },
+               "southwest" : {
+                  "lat" : 19.2560330197085,
+                  "lng" : 72.87039231970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

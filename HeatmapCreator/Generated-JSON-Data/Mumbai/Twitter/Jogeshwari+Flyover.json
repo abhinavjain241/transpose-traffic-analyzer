@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flyover Apartment",
+               "short_name" : "Flyover Apartment",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Prof NS Phadke Marg",
+               "short_name" : "Prof NS Phadke Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vijay Nagar",
+               "short_name" : "Vijay Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400053",
+               "short_name" : "400053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Flyover Apartment, Prof NS Phadke Marg, Vijay Nagar, Andheri East, Mumbai, Maharashtra 400053, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1151434,
+                  "lng" : 72.8496691
+               },
+               "southwest" : {
+                  "lat" : 19.1148976,
+                  "lng" : 72.84935759999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1150205,
+               "lng" : 72.84951339999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1163694802915,
+                  "lng" : 72.85086233029151
+               },
+               "southwest" : {
+                  "lat" : 19.1136715197085,
+                  "lng" : 72.8481643697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jogeshwari Crossing Flyover",
+               "short_name" : "Jogeshwari Crossing Flyover",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Motilal Nagar I",
+               "short_name" : "Motilal Nagar I",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Goregaon West",
+               "short_name" : "Goregaon West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400104",
+               "short_name" : "400104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jogeshwari Crossing Flyover, Motilal Nagar I, Goregaon West, Mumbai, Maharashtra 400104",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.153308,
+               "lng" : 72.841804
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1546569802915,
+                  "lng" : 72.84315298029151
+               },
+               "southwest" : {
+                  "lat" : 19.1519590197085,
+                  "lng" : 72.84045501970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

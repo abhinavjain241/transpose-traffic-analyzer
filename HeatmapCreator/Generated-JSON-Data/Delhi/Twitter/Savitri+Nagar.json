@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Savitri Nagar",
+               "short_name" : "Savitri Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Savitri Nagar Village",
+               "short_name" : "Savitri Nagar Village",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sheikh Sarai",
+               "short_name" : "Sheikh Sarai",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110017",
+               "short_name" : "110017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Savitri Nagar, Savitri Nagar Village, Sheikh Sarai, New Delhi, Delhi 110017, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5411346,
+                  "lng" : 77.22112419999999
+               },
+               "southwest" : {
+                  "lat" : 28.5384931,
+                  "lng" : 77.2162414
+               }
+            },
+            "location" : {
+               "lat" : 28.539235,
+               "lng" : 77.2186001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5411628302915,
+                  "lng" : 77.22112419999999
+               },
+               "southwest" : {
+                  "lat" : 28.5384648697085,
+                  "lng" : 77.2162414
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

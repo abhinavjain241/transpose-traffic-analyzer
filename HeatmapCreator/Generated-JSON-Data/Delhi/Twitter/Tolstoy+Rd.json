@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tolstoy Road",
+               "short_name" : "Tolstoy Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tolstoy Road, New Delhi, Delhi 110001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6289413,
+                  "lng" : 77.22659929999999
+               },
+               "southwest" : {
+                  "lat" : 28.6259381,
+                  "lng" : 77.2152835
+               }
+            },
+            "location" : {
+               "lat" : 28.62637,
+               "lng" : 77.22054589999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6289413,
+                  "lng" : 77.22659929999999
+               },
+               "southwest" : {
+                  "lat" : 28.6259381,
+                  "lng" : 77.2152835
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tolstoy Road",
+               "short_name" : "Tolstoy Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atul Grove Road",
+               "short_name" : "Atul Grove Road",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Janpath",
+               "short_name" : "Janpath",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Connaught Place",
+               "short_name" : "CP",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Delhi",
+               "short_name" : "Central Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tolstoy Road, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6273461,
+               "lng" : 77.2209441
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6286950802915,
+                  "lng" : 77.22229308029151
+               },
+               "southwest" : {
+                  "lat" : 28.6259971197085,
+                  "lng" : 77.21959511970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

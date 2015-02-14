@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haque View Market",
+               "short_name" : "Haque View Market",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "CDA Avenue",
+               "short_name" : "CDA Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dampara",
+               "short_name" : "Dampara",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lal Khan Bazaar",
+               "short_name" : "Lal Khan Bazaar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haque View Market, 42 CDA Avenue, Chittagong, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.3510806,
+                  "lng" : 91.8217805
+               },
+               "southwest" : {
+                  "lat" : 22.3509119,
+                  "lng" : 91.82163299999999
+               }
+            },
+            "location" : {
+               "lat" : 22.3509962,
+               "lng" : 91.8217068
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.3523452302915,
+                  "lng" : 91.8230557302915
+               },
+               "southwest" : {
+                  "lat" : 22.34964726970849,
+                  "lng" : 91.82035776970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

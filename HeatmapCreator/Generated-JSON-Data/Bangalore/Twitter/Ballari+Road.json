@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ballari Road",
+               "short_name" : "Ballari Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kudligi",
+               "short_name" : "Kudligi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellary",
+               "short_name" : "Bellary",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "583135",
+               "short_name" : "583135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ballari Road, Kudligi, Karnataka 583135, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.9089478,
+                  "lng" : 76.38815749999999
+               },
+               "southwest" : {
+                  "lat" : 14.9038914,
+                  "lng" : 76.38663129999999
+               }
+            },
+            "location" : {
+               "lat" : 14.9075135,
+               "lng" : 76.3878108
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.9089478,
+                  "lng" : 76.3887433802915
+               },
+               "southwest" : {
+                  "lat" : 14.9038914,
+                  "lng" : 76.38604541970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalvi West",
+               "short_name" : "Kalvi West",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellary",
+               "short_name" : "Bellary",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "583214",
+               "short_name" : "583214",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road, Kalvi West, Karnataka 583214, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.1106877,
+                  "lng" : 76.0097052
+               },
+               "southwest" : {
+                  "lat" : 15.0981574,
+                  "lng" : 76.0071945
+               }
+            },
+            "location" : {
+               "lat" : 15.1039463,
+               "lng" : 76.0071945
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.1106877,
+                  "lng" : 76.0097988302915
+               },
+               "southwest" : {
+                  "lat" : 15.0981574,
+                  "lng" : 76.00710086970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

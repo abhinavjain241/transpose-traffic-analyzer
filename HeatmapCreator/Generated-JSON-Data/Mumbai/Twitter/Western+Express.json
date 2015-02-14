@@ -1,0 +1,151 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Express",
+               "short_name" : "Western Express",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Laxmi Baug",
+               "short_name" : "Laxmi Baug",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kashigaon",
+               "short_name" : "Kashigaon",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Road East",
+               "short_name" : "Mira Road East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Bhayandar",
+               "short_name" : "Mira Bhayandar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "401107",
+               "short_name" : "401107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Western Express, Laxmi Baug, Kashigaon, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.276068,
+               "lng" : 72.888817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2774169802915,
+                  "lng" : 72.8901659802915
+               },
+               "southwest" : {
+                  "lat" : 19.2747190197085,
+                  "lng" : 72.88746801970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laxmi Baug / Western Hotel",
+               "short_name" : "Laxmi Baug / Western Hotel",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "NH8",
+               "short_name" : "NH8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "National Highway 8",
+               "short_name" : "NH8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laxmi Baug",
+               "short_name" : "Laxmi Baug",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kashigaon",
+               "short_name" : "Kashigaon",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Road East",
+               "short_name" : "Mira Road East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Bhayandar",
+               "short_name" : "Mira Bhayandar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "401107",
+               "short_name" : "401107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laxmi Baug / Western Hotel, NH8, National Highway 8, Laxmi Baug, Kashigaon, Mira Road East, Mira Bhayandar, Maharashtra 401107, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2762304,
+               "lng" : 72.88907829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2775793802915,
+                  "lng" : 72.8904272802915
+               },
+               "southwest" : {
+                  "lat" : 19.2748814197085,
+                  "lng" : 72.88772931970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

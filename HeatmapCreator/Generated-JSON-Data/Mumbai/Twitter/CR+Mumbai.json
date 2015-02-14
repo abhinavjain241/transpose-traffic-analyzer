@@ -1,0 +1,858 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CR Building House",
+               "short_name" : "CR Building House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "R Raikar Marg",
+               "short_name" : "R Raikar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mahim West",
+               "short_name" : "Mahim West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mahim",
+               "short_name" : "Mahim",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400016",
+               "short_name" : "400016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CR Building House, R Raikar Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0367526,
+                  "lng" : 72.84043459999999
+               },
+               "southwest" : {
+                  "lat" : 19.0365332,
+                  "lng" : 72.84023499999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0366429,
+               "lng" : 72.84033479999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0379918802915,
+                  "lng" : 72.8416837802915
+               },
+               "southwest" : {
+                  "lat" : 19.03529391970849,
+                  "lng" : 72.8389858197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Section",
+               "short_name" : "Central Railway Section",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Section, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0813413,
+                  "lng" : 72.8988069
+               },
+               "southwest" : {
+                  "lat" : 19.0674253,
+                  "lng" : 72.8884698
+               }
+            },
+            "location" : {
+               "lat" : 19.0743833,
+               "lng" : 72.89363840000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0813413,
+                  "lng" : 72.8988069
+               },
+               "southwest" : {
+                  "lat" : 19.0674253,
+                  "lng" : 72.8884698
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Line",
+               "short_name" : "Central Railway Line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mankhurd",
+               "short_name" : "Mankhurd",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400088",
+               "short_name" : "400088",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Line, Mankhurd, Mumbai, Maharashtra 400088",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0479962,
+                  "lng" : 72.9335991
+               },
+               "southwest" : {
+                  "lat" : 19.0461551,
+                  "lng" : 72.9294003
+               }
+            },
+            "location" : {
+               "lat" : 19.0470756,
+               "lng" : 72.9314997
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0484246302915,
+                  "lng" : 72.9335991
+               },
+               "southwest" : {
+                  "lat" : 19.0457266697085,
+                  "lng" : 72.9294003
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway line",
+               "short_name" : "Central Railway line",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dharavi",
+               "short_name" : "Dharavi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway line, Dharavi, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0338265,
+                  "lng" : 72.8545711
+               },
+               "southwest" : {
+                  "lat" : 19.0334802,
+                  "lng" : 72.8543519
+               }
+            },
+            "location" : {
+               "lat" : 19.0336533,
+               "lng" : 72.8544615
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0350023302915,
+                  "lng" : 72.8558104802915
+               },
+               "southwest" : {
+                  "lat" : 19.0323043697085,
+                  "lng" : 72.85311251970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chhatrapati Shivaji Terminal",
+               "short_name" : "Chhatrapati Shivaji Terminal",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Dadabhai Naoroji Road",
+               "short_name" : "DN Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chhatrapati Shivaji Terminus Area",
+               "short_name" : "Chhatrapati Shivaji Terminus Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fort",
+               "short_name" : "Fort",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chhatrapati Shivaji Terminal, Dadabhai Naoroji Road, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9404241,
+                  "lng" : 72.8358202
+               },
+               "southwest" : {
+                  "lat" : 18.9393659,
+                  "lng" : 72.83492749999999
+               }
+            },
+            "location" : {
+               "lat" : 18.939895,
+               "lng" : 72.83537389999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9412439802915,
+                  "lng" : 72.83672283029151
+               },
+               "southwest" : {
+                  "lat" : 18.93854601970849,
+                  "lng" : 72.8340248697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Godown",
+               "short_name" : "Central Railway Godown",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sardar Vallabhbhai Patel Road",
+               "short_name" : "SVP Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Railway Godown",
+               "short_name" : "Central Railway Godown",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mazgaon",
+               "short_name" : "Mazgaon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400009",
+               "short_name" : "400009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Godown, Sardar Vallabhbhai Patel Road, Central Railway Godown, Mazgaon, Mumbai, Maharashtra 400009, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9603063,
+                  "lng" : 72.8411043
+               },
+               "southwest" : {
+                  "lat" : 18.9590887,
+                  "lng" : 72.84026729999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9596975,
+               "lng" : 72.8406858
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9610464802915,
+                  "lng" : 72.8420347802915
+               },
+               "southwest" : {
+                  "lat" : 18.95834851970849,
+                  "lng" : 72.83933681970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Institute",
+               "short_name" : "Central Railway Institute",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Doctor Baba Saheb Ambedkar Road",
+               "short_name" : "Dr Baba Saheb Ambedkar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railway Chawl",
+               "short_name" : "Railway Chawl",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400012",
+               "short_name" : "400012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Institute, Doctor Baba Saheb Ambedkar Road, Railway Chawl, Parel, Mumbai, Maharashtra 400012, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.001458,
+               "lng" : 72.8370446
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0028069802915,
+                  "lng" : 72.83839358029151
+               },
+               "southwest" : {
+                  "lat" : 19.0001090197085,
+                  "lng" : 72.8356956197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Kurla Siding",
+               "short_name" : "Central Railway Kurla Siding",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jagruti Nagar",
+               "short_name" : "Jagruti Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Police Colony",
+               "short_name" : "Police Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400024",
+               "short_name" : "400024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Kurla Siding, Jagruti Nagar, Nehru Nagar, Kurla East, Mumbai, Maharashtra 400024",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.066889,
+                  "lng" : 72.88200309999999
+               },
+               "southwest" : {
+                  "lat" : 19.0667464,
+                  "lng" : 72.8818012
+               }
+            },
+            "location" : {
+               "lat" : 19.0668177,
+               "lng" : 72.88190209999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0681666802915,
+                  "lng" : 72.8832511302915
+               },
+               "southwest" : {
+                  "lat" : 19.0654687197085,
+                  "lng" : 72.88055316970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Harbour Line Panvel CST",
+               "short_name" : "Central Railway Harbour Line Panvel CST",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Harbour Line Panvel CST, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0687219,
+                  "lng" : 72.91947979999999
+               },
+               "southwest" : {
+                  "lat" : 19.0514074,
+                  "lng" : 72.8810859
+               }
+            },
+            "location" : {
+               "lat" : 19.0600646,
+               "lng" : 72.9002828
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0687219,
+                  "lng" : 72.91947979999999
+               },
+               "southwest" : {
+                  "lat" : 19.0514074,
+                  "lng" : 72.8810859
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Harbour Line CST Panvel",
+               "short_name" : "Central Railway Harbour Line CST Panvel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Harbour Line CST Panvel, Kurla, Mumbai, Maharashtra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0675254,
+                  "lng" : 72.88440869999999
+               },
+               "southwest" : {
+                  "lat" : 19.066811,
+                  "lng" : 72.8819858
+               }
+            },
+            "location" : {
+               "lat" : 19.0671682,
+               "lng" : 72.8831972
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0685171802915,
+                  "lng" : 72.88454623029149
+               },
+               "southwest" : {
+                  "lat" : 19.06581921970849,
+                  "lng" : 72.88184826970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Employees School",
+               "short_name" : "Central Railway Employees School",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Jagannath Bhatankar Marg",
+               "short_name" : "Jagannath Bhatankar Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Krishna Nagar",
+               "short_name" : "Krishna Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Parel",
+               "short_name" : "Parel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400012",
+               "short_name" : "400012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Employees School, Jagannath Bhatankar Marg, Krishna Nagar, Parel, Mumbai, Maharashtra 400012, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0061817,
+                  "lng" : 72.83649799999999
+               },
+               "southwest" : {
+                  "lat" : 19.0054894,
+                  "lng" : 72.8359183
+               }
+            },
+            "location" : {
+               "lat" : 19.0058356,
+               "lng" : 72.8362082
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0071845302915,
+                  "lng" : 72.8375571302915
+               },
+               "southwest" : {
+                  "lat" : 19.0044865697085,
+                  "lng" : 72.83485916970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Railway Officers Awas Gruh",
+               "short_name" : "Central Railway Officers Awas Gruh",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Hansraj Lane",
+               "short_name" : "Hansraj Lane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mazgaon",
+               "short_name" : "Mazgaon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400010",
+               "short_name" : "400010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Railway Officers Awas Gruh, Hansraj Lane, Mazgaon, Mumbai, Maharashtra 400010, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9703098,
+                  "lng" : 72.83458279999999
+               },
+               "southwest" : {
+                  "lat" : 18.9700592,
+                  "lng" : 72.83439919999999
+               }
+            },
+            "location" : {
+               "lat" : 18.9701845,
+               "lng" : 72.834491
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9715334802915,
+                  "lng" : 72.8358399802915
+               },
+               "southwest" : {
+                  "lat" : 18.9688355197085,
+                  "lng" : 72.83314201970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

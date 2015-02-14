@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "C A Road",
+               "short_name" : "C A Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C A Road, Montana, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2853546,
+                  "lng" : -108.1548417
+               },
+               "southwest" : {
+                  "lat" : 45.9726284,
+                  "lng" : -108.297479
+               }
+            },
+            "location" : {
+               "lat" : 46.121254,
+               "lng" : -108.2583603
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2853546,
+                  "lng" : -108.1548417
+               },
+               "southwest" : {
+                  "lat" : 45.9726284,
+                  "lng" : -108.297479
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CA Road",
+               "short_name" : "CA Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CA Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.590289,
+                  "lng" : 88.3638103
+               },
+               "southwest" : {
+                  "lat" : 22.565892,
+                  "lng" : 88.3517889
+               }
+            },
+            "location" : {
+               "lat" : 22.5775775,
+               "lng" : 88.3603019
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.590289,
+                  "lng" : 88.3638103
+               },
+               "southwest" : {
+                  "lat" : 22.565892,
+                  "lng" : 88.3517889
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

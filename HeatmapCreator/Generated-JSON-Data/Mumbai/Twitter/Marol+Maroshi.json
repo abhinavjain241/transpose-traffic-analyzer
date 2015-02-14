@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marol Maroshi Road",
+               "short_name" : "Marol Maroshi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marol Maroshi Road, Andheri East, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1267396,
+                  "lng" : 72.88343759999999
+               },
+               "southwest" : {
+                  "lat" : 19.1083875,
+                  "lng" : 72.8775179
+               }
+            },
+            "location" : {
+               "lat" : 19.1174755,
+               "lng" : 72.88016089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1267396,
+                  "lng" : 72.88343759999999
+               },
+               "southwest" : {
+                  "lat" : 19.1083875,
+                  "lng" : 72.8775179
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "marol",
+               "short_name" : "marol",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Marol Maroshi Road",
+               "short_name" : "Marol Maroshi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhavani Nagar",
+               "short_name" : "Bhavani Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Marol",
+               "short_name" : "Marol",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Andheri East",
+               "short_name" : "Andheri East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400059",
+               "short_name" : "400059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "marol, Marol Maroshi Road, Bhavani Nagar, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.1174791,
+               "lng" : 72.8801125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1188280802915,
+                  "lng" : 72.88146148029151
+               },
+               "southwest" : {
+                  "lat" : 19.1161301197085,
+                  "lng" : 72.87876351970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

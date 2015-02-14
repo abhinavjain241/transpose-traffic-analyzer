@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thanisandra Main Road",
+               "short_name" : "Thanisandra Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thanisandra Main Road, Bengaluru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.1020356,
+                  "lng" : 77.63600149999999
+               },
+               "southwest" : {
+                  "lat" : 13.0401813,
+                  "lng" : 77.6242783
+               }
+            },
+            "location" : {
+               "lat" : 13.0717144,
+               "lng" : 77.63359679999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.1020356,
+                  "lng" : 77.63600149999999
+               },
+               "southwest" : {
+                  "lat" : 13.0401813,
+                  "lng" : 77.6242783
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

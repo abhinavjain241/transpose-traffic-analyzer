@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poradah Football Field",
+               "short_name" : "Poradah Football Field",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kushtia",
+               "short_name" : "Kushtia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poradah Football Field, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.8692284,
+               "lng" : 89.0322697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.8705773802915,
+                  "lng" : 89.0336186802915
+               },
+               "southwest" : {
+                  "lat" : 23.8678794197085,
+                  "lng" : 89.03092071970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "stadium", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chithalia Football Field",
+               "short_name" : "Chithalia Football Field",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Z7461",
+               "short_name" : "Z7461",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kushtia",
+               "short_name" : "Kushtia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khulna Division",
+               "short_name" : "Khulna Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chithalia Football Field, Z7461, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.9509789,
+                  "lng" : 88.95503819999999
+               },
+               "southwest" : {
+                  "lat" : 23.9497636,
+                  "lng" : 88.95397100000001
+               }
+            },
+            "location" : {
+               "lat" : 23.9503712,
+               "lng" : 88.95450459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.9517202302915,
+                  "lng" : 88.9558535802915
+               },
+               "southwest" : {
+                  "lat" : 23.9490222697085,
+                  "lng" : 88.9531556197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

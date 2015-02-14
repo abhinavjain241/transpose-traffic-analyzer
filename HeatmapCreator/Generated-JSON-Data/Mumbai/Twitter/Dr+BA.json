@@ -1,0 +1,772 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue BA",
+               "short_name" : "Rue BA",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordj Bou Arreridj",
+               "short_name" : "Bordj Bou Arreridj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bordj-Bou-Arreridj",
+               "short_name" : "Bordj-Bou-Arreridj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue BA, Bordj Bou Arreridj, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.060531,
+                  "lng" : 4.7720361
+               },
+               "southwest" : {
+                  "lat" : 36.0525556,
+                  "lng" : 4.7656524
+               }
+            },
+            "location" : {
+               "lat" : 36.0561334,
+               "lng" : 4.7677083
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.060531,
+                  "lng" : 4.7720361
+               },
+               "southwest" : {
+                  "lat" : 36.0525556,
+                  "lng" : 4.7656524
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue BA",
+               "short_name" : "Rue BA",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sidi Okba",
+               "short_name" : "Sidi Okba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Biskra",
+               "short_name" : "Wilaya de Biskra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue BA, Sidi Okba, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7567221,
+                  "lng" : 5.917242799999999
+               },
+               "southwest" : {
+                  "lat" : 34.7560786,
+                  "lng" : 5.9139919
+               }
+            },
+            "location" : {
+               "lat" : 34.7564637,
+               "lng" : 5.9159372
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7577493302915,
+                  "lng" : 5.917242799999999
+               },
+               "southwest" : {
+                  "lat" : 34.7550513697085,
+                  "lng" : 5.9139919
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue BA",
+               "short_name" : "Rue BA",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "El Meghaier",
+               "short_name" : "El Meghaier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El-Oued",
+               "short_name" : "El-Oued",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue BA, El Meghaier, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9453578,
+                  "lng" : 5.920081499999999
+               },
+               "southwest" : {
+                  "lat" : 33.943845,
+                  "lng" : 5.9196675
+               }
+            },
+            "location" : {
+               "lat" : 33.9444462,
+               "lng" : 5.9199102
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.94595038029149,
+                  "lng" : 5.921223480291502
+               },
+               "southwest" : {
+                  "lat" : 33.94325241970849,
+                  "lng" : 5.918525519708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue B.A",
+               "short_name" : "Rue B.A",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Batna",
+               "short_name" : "Batna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Batna",
+               "short_name" : "Wilaya de Batna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue B.A, Batna, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5443459,
+                  "lng" : 6.186284
+               },
+               "southwest" : {
+                  "lat" : 35.5443262,
+                  "lng" : 6.1845115
+               }
+            },
+            "location" : {
+               "lat" : 35.5443329,
+               "lng" : 6.185434
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.54568503029149,
+                  "lng" : 6.186746730291502
+               },
+               "southwest" : {
+                  "lat" : 35.5429870697085,
+                  "lng" : 6.184048769708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Travessa Ba",
+               "short_name" : "Tv. Ba",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barra Bonita",
+               "short_name" : "Barra Bonita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barra Bonita",
+               "short_name" : "Barra Bonita",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Catarina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89909-000",
+               "short_name" : "89909-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Travessa Ba, Barra Bonita - SC, 89909-000, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.6540507,
+                  "lng" : -53.4381989
+               },
+               "southwest" : {
+                  "lat" : -26.6553122,
+                  "lng" : -53.4406623
+               }
+            },
+            "location" : {
+               "lat" : -26.6546996,
+               "lng" : -53.4393894
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.6533324697085,
+                  "lng" : -53.4380816197085
+               },
+               "southwest" : {
+                  "lat" : -26.6560304302915,
+                  "lng" : -53.44077958029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doctor Baba Saheb Ambedkar Road",
+               "short_name" : "Dr Baba Saheb Ambedkar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Doctor Baba Saheb Ambedkar Road, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0422539,
+                  "lng" : 72.8637324
+               },
+               "southwest" : {
+                  "lat" : 18.9740208,
+                  "lng" : 72.833196
+               }
+            },
+            "location" : {
+               "lat" : 19.0110474,
+               "lng" : 72.84312129999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0422539,
+                  "lng" : 72.8637324
+               },
+               "southwest" : {
+                  "lat" : 18.9740208,
+                  "lng" : 72.833196
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue BA",
+               "short_name" : "Rue BA",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mascara",
+               "short_name" : "Mascara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mascara",
+               "short_name" : "Mascara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue BA, Mascara, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.408078,
+                  "lng" : 0.1468483
+               },
+               "southwest" : {
+                  "lat" : 35.4055992,
+                  "lng" : 0.1444209
+               }
+            },
+            "location" : {
+               "lat" : 35.4073807,
+               "lng" : 0.1455474
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4081875802915,
+                  "lng" : 0.146983580291502
+               },
+               "southwest" : {
+                  "lat" : 35.4054896197085,
+                  "lng" : 0.144285619708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue BA",
+               "short_name" : "Rue BA",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taouzianet",
+               "short_name" : "Taouzianet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Batna",
+               "short_name" : "Wilaya de Batna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue BA, Taouzianet, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5114175,
+                  "lng" : 6.814624999999999
+               },
+               "southwest" : {
+                  "lat" : 35.5105965,
+                  "lng" : 6.814377299999999
+               }
+            },
+            "location" : {
+               "lat" : 35.5110725,
+               "lng" : 6.814489900000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5123559802915,
+                  "lng" : 6.815850130291502
+               },
+               "southwest" : {
+                  "lat" : 35.5096580197085,
+                  "lng" : 6.813152169708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr.-Bach-Straße",
+               "short_name" : "Dr.-Bach-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wertach",
+               "short_name" : "Wertach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87497",
+               "short_name" : "87497",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr.-Bach-Straße, 87497 Wertach, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6041807,
+                  "lng" : 10.4110521
+               },
+               "southwest" : {
+                  "lat" : 47.60207,
+                  "lng" : 10.4077292
+               }
+            },
+            "location" : {
+               "lat" : 47.6031153,
+               "lng" : 10.4097758
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6044743302915,
+                  "lng" : 10.4110521
+               },
+               "southwest" : {
+                  "lat" : 47.6017763697085,
+                  "lng" : 10.4077292
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr.-Bach-Straße",
+               "short_name" : "Dr.-Bach-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aislingen",
+               "short_name" : "Aislingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89344",
+               "short_name" : "89344",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr.-Bach-Straße, 89344 Aislingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.506897,
+                  "lng" : 10.4581961
+               },
+               "southwest" : {
+                  "lat" : 48.50354,
+                  "lng" : 10.4567475
+               }
+            },
+            "location" : {
+               "lat" : 48.50516469999999,
+               "lng" : 10.4580476
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.506897,
+                  "lng" : 10.4588207802915
+               },
+               "southwest" : {
+                  "lat" : 48.50354,
+                  "lng" : 10.4561228197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BA Street",
+               "short_name" : "BA St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Najmah",
+               "short_name" : "Najmah",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ras Tanura",
+               "short_name" : "Ras Tanura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32814",
+               "short_name" : "32814",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "BA Street, Najmah, Ras Tanura 32814, Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7122445,
+                  "lng" : 50.0780654
+               },
+               "southwest" : {
+                  "lat" : 26.7104187,
+                  "lng" : 50.0759947
+               }
+            },
+            "location" : {
+               "lat" : 26.7113564,
+               "lng" : 50.0770583
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7126805802915,
+                  "lng" : 50.0783790302915
+               },
+               "southwest" : {
+                  "lat" : 26.70998261970849,
+                  "lng" : 50.0756810697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ba' Hill",
+               "short_name" : "Ba' Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milnathort",
+               "short_name" : "Milnathort",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kinross",
+               "short_name" : "Kinross",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY13 9YP",
+               "short_name" : "KY13 9YP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ba' Hill, Milnathort, Kinross, Perth and Kinross KY13 9YP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.23021319999999,
+                  "lng" : -3.417988
+               },
+               "southwest" : {
+                  "lat" : 56.2299616,
+                  "lng" : -3.422038
+               }
+            },
+            "location" : {
+               "lat" : 56.23019770000001,
+               "lng" : -3.4200939
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.23143638029149,
+                  "lng" : -3.417988
+               },
+               "southwest" : {
+                  "lat" : 56.22873841970849,
+                  "lng" : -3.422038
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B A S F Drive",
+               "short_name" : "B A S F Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Williamsburg",
+               "short_name" : "Williamsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roberts",
+               "short_name" : "Roberts",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "James City County",
+               "short_name" : "James City County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23185",
+               "short_name" : "23185",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B A S F Drive, Williamsburg, VA 23185, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2070059,
+                  "lng" : -76.60898139999999
+               },
+               "southwest" : {
+                  "lat" : 37.19382969999999,
+                  "lng" : -76.61486930000001
+               }
+            },
+            "location" : {
+               "lat" : 37.2001181,
+               "lng" : -76.60987969999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2070059,
+                  "lng" : -76.60898139999999
+               },
+               "southwest" : {
+                  "lat" : 37.19382969999999,
+                  "lng" : -76.61486930000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

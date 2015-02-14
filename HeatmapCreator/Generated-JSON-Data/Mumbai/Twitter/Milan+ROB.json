@@ -1,0 +1,305 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
+               },
+               "southwest" : {
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4654219,
+               "lng" : 9.1859243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
+               },
+               "southwest" : {
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berbenno",
+               "short_name" : "Berbenno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bergamo",
+               "short_name" : "BG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24030",
+               "short_name" : "24030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24030 Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8096695,
+                  "lng" : 9.5788256
+               },
+               "southwest" : {
+                  "lat" : 45.8069895,
+                  "lng" : 9.574141899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.8082694,
+               "lng" : 9.5760489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8096784802915,
+                  "lng" : 9.5788256
+               },
+               "southwest" : {
+                  "lat" : 45.8069805197085,
+                  "lng" : 9.574141899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gibson County",
+               "short_name" : "Gibson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38358",
+               "short_name" : "38358",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan, TN 38358, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.945868,
+                  "lng" : -88.72391900000001
+               },
+               "southwest" : {
+                  "lat" : 35.8708371,
+                  "lng" : -88.78476089999999
+               }
+            },
+            "location" : {
+               "lat" : 35.9197885,
+               "lng" : -88.7589488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.945868,
+                  "lng" : -88.72391900000001
+               },
+               "southwest" : {
+                  "lat" : 35.8708371,
+                  "lng" : -88.78476089999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw County",
+               "short_name" : "Washtenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48160",
+               "short_name" : "48160",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milan, MI 48160, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.105089,
+                  "lng" : -83.66140089999999
+               },
+               "southwest" : {
+                  "lat" : 42.066666,
+                  "lng" : -83.7103609
+               }
+            },
+            "location" : {
+               "lat" : 42.0853204,
+               "lng" : -83.6824384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.105089,
+                  "lng" : -83.66140089999999
+               },
+               "southwest" : {
+                  "lat" : 42.066666,
+                  "lng" : -83.7103609
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blackhawk",
+               "short_name" : "Blackhawk",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rock Island County",
+               "short_name" : "Rock Island County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.46403309999999,
+                  "lng" : -90.52353409999999
+               },
+               "southwest" : {
+                  "lat" : 41.409808,
+                  "lng" : -90.606337
+               }
+            },
+            "location" : {
+               "lat" : 41.453089,
+               "lng" : -90.5720803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.46403309999999,
+                  "lng" : -90.52353409999999
+               },
+               "southwest" : {
+                  "lat" : 41.409808,
+                  "lng" : -90.606337
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

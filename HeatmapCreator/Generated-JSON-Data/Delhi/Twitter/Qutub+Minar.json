@@ -1,0 +1,262 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qutub Minar",
+               "short_name" : "Qutub Minar",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mittal Garden",
+               "short_name" : "Mittal Garden",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sainik Farm",
+               "short_name" : "Sainik Farm",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Qutub Minar, Mittal Garden, Sainik Farm, New Delhi, Delhi 110030",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.513019,
+               "lng" : 77.186477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.51436798029151,
+                  "lng" : 77.18782598029151
+               },
+               "southwest" : {
+                  "lat" : 28.5116700197085,
+                  "lng" : 77.18512801970849
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qutub Minar",
+               "short_name" : "Qutub Minar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Seth Sarai",
+               "short_name" : "Seth Sarai",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mehrauli",
+               "short_name" : "Mehrauli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110030",
+               "short_name" : "110030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Qutub Minar, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5244281,
+               "lng" : 77.18545589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5257770802915,
+                  "lng" : 77.1868048802915
+               },
+               "southwest" : {
+                  "lat" : 28.52307911970849,
+                  "lng" : 77.18410691970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qutub Minar Bus Stop",
+               "short_name" : "Qutub Minar Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kalu Ram Road",
+               "short_name" : "Kalu Ram Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seth Sarai",
+               "short_name" : "Seth Sarai",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mehrauli",
+               "short_name" : "Mehrauli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Qutub Minar Bus Stop, Kalu Ram Road, Seth Sarai, Mehrauli, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5266005,
+               "lng" : 77.186649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5279494802915,
+                  "lng" : 77.18799798029151
+               },
+               "southwest" : {
+                  "lat" : 28.52525151970849,
+                  "lng" : 77.18530001970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qutub Minar",
+               "short_name" : "Qutub Minar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Seth Sarai",
+               "short_name" : "Seth Sarai",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mehrauli",
+               "short_name" : "Mehrauli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Qutub Minar, Seth Sarai, Mehrauli, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5252944,
+               "lng" : 77.18765839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5266433802915,
+                  "lng" : 77.1890073802915
+               },
+               "southwest" : {
+                  "lat" : 28.5239454197085,
+                  "lng" : 77.18630941970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

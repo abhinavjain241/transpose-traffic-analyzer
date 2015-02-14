@@ -1,0 +1,320 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brabourne Road Southwest",
+               "short_name" : "Brabourne Rd SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Braeside",
+               "short_name" : "Braeside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T2W",
+               "short_name" : "T2W",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brabourne Road Southwest, Calgary, AB T2W, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9562605,
+                  "lng" : -114.1093617
+               },
+               "southwest" : {
+                  "lat" : 50.9542385,
+                  "lng" : -114.113084
+               }
+            },
+            "location" : {
+               "lat" : 50.9555544,
+               "lng" : -114.1118907
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9565984802915,
+                  "lng" : -114.1093617
+               },
+               "southwest" : {
+                  "lat" : 50.9539005197085,
+                  "lng" : -114.113084
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brabourn Gardens",
+               "short_name" : "Brabourn Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS8",
+               "short_name" : "TS8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brabourn Gardens, Middlesbrough, Middlesbrough, Middlesbrough TS8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5236312,
+                  "lng" : -1.228739
+               },
+               "southwest" : {
+                  "lat" : 54.52261189999999,
+                  "lng" : -1.2300494
+               }
+            },
+            "location" : {
+               "lat" : 54.5233176,
+               "lng" : -1.2292345
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5244705302915,
+                  "lng" : -1.228045219708498
+               },
+               "southwest" : {
+                  "lat" : 54.5217725697085,
+                  "lng" : -1.230743180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brabourn Grove",
+               "short_name" : "Brabourn Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE15 2BS",
+               "short_name" : "SE15 2BS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brabourn Grove, London SE15 2BS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4683211,
+                  "lng" : -0.05550579999999999
+               },
+               "southwest" : {
+                  "lat" : 51.46783629999999,
+                  "lng" : -0.0569439
+               }
+            },
+            "location" : {
+               "lat" : 51.468007,
+               "lng" : -0.0564277
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4694276802915,
+                  "lng" : -0.05487586970849796
+               },
+               "southwest" : {
+                  "lat" : 51.4667297197085,
+                  "lng" : -0.05757383029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brabourne Road",
+               "short_name" : "Brabourne Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brabourne Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5806753,
+                  "lng" : 88.352645
+               },
+               "southwest" : {
+                  "lat" : 22.5727062,
+                  "lng" : 88.35057030000002
+               }
+            },
+            "location" : {
+               "lat" : 22.576241,
+               "lng" : 88.3519242
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5806753,
+                  "lng" : 88.35295663029152
+               },
+               "southwest" : {
+                  "lat" : 22.5727062,
+                  "lng" : 88.3502586697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brabourne Road",
+               "short_name" : "Brabourne Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wye",
+               "short_name" : "Wye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN25",
+               "short_name" : "TN25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brabourne Road, Wye, Ashford, Kent TN25, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1665518,
+                  "lng" : 0.9764237
+               },
+               "southwest" : {
+                  "lat" : 51.1566895,
+                  "lng" : 0.9662513
+               }
+            },
+            "location" : {
+               "lat" : 51.16222339999999,
+               "lng" : 0.9733889999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1665518,
+                  "lng" : 0.9764237
+               },
+               "southwest" : {
+                  "lat" : 51.1566895,
+                  "lng" : 0.9662513
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1825 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint Catharines",
+               "short_name" : "St. Catharines",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niagara Regional Municipality",
+               "short_name" : "Niagara Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Saint Catharines, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.18310770000001,
+                  "lng" : -79.3119772
+               },
+               "southwest" : {
+                  "lat" : 43.1364438,
+                  "lng" : -79.5128565
+               }
+            },
+            "location" : {
+               "lat" : 43.1577816,
+               "lng" : -79.4124879
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.18310770000001,
+                  "lng" : -79.3119772
+               },
+               "southwest" : {
+                  "lat" : 43.1364438,
+                  "lng" : -79.5128565
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Merrimack County",
+               "short_name" : "Merrimack County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, New Hampshire, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3232668,
+                  "lng" : -71.5838885
+               },
+               "southwest" : {
+                  "lat" : 43.2891122,
+                  "lng" : -71.6293647
+               }
+            },
+            "location" : {
+               "lat" : 43.3045832,
+               "lng" : -71.60869269999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3232668,
+                  "lng" : -71.5838885
+               },
+               "southwest" : {
+                  "lat" : 43.2891122,
+                  "lng" : -71.6293647
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford County",
+               "short_name" : "Hartford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06082",
+               "short_name" : "06082",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Enfield, CT 06082, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9637934,
+                  "lng" : -72.5931849
+               },
+               "southwest" : {
+                  "lat" : 41.9362581,
+                  "lng" : -72.60390839999999
+               }
+            },
+            "location" : {
+               "lat" : 41.950285,
+               "lng" : -72.6017603
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9637934,
+                  "lng" : -72.5931849
+               },
+               "southwest" : {
+                  "lat" : 41.9362581,
+                  "lng" : -72.60390839999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cohasset",
+               "short_name" : "Cohasset",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk County",
+               "short_name" : "Norfolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02025",
+               "short_name" : "02025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Cohasset, MA 02025, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2438315,
+                  "lng" : -70.8074871
+               },
+               "southwest" : {
+                  "lat" : 42.221398,
+                  "lng" : -70.830567
+               }
+            },
+            "location" : {
+               "lat" : 42.2318344,
+               "lng" : -70.82076459999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2438315,
+                  "lng" : -70.8074871
+               },
+               "southwest" : {
+                  "lat" : 42.221398,
+                  "lng" : -70.830567
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire County",
+               "short_name" : "Hampshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01060",
+               "short_name" : "01060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Northampton, MA 01060, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3376712,
+                  "lng" : -72.629758
+               },
+               "southwest" : {
+                  "lat" : 42.31947,
+                  "lng" : -72.63766
+               }
+            },
+            "location" : {
+               "lat" : 42.3286345,
+               "lng" : -72.6337118
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3376712,
+                  "lng" : -72.629758
+               },
+               "southwest" : {
+                  "lat" : 42.31947,
+                  "lng" : -72.63766
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.161662,
+                  "lng" : -73.659812
+               },
+               "southwest" : {
+                  "lat" : 41.00035039999999,
+                  "lng" : -73.77327
+               }
+            },
+            "location" : {
+               "lat" : 41.0836832,
+               "lng" : -73.713785
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.161662,
+                  "lng" : -73.659812
+               },
+               "southwest" : {
+                  "lat" : 41.00035039999999,
+                  "lng" : -73.77327
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Avenue",
+               "short_name" : "King Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chamberlain",
+               "short_name" : "Chamberlain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brule County",
+               "short_name" : "Brule County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57325",
+               "short_name" : "57325",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Avenue, Chamberlain, SD 57325, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7886302,
+                  "lng" : -99.31280559999999
+               },
+               "southwest" : {
+                  "lat" : 43.7782268,
+                  "lng" : -99.31339179999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7865714,
+               "lng" : -99.31324579999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7886302,
+                  "lng" : -99.31174971970849
+               },
+               "southwest" : {
+                  "lat" : 43.7782268,
+                  "lng" : -99.31444768029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Temuka",
+               "short_name" : "Temuka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7920",
+               "short_name" : "7920",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Temuka 7920, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -44.2231089,
+                  "lng" : 171.2787175
+               },
+               "southwest" : {
+                  "lat" : -44.2492987,
+                  "lng" : 171.2718627
+               }
+            },
+            "location" : {
+               "lat" : -44.2364355,
+               "lng" : 171.2757035
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -44.2231089,
+                  "lng" : 171.2787175
+               },
+               "southwest" : {
+                  "lat" : -44.2492987,
+                  "lng" : 171.2718627
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Road",
+               "short_name" : "King Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Morrowville",
+               "short_name" : "Morrowville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66958",
+               "short_name" : "66958",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Road, Morrowville, KS 66958, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.00144100000001,
+                  "lng" : -97.16224579999999
+               },
+               "southwest" : {
+                  "lat" : 39.85717040000001,
+                  "lng" : -97.1713575
+               }
+            },
+            "location" : {
+               "lat" : 39.92872089999999,
+               "lng" : -97.162582
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.00144100000001,
+                  "lng" : -97.16224579999999
+               },
+               "southwest" : {
+                  "lat" : 39.85717040000001,
+                  "lng" : -97.1713575
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Miramichi",
+               "short_name" : "Miramichi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northumberland County",
+               "short_name" : "Northumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E1N",
+               "short_name" : "E1N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Miramichi, NB E1N, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0321434,
+                  "lng" : -65.42911029999999
+               },
+               "southwest" : {
+                  "lat" : 47.0108525,
+                  "lng" : -65.4676509
+               }
+            },
+            "location" : {
+               "lat" : 47.0222364,
+               "lng" : -65.44824149999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0321434,
+                  "lng" : -65.42911029999999
+               },
+               "southwest" : {
+                  "lat" : 47.0108525,
+                  "lng" : -65.4676509
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hamlet",
+               "short_name" : "Hamlet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond County",
+               "short_name" : "Richmond County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28345",
+               "short_name" : "28345",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Hamlet, NC 28345, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.977485,
+                  "lng" : -79.60032679999999
+               },
+               "southwest" : {
+                  "lat" : 34.8921836,
+                  "lng" : -79.7026407
+               }
+            },
+            "location" : {
+               "lat" : 34.9264623,
+               "lng" : -79.64583330000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.977485,
+                  "lng" : -79.60032679999999
+               },
+               "southwest" : {
+                  "lat" : 34.8921836,
+                  "lng" : -79.7026407
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shippensburg",
+               "short_name" : "Shippensburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cumberland County",
+               "short_name" : "Cumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17257",
+               "short_name" : "17257",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Shippensburg, PA 17257, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.089546,
+                  "lng" : -77.4522099
+               },
+               "southwest" : {
+                  "lat" : 40.0858139,
+                  "lng" : -77.4595058
+               }
+            },
+            "location" : {
+               "lat" : 40.0878779,
+               "lng" : -77.4555539
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.089546,
+                  "lng" : -77.4522099
+               },
+               "southwest" : {
+                  "lat" : 40.0858139,
+                  "lng" : -77.4595058
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bridgewater",
+               "short_name" : "Bridgewater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lunenburg County",
+               "short_name" : "Lunenburg County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Bridgewater, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.404065,
+                  "lng" : -64.5010273
+               },
+               "southwest" : {
+                  "lat" : 44.3685509,
+                  "lng" : -64.55082399999999
+               }
+            },
+            "location" : {
+               "lat" : 44.3850754,
+               "lng" : -64.5265031
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.404065,
+                  "lng" : -64.5010273
+               },
+               "southwest" : {
+                  "lat" : 44.3685509,
+                  "lng" : -64.55082399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Alexandria, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8442896,
+                  "lng" : -77.03924599999999
+               },
+               "southwest" : {
+                  "lat" : 38.803922,
+                  "lng" : -77.1129086
+               }
+            },
+            "location" : {
+               "lat" : 38.8215483,
+               "lng" : -77.0797987
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8442896,
+                  "lng" : -77.03924599999999
+               },
+               "southwest" : {
+                  "lat" : 38.803922,
+                  "lng" : -77.1129086
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Windsor",
+               "short_name" : "Windsor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hants County",
+               "short_name" : "Hants County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B0N 2T0",
+               "short_name" : "B0N 2T0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Windsor, NS B0N 2T0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9958089,
+                  "lng" : -64.1190326
+               },
+               "southwest" : {
+                  "lat" : 44.9758215,
+                  "lng" : -64.138201
+               }
+            },
+            "location" : {
+               "lat" : 44.9864953,
+               "lng" : -64.13095819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9958089,
+                  "lng" : -64.1190326
+               },
+               "southwest" : {
+                  "lat" : 44.9758215,
+                  "lng" : -64.138201
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Troy",
+               "short_name" : "Troy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rensselaer County",
+               "short_name" : "Rensselaer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12180",
+               "short_name" : "12180",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Troy, NY 12180, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.737251,
+                  "lng" : -73.68614389999999
+               },
+               "southwest" : {
+                  "lat" : 42.7345266,
+                  "lng" : -73.6880779
+               }
+            },
+            "location" : {
+               "lat" : 42.7354779,
+               "lng" : -73.6867931
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.737251,
+                  "lng" : -73.6857619197085
+               },
+               "southwest" : {
+                  "lat" : 42.7345266,
+                  "lng" : -73.6884598802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warrawong",
+               "short_name" : "Warrawong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2502",
+               "short_name" : "2502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Warrawong NSW 2502, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.47842680000001,
+                  "lng" : 150.890609
+               },
+               "southwest" : {
+                  "lat" : -34.4981271,
+                  "lng" : 150.886705
+               }
+            },
+            "location" : {
+               "lat" : -34.4882296,
+               "lng" : 150.8880754
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.47842680000001,
+                  "lng" : 150.890609
+               },
+               "southwest" : {
+                  "lat" : -34.4981271,
+                  "lng" : 150.886705
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Melbourne VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.8051959,
+                  "lng" : 144.957724
+               },
+               "southwest" : {
+                  "lat" : -37.8204155,
+                  "lng" : 144.948091
+               }
+            },
+            "location" : {
+               "lat" : -37.8124755,
+               "lng" : 144.953892
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8051959,
+                  "lng" : 144.957724
+               },
+               "southwest" : {
+                  "lat" : -37.8204155,
+                  "lng" : 144.948091
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scottsdale",
+               "short_name" : "Scottsdale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7260",
+               "short_name" : "7260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Scottsdale TAS 7260, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.1594825,
+                  "lng" : 147.5187971
+               },
+               "southwest" : {
+                  "lat" : -41.171952,
+                  "lng" : 147.5012633
+               }
+            },
+            "location" : {
+               "lat" : -41.1654186,
+               "lng" : 147.5100571
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.1594825,
+                  "lng" : 147.5187971
+               },
+               "southwest" : {
+                  "lat" : -41.171952,
+                  "lng" : 147.5012633
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dennysville",
+               "short_name" : "Dennysville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04628",
+               "short_name" : "04628",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Dennysville, ME 04628, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9045172,
+                  "lng" : -67.22829589999999
+               },
+               "southwest" : {
+                  "lat" : 44.8740667,
+                  "lng" : -67.34504199999999
+               }
+            },
+            "location" : {
+               "lat" : 44.8878196,
+               "lng" : -67.2859509
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9045172,
+                  "lng" : -67.22829589999999
+               },
+               "southwest" : {
+                  "lat" : 44.8740667,
+                  "lng" : -67.34504199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kincardine",
+               "short_name" : "Kincardine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bruce County",
+               "short_name" : "Bruce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N0G",
+               "short_name" : "N0G",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Kincardine, ON N0G, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.275732,
+                  "lng" : -81.536839
+               },
+               "southwest" : {
+                  "lat" : 44.2612157,
+                  "lng" : -81.5484982
+               }
+            },
+            "location" : {
+               "lat" : 44.2687525,
+               "lng" : -81.54230059999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.275732,
+                  "lng" : -81.536839
+               },
+               "southwest" : {
+                  "lat" : 44.2612157,
+                  "lng" : -81.5484982
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mattice",
+               "short_name" : "Mattice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mattice-Val Côté",
+               "short_name" : "Mattice-Val Côté",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cochrane District",
+               "short_name" : "Cochrane District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Mattice, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6158853,
+                  "lng" : -83.24800519999999
+               },
+               "southwest" : {
+                  "lat" : 49.6078586,
+                  "lng" : -83.270906
+               }
+            },
+            "location" : {
+               "lat" : 49.6117295,
+               "lng" : -83.2602783
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6158853,
+                  "lng" : -83.24800519999999
+               },
+               "southwest" : {
+                  "lat" : 49.6078586,
+                  "lng" : -83.270906
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Porcupine",
+               "short_name" : "Porcupine",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Timmins",
+               "short_name" : "Timmins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cochrane District",
+               "short_name" : "Cochrane District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "P0N 1C0",
+               "short_name" : "P0N 1C0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Porcupine, ON P0N 1C0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4961809,
+                  "lng" : -81.15687129999999
+               },
+               "southwest" : {
+                  "lat" : 48.493931,
+                  "lng" : -81.17709909999999
+               }
+            },
+            "location" : {
+               "lat" : 48.4941895,
+               "lng" : -81.1677955
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4964049302915,
+                  "lng" : -81.15687129999999
+               },
+               "southwest" : {
+                  "lat" : 48.4937069697085,
+                  "lng" : -81.17709909999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue King",
+               "short_name" : "Rue King",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lyster",
+               "short_name" : "Lyster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lyster",
+               "short_name" : "Lyster",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "L'Érable",
+               "short_name" : "L'Érable",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G0S 1V0",
+               "short_name" : "G0S 1V0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue King, Lyster, QC G0S 1V0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3849562,
+                  "lng" : -71.57492239999999
+               },
+               "southwest" : {
+                  "lat" : 46.3739899,
+                  "lng" : -71.5887111
+               }
+            },
+            "location" : {
+               "lat" : 46.3789548,
+               "lng" : -71.5819042
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3849562,
+                  "lng" : -71.57492239999999
+               },
+               "southwest" : {
+                  "lat" : 46.3739899,
+                  "lng" : -71.5887111
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Newtown NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.8913019,
+                  "lng" : 151.1884391
+               },
+               "southwest" : {
+                  "lat" : -33.9288967,
+                  "lng" : 151.17751
+               }
+            },
+            "location" : {
+               "lat" : -33.9086079,
+               "lng" : 151.1812812
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.8913019,
+                  "lng" : 151.1884391
+               },
+               "southwest" : {
+                  "lat" : -33.9288967,
+                  "lng" : 151.17751
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Timaru",
+               "short_name" : "Timaru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7910",
+               "short_name" : "7910",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Street, Timaru 7910, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -44.4106514,
+                  "lng" : 171.2495222
+               },
+               "southwest" : {
+                  "lat" : -44.4178274,
+                  "lng" : 171.2424979
+               }
+            },
+            "location" : {
+               "lat" : -44.414624,
+               "lng" : 171.2475404
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -44.4106514,
+                  "lng" : 171.2495222
+               },
+               "southwest" : {
+                  "lat" : -44.4178274,
+                  "lng" : 171.2424979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Road",
+               "short_name" : "State Rd 1748",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clinton",
+               "short_name" : "Clinton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sampson County",
+               "short_name" : "Sampson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28328",
+               "short_name" : "28328",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King Road, Clinton, NC 28328, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.081498,
+                  "lng" : -78.2538002
+               },
+               "southwest" : {
+                  "lat" : 35.065751,
+                  "lng" : -78.32601129999999
+               }
+            },
+            "location" : {
+               "lat" : 35.0807496,
+               "lng" : -78.2904734
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.081498,
+                  "lng" : -78.2538002
+               },
+               "southwest" : {
+                  "lat" : 35.065751,
+                  "lng" : -78.32601129999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Road",
+               "short_name" : "King Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Road, Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9446744,
+                  "lng" : -79.4546512
+               },
+               "southwest" : {
+                  "lat" : 43.8880296,
+                  "lng" : -79.71840139999999
+               }
+            },
+            "location" : {
+               "lat" : 43.915752,
+               "lng" : -79.586209
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9446744,
+                  "lng" : -79.4546512
+               },
+               "southwest" : {
+                  "lat" : 43.8880296,
+                  "lng" : -79.71840139999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caledon",
+               "short_name" : "Caledon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "King Street, Caledon, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8754646,
+                  "lng" : -79.7617185
+               },
+               "southwest" : {
+                  "lat" : 43.7111276,
+                  "lng" : -79.9376795
+               }
+            },
+            "location" : {
+               "lat" : 43.7966408,
+               "lng" : -79.85226659999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8754646,
+                  "lng" : -79.7617185
+               },
+               "southwest" : {
+                  "lat" : 43.7111276,
+                  "lng" : -79.9376795
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Highway",
+               "short_name" : "Kings Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edgewood",
+               "short_name" : "Edgewood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe County",
+               "short_name" : "Santa Fe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87015",
+               "short_name" : "87015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Highway, Edgewood, NM 87015, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.14220359999999,
+                  "lng" : -106.1208084
+               },
+               "southwest" : {
+                  "lat" : 35.1420058,
+                  "lng" : -106.1914227
+               }
+            },
+            "location" : {
+               "lat" : 35.1421079,
+               "lng" : -106.1561194
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1434536802915,
+                  "lng" : -106.1208084
+               },
+               "southwest" : {
+                  "lat" : 35.1407557197085,
+                  "lng" : -106.1914227
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

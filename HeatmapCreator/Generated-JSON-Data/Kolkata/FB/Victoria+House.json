@@ -1,0 +1,1871 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bukoto",
+               "short_name" : "Bukoto",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kira Road",
+               "short_name" : "Kira Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nsimbiziwoome",
+               "short_name" : "Nsimbiziwoome",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nakawa",
+               "short_name" : "Nakawa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Bukoto Kira Road, Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3504164,
+                  "lng" : 32.6044661
+               },
+               "southwest" : {
+                  "lat" : 0.3501227,
+                  "lng" : 32.6041764
+               }
+            },
+            "location" : {
+               "lat" : 0.3502724,
+               "lng" : 32.6042959
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.351618530291502,
+                  "lng" : 32.6056702302915
+               },
+               "southwest" : {
+                  "lat" : 0.3489205697084979,
+                  "lng" : 32.6029722697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Saint Louis Street",
+               "short_name" : "St Louis St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Port Louis",
+               "short_name" : "Port Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Port Louis",
+               "short_name" : "Port Louis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Port Louis",
+               "short_name" : "Port Louis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Saint Louis Street, Port Louis, Mauritius",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.1645745,
+                  "lng" : 57.5002472
+               },
+               "southwest" : {
+                  "lat" : -20.1649723,
+                  "lng" : 57.4997911
+               }
+            },
+            "location" : {
+               "lat" : -20.1648093,
+               "lng" : 57.4999888
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.1634244197085,
+                  "lng" : 57.50136813029151
+               },
+               "southwest" : {
+                  "lat" : -20.1661223802915,
+                  "lng" : 57.4986701697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Victoria",
+               "short_name" : "Lake Victoria",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Lake Victoria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.4906412,
+                  "lng" : 34.8678367
+               },
+               "southwest" : {
+                  "lat" : -3.0184697,
+                  "lng" : 31.59530629999999
+               }
+            },
+            "location" : {
+               "lat" : -0.7557754,
+               "lng" : 33.438353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4906412,
+                  "lng" : 34.8678367
+               },
+               "southwest" : {
+                  "lat" : -3.0184697,
+                  "lng" : 31.59530629999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Chowringhee Square",
+               "short_name" : "Chowringhee Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chowringhee North",
+               "short_name" : "Chowringhee North",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bow Barracks",
+               "short_name" : "Bow Barracks",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700001",
+               "short_name" : "700001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Chowringhee Square, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5666792,
+                  "lng" : 88.3525566
+               },
+               "southwest" : {
+                  "lat" : 22.5662508,
+                  "lng" : 88.3520762
+               }
+            },
+            "location" : {
+               "lat" : 22.5664913,
+               "lng" : 88.35239190000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5678139802915,
+                  "lng" : 88.3536653802915
+               },
+               "southwest" : {
+                  "lat" : 22.5651160197085,
+                  "lng" : 88.3509674197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mansfield Road",
+               "short_name" : "Mansfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Notts",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG1 3HD",
+               "short_name" : "NG1 3HD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 104 Mansfield Road, Nottingham, Nottinghamshire NG1 3HD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9605103,
+               "lng" : -1.1501579
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.96185928029149,
+                  "lng" : -1.148808919708498
+               },
+               "southwest" : {
+                  "lat" : 52.95916131970849,
+                  "lng" : -1.151506880291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "970",
+               "short_name" : "970",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bristol Road South",
+               "short_name" : "Bristol Rd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northfield",
+               "short_name" : "Northfield",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B31 2PE",
+               "short_name" : "B31 2PE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 970 Bristol Road South, Birmingham, West Midlands B31 2PE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4106977,
+                  "lng" : -1.9728492
+               },
+               "southwest" : {
+                  "lat" : 52.41051530000001,
+                  "lng" : -1.9730504
+               }
+            },
+            "location" : {
+               "lat" : 52.4106065,
+               "lng" : -1.9729498
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4119554802915,
+                  "lng" : -1.971600819708498
+               },
+               "southwest" : {
+                  "lat" : 52.4092575197085,
+                  "lng" : -1.974298780291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Court Royal",
+               "short_name" : "Court Royal",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Eridge Road",
+               "short_name" : "Eridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Royal Tunbridge Wells",
+               "short_name" : "Royal Tunbridge Wells",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tunbridge Wells",
+               "short_name" : "Tunbridge Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN4 8HS",
+               "short_name" : "TN4 8HS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Court Royal, Eridge Road, Tunbridge Wells, Kent TN4 8HS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.11795960000001,
+               "lng" : 0.2444346
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.11930858029151,
+                  "lng" : 0.245783580291502
+               },
+               "southwest" : {
+                  "lat" : 51.11661061970851,
+                  "lng" : 0.243085619708498
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "96",
+               "short_name" : "96",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Newmarket Road",
+               "short_name" : "Newmarket Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR2 2LB",
+               "short_name" : "NR2 2LB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 96 Newmarket Road, Norwich, Norfolk NR2 2LB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6176267,
+               "lng" : 1.2772345
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6189756802915,
+                  "lng" : 1.278583480291502
+               },
+               "southwest" : {
+                  "lat" : 52.6162777197085,
+                  "lng" : 1.275885519708498
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Knutsford Road",
+               "short_name" : "Knutsford Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grappenhall",
+               "short_name" : "Grappenhall",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA4 2PB",
+               "short_name" : "WA4 2PB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 48 Knutsford Road, Warrington, Warrington WA4 2PB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3773171,
+               "lng" : -2.5516588
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3786660802915,
+                  "lng" : -2.550309819708498
+               },
+               "southwest" : {
+                  "lat" : 53.3759681197085,
+                  "lng" : -2.553007780291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barker Road",
+               "short_name" : "Barker Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Peak",
+               "short_name" : "The Peak",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong Island",
+               "short_name" : "Hong Kong Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 15 Barker Road, The Peak, Hong Kong",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.270831,
+                  "lng" : 114.159467
+               },
+               "southwest" : {
+                  "lat" : 22.270576,
+                  "lng" : 114.1591159
+               }
+            },
+            "location" : {
+               "lat" : 22.2707035,
+               "lng" : 114.1592914
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2720524802915,
+                  "lng" : 114.1606404302915
+               },
+               "southwest" : {
+                  "lat" : 22.26935451970849,
+                  "lng" : 114.1579424697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shooters Hill Road",
+               "short_name" : "Shooters Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE18 4LX",
+               "short_name" : "SE18 4LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Shooters Hill Road, London SE18 4LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4739209,
+               "lng" : 0.0387488
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.47526988029149,
+                  "lng" : 0.04009778029150204
+               },
+               "southwest" : {
+                  "lat" : 51.4725719197085,
+                  "lng" : 0.03739981970849797
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Derby Road",
+               "short_name" : "Derby Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L20 1AB",
+               "short_name" : "L20 1AB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Derby Road, Liverpool, Merseyside L20 1AB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4327728,
+               "lng" : -2.9929109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43412178029149,
+                  "lng" : -2.991561919708498
+               },
+               "southwest" : {
+                  "lat" : 53.43142381970849,
+                  "lng" : -2.994259880291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "87",
+               "short_name" : "87",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Road",
+               "short_name" : "Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uffington",
+               "short_name" : "Uffington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE9 4SN",
+               "short_name" : "PE9 4SN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 87 Main Road, Uffington, Stamford, Lincolnshire PE9 4SN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6563632,
+               "lng" : -0.4332327
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6577121802915,
+                  "lng" : -0.4318837197084979
+               },
+               "southwest" : {
+                  "lat" : 52.65501421970851,
+                  "lng" : -0.434581680291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "276",
+               "short_name" : "276",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Birchfield Road",
+               "short_name" : "Birchfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B20 3LA",
+               "short_name" : "B20 3LA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 276 Birchfield Road, Birmingham, West Midlands B20 3LA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5102284,
+               "lng" : -1.903742
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.51157738029151,
+                  "lng" : -1.902393019708498
+               },
+               "southwest" : {
+                  "lat" : 52.50887941970851,
+                  "lng" : -1.905090980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Great Ancoats Street",
+               "short_name" : "Great Ancoats St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4 7EA",
+               "short_name" : "M4 7EA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Great Ancoats Street, Manchester, Manchester M4 7EA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.47921789999999,
+               "lng" : -2.2227984
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4805668802915,
+                  "lng" : -2.221449419708498
+               },
+               "southwest" : {
+                  "lat" : 53.4778689197085,
+                  "lng" : -2.224147380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "South Lambeth Road",
+               "short_name" : "S Lambeth Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW8 1QT",
+               "short_name" : "SW8 1QT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, South Lambeth Road, London SW8 1QT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4800821,
+               "lng" : -0.1240043
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48143108029149,
+                  "lng" : -0.122655319708498
+               },
+               "southwest" : {
+                  "lat" : 51.47873311970849,
+                  "lng" : -0.125353280291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "66-70",
+               "short_name" : "66-70",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bingley Road",
+               "short_name" : "Bingley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shipley",
+               "short_name" : "Shipley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shipley",
+               "short_name" : "Shipley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD18 4DJ",
+               "short_name" : "BD18 4DJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 66-70 Bingley Road, Shipley, West Yorkshire BD18 4DJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.835392,
+               "lng" : -1.7964676
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8367409802915,
+                  "lng" : -1.795118619708498
+               },
+               "southwest" : {
+                  "lat" : 53.8340430197085,
+                  "lng" : -1.797816580291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cavendish Street",
+               "short_name" : "Cavendish St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ashton-under-Lyne",
+               "short_name" : "Ashton-under-Lyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashton-under-Lyne",
+               "short_name" : "Ashton-under-Lyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OL6 7DJ",
+               "short_name" : "OL6 7DJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Cavendish Street, Ashton-under-Lyne, Ashton-under-Lyne OL6 7DJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4893069,
+               "lng" : -2.1004117
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4906558802915,
+                  "lng" : -2.099062719708498
+               },
+               "southwest" : {
+                  "lat" : 53.4879579197085,
+                  "lng" : -2.101760680291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "147",
+               "short_name" : "147",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "London Road",
+               "short_name" : "London Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR5 2ED",
+               "short_name" : "WR5 2ED",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 147 London Road, Worcester, Worcestershire WR5 2ED, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1849413,
+               "lng" : -2.205237
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1862902802915,
+                  "lng" : -2.203888019708498
+               },
+               "southwest" : {
+                  "lat" : 52.1835923197085,
+                  "lng" : -2.206585980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Banbury Road",
+               "short_name" : "Banbury Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ettington",
+               "short_name" : "Ettington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stratford-upon-Avon",
+               "short_name" : "Stratford-upon-Avon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV37 7SN",
+               "short_name" : "CV37 7SN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 19 Banbury Road, Ettington, Stratford-upon-Avon, Warwickshire CV37 7SN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.138686,
+               "lng" : -1.6094085
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1400349802915,
+                  "lng" : -1.608059519708498
+               },
+               "southwest" : {
+                  "lat" : 52.1373370197085,
+                  "lng" : -1.610757480291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "King Street",
+               "short_name" : "King St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfreton",
+               "short_name" : "Alfreton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfreton",
+               "short_name" : "Alfreton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE55 7AF",
+               "short_name" : "DE55 7AF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 19 King Street, Alfreton, Derbyshire DE55 7AF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.097081,
+               "lng" : -1.3904616
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.09842998029149,
+                  "lng" : -1.389112619708498
+               },
+               "southwest" : {
+                  "lat" : 53.0957320197085,
+                  "lng" : -1.391810580291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Isheri Road",
+               "short_name" : "Isheri Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ikeja",
+               "short_name" : "Ikeja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lagos",
+               "short_name" : "Lagos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Isheri Road, Ikeja, Nigeria",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.6348755,
+               "lng" : 3.349776
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.636224480291502,
+                  "lng" : 3.351124980291502
+               },
+               "southwest" : {
+                  "lat" : 6.633526519708497,
+                  "lng" : 3.348427019708498
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Temple Gate",
+               "short_name" : "Temple Gate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS1 6PW",
+               "short_name" : "BS1 6PW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Temple Gate, Bristol, City of Bristol BS1 6PW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4479279,
+               "lng" : -2.5832136
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.44927688029149,
+                  "lng" : -2.581864619708498
+               },
+               "southwest" : {
+                  "lat" : 51.44657891970849,
+                  "lng" : -2.584562580291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "117",
+               "short_name" : "117",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Manchester Road",
+               "short_name" : "Manchester Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S10 5DN",
+               "short_name" : "S10 5DN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 117 Manchester Road, Sheffield, South Yorkshire S10 5DN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3767297,
+               "lng" : -1.5105717
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37807868029149,
+                  "lng" : -1.509222719708498
+               },
+               "southwest" : {
+                  "lat" : 53.3753807197085,
+                  "lng" : -1.511920680291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "304",
+               "short_name" : "304",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Promenade",
+               "short_name" : "Promenade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Blackpool",
+               "short_name" : "Blackpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blackpool",
+               "short_name" : "Blackpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FY1 2EY",
+               "short_name" : "FY1 2EY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 304 Promenade, Blackpool FY1 2EY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8260794,
+               "lng" : -3.0549089
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8274283802915,
+                  "lng" : -3.053559919708498
+               },
+               "southwest" : {
+                  "lat" : 53.8247304197085,
+                  "lng" : -3.056257880291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Hampshire Terrace",
+               "short_name" : "Hampshire Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO1 2PG",
+               "short_name" : "PO1 2PG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Hampshire Terrace, Portsmouth, Portsmouth PO1 2PG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7945986,
+               "lng" : -1.095385
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7959475802915,
+                  "lng" : -1.094036019708498
+               },
+               "southwest" : {
+                  "lat" : 50.7932496197085,
+                  "lng" : -1.096733980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "14A",
+               "short_name" : "14A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bradford Road",
+               "short_name" : "Bradford Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guiseley",
+               "short_name" : "Guiseley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS20 8NH",
+               "short_name" : "LS20 8NH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 14A Bradford Road, Guiseley, Leeds, West Yorkshire LS20 8NH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8756683,
+               "lng" : -1.725029
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8770172802915,
+                  "lng" : -1.723680019708498
+               },
+               "southwest" : {
+                  "lat" : 53.8743193197085,
+                  "lng" : -1.726377980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "209",
+               "short_name" : "209",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guildford Road",
+               "short_name" : "Guildford Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ash",
+               "short_name" : "Ash",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aldershot",
+               "short_name" : "Aldershot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU12 6DX",
+               "short_name" : "GU12 6DX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 209 Guildford Road, Ash, Aldershot, Surrey GU12 6DX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2543242,
+               "lng" : -0.7012809999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2556731802915,
+                  "lng" : -0.6999320197084979
+               },
+               "southwest" : {
+                  "lat" : 51.2529752197085,
+                  "lng" : -0.702629980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "74-76",
+               "short_name" : "74-76",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Coniscliffe Road",
+               "short_name" : "Coniscliffe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL3 7RN",
+               "short_name" : "DL3 7RN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, 74-76 Coniscliffe Road, Darlington, Darlington DL3 7RN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5222569,
+               "lng" : -1.5631394
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.52360588029149,
+                  "lng" : -1.561790419708498
+               },
+               "southwest" : {
+                  "lat" : 54.5209079197085,
+                  "lng" : -1.564488380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria House",
+               "short_name" : "Victoria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Victoria Works Industrial Estate",
+               "short_name" : "Victoria Works Industrial Estate",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Accrington Road",
+               "short_name" : "Accrington Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burnley",
+               "short_name" : "Burnley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burnley",
+               "short_name" : "Burnley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB11 5EF",
+               "short_name" : "BB11 5EF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria House, Victoria Works Industrial Estate, Accrington Road, Burnley, Lancashire BB11 5EF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.78589119999999,
+               "lng" : -2.2768751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.78724018029149,
+                  "lng" : -2.275526119708498
+               },
+               "southwest" : {
+                  "lat" : 53.7845422197085,
+                  "lng" : -2.278224080291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

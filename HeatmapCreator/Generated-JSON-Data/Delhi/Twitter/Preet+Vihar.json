@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preet Vihar",
+               "short_name" : "Preet Vihar",
+               "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Vikas Marg",
+               "short_name" : "Vikas Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Block F",
+               "short_name" : "Block F",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Preet Vihar",
+               "short_name" : "Preet Vihar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Delhi",
+               "short_name" : "East Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110092",
+               "short_name" : "110092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Preet Vihar, Vikas Marg, Block F, Preet Vihar, New Delhi, Delhi 110092, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6422312,
+                  "lng" : 77.2961253
+               },
+               "southwest" : {
+                  "lat" : 28.6409836,
+                  "lng" : 77.2945778
+               }
+            },
+            "location" : {
+               "lat" : 28.641627,
+               "lng" : 77.29537499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6429563802915,
+                  "lng" : 77.2967005302915
+               },
+               "southwest" : {
+                  "lat" : 28.64025841970849,
+                  "lng" : 77.2940025697085
+               }
+            }
+         },
+         "types" : [ "subway_station", "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

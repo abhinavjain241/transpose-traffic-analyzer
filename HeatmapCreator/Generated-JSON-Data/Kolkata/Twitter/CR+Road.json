@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cr Road",
+               "short_name" : "Cr Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reedsville",
+               "short_name" : "Reedsville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "First",
+               "short_name" : "First",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Preston County",
+               "short_name" : "Preston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26547",
+               "short_name" : "26547",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cr Road, Reedsville, WV 26547, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4914739,
+                  "lng" : -79.797645
+               },
+               "southwest" : {
+                  "lat" : 39.481833,
+                  "lng" : -79.81623039999999
+               }
+            },
+            "location" : {
+               "lat" : 39.486683,
+               "lng" : -79.80502140000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4914739,
+                  "lng" : -79.797645
+               },
+               "southwest" : {
+                  "lat" : 39.481833,
+                  "lng" : -79.81623039999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grecia",
+               "short_name" : "Grecia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alajuela",
+               "short_name" : "Alajuela",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Road, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4110171,
+                  "lng" : -84.23298779999999
+               },
+               "southwest" : {
+                  "lat" : 10.4076351,
+                  "lng" : -84.2418122
+               }
+            },
+            "location" : {
+               "lat" : 10.4087062,
+               "lng" : -84.2373276
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4110171,
+                  "lng" : -84.23298779999999
+               },
+               "southwest" : {
+                  "lat" : 10.4076351,
+                  "lng" : -84.2418122
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CR Road",
+               "short_name" : "CR Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CR Road, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7033411,
+                  "lng" : 88.41053119999999
+               },
+               "southwest" : {
+                  "lat" : 22.6973007,
+                  "lng" : 88.39691260000001
+               }
+            },
+            "location" : {
+               "lat" : 22.6998712,
+               "lng" : 88.40352089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7033411,
+                  "lng" : 88.41053119999999
+               },
+               "southwest" : {
+                  "lat" : 22.6973007,
+                  "lng" : 88.39691260000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

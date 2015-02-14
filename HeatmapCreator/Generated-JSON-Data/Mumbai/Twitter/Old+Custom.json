@@ -1,0 +1,876 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Old Montreal",
+               "short_name" : "Old Montreal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H2Y 3Y5",
+               "short_name" : "H2Y 3Y5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, Montreal, QC H2Y 3Y5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.50285950000001,
+                  "lng" : -73.5539611
+               },
+               "southwest" : {
+                  "lat" : 45.5023588,
+                  "lng" : -73.55452939999999
+               }
+            },
+            "location" : {
+               "lat" : 45.50260919999999,
+               "lng" : -73.5542452
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5039581302915,
+                  "lng" : -73.55289626970848
+               },
+               "southwest" : {
+                  "lat" : 45.5012601697085,
+                  "lng" : -73.55559423029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "U.S. Custom House",
+               "short_name" : "U.S. Custom House",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "176",
+               "short_name" : "176",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Derby Street",
+               "short_name" : "Derby St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01970",
+               "short_name" : "01970",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "U.S. Custom House, 176 Derby Street, Salem, MA 01970, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.5216106,
+               "lng" : -70.88722229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.52295958029149,
+                  "lng" : -70.88587331970849
+               },
+               "southwest" : {
+                  "lat" : 42.52026161970849,
+                  "lng" : -70.8885712802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom Road",
+               "short_name" : "Old Custom Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhangadhi",
+               "short_name" : "Dhangadhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom Road, Dhangadhi 10900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7045297,
+                  "lng" : 80.56931519999999
+               },
+               "southwest" : {
+                  "lat" : 28.6924511,
+                  "lng" : 80.55805029999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6974485,
+               "lng" : 80.56492209999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7045297,
+                  "lng" : 80.56931519999999
+               },
+               "southwest" : {
+                  "lat" : 28.6924511,
+                  "lng" : 80.55805029999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sadarghat Old Customs House",
+               "short_name" : "Sadarghat Old Customs House",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Strand Road",
+               "short_name" : "Strand Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kotwali",
+               "short_name" : "Kotwali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sadarghat Old Customs House, Strand Road, Chittagong, Bangladesh",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.3249986,
+               "lng" : 91.82694979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.3263475802915,
+                  "lng" : 91.8282987802915
+               },
+               "southwest" : {
+                  "lat" : 22.3236496197085,
+                  "lng" : 91.82560081970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "74",
+               "short_name" : "74",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lower Dock Street",
+               "short_name" : "Lower Dock St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP20 1EH",
+               "short_name" : "NP20 1EH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, 74 Lower Dock Street, Newport, Newport NP20 1EH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5835462,
+               "lng" : -2.98982
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5848951802915,
+                  "lng" : -2.988471019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5821972197085,
+                  "lng" : -2.991168980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shahid Bhagat Singh Road",
+               "short_name" : "Shahid Bhagat Singh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort",
+               "short_name" : "Fort",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, Shahid Bhagat Singh Road, Fort, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9304265,
+               "lng" : 72.8357092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9317754802915,
+                  "lng" : 72.83705818029151
+               },
+               "southwest" : {
+                  "lat" : 18.9290775197085,
+                  "lng" : 72.8343602197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Borough Road",
+               "short_name" : "Borough Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Shields",
+               "short_name" : "North Shields",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Shields",
+               "short_name" : "North Shields",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE29 6LH",
+               "short_name" : "NE29 6LH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, 67 Borough Road, North Shields, Tyne and Wear NE29 6LH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.0046261,
+               "lng" : -1.4448276
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.00597508029149,
+                  "lng" : -1.443478619708498
+               },
+               "southwest" : {
+                  "lat" : 55.0032771197085,
+                  "lng" : -1.446176580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "High Street",
+               "short_name" : "High St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tralee",
+               "short_name" : "Tralee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kerry",
+               "short_name" : "Kerry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerry",
+               "short_name" : "Kerry",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, High Street, Tralee, Co. Kerry, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2691123,
+               "lng" : -9.709498099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2704612802915,
+                  "lng" : -9.708149119708498
+               },
+               "southwest" : {
+                  "lat" : 52.2677633197085,
+                  "lng" : -9.710847080291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Embankment Road",
+               "short_name" : "Embankment Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE1 1EG",
+               "short_name" : "PE1 1EG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, Embankment Road, Peterborough, Peterborough PE1 1EG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5685459,
+               "lng" : -0.2407821
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.56989488029149,
+                  "lng" : -0.239433119708498
+               },
+               "southwest" : {
+                  "lat" : 52.5671969197085,
+                  "lng" : -0.242131080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Old Custom House",
+               "short_name" : "The Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Parade",
+               "short_name" : "E Parade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN34 3AL",
+               "short_name" : "TN34 3AL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Old Custom House, 19 East Parade, Hastings, East Sussex TN34 3AL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8559937,
+               "lng" : 0.5901799
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8573426802915,
+                  "lng" : 0.5915288802915021
+               },
+               "southwest" : {
+                  "lat" : 50.8546447197085,
+                  "lng" : 0.588830919708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Common Quay",
+               "short_name" : "Common Quay",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP4 1BY",
+               "short_name" : "IP4 1BY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, Common Quay, Ipswich, Suffolk IP4 1BY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0528986,
+                  "lng" : 1.1593528
+               },
+               "southwest" : {
+                  "lat" : 52.052648,
+                  "lng" : 1.1587518
+               }
+            },
+            "location" : {
+               "lat" : 52.0527733,
+               "lng" : 1.1590523
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.05412228029149,
+                  "lng" : 1.160401280291502
+               },
+               "southwest" : {
+                  "lat" : 52.0514243197085,
+                  "lng" : 1.157703319708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Old Custom House",
+               "short_name" : "The Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Quay Street",
+               "short_name" : "Quay St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL1 2JS",
+               "short_name" : "GL1 2JS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Old Custom House, Quay Street, Gloucester, Gloucestershire GL1 2JS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8670479,
+               "lng" : -2.2521472
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.86839688029149,
+                  "lng" : -2.250798219708498
+               },
+               "southwest" : {
+                  "lat" : 51.86569891970849,
+                  "lng" : -2.253496180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Commercial Road",
+               "short_name" : "Commercial Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Porthleven",
+               "short_name" : "Porthleven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helston",
+               "short_name" : "Helston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR13 9JD",
+               "short_name" : "TR13 9JD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, Commercial Road, Porthleven, Helston, Cornwall TR13 9JD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.0847227,
+               "lng" : -5.315976699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0860716802915,
+                  "lng" : -5.314627719708498
+               },
+               "southwest" : {
+                  "lat" : 50.0833737197085,
+                  "lng" : -5.317325680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Custom House",
+               "short_name" : "Old Custom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "16A",
+               "short_name" : "16A",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "West Bay",
+               "short_name" : "West Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridport",
+               "short_name" : "Bridport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT6 4EU",
+               "short_name" : "DT6 4EU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Custom House, West Bay, Bridport, Dorset DT6 4EU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7112417,
+               "lng" : -2.7608757
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.71259068029149,
+                  "lng" : -2.759526719708498
+               },
+               "southwest" : {
+                  "lat" : 50.7098927197085,
+                  "lng" : -2.762224680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

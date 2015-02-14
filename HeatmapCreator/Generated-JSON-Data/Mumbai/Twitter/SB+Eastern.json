@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Smith Brash Hall",
+               "short_name" : "SB",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "717",
+               "short_name" : "717",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Boulevard Southeast",
+               "short_name" : "University Blvd SE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clayton Heights-Lomas Del Cielo",
+               "short_name" : "Clayton Heights-Lomas Del Cielo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Albuquerque",
+               "short_name" : "Albuquerque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bernalillo County",
+               "short_name" : "Bernalillo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87106",
+               "short_name" : "87106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Smith Brash Hall, 717 University Boulevard Southeast, Albuquerque, NM 87106, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.076512,
+                  "lng" : -106.6284364
+               },
+               "southwest" : {
+                  "lat" : 35.0759079,
+                  "lng" : -106.6293976
+               }
+            },
+            "location" : {
+               "lat" : 35.07621,
+               "lng" : -106.628917
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0775589302915,
+                  "lng" : -106.6275680197085
+               },
+               "southwest" : {
+                  "lat" : 35.0748609697085,
+                  "lng" : -106.6302659802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

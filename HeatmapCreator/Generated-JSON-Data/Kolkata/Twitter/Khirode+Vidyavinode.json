@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khirode Vidyavinode Avenue",
+               "short_name" : "Khirode Vidyavinode Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bag Bazar Colony",
+               "short_name" : "Bag Bazar Colony",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baghbazar",
+               "short_name" : "Baghbazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700003",
+               "short_name" : "700003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khirode Vidyavinode Avenue, Bag Bazar Colony, Baghbazar, Kolkata, West Bengal 700003, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6069261,
+                  "lng" : 88.36959139999999
+               },
+               "southwest" : {
+                  "lat" : 22.6038116,
+                  "lng" : 88.3679508
+               }
+            },
+            "location" : {
+               "lat" : 22.6053516,
+               "lng" : 88.3686895
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6069261,
+                  "lng" : 88.3701200802915
+               },
+               "southwest" : {
+                  "lat" : 22.6038116,
+                  "lng" : 88.36742211970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

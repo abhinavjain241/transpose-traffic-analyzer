@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurla Camp Road",
+               "short_name" : "Kurla Camp Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kailash Colony",
+               "short_name" : "Kailash Colony",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ulhasnagar",
+               "short_name" : "Ulhasnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurla Camp Road, Kailash Colony, Ulhasnagar, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2080055,
+                  "lng" : 73.17508959999999
+               },
+               "southwest" : {
+                  "lat" : 19.2008397,
+                  "lng" : 73.1613897
+               }
+            },
+            "location" : {
+               "lat" : 19.2069226,
+               "lng" : 73.168762
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2080055,
+                  "lng" : 73.17508959999999
+               },
+               "southwest" : {
+                  "lat" : 19.2008397,
+                  "lng" : 73.1613897
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

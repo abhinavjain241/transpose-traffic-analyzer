@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bally Ghat Rail Station",
+               "short_name" : "Bally Ghat Rail Station",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "PWD Road",
+               "short_name" : "PWD Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "711205",
+               "short_name" : "711205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bally Ghat Rail Station, PWD Road, Howrah, West Bengal 711205, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6526012,
+                  "lng" : 88.34935259999999
+               },
+               "southwest" : {
+                  "lat" : 22.6522051,
+                  "lng" : 88.34660049999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6524144,
+               "lng" : 88.34795319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6537521302915,
+                  "lng" : 88.34935259999999
+               },
+               "southwest" : {
+                  "lat" : 22.65105416970849,
+                  "lng" : 88.34660049999999
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kailash Kabiraj Lane",
+               "short_name" : "Kailash Kabiraj Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ram Bagan",
+               "short_name" : "Ram Bagan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700006",
+               "short_name" : "700006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kailash Kabiraj Lane, Ram Bagan, Kolkata, West Bengal 700006, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5883296,
+                  "lng" : 88.363108
+               },
+               "southwest" : {
+                  "lat" : 22.5880173,
+                  "lng" : 88.3620404
+               }
+            },
+            "location" : {
+               "lat" : 22.588104,
+               "lng" : 88.36276819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5895224302915,
+                  "lng" : 88.36392318029151
+               },
+               "southwest" : {
+                  "lat" : 22.5868244697085,
+                  "lng" : 88.36122521970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

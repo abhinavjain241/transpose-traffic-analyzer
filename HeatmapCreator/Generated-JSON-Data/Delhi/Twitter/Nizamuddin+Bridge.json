@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nizamuddin Bridge",
+               "short_name" : "Nizamuddin Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nizamuddin Bridge, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6024487,
+                  "lng" : 77.2661737
+               },
+               "southwest" : {
+                  "lat" : 28.599771,
+                  "lng" : 77.2604305
+               }
+            },
+            "location" : {
+               "lat" : 28.6009951,
+               "lng" : 77.2635368
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6024588302915,
+                  "lng" : 77.2661737
+               },
+               "southwest" : {
+                  "lat" : 28.5997608697085,
+                  "lng" : 77.2604305
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

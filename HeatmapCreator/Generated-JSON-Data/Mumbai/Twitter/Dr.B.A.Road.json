@@ -1,0 +1,418 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South A Road",
+               "short_name" : "S A Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ernakulam",
+               "short_name" : "Ernakulam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ernakulam",
+               "short_name" : "EKM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South A Road, Kochi, Kerala, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.967912699999999,
+                  "lng" : 76.3069206
+               },
+               "southwest" : {
+                  "lat" : 9.9642778,
+                  "lng" : 76.28738919999999
+               }
+            },
+            "location" : {
+               "lat" : 9.9661957,
+               "lng" : 76.29721909999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.967912699999999,
+                  "lng" : 76.3069206
+               },
+               "southwest" : {
+                  "lat" : 9.9642778,
+                  "lng" : 76.28738919999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calle B",
+               "short_name" : "Calle B",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santo Domingo Este",
+               "short_name" : "Santo Domingo Este",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calle B, Santo Domingo Este, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5218022,
+                  "lng" : -69.8362738
+               },
+               "southwest" : {
+                  "lat" : 18.5214574,
+                  "lng" : -69.838483
+               }
+            },
+            "location" : {
+               "lat" : 18.5215744,
+               "lng" : -69.83745449999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5229787802915,
+                  "lng" : -69.8360294197085
+               },
+               "southwest" : {
+                  "lat" : 18.5202808197085,
+                  "lng" : -69.8387273802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carretera Hoyo de Jaya",
+               "short_name" : "Carr Hoyo de Jaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ugamba",
+               "short_name" : "Ugamba",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco de Macorís",
+               "short_name" : "San Francisco de Macorís",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Duarte",
+               "short_name" : "Duarte",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "31000",
+               "short_name" : "31000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carretera Hoyo de Jaya, San Francisco de Macorís 31000, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3165439,
+                  "lng" : -70.2576095
+               },
+               "southwest" : {
+                  "lat" : 19.3157206,
+                  "lng" : -70.25816050000002
+               }
+            },
+            "location" : {
+               "lat" : 19.316044,
+               "lng" : -70.25786769999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3174812302915,
+                  "lng" : -70.25653601970851
+               },
+               "southwest" : {
+                  "lat" : 19.3147832697085,
+                  "lng" : -70.25923398029153
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parkway Drive Southeast",
+               "short_name" : "Parkway Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35094",
+               "short_name" : "35094",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parkway Drive Southeast, Leeds, AL 35094, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.54802,
+                  "lng" : -86.5167613
+               },
+               "southwest" : {
+                  "lat" : 33.539716,
+                  "lng" : -86.58784299999999
+               }
+            },
+            "location" : {
+               "lat" : 33.5456059,
+               "lng" : -86.55294309999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.54802,
+                  "lng" : -86.5167613
+               },
+               "southwest" : {
+                  "lat" : 33.539716,
+                  "lng" : -86.58784299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A Street Road",
+               "short_name" : "A Street Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A Street Road, Nebraska, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8003809,
+                  "lng" : -96.91075119999999
+               },
+               "southwest" : {
+                  "lat" : 40.79797019999999,
+                  "lng" : -97.36842969999999
+               }
+            },
+            "location" : {
+               "lat" : 40.79999189999999,
+               "lng" : -97.13962939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8005245302915,
+                  "lng" : -96.91075119999999
+               },
+               "southwest" : {
+                  "lat" : 40.7978265697085,
+                  "lng" : -97.36842969999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Road Street",
+               "short_name" : "N Road St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Elizabeth City",
+               "short_name" : "Elizabeth City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pasquotank County",
+               "short_name" : "Pasquotank County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27909",
+               "short_name" : "27909",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Road Street, Elizabeth City, NC 27909, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4216152,
+                  "lng" : -76.2173287
+               },
+               "southwest" : {
+                  "lat" : 36.3002597,
+                  "lng" : -76.34254829999999
+               }
+            },
+            "location" : {
+               "lat" : 36.35855859999999,
+               "lng" : -76.28016769999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4216152,
+                  "lng" : -76.2173287
+               },
+               "southwest" : {
+                  "lat" : 36.3002597,
+                  "lng" : -76.34254829999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Co Road D R",
+               "short_name" : "Co Rd D R",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pewaukee",
+               "short_name" : "Pewaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waukesha County",
+               "short_name" : "Waukesha County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53072",
+               "short_name" : "53072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Co Road D R, Pewaukee, WI 53072, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0525264,
+                  "lng" : -88.2556826
+               },
+               "southwest" : {
+                  "lat" : 43.0464219,
+                  "lng" : -88.3642514
+               }
+            },
+            "location" : {
+               "lat" : 43.0509575,
+               "lng" : -88.31007439999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0525264,
+                  "lng" : -88.2556826
+               },
+               "southwest" : {
+                  "lat" : 43.0464219,
+                  "lng" : -88.3642514
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

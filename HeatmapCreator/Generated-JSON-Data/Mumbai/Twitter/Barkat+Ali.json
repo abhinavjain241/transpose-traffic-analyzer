@@ -1,0 +1,389 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ali",
+               "short_name" : "Ali",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Qism Shebeen El-Kom",
+               "short_name" : "Qism Shebeen El-Kom",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Shebeen El-Kom",
+               "short_name" : "Shebeen El-Kom",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Menofia Governorate",
+               "short_name" : "Menofia Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ali, Qism Shebeen El-Kom, Shebeen El-Kom, Menofia Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5538266,
+                  "lng" : 31.0037192
+               },
+               "southwest" : {
+                  "lat" : 30.55375119999999,
+                  "lng" : 31.0028846
+               }
+            },
+            "location" : {
+               "lat" : 30.5537832,
+               "lng" : 31.0035249
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.55513788029149,
+                  "lng" : 31.0046508802915
+               },
+               "southwest" : {
+                  "lat" : 30.55243991970849,
+                  "lng" : 31.0019529197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barkat Ali Road",
+               "short_name" : "Barkat Ali Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Johar Town",
+               "short_name" : "Johar Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore District",
+               "short_name" : "Lahore District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barkat Ali Road, Lahore, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4730009,
+                  "lng" : 74.29542070000001
+               },
+               "southwest" : {
+                  "lat" : 31.4673113,
+                  "lng" : 74.2942053
+               }
+            },
+            "location" : {
+               "lat" : 31.4702406,
+               "lng" : 74.29436939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4730009,
+                  "lng" : 74.29616198029152
+               },
+               "southwest" : {
+                  "lat" : 31.4673113,
+                  "lng" : 74.29346401970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barkat Ali Nagar",
+               "short_name" : "Barkat Ali Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Antop Hill",
+               "short_name" : "Antop Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400037",
+               "short_name" : "400037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barkat Ali Nagar, Antop Hill, Mumbai, Maharashtra 400037, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.019798,
+                  "lng" : 72.87041800000002
+               },
+               "southwest" : {
+                  "lat" : 19.0176811,
+                  "lng" : 72.8654811
+               }
+            },
+            "location" : {
+               "lat" : 19.0185664,
+               "lng" : 72.86760959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0200885302915,
+                  "lng" : 72.87041800000002
+               },
+               "southwest" : {
+                  "lat" : 19.0173905697085,
+                  "lng" : 72.8654811
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barkat Ali Dargah Road",
+               "short_name" : "Barkat Ali Dargah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400037",
+               "short_name" : "400037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barkat Ali Dargah Road, Mumbai, Maharashtra 400037, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0232059,
+                  "lng" : 72.8751025
+               },
+               "southwest" : {
+                  "lat" : 19.0175697,
+                  "lng" : 72.8643014
+               }
+            },
+            "location" : {
+               "lat" : 19.0215548,
+               "lng" : 72.86959580000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0232059,
+                  "lng" : 72.8751025
+               },
+               "southwest" : {
+                  "lat" : 19.0175697,
+                  "lng" : 72.8643014
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barkat",
+               "short_name" : "Barkat",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bajli Way",
+               "short_name" : "Bajli Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naka Bajli",
+               "short_name" : "Naka Bajli",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Naka",
+               "short_name" : "Naka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kanshian",
+               "short_name" : "Kanshian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manshera",
+               "short_name" : "Manshera",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "N.W.F.P",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barkat, Bajli Way, Kanshian, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.5341698,
+                  "lng" : 73.3945136
+               },
+               "southwest" : {
+                  "lat" : 34.5340903,
+                  "lng" : 73.3944011
+               }
+            },
+            "location" : {
+               "lat" : 34.53413,
+               "lng" : 73.39445739999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.5354790302915,
+                  "lng" : 73.39580633029151
+               },
+               "southwest" : {
+                  "lat" : 34.5327810697085,
+                  "lng" : 73.39310836970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhoke Barkat Ali",
+               "short_name" : "Dhoke Barkat Ali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jhelum",
+               "short_name" : "Jhelum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhoke Barkat Ali, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9790942,
+                  "lng" : 73.75036229999999
+               },
+               "southwest" : {
+                  "lat" : 32.974648,
+                  "lng" : 73.73929029999999
+               }
+            },
+            "location" : {
+               "lat" : 32.9773248,
+               "lng" : 73.74447599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9790942,
+                  "lng" : 73.75036229999999
+               },
+               "southwest" : {
+                  "lat" : 32.974648,
+                  "lng" : 73.73929029999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

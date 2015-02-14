@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delhi Race Club",
+               "short_name" : "Delhi Race Club",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delhi Race Club, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.596637,
+                  "lng" : 77.212864
+               },
+               "southwest" : {
+                  "lat" : 28.587101,
+                  "lng" : 77.19920200000001
+               }
+            },
+            "location" : {
+               "lat" : 28.5948216,
+               "lng" : 77.206199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.596637,
+                  "lng" : 77.212864
+               },
+               "southwest" : {
+                  "lat" : 28.587101,
+                  "lng" : 77.19920200000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Race Street",
+               "short_name" : "Race St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland Parish",
+               "short_name" : "Richland Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "71232",
+               "short_name" : "71232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Race Street, Delhi, LA 71232, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4644866,
+                  "lng" : -91.496618
+               },
+               "southwest" : {
+                  "lat" : 32.4573453,
+                  "lng" : -91.4968784
+               }
+            },
+            "location" : {
+               "lat" : 32.460693,
+               "lng" : -91.49666089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4644866,
+                  "lng" : -91.49539921970849
+               },
+               "southwest" : {
+                  "lat" : 32.4573453,
+                  "lng" : -91.4980971802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,691 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumbai Police Quarters",
+               "short_name" : "Mumbai Police Quarters",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lal Bahadur Shastri Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maneklal Estate",
+               "short_name" : "Maneklal Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar West",
+               "short_name" : "Ghatkopar West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400086",
+               "short_name" : "400086",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mumbai Police Quarters, Lal Bahadur Shastri Marg, Maneklal Estate, Ghatkopar West, Mumbai, Maharashtra 400086, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0882441,
+                  "lng" : 72.90144309999999
+               },
+               "southwest" : {
+                  "lat" : 19.0874039,
+                  "lng" : 72.9009525
+               }
+            },
+            "location" : {
+               "lat" : 19.087824,
+               "lng" : 72.90119779999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0891729802915,
+                  "lng" : 72.9025467802915
+               },
+               "southwest" : {
+                  "lat" : 19.0864750197085,
+                  "lng" : 72.8998488197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumbai Police Headquarters",
+               "short_name" : "Mumbai Police Headquarters",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lohar Chawl",
+               "short_name" : "Lohar Chawl",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dhobi Talao",
+               "short_name" : "Dhobi Talao",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chhatrapati Shivaji Terminus Area",
+               "short_name" : "Chhatrapati Shivaji Terminus Area",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fort",
+               "short_name" : "Fort",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mumbai Police Headquarters, Lohar Chawl, Dhobi Talao, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9465044,
+               "lng" : 72.83335289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9478533802915,
+                  "lng" : 72.83470188029149
+               },
+               "southwest" : {
+                  "lat" : 18.9451554197085,
+                  "lng" : 72.83200391970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumbai Building",
+               "short_name" : "Mumbai Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Khemraj Srikrishna Das Marg",
+               "short_name" : "Khemraj Srikrishna Das Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grant Road Area",
+               "short_name" : "Grant Road Area",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khetwadi",
+               "short_name" : "Khetwadi",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Grant Road",
+               "short_name" : "Grant Road",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400004",
+               "short_name" : "400004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mumbai Building, Khemraj Srikrishna Das Marg, Grant Road Area, Khetwadi, Grant Road, Mumbai, Maharashtra 400004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.9603388,
+               "lng" : 72.82042269999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9616877802915,
+                  "lng" : 72.8217716802915
+               },
+               "southwest" : {
+                  "lat" : 18.9589898197085,
+                  "lng" : 72.8190737197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Patel House",
+               "short_name" : "Police Patel House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lal Bahadur Shastri Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kapol wadi",
+               "short_name" : "Kapol wadi",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pant Nagar",
+               "short_name" : "Pant Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghatkopar West",
+               "short_name" : "Ghatkopar West",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400086",
+               "short_name" : "400086",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Patel House, Lal Bahadur Shastri Marg, Kapol wadi, Pant Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0880946,
+                  "lng" : 72.90616949999999
+               },
+               "southwest" : {
+                  "lat" : 19.0879075,
+                  "lng" : 72.9059944
+               }
+            },
+            "location" : {
+               "lat" : 19.088001,
+               "lng" : 72.906082
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0893500302915,
+                  "lng" : 72.90743093029151
+               },
+               "southwest" : {
+                  "lat" : 19.0866520697085,
+                  "lng" : 72.90473296970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police Court Lane",
+               "short_name" : "Police Ct Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Borabazar Precinct",
+               "short_name" : "Borabazar Precinct",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ballard Estate",
+               "short_name" : "Ballard Estate",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fort",
+               "short_name" : "Fort",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400001",
+               "short_name" : "400001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police Court Lane, Borabazar Precinct, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.9360877,
+                  "lng" : 72.8354035
+               },
+               "southwest" : {
+                  "lat" : 18.935841,
+                  "lng" : 72.8340601
+               }
+            },
+            "location" : {
+               "lat" : 18.9359754,
+               "lng" : 72.8345319
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.9373133302915,
+                  "lng" : 72.83608078029151
+               },
+               "southwest" : {
+                  "lat" : 18.9346153697085,
+                  "lng" : 72.8333828197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumbai Police Thane Chembur Building",
+               "short_name" : "Mumbai Police Thane Chembur Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ramakrishna Chemburkar Marg",
+               "short_name" : "RC Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sindhi Society",
+               "short_name" : "Sindhi Society",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400071",
+               "short_name" : "400071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mumbai Police Thane Chembur Building, Ramakrishna Chemburkar Marg, Sindhi Society, Chembur, Mumbai, Maharashtra 400071, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0516737,
+                  "lng" : 72.8938148
+               },
+               "southwest" : {
+                  "lat" : 19.0513972,
+                  "lng" : 72.89359309999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0515354,
+               "lng" : 72.893704
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0528844302915,
+                  "lng" : 72.8950529302915
+               },
+               "southwest" : {
+                  "lat" : 19.0501864697085,
+                  "lng" : 72.89235496970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Navi Mumbai Police Aayovatalaya",
+               "short_name" : "Navi Mumbai Police Aayovatalaya",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sector Number 7 Road",
+               "short_name" : "Sector Number 7 Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jeejamata Nagar",
+               "short_name" : "Jeejamata Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jijamata Nagar, Sector 9",
+               "short_name" : "Jijamata Nagar, Sector 9",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ghansoli",
+               "short_name" : "Ghansoli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400701",
+               "short_name" : "400701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Navi Mumbai Police Aayovatalaya, Sector Number 7 Road, Jeejamata Nagar, Jijamata Nagar, Sector 9, Ghansoli, Navi Mumbai, Maharashtra 400701, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.123025,
+               "lng" : 73.000086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1243739802915,
+                  "lng" : 73.00143498029151
+               },
+               "southwest" : {
+                  "lat" : 19.1216760197085,
+                  "lng" : 72.99873701970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumbai Police Zopadpatti Panchayat",
+               "short_name" : "Mumbai Police Zopadpatti Panchayat",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ekta Nagar",
+               "short_name" : "Ekta Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mandala",
+               "short_name" : "Mandala",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mankhurd",
+               "short_name" : "Mankhurd",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400043",
+               "short_name" : "400043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mumbai Police Zopadpatti Panchayat, Ekta Nagar, Mandala, Mankhurd, Mumbai, Maharashtra 400043, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0548136,
+               "lng" : 72.9351901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0561625802915,
+                  "lng" : 72.93653908029151
+               },
+               "southwest" : {
+                  "lat" : 19.0534646197085,
+                  "lng" : 72.9338411197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Navi Mumbai Police Ayuktalay",
+               "short_name" : "Navi Mumbai Police Ayuktalay",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Thane-Belapur Road",
+               "short_name" : "Thane-Belapur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dighe Gaon",
+               "short_name" : "Dighe Gaon",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sanjay Gandhi Nagar",
+               "short_name" : "Sanjay Gandhi Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dighe",
+               "short_name" : "Dighe",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Navi Mumbai",
+               "short_name" : "Navi Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400708",
+               "short_name" : "400708",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Navi Mumbai Police Ayuktalay, Thane-Belapur Road, Dighe Gaon, Sanjay Gandhi Nagar, Dighe, Navi Mumbai, Maharashtra 400708, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.173728,
+               "lng" : 72.9982783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1750769802915,
+                  "lng" : 72.99962728029149
+               },
+               "southwest" : {
+                  "lat" : 19.1723790197085,
+                  "lng" : 72.99692931970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

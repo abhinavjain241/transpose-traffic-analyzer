@@ -1,0 +1,1831 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandar Road",
+               "short_name" : "Bandar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bandar Road",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.5117615,
+                  "lng" : 81.1484167
+               },
+               "southwest" : {
+                  "lat" : 16.1577786,
+                  "lng" : 80.6192688
+               }
+            },
+            "location" : {
+               "lat" : 16.3472145,
+               "lng" : 80.8937334
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.5117615,
+                  "lng" : 81.1484167
+               },
+               "southwest" : {
+                  "lat" : 16.1577786,
+                  "lng" : 80.6192688
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "G Road, Nebraska, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.83003859999999,
+                  "lng" : -96.7484803
+               },
+               "southwest" : {
+                  "lat" : 41.8293732,
+                  "lng" : -97.01958669999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8296992,
+               "lng" : -96.88403839999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8310548802915,
+                  "lng" : -96.7484803
+               },
+               "southwest" : {
+                  "lat" : 41.8283569197085,
+                  "lng" : -97.01958669999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Point",
+               "short_name" : "West Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68788",
+               "short_name" : "68788",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G Road, West Point, NE 68788, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8300575,
+                  "lng" : -96.5552347
+               },
+               "southwest" : {
+                  "lat" : 41.8289316,
+                  "lng" : -96.70978319999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8292002,
+               "lng" : -96.6323508
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8308435302915,
+                  "lng" : -96.5552347
+               },
+               "southwest" : {
+                  "lat" : 41.8281455697085,
+                  "lng" : -96.70978319999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M.G.Road",
+               "short_name" : "M.G.Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chintamani",
+               "short_name" : "Chintamani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chikballapur",
+               "short_name" : "Chikballapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "563125",
+               "short_name" : "563125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M.G.Road, Chintamani, Karnataka 563125, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.4040208,
+                  "lng" : 78.06374459999999
+               },
+               "southwest" : {
+                  "lat" : 13.3938282,
+                  "lng" : 78.04484069999999
+               }
+            },
+            "location" : {
+               "lat" : 13.4011226,
+               "lng" : 78.05639359999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.4040208,
+                  "lng" : 78.06374459999999
+               },
+               "southwest" : {
+                  "lat" : 13.3938282,
+                  "lng" : 78.04484069999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thiruvananthapuram",
+               "short_name" : "TVM",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thiruvananthapuram",
+               "short_name" : "TVM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Thiruvananthapuram, Kerala, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.5087397,
+                  "lng" : 76.95223059999999
+               },
+               "southwest" : {
+                  "lat" : 8.493001399999999,
+                  "lng" : 76.94771179999999
+               }
+            },
+            "location" : {
+               "lat" : 8.5009725,
+               "lng" : 76.94940489999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.5087397,
+                  "lng" : 76.95223059999999
+               },
+               "southwest" : {
+                  "lat" : 8.493001399999999,
+                  "lng" : 76.94771179999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arakandanallur",
+               "short_name" : "Arakandanallur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Villupuram",
+               "short_name" : "Villupuram",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "605752",
+               "short_name" : "605752",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Arakandanallur, Tamil Nadu 605752, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.990359,
+                  "lng" : 79.2423187
+               },
+               "southwest" : {
+                  "lat" : 11.9744232,
+                  "lng" : 79.21489389999999
+               }
+            },
+            "location" : {
+               "lat" : 11.9841283,
+               "lng" : 79.2282714
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.990359,
+                  "lng" : 79.2423187
+               },
+               "southwest" : {
+                  "lat" : 11.9744232,
+                  "lng" : 79.21489389999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villupuram",
+               "short_name" : "Villupuram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Villupuram",
+               "short_name" : "Villupuram",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "605602",
+               "short_name" : "605602",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Villupuram, Tamil Nadu 605602, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.9622931,
+                  "lng" : 79.4974227
+               },
+               "southwest" : {
+                  "lat" : 11.9401862,
+                  "lng" : 79.48615289999999
+               }
+            },
+            "location" : {
+               "lat" : 11.9513839,
+               "lng" : 79.49123729999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.9622931,
+                  "lng" : 79.4974227
+               },
+               "southwest" : {
+                  "lat" : 11.9401862,
+                  "lng" : 79.48615289999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medak",
+               "short_name" : "Medak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medak",
+               "short_name" : "Medak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "502110",
+               "short_name" : "502110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Medak, Telangana 502110, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.046115,
+                  "lng" : 78.26357039999999
+               },
+               "southwest" : {
+                  "lat" : 18.0329819,
+                  "lng" : 78.2605604
+               }
+            },
+            "location" : {
+               "lat" : 18.0395219,
+               "lng" : 78.2607201
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.046115,
+                  "lng" : 78.26357039999999
+               },
+               "southwest" : {
+                  "lat" : 18.0329819,
+                  "lng" : 78.2605604
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M G मार्ग",
+               "short_name" : "M G मार्ग",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sawe Wadi",
+               "short_name" : "Sawe Wadi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Latur",
+               "short_name" : "Latur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latur",
+               "short_name" : "Latur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M G मार्ग, Sawe Wadi, Latur, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.3992327,
+                  "lng" : 76.5775625
+               },
+               "southwest" : {
+                  "lat" : 18.3976743,
+                  "lng" : 76.5636227
+               }
+            },
+            "location" : {
+               "lat" : 18.3982516,
+               "lng" : 76.5705176
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3998024802915,
+                  "lng" : 76.5775625
+               },
+               "southwest" : {
+                  "lat" : 18.3971045197085,
+                  "lng" : 76.5636227
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M G రోడ్డు",
+               "short_name" : "M G రోడ్డు",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jagalur",
+               "short_name" : "Jagalur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davanagere",
+               "short_name" : "Davanagere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "577528",
+               "short_name" : "577528",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M G రోడ్డు, Jagalur, Karnataka 577528, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.5246933,
+                  "lng" : 76.34194149999999
+               },
+               "southwest" : {
+                  "lat" : 14.5190192,
+                  "lng" : 76.329624
+               }
+            },
+            "location" : {
+               "lat" : 14.5203409,
+               "lng" : 76.3357606
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.5246933,
+                  "lng" : 76.34194149999999
+               },
+               "southwest" : {
+                  "lat" : 14.5190192,
+                  "lng" : 76.329624
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kanakapura",
+               "short_name" : "Kanakapura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramanagara",
+               "short_name" : "Ramanagara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "562117",
+               "short_name" : "562117",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Kanakapura, Karnataka 562117, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.5528524,
+                  "lng" : 77.42431909999999
+               },
+               "southwest" : {
+                  "lat" : 12.549144,
+                  "lng" : 77.42390309999999
+               }
+            },
+            "location" : {
+               "lat" : 12.5507793,
+               "lng" : 77.42417619999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.5528524,
+                  "lng" : 77.42546008029149
+               },
+               "southwest" : {
+                  "lat" : 12.549144,
+                  "lng" : 77.42276211970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warangal",
+               "short_name" : "Warangal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warangal",
+               "short_name" : "Warangal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "Telangana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Warangal, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.9922375,
+                  "lng" : 79.60150369999999
+               },
+               "southwest" : {
+                  "lat" : 17.9878423,
+                  "lng" : 79.5916161
+               }
+            },
+            "location" : {
+               "lat" : 17.9897735,
+               "lng" : 79.5961128
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.9922375,
+                  "lng" : 79.60150369999999
+               },
+               "southwest" : {
+                  "lat" : 17.9878423,
+                  "lng" : 79.5916161
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Junagadh",
+               "short_name" : "Junagadh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Junagadh",
+               "short_name" : "Junagadh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "362001",
+               "short_name" : "362001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Junagadh, Gujarat 362001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.5283548,
+                  "lng" : 70.4639416
+               },
+               "southwest" : {
+                  "lat" : 21.5118951,
+                  "lng" : 70.45871679999999
+               }
+            },
+            "location" : {
+               "lat" : 21.5199713,
+               "lng" : 70.4606369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.5283548,
+                  "lng" : 70.4639416
+               },
+               "southwest" : {
+                  "lat" : 21.5118951,
+                  "lng" : 70.45871679999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ukhra",
+               "short_name" : "Ukhra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bardhaman",
+               "short_name" : "Bardhaman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "713363",
+               "short_name" : "713363",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Ukhra, West Bengal 713363, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.6511931,
+                  "lng" : 87.2662953
+               },
+               "southwest" : {
+                  "lat" : 23.6445905,
+                  "lng" : 87.2451842
+               }
+            },
+            "location" : {
+               "lat" : 23.64848,
+               "lng" : 87.2557944
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.6511931,
+                  "lng" : 87.2662953
+               },
+               "southwest" : {
+                  "lat" : 23.6445905,
+                  "lng" : 87.2451842
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67669",
+               "short_name" : "67669",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G Road, Stockton, KS 67669, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4811033,
+                  "lng" : -99.119241
+               },
+               "southwest" : {
+                  "lat" : 39.4795583,
+                  "lng" : -99.60165169999999
+               }
+            },
+            "location" : {
+               "lat" : 39.4807948,
+               "lng" : -99.36078719999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4816797802915,
+                  "lng" : -99.119241
+               },
+               "southwest" : {
+                  "lat" : 39.4789818197085,
+                  "lng" : -99.60165169999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulbarga division",
+               "short_name" : "Gulbarga division",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gulbarga",
+               "short_name" : "Gulbarga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "585101",
+               "short_name" : "585101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Kalaburagi, Karnataka 585101, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3366225,
+                  "lng" : 76.85821609999999
+               },
+               "southwest" : {
+                  "lat" : 17.3337099,
+                  "lng" : 76.8440432
+               }
+            },
+            "location" : {
+               "lat" : 17.3348663,
+               "lng" : 76.850956
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3366225,
+                  "lng" : 76.85821609999999
+               },
+               "southwest" : {
+                  "lat" : 17.3337099,
+                  "lng" : 76.8440432
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jewell",
+               "short_name" : "Jewell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jewell County",
+               "short_name" : "Jewell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66949",
+               "short_name" : "66949",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G Road, Jewell, KS 66949, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6544788,
+                  "lng" : -97.950261
+               },
+               "southwest" : {
+                  "lat" : 39.6507557,
+                  "lng" : -98.3895328
+               }
+            },
+            "location" : {
+               "lat" : 39.6541744,
+               "lng" : -98.16890720000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6544788,
+                  "lng" : -97.950261
+               },
+               "southwest" : {
+                  "lat" : 39.6507557,
+                  "lng" : -98.3895328
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kadwa",
+               "short_name" : "Kadwa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Katihar",
+               "short_name" : "Katihar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Katihar",
+               "short_name" : "Katihar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "854105",
+               "short_name" : "854105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Kadwa, Katihar, Bihar 854105, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.5424156,
+                  "lng" : 87.572295
+               },
+               "southwest" : {
+                  "lat" : 25.5399139,
+                  "lng" : 87.56800690000001
+               }
+            },
+            "location" : {
+               "lat" : 25.5412118,
+               "lng" : 87.5699477
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.5425137302915,
+                  "lng" : 87.572295
+               },
+               "southwest" : {
+                  "lat" : 25.5398157697085,
+                  "lng" : 87.56800690000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cooper County",
+               "short_name" : "Cooper County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Road, Missouri, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8024274,
+                  "lng" : -92.92971109999999
+               },
+               "southwest" : {
+                  "lat" : 38.7736114,
+                  "lng" : -92.9324651
+               }
+            },
+            "location" : {
+               "lat" : 38.7881801,
+               "lng" : -92.9301265
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8024274,
+                  "lng" : -92.92971109999999
+               },
+               "southwest" : {
+                  "lat" : 38.7736114,
+                  "lng" : -92.9324651
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapman",
+               "short_name" : "Chapman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merrick County",
+               "short_name" : "Merrick County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68827",
+               "short_name" : "68827",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G Road, Chapman, NE 68827, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.01758359999999,
+                  "lng" : -98.11141689999999
+               },
+               "southwest" : {
+                  "lat" : 41.0170654,
+                  "lng" : -98.28237349999999
+               }
+            },
+            "location" : {
+               "lat" : 41.0171452,
+               "lng" : -98.20018109999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0186734802915,
+                  "lng" : -98.11141689999999
+               },
+               "southwest" : {
+                  "lat" : 41.0159755197085,
+                  "lng" : -98.28237349999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahatma Gandhi Road",
+               "short_name" : "Mahatma Gandhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ernakulam",
+               "short_name" : "Ernakulam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ernakulam",
+               "short_name" : "EKM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mahatma Gandhi Road, Ernakulam, Kerala, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.985850899999999,
+                  "lng" : 76.2932119
+               },
+               "southwest" : {
+                  "lat" : 9.9479065,
+                  "lng" : 76.2814075
+               }
+            },
+            "location" : {
+               "lat" : 9.966985599999999,
+               "lng" : 76.28639099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.985850899999999,
+                  "lng" : 76.2932119
+               },
+               "southwest" : {
+                  "lat" : 9.9479065,
+                  "lng" : 76.2814075
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palisade",
+               "short_name" : "Palisade",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mesa County",
+               "short_name" : "Mesa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81526",
+               "short_name" : "81526",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G Road, Palisade, CO 81526, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.110062,
+                  "lng" : -108.326327
+               },
+               "southwest" : {
+                  "lat" : 39.103733,
+                  "lng" : -108.4409532
+               }
+            },
+            "location" : {
+               "lat" : 39.1061593,
+               "lng" : -108.3835361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.110062,
+                  "lng" : -108.326327
+               },
+               "southwest" : {
+                  "lat" : 39.103733,
+                  "lng" : -108.4409532
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grand Junction",
+               "short_name" : "Grand Junction",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mesa County",
+               "short_name" : "Mesa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "G Road, Grand Junction, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.110354,
+                  "lng" : -108.4965902
+               },
+               "southwest" : {
+                  "lat" : 39.1038939,
+                  "lng" : -108.6371664
+               }
+            },
+            "location" : {
+               "lat" : 39.106309,
+               "lng" : -108.5672566
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.110354,
+                  "lng" : -108.4965902
+               },
+               "southwest" : {
+                  "lat" : 39.1038939,
+                  "lng" : -108.6371664
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fowler",
+               "short_name" : "Fowler",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67844",
+               "short_name" : "67844",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "G Road, Fowler, KS 67844, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3878522,
+                  "lng" : -100.0979616
+               },
+               "southwest" : {
+                  "lat" : 37.3869818,
+                  "lng" : -100.343581
+               }
+            },
+            "location" : {
+               "lat" : 37.3871774,
+               "lng" : -100.2187647
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3887659802915,
+                  "lng" : -100.0979616
+               },
+               "southwest" : {
+                  "lat" : 37.3860680197085,
+                  "lng" : -100.343581
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Murud",
+               "short_name" : "Murud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raigad",
+               "short_name" : "Raigad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "402401",
+               "short_name" : "402401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Murud, Maharashtra 402401, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.3330625,
+                  "lng" : 72.96545709999999
+               },
+               "southwest" : {
+                  "lat" : 18.3271469,
+                  "lng" : 72.9638537
+               }
+            },
+            "location" : {
+               "lat" : 18.3302213,
+               "lng" : 72.96470739999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3330625,
+                  "lng" : 72.96600438029151
+               },
+               "southwest" : {
+                  "lat" : 18.3271469,
+                  "lng" : 72.9633064197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "G Road",
+               "short_name" : "G Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandhinagar",
+               "short_name" : "Gandhinagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "G Road, Gandhinagar, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.253264,
+                  "lng" : 72.6550036
+               },
+               "southwest" : {
+                  "lat" : 23.1964803,
+                  "lng" : 72.6236983
+               }
+            },
+            "location" : {
+               "lat" : 23.2254474,
+               "lng" : 72.6376264
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.253264,
+                  "lng" : 72.6550036
+               },
+               "southwest" : {
+                  "lat" : 23.1964803,
+                  "lng" : 72.6236983
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road",
+               "short_name" : "Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tërbuf",
+               "short_name" : "Tërbuf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lushnjë District",
+               "short_name" : "Lushnjë District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Fier",
+               "short_name" : "Fier",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Road, Tërbuf, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0519309,
+                  "lng" : 19.6289155
+               },
+               "southwest" : {
+                  "lat" : 40.99144320000001,
+                  "lng" : 19.606299
+               }
+            },
+            "location" : {
+               "lat" : 41.0172619,
+               "lng" : 19.6189021
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0519309,
+                  "lng" : 19.6289155
+               },
+               "southwest" : {
+                  "lat" : 40.99144320000001,
+                  "lng" : 19.606299
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kodibag",
+               "short_name" : "Kodibag",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karwar",
+               "short_name" : "Karwar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uttara Kannada",
+               "short_name" : "Uttara Kannada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "581301",
+               "short_name" : "581301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Kodibag, Karwar, Karnataka 581301, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.8249183,
+                  "lng" : 74.1293802
+               },
+               "southwest" : {
+                  "lat" : 14.8064607,
+                  "lng" : 74.126862
+               }
+            },
+            "location" : {
+               "lat" : 14.8156086,
+               "lng" : 74.12869429999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.8249183,
+                  "lng" : 74.12947008029151
+               },
+               "southwest" : {
+                  "lat" : 14.8064607,
+                  "lng" : 74.12677211970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalal Darwaja",
+               "short_name" : "Kalal Darwaja",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Godhra",
+               "short_name" : "Godhra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panchmahal",
+               "short_name" : "Panchmahal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "389001",
+               "short_name" : "389001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Kalal Darwaja, Godhra, Gujarat 389001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7748244,
+                  "lng" : 73.6222681
+               },
+               "southwest" : {
+                  "lat" : 22.7734408,
+                  "lng" : 73.61881199999999
+               }
+            },
+            "location" : {
+               "lat" : 22.7739862,
+               "lng" : 73.620693
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7754815802915,
+                  "lng" : 73.6222681
+               },
+               "southwest" : {
+                  "lat" : 22.77278361970849,
+                  "lng" : 73.61881199999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "MG Road",
+               "short_name" : "MG Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shirur",
+               "short_name" : "Shirur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "412210",
+               "short_name" : "412210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MG Road, Shirur, Maharashtra 412210, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8295516,
+                  "lng" : 74.3776857
+               },
+               "southwest" : {
+                  "lat" : 18.8251875,
+                  "lng" : 74.37267629999999
+               }
+            },
+            "location" : {
+               "lat" : 18.8273769,
+               "lng" : 74.37521839999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8295516,
+                  "lng" : 74.3776857
+               },
+               "southwest" : {
+                  "lat" : 18.8251875,
+                  "lng" : 74.37267629999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

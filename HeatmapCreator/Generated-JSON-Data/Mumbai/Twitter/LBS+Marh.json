@@ -1,0 +1,394 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lal Bahadur Shastri Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lal Bahadur Shastri Marg, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2124619,
+                  "lng" : 72.9819327
+               },
+               "southwest" : {
+                  "lat" : 19.0467586,
+                  "lng" : 72.8627029
+               }
+            },
+            "location" : {
+               "lat" : 19.1285846,
+               "lng" : 72.92535840000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2124619,
+                  "lng" : 72.9819327
+               },
+               "southwest" : {
+                  "lat" : 19.0467586,
+                  "lng" : 72.8627029
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "L. B. S. Marg",
+               "short_name" : "L. B. S. Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salaiya",
+               "short_name" : "Salaiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raisen",
+               "short_name" : "Raisen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "464886",
+               "short_name" : "464886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "L. B. S. Marg, Salaiya, Madhya Pradesh 464886, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.251331,
+                  "lng" : 78.3909111
+               },
+               "southwest" : {
+                  "lat" : 23.2358053,
+                  "lng" : 78.3797079
+               }
+            },
+            "location" : {
+               "lat" : 23.2436729,
+               "lng" : 78.38516000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.251331,
+                  "lng" : 78.3909111
+               },
+               "southwest" : {
+                  "lat" : 23.2358053,
+                  "lng" : 78.3797079
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LBS Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hendre Pada",
+               "short_name" : "Hendre Pada",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Badlapur",
+               "short_name" : "Badlapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "421503",
+               "short_name" : "421503",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LBS Marg, Hendre Pada, Badlapur, Maharashtra 421503, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1709451,
+                  "lng" : 73.24600289999999
+               },
+               "southwest" : {
+                  "lat" : 19.1660403,
+                  "lng" : 73.2429885
+               }
+            },
+            "location" : {
+               "lat" : 19.1686503,
+               "lng" : 73.24399009999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1709451,
+                  "lng" : 73.24600289999999
+               },
+               "southwest" : {
+                  "lat" : 19.1660403,
+                  "lng" : 73.2429885
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LBS Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Premier Residencies",
+               "short_name" : "Premier Residencies",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurla",
+               "short_name" : "Kurla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai Suburban",
+               "short_name" : "Mumbai Suburban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400070",
+               "short_name" : "400070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LBS Marg, Premier Residencies, Kurla, Mumbai, Maharashtra 400070, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.080217,
+                  "lng" : 72.8877112
+               },
+               "southwest" : {
+                  "lat" : 19.0788595,
+                  "lng" : 72.88569099999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0797156,
+               "lng" : 72.88691829999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0808872302915,
+                  "lng" : 72.88805008029151
+               },
+               "southwest" : {
+                  "lat" : 19.0781892697085,
+                  "lng" : 72.8853521197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LBS Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jawad",
+               "short_name" : "Jawad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Neemuch",
+               "short_name" : "Neemuch",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "458330",
+               "short_name" : "458330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LBS Marg, Jawad, Rajasthan 458330, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5970161,
+                  "lng" : 74.8674003
+               },
+               "southwest" : {
+                  "lat" : 24.5969387,
+                  "lng" : 74.86659139999999
+               }
+            },
+            "location" : {
+               "lat" : 24.5969387,
+               "lng" : 74.866907
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5983263802915,
+                  "lng" : 74.86834483029152
+               },
+               "southwest" : {
+                  "lat" : 24.5956284197085,
+                  "lng" : 74.8656468697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LBS Marg",
+               "short_name" : "LBS Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poonam Nagar",
+               "short_name" : "Poonam Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Road East",
+               "short_name" : "Mira Road East",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mira Bhayandar",
+               "short_name" : "Mira Bhayandar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thane",
+               "short_name" : "Thane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "401107",
+               "short_name" : "401107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LBS Marg, Poonam Nagar, Mira Road East, Mira Bhayandar, Maharashtra 401107, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2834581,
+               "lng" : 72.8628154
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2848070802915,
+                  "lng" : 72.8641643802915
+               },
+               "southwest" : {
+                  "lat" : 19.2821091197085,
+                  "lng" : 72.86146641970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayanpur Road",
+               "short_name" : "Narayanpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North 24 Parganas",
+               "short_name" : "North 24 Parganas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700052",
+               "short_name" : "700052",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narayanpur Road, Kolkata, West Bengal 700052, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6529527,
+                  "lng" : 88.4592909
+               },
+               "southwest" : {
+                  "lat" : 22.6344421,
+                  "lng" : 88.4346793
+               }
+            },
+            "location" : {
+               "lat" : 22.6415899,
+               "lng" : 88.45452329999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6529527,
+                  "lng" : 88.4592909
+               },
+               "southwest" : {
+                  "lat" : 22.6344421,
+                  "lng" : 88.4346793
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajarhat Road",
+               "short_name" : "Rajarhat Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Teghoria",
+               "short_name" : "Teghoria",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700136",
+               "short_name" : "700136",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rajarhat Road, Teghoria, Kolkata, West Bengal 700136, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6202755,
+                  "lng" : 88.43889569999999
+               },
+               "southwest" : {
+                  "lat" : 22.6198893,
+                  "lng" : 88.4375537
+               }
+            },
+            "location" : {
+               "lat" : 22.6202755,
+               "lng" : 88.43889569999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6214313802915,
+                  "lng" : 88.4395736802915
+               },
+               "southwest" : {
+                  "lat" : 22.6187334197085,
+                  "lng" : 88.43687571970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

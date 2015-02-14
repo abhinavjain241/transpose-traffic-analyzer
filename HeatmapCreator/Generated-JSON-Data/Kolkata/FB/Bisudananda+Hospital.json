@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bisudhananda Hospital",
+               "short_name" : "Bisudhananda Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bartala Street",
+               "short_name" : "Bartala St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bara Bazar",
+               "short_name" : "Bara Bazar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Raja Katra",
+               "short_name" : "Raja Katra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howrah",
+               "short_name" : "Howrah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700007",
+               "short_name" : "700007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bisudhananda Hospital, Bartala Street, Bara Bazar, Raja Katra, Kolkata, West Bengal 700007, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5820286,
+               "lng" : 88.3561309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5833775802915,
+                  "lng" : 88.35747988029151
+               },
+               "southwest" : {
+                  "lat" : 22.5806796197085,
+                  "lng" : 88.35478191970849
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

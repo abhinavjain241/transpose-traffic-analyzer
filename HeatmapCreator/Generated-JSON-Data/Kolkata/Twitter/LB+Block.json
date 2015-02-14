@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LB Block",
+               "short_name" : "LB Block",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sector III",
+               "short_name" : "Sector III",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bidhannagar",
+               "short_name" : "Bidhannagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "LB Block, Sector III, Bidhannagar, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.564605,
+                  "lng" : 88.415418
+               },
+               "southwest" : {
+                  "lat" : 22.558384,
+                  "lng" : 88.40923599999999
+               }
+            },
+            "location" : {
+               "lat" : 22.5606634,
+               "lng" : 88.4119096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.564605,
+                  "lng" : 88.415418
+               },
+               "southwest" : {
+                  "lat" : 22.558384,
+                  "lng" : 88.40923599999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_3", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

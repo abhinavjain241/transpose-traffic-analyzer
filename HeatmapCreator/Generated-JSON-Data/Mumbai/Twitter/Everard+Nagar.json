@@ -1,0 +1,199 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avrard Nagar",
+               "short_name" : "Avrard Nagar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Everard Nagar",
+               "short_name" : "Everard Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sion",
+               "short_name" : "Sion",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400022",
+               "short_name" : "400022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avrard Nagar, Everard Nagar, Sion, Mumbai, Maharashtra 400022, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0508412,
+               "lng" : 72.8749967
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0521901802915,
+                  "lng" : 72.87634568029151
+               },
+               "southwest" : {
+                  "lat" : 19.0494922197085,
+                  "lng" : 72.8736477197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Everard Nagar",
+               "short_name" : "Everard Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chembur",
+               "short_name" : "Chembur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Everard Nagar, Chembur, Mumbai, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0534351,
+                  "lng" : 72.8820609
+               },
+               "southwest" : {
+                  "lat" : 19.047524,
+                  "lng" : 72.8731779
+               }
+            },
+            "location" : {
+               "lat" : 19.0498478,
+               "lng" : 72.87739379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0534351,
+                  "lng" : 72.8820609
+               },
+               "southwest" : {
+                  "lat" : 19.047524,
+                  "lng" : 72.8731779
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Everard Nagar",
+               "short_name" : "Everard Nagar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lalbaug",
+               "short_name" : "Lalbaug",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sion East",
+               "short_name" : "Sion East",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sion",
+               "short_name" : "Sion",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai City",
+               "short_name" : "Mumbai City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400022",
+               "short_name" : "400022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Everard Nagar, Lalbaug, Sion East, Sion, Mumbai, Maharashtra 400022, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0505319,
+               "lng" : 72.8756082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0518808802915,
+                  "lng" : 72.87695718029151
+               },
+               "southwest" : {
+                  "lat" : 19.0491829197085,
+                  "lng" : 72.87425921970849
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

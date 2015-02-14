@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rahim Ostagar Lane",
+               "short_name" : "Rahim Ostagar Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jodhpur Park",
+               "short_name" : "Jodhpur Park",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700068",
+               "short_name" : "700068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rahim Ostagar Lane, Jodhpur Park, Kolkata, West Bengal 700068, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5087725,
+                  "lng" : 88.36537869999999
+               },
+               "southwest" : {
+                  "lat" : 22.5075114,
+                  "lng" : 88.3605742
+               }
+            },
+            "location" : {
+               "lat" : 22.5080594,
+               "lng" : 88.36291539999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5094909302915,
+                  "lng" : 88.36537869999999
+               },
+               "southwest" : {
+                  "lat" : 22.5067929697085,
+                  "lng" : 88.3605742
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

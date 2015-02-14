@@ -1,0 +1,315 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feroz Shah Road",
+               "short_name" : "Feroz Shah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Garikhata",
+               "short_name" : "Garikhata",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saddar Town",
+               "short_name" : "Saddar Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karachi",
+               "short_name" : "Karachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karachi District",
+               "short_name" : "Karachi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Feroz Shah Road, Karachi, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8561985,
+                  "lng" : 67.01142489999999
+               },
+               "southwest" : {
+                  "lat" : 24.8552608,
+                  "lng" : 67.0096906
+               }
+            },
+            "location" : {
+               "lat" : 24.8557433,
+               "lng" : 67.0105983
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8570786302915,
+                  "lng" : 67.01190673029151
+               },
+               "southwest" : {
+                  "lat" : 24.8543806697085,
+                  "lng" : 67.00920876970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feroz Shah Road",
+               "short_name" : "Feroz Shah Road",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "HC Mathur Lane",
+               "short_name" : "HC Mathur Lane",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110001",
+               "short_name" : "110001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Feroz Shah Road, HC Mathur Lane, New Delhi, Delhi 110001",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.620724,
+               "lng" : 77.22055499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.62207298029151,
+                  "lng" : 77.22190398029149
+               },
+               "southwest" : {
+                  "lat" : 28.6193750197085,
+                  "lng" : 77.21920601970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feroz Shah Building",
+               "short_name" : "Feroz Shah Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Millat Nagar",
+               "short_name" : "Millat Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Shrirampur",
+               "short_name" : "Shrirampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ahmednagar",
+               "short_name" : "Ahmednagar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "413709",
+               "short_name" : "413709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Feroz Shah Building, Millat Nagar, Shrirampur, Maharashtra 413709, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.6268995,
+                  "lng" : 74.6507304
+               },
+               "southwest" : {
+                  "lat" : 19.6264626,
+                  "lng" : 74.65028629999999
+               }
+            },
+            "location" : {
+               "lat" : 19.6265997,
+               "lng" : 74.6505646
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.6280300302915,
+                  "lng" : 74.65185733029151
+               },
+               "southwest" : {
+                  "lat" : 19.6253320697085,
+                  "lng" : 74.6491593697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feroz Shah Kotla Road",
+               "short_name" : "Feroz Shah Kotla Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jamshed Quarters",
+               "short_name" : "Jamshed Quarters",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jamshed Town",
+               "short_name" : "Jamshed Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karachi",
+               "short_name" : "Karachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karachi District",
+               "short_name" : "Karachi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sindh",
+               "short_name" : "Sindh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Feroz Shah Kotla Road, Karachi, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.8783746,
+                  "lng" : 67.0459608
+               },
+               "southwest" : {
+                  "lat" : 24.8764266,
+                  "lng" : 67.04564499999999
+               }
+            },
+            "location" : {
+               "lat" : 24.8773441,
+               "lng" : 67.045762
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.8787495802915,
+                  "lng" : 67.04715188029151
+               },
+               "southwest" : {
+                  "lat" : 24.87605161970849,
+                  "lng" : 67.04445391970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feroz Shah Mosque",
+               "short_name" : "Feroz Shah Mosque",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Malakand",
+               "short_name" : "Malakand",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khyber Pakhtunkhwa",
+               "short_name" : "N.W.F.P",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Feroz Shah Mosque, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.4416147,
+               "lng" : 72.072182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.44296368029149,
+                  "lng" : 72.07353098029151
+               },
+               "southwest" : {
+                  "lat" : 34.44026571970849,
+                  "lng" : 72.07083301970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "mosque", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

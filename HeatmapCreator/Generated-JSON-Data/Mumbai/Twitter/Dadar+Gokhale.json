@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dadar ST Bus Stop",
+               "short_name" : "Dadar ST Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Priyadarshini Society",
+               "short_name" : "Priyadarshini Society",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400028",
+               "short_name" : "400028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dadar ST Bus Stop, Priyadarshini Society, Dadar, Mumbai, Maharashtra 400028, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.0170858,
+               "lng" : 72.84106939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0184347802915,
+                  "lng" : 72.84241838029151
+               },
+               "southwest" : {
+                  "lat" : 19.0157368197085,
+                  "lng" : 72.83972041970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dadar West",
+               "short_name" : "Dadar West",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dadar",
+               "short_name" : "Dadar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mumbai",
+               "short_name" : "Mumbai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400028",
+               "short_name" : "400028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dadar, Dadar West, Dadar, Mumbai, Maharashtra 400028",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.016346,
+               "lng" : 72.84010599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0176949802915,
+                  "lng" : 72.8414549802915
+               },
+               "southwest" : {
+                  "lat" : 19.0149970197085,
+                  "lng" : 72.8387570197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
