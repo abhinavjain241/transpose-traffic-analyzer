@@ -1,0 +1,63 @@
+{
+    "fields": [{
+        "id": "a",
+        "label": "Type",
+        "type": "string"
+    }, {
+        "id": "b",
+        "label": "Vehicles Category",
+        "type": "string"
+    }, {
+        "id": "c",
+        "label": "Type of Vehicles",
+        "type": "string"
+    }, {
+        "id": "d",
+        "label": "Newly registered-2004-05",
+        "type": "string"
+    }, {
+        "id": "e",
+        "label": "Newly registered-2005-06",
+        "type": "string"
+    }, {
+        "id": "f",
+        "label": "Total registered as on 31.3.2005",
+        "type": "string"
+    }, {
+        "id": "g",
+        "label": "Total registered as on 31.3.2006",
+        "type": "string"
+    }],
+    "data": [
+        ["Transport", "I. Multiaxled \/ Articulated Vehicles", "Multiaxled \/ Articulated Vehicles", "NA", "NA", "NA", "NA"],
+        ["Transport", "II. Trucks & Lorries", "Trucks & Lorries", "562", "747", "57131", "57682"],
+        ["Transport", "III. Light Motor Vehicles (Goods)", "Four Wheelers", "NA", "5587", "63193", "67144"],
+        ["Transport", "III. Light Motor Vehicles (Goods)", "Three Wheelers", "NA", "NA", "NA", "NA"],
+        ["Transport", "Total-III. Light Motor Vehicles (Goods)", "Total Light Motor Vehicles (Goods)", "4747", "5587", "63193", "67144"],
+        ["Transport", "IV. Buses", "Stage carriages", "NA", "NA", "23888", "24494"],
+        ["Transport", "IV. Buses", "Contract carriages", "NA", "NA", "NA", "NA"],
+        ["Transport", "IV. Buses", "Private service vehicles", "NA", "NA", "NA", "NA"],
+        ["Transport", "IV. Buses", "Other buses", "NA", "NA", "1469", "1469"],
+        ["Transport", "Total-IV. Buses", "Total Buses", "725", "718", "25357", "25963"],
+        ["Transport", "V. Taxis", "Motor cabs", "310", "7", "7713", "7921"],
+        ["Transport", "V. Taxis", "Maxi cabs", "187", "184", "417", "633"],
+        ["Transport", "V. Taxis", "Other taxis", "2260", "2585", "5340", "7015"],
+        ["Transport", "Total- V. Taxis", "Total Taxis", "2757", "2776", "13470", "15569"],
+        ["Transport", "VI. Light Motor Vehicles (Passengers)", "Three seaters", "752", "NA", "73730", "75580"],
+        ["Transport", "VI. Light Motor Vehicles (Passengers)", "Four to six seaters", "1682", "1946", "18513", "20569"],
+        ["Transport", "Total- VI. Light Motor Vehicles (Passengers)", "Total Light Motor Vehicles (Passengers)", "2434", "1946", "92243", "96149"],
+        ["Transport", "VII. Motor cycles on hire", "Motor cycles on hire", "NA", "NA", "NA", "NA"],
+        ["Transport", "Total Transport(I to VII)", "Total Transport", "11225", "11774", "251394", "262507"],
+        ["Non Transport", "I. Two wheelers", "Scooters", "43821", "48312", "1978115", "2022647"],
+        ["Non Transport", "I. Two wheelers", "Mopeds", "523", "1244", "68412", "68780"],
+        ["Non Transport", "I. Two wheelers", "Motor cycles", "139620", "194757", "637428", "760493"],
+        ["Non Transport", "Total-I. Two wheelers", "Total Two wheelers", "183964", "244313", "2683955", "2851920"],
+        ["Non Transport", "II. Cars", "Cars", "112662", "111580", "1108045", "1222706"],
+        ["Non Transport", "III. Jeeps", "Jeeps", "3897", "1740", "61286", "65028"],
+        ["Non Transport", "IV. Omni buses", "Omni buses", "1961", "53", "77267", "80277"],
+        ["Non Transport", "V. Tractors", "Tractors", "69", "46", "4632", "4706"],
+        ["Non Transport", "VI. Trailers", "Trailers", "NA", "NA", "99", "99"],
+        ["Non Transport", "VII. Other vehicles not covered", "Other vehicles not covered", "18", "6", "148", "169"],
+        ["Non Transport", "Total Non Transport (I to VII)", "Total Non-Transport", "302571", "357738", "3935432", "4224905"]
+    ]
+}

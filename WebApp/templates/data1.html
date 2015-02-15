@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+{%  load staticfiles %}<!-- New Line -->
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Delhi Data</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="{% static 'css/sb-admin.css' %}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="{% static 'font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.5/css/jquery.dataTables.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Transpose-Traffic Analyzer</a>
+            </div>
+
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <!-- Top Menu Items -->
+
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li class="active">
+                        <a href="/"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+            <!-- /.navbar-collapse -->
+        </nav>
+
+        <div id="page-wrapper">
+
+            <div class="container-fluid">
+
+                <!-- Page Heading -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1 class="page-header">
+                            Delhi Accidents
+                        </h1>
+                        <ol class="breadcrumb">
+                            <li>
+                                <i class="fa fa-dashboard"></i>  <a href="index.html">Dashboard</a>
+                            </li>
+                            <li class="active">
+                                <i class="fa fa-table"></i> Delhi Data
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <div class="row">
+
+                    <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+                    <div class="col-lg-12">
+                        <div class="table-responsive">
+
+
+
+
+<table id="table1" class="table table-responsible">
+<tbody><tr >
+<th>
+S.NO.
+</th>
+<th>
+ACCIDENT PRONE ZONE
+</th>
+<th>
+SIMPLE
+</th>
+<th>
+FATAL
+</th>
+<th>
+TOTAL
+</th>
+<th>
+ROAD NAME
+</th>
+<th>
+CIRCLE NAME
+</th>
+</tr>
+<tr>
+<td>1</td>
+<td>AIIMS</td>
+<td>8</td>
+<td>4</td>
+<td>12</td>
+<td>RING ROAD</td>
+<td>HAUZ KHAS</td>
+</tr>
+<tr>
+<td> 2</td>
+<td>AKSHARDHAM MANDIR</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>NH-24</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 3</td>
+<td>ALI VILLAGE</td>
+<td>11</td>
+<td>5</td>
+<td>16</td>
+<td>MATHURA ROAD</td>
+<td>SARITA VIHAR</td>
+</tr>
+<tr>
+<td> 4</td>
+<td>AMBIANCE MALL</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>NELSON MANDELA MARG</td>
+<td>VASANT VIHAR</td>
+</tr>
+<tr>
+<td> 5</td>
+<td>ANAND VIHAR ISBT</td>
+<td>9</td>
+<td>1</td>
+<td>10</td>
+<td>ROAD NO.56</td>
+<td>VIVEK VIHAR</td>
+</tr>
+<tr>
+<td> 6</td>
+<td>ASHRAM CHOWK</td>
+<td>18</td>
+<td>4</td>
+<td>22</td>
+<td>RING ROAD</td>
+<td>LAJPAT NAGAR</td>
+</tr>
+<tr>
+<td> 7</td>
+<td>AZADPUR BUS TERMINAL</td>
+<td>10</td>
+<td>1</td>
+<td>11</td>
+<td>GTK ROAD</td>
+<td>MODEL TOWN</td>
+</tr>
+<tr>
+<td> 8</td>
+<td>AZADPUR CHOWK</td>
+<td>10</td>
+<td>8</td>
+<td>18</td>
+<td>GTK ROAD</td>
+<td>MODEL TOWN</td>
+</tr>
+<tr>
+<td> 9</td>
+<td>AZADPUR SABZI MANDI</td>
+<td>10</td>
+<td>9</td>
+<td>19</td>
+<td>GTK ROAD</td>
+<td>MODEL TOWN</td>
+</tr>
+<tr>
+<td> 10</td>
+<td>BAKOLI BUS STAND</td>
+<td>11</td>
+<td>3</td>
+<td>14</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 11</td>
+<td>BARAPULLA RING ROAD</td>
+<td>9</td>
+<td>3</td>
+<td>12</td>
+<td>RING ROAD</td>
+<td>LAJPAT NAGAR</td>
+</tr>
+<tr>
+<td> 12</td>
+<td>BHALSWA CHOWK</td>
+<td>7</td>
+<td>4</td>
+<td>11</td>
+<td>OUTER RING ROAD</td>
+<td>MODEL TOWN</td>
+</tr>
+<tr>
+<td> 13</td>
+<td>BRITANNIA CHOWK</td>
+<td>14</td>
+<td>4</td>
+<td>18</td>
+<td>RING ROAD</td>
+<td>ASHOK VIHAR</td>
+</tr>
+<tr>
+<td> 14</td>
+<td>BUDHPUR GANDA NALA/HANUMAN MANDIR BUDHPUR</td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 15</td>
+<td>BURARI CHOWK</td>
+<td>20</td>
+<td>5</td>
+<td>25</td>
+<td>OUTER RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 16</td>
+<td>CHIRAG DELHI FLYOVER</td>
+<td>10</td>
+<td>3</td>
+<td>13</td>
+<td>JOSEF BRIJ TITO MARG</td>
+<td>GREATER KAILASH</td>
+</tr>
+<tr>
+<td> 17</td>
+<td>CNG PUMP SANJAY GANDHI T-POINT</td>
+<td>3</td>
+<td>8</td>
+<td>11</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 18</td>
+<td>DABRI FLYOVER</td>
+<td>14</td>
+<td>6</td>
+<td>20</td>
+<td>PANKHA ROAD</td>
+<td>TILAK NAGAR</td>
+</tr>
+<tr>
+<td> 19</td>
+<td>DADA DEV HOSPITAL</td>
+<td>7</td>
+<td>5</td>
+<td>12</td>
+<td></td>
+<td>DWARKA</td>
+</tr>
+<tr>
+<td> 20</td>
+<td>DC OFFICE</td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>MEHRAULI BADARPUR RD</td>
+<td>HAUZ KHAS</td>
+</tr>
+<tr>
+<td> 21</td>
+<td>DCM CHOWK</td>
+<td>3</td>
+<td>5</td>
+<td>8</td>
+<td>RANI JHANSI ROAD</td>
+<td>SUBZI MANDI</td>
+</tr>
+<tr>
+<td> 22</td>
+<td>DEEPALI CHOWK</td>
+<td>12</td>
+<td>2</td>
+<td>14</td>
+<td>OUTER RING ROAD</td>
+<td>ASHOK VIHAR</td>
+</tr>
+<tr>
+<td> 23</td>
+<td>DHARAMPURA RED LIGHT</td>
+<td>14</td>
+<td>1</td>
+<td>15</td>
+<td>G.T.ROAD</td>
+<td>SHAHDRA</td>
+</tr>
+<tr>
+<td> 24</td>
+<td>DHAULA KUAN</td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>RING ROAD</td>
+<td>DELHI CANTT.</td>
+</tr>
+<tr>
+<td> 25</td>
+<td>DILSHAD GARDEN</td>
+<td>9</td>
+<td>3</td>
+<td>12</td>
+<td>G.T.ROAD</td>
+<td>SEEMA PURI</td>
+</tr>
+<tr>
+<td> 26</td>
+<td>DND FLYOVER</td>
+<td>14</td>
+<td>5</td>
+<td>19</td>
+<td>RING ROAD</td>
+<td>LAJPAT NAGAR</td>
+</tr>
+<tr>
+<td> 27</td>
+<td>EAST VINOD NAGAR/MV II RED LIGHT</td>
+<td>16</td>
+<td>6</td>
+<td>22</td>
+<td>NH-24</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 28</td>
+<td>ESI HOSPITAL, ANAND MAI MARG</td>
+<td>12</td>
+<td>6</td>
+<td>18</td>
+<td>ANAND MAI MARG</td>
+<td>KALKAJI</td>
+</tr>
+<tr>
+<td> 29</td>
+<td>FAIZ ROAD CROSSING/IDGAH</td>
+<td>13</td>
+<td>6</td>
+<td>19</td>
+<td>FAIZ ROAD</td>
+<td>KAROL BAGH</td>
+</tr>
+<tr>
+<td> 30</td>
+<td>GANDHI VIHAR BUS STAND</td>
+<td>6</td>
+<td>4</td>
+<td>10</td>
+<td>OUTER RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 31</td>
+<td>GATE NO.3 TIHAR JAIL</td>
+<td>8</td>
+<td>3</td>
+<td>11</td>
+<td>JAIL ROAD</td>
+<td>RAJOURI GARDEN</td>
+</tr>
+<tr>
+<td> 32</td>
+<td>GEETA COLONY FLYOVER</td>
+<td>9</td>
+<td>5</td>
+<td>14</td>
+<td>YAMUNA PUSTA ROAD</td>
+<td>GANDHI NAGAR</td>
+</tr>
+<tr>
+<td> 33</td>
+<td>GHEWRA MORE</td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 34</td>
+<td>GURUDWARA RAJA GARDEN</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+<td>RING ROAD</td>
+<td>RAJOURI GARDEN</td>
+</tr>
+<tr>
+<td> 35</td>
+<td>HAIDER PUR</td>
+<td>20</td>
+<td>4</td>
+<td>24</td>
+<td>OUTER RING ROAD</td>
+<td>ROHINI</td>
+</tr>
+<tr>
+<td> 36</td>
+<td>HAMDARD NGR RED LIGHT</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>MEHRAULI BADARPUR RD</td>
+<td>KALKAJI</td>
+</tr>
+<tr>
+<td> 37</td>
+<td>HARKESH NAGAR</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+<td>MATHURA ROAD</td>
+<td>SARITA VIHAR</td>
+</tr>
+<tr>
+<td> 38</td>
+<td>HAYAAT HOTEL</td>
+<td>8</td>
+<td>3</td>
+<td>11</td>
+<td>RING ROAD</td>
+<td>RK PURAM</td>
+</tr>
+<tr>
+<td> 39</td>
+<td>ISBT K. GATE</td>
+<td>10</td>
+<td>6</td>
+<td>16</td>
+<td>RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 40</td>
+<td>ITO/I P FLYOVER</td>
+<td>12</td>
+<td>6</td>
+<td>18</td>
+<td>RING ROAD</td>
+<td>DARYA GANJ</td>
+</tr>
+<tr>
+<td> 41</td>
+<td>JAHANGIRPURI BUS STAND</td>
+<td>5</td>
+<td>10</td>
+<td>15</td>
+<td>OUTER RING ROAD</td>
+<td>MODEL TOWN</td>
+</tr>
+<tr>
+<td> 42</td>
+<td>JAITPUR MORE</td>
+<td>12</td>
+<td>5</td>
+<td>17</td>
+<td>MATHURA ROAD</td>
+<td>SARITA VIHAR</td>
+</tr>
+<tr>
+<td> 43</td>
+<td>JANAKPURI EAST</td>
+<td>11</td>
+<td>0</td>
+<td>11</td>
+<td>NAJAFGARH ROAD</td>
+<td>TILAK NAGAR</td>
+</tr>
+<tr>
+<td> 44</td>
+<td>KABOOTAR MARKET</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>N. SUBHASH MARG</td>
+<td>KOTWALI</td>
+</tr>
+<tr>
+<td> 45</td>
+<td>KAKROLA DWARKA MORE</td>
+<td>8</td>
+<td>5</td>
+<td>13</td>
+<td>NAJAFGARH ROAD</td>
+<td>TILAK NAGAR</td>
+</tr>
+<tr>
+<td> 46</td>
+<td>KAPOOR HOSPITAL</td>
+<td>8</td>
+<td>4</td>
+<td>12</td>
+<td>GIRDHARI LAL MARG</td>
+<td>MAYA PURI</td>
+</tr>
+<tr>
+<td> 47</td>
+<td>KARAN VATIKA NIHAL VIHAR</td>
+<td>0</td>
+<td>3</td>
+<td>3</td>
+<td>NANGLOI NAJAFGARH RD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 48</td>
+<td>KAYA MAYA HOSPITAL</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>MEHRAULI BADARPUR RD</td>
+<td>KALKAJI</td>
+</tr>
+<tr>
+<td> 49</td>
+<td>KHAJOORI CHOWK</td>
+<td>12</td>
+<td>3</td>
+<td>15</td>
+<td>WAZIRABAD ROAD</td>
+<td>SLC</td>
+</tr>
+<tr>
+<td> 50</td>
+<td>KHAMPUR VILLAGE</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 51</td>
+<td>KHANPUR T-POINT</td>
+<td>9</td>
+<td>2</td>
+<td>11</td>
+<td>MEHRAULI BADARPUR</td>
+<td>GREATER KAILASH</td>
+</tr>
+<tr>
+<td> 52</td>
+<td>KHEL GAON</td>
+<td>9</td>
+<td>7</td>
+<td>16</td>
+<td>NH-24</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 53</td>
+<td>KIRARI MORE</td>
+<td>14</td>
+<td>5</td>
+<td>19</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 54</td>
+<td>KRISHNA GARDEN</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 55</td>
+<td>LAJPAT NAGAR</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>RING ROAD</td>
+<td>LAJPAT NAGAR</td>
+</tr>
+<tr>
+<td> 56</td>
+<td>LALA HARISHCHANDER HOSPITAL</td>
+<td>12</td>
+<td>1</td>
+<td>13</td>
+<td>DSIDC NARELA ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 57</td>
+<td>LIBASPUR BUS STAND</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 58</td>
+<td>LOHA MANDI</td>
+<td>4</td>
+<td>3</td>
+<td>7</td>
+<td>GIRDHARI LAL MARG</td>
+<td>MAYA PURI</td>
+</tr>
+<tr>
+<td> 59</td>
+<td>M.S. PARK METRO STATION</td>
+<td>14</td>
+<td>3</td>
+<td>17</td>
+<td>G.T.ROAD</td>
+<td>SHAHDRA</td>
+</tr>
+<tr>
+<td> 60</td>
+<td>MADHUBAN CHOWK</td>
+<td>6</td>
+<td>6</td>
+<td>12</td>
+<td>OUTER RING ROAD</td>
+<td>ASHOK VIHAR</td>
+</tr>
+<tr>
+<td> 61</td>
+<td>MAHIPALPUR FLYOVER</td>
+<td>11</td>
+<td>4</td>
+<td>15</td>
+<td>NH-8</td>
+<td>VASANT VIHAR</td>
+</tr>
+<tr>
+<td> 62</td>
+<td>MAJNU KA TILA</td>
+<td>11</td>
+<td>5</td>
+<td>16</td>
+<td>OUTER RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 63</td>
+<td>MALAI MANDIR</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>OUTER RING ROAD</td>
+<td>VASANT VIHAR</td>
+</tr>
+<tr>
+<td> 64</td>
+<td>MANGOL PURI FLYOVER</td>
+<td>6</td>
+<td>5</td>
+<td>11</td>
+<td>OUTER RING ROAD</td>
+<td>ROHINI</td>
+</tr>
+<tr>
+<td> 65</td>
+<td>MAYA PURI CHOWK</td>
+<td>7</td>
+<td>4</td>
+<td>11</td>
+<td>RING ROAD</td>
+<td>MAYA PURI</td>
+</tr>
+<tr>
+<td> 66</td>
+<td>MAYUR VIHAR EXTENSION</td>
+<td>5</td>
+<td>3</td>
+<td>8</td>
+<td>NOIDA LINK ROAD</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 67</td>
+<td>METRO STATION MADI PUR</td>
+<td>9</td>
+<td>5</td>
+<td>14</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 68</td>
+<td>METRO STATION PASCHIM VIHAR</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 69</td>
+<td>MODI MILL FLYOVER</td>
+<td>9</td>
+<td>2</td>
+<td>11</td>
+<td>OUTER RING ROAD</td>
+<td>KALKAJI</td>
+</tr>
+<tr>
+<td> 70</td>
+<td>MONESTRY RING ROAD</td>
+<td>11</td>
+<td>4</td>
+<td>15</td>
+<td>RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 71</td>
+<td>MOOLCHAND</td>
+<td>11</td>
+<td>4</td>
+<td>15</td>
+<td>RING ROAD</td>
+<td>HAUZ KHAS</td>
+</tr>
+<tr>
+<td> 72</td>
+<td>MOTI BAGH FLYOVER</td>
+<td>7</td>
+<td>6</td>
+<td>13</td>
+<td>RING ROAD</td>
+<td>RK PURAM</td>
+</tr>
+<tr>
+<td> 73</td>
+<td>MOTI NAGAR FLYOVER</td>
+<td>17</td>
+<td>4</td>
+<td>21</td>
+<td>PATEL ROAD</td>
+<td>PATEL NAGAR</td>
+</tr>
+<tr>
+<td> 74</td>
+<td>MUKHAND PUR CHOWK</td>
+<td>6</td>
+<td>11</td>
+<td>17</td>
+<td>OUTER RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 75</td>
+<td>MUKHARBA CHOWK</td>
+<td>4</td>
+<td>8</td>
+<td>12</td>
+<td>GTK ROAD</td>
+<td>MODEL TOWN</td>
+</tr>
+<tr>
+<td> 76</td>
+<td>MUNDKA METRO STATION</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 77</td>
+<td>MUNIRKA</td>
+<td>10</td>
+<td>3</td>
+<td>13</td>
+<td>OUTER RING ROAD</td>
+<td>VASANT VIHAR</td>
+</tr>
+<tr>
+<td> 78</td>
+<td>MURGA MANDI FLYOVER</td>
+<td>8</td>
+<td>3</td>
+<td>11</td>
+<td>NH-24</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 79</td>
+<td>NANGLI BUDHPUR VILLAGE/MOHAN VILAS FARM HOUSE</td>
+<td>3</td>
+<td>7</td>
+<td>10</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 80</td>
+<td>NANGLOI DTC DEPOT</td>
+<td>5</td>
+<td>8</td>
+<td>13</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 81</td>
+<td>NARAINA</td>
+<td>7</td>
+<td>6</td>
+<td>13</td>
+<td>RING ROAD</td>
+<td>MAYA PURI</td>
+</tr>
+<tr>
+<td> 82</td>
+<td>NAWADA VILLAGE</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>NAJAFGARH ROAD</td>
+<td>TILAK NAGAR</td>
+</tr>
+<tr>
+<td> 83</td>
+<td>NIGAM BODH GHAT</td>
+<td>14</td>
+<td>8</td>
+<td>22</td>
+<td>RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 84</td>
+<td>NIZAMUDIN YAMUNA BRIDGE</td>
+<td>9</td>
+<td>3</td>
+<td>12</td>
+<td>NH-24</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 85</td>
+<td>OKHLA MORE</td>
+<td>12</td>
+<td>4</td>
+<td>16</td>
+<td>MEHRAULI BADARPUR</td>
+<td>KALKAJI</td>
+</tr>
+<tr>
+<td> 86</td>
+<td>PANCHSHEEL FLYOVER</td>
+<td>8</td>
+<td>4</td>
+<td>12</td>
+<td>OUTER RING ROAD</td>
+<td>HAUZ KHAS</td>
+</tr>
+<tr>
+<td> 87</td>
+<td>PANI KI TANKI</td>
+<td>2</td>
+<td>4</td>
+<td>6</td>
+<td>NANGLOI NAJAFGARH RD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 88</td>
+<td>PEERA GARHI CHOWK</td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>OUTER RING ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 89</td>
+<td>POWER HOUSE MAHAVIR ENCLAVE</td>
+<td>5</td>
+<td>3</td>
+<td>8</td>
+<td></td>
+<td>DWARKA</td>
+</tr>
+<tr>
+<td> 90</td>
+<td>PUNJABI BAGH CHOWK</td>
+<td>9</td>
+<td>10</td>
+<td>19</td>
+<td>RING ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 91</td>
+<td>PUSA GATE INDER PURI</td>
+<td>5</td>
+<td>3</td>
+<td>8</td>
+<td>DEV PRAKASH SHASTRI</td>
+<td>MAYA PURI</td>
+</tr>
+<tr>
+<td> 92</td>
+<td>PUSTA NEW USMANPUR</td>
+<td>0</td>
+<td>8</td>
+<td>8</td>
+<td>YAMUNA PUSTA ROAD</td>
+<td>SHAHDRA</td>
+</tr>
+<tr>
+<td> 93</td>
+<td>RADISSON HOTEL</td>
+<td>9</td>
+<td>3</td>
+<td>12</td>
+<td>NH-8</td>
+<td>VASANT VIHAR</td>
+</tr>
+<tr>
+<td> 94</td>
+<td>RAJDHANI PARK</td>
+<td>8</td>
+<td>3</td>
+<td>11</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 95</td>
+<td>RAJGHAT</td>
+<td>8</td>
+<td>3</td>
+<td>11</td>
+<td>RING ROAD</td>
+<td>DARYA GANJ</td>
+</tr>
+<tr>
+<td> 96</td>
+<td>RAJOKARI FLYOVER</td>
+<td>10</td>
+<td>3</td>
+<td>13</td>
+<td>NH-8</td>
+<td>KHC</td>
+</tr>
+<tr>
+<td> 97</td>
+<td>RAMA VIHAR</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>QUTAB GARH ROAD</td>
+<td>ROHINI</td>
+</tr>
+<tr>
+<td> 98</td>
+<td>ROUND ABOUT OKHLA ESTATE</td>
+<td>16</td>
+<td>2</td>
+<td>18</td>
+<td>ANAND MAI MARG</td>
+<td>KALKAJI</td>
+</tr>
+<tr>
+<td> 99</td>
+<td>ROUND ABOUT PUSA</td>
+<td>13</td>
+<td>3</td>
+<td>16</td>
+<td>PUSA ROAD</td>
+<td>PATEL NAGAR</td>
+</tr>
+<tr>
+<td> 100</td>
+<td>SAI BABA MANDIR</td>
+<td>6</td>
+<td>5</td>
+<td>11</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 101</td>
+<td>SAMSHAN GHAT BARAPULA</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>LALA LAJPAT RAI PATH</td>
+<td>DEFENCE COLONY</td>
+</tr>
+<tr>
+<td> 102</td>
+<td>SANJAY T-POINT</td>
+<td>9</td>
+<td>5</td>
+<td>14</td>
+<td>NH-8</td>
+<td>DELHI CANTT.</td>
+</tr>
+<tr>
+<td> 103</td>
+<td>SARAI KALE KHAN</td>
+<td>14</td>
+<td>4</td>
+<td>18</td>
+<td>RING ROAD</td>
+<td>LAJPAT NAGAR</td>
+</tr>
+<tr>
+<td> 104</td>
+<td>SARITA VIHAR FLYOVER</td>
+<td>10</td>
+<td>6</td>
+<td>16</td>
+<td>MATHURA ROAD</td>
+<td>SARITA VIHAR</td>
+</tr>
+<tr>
+<td> 105</td>
+<td>SEC.23 PETROL PUMP</td>
+<td>8</td>
+<td>2</td>
+<td>10</td>
+<td>QUTAB GARH ROAD</td>
+<td>ROHINI</td>
+</tr>
+<tr>
+<td> 106</td>
+<td>SEELAM PUR T-POINT</td>
+<td>22</td>
+<td>3</td>
+<td>25</td>
+<td>G.T.ROAD</td>
+<td>SHAHDRA</td>
+</tr>
+<tr>
+<td> 107</td>
+<td>SGT NAGAR</td>
+<td>7</td>
+<td>8</td>
+<td>15</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 108</td>
+<td>SHAHADRA FLYOVER</td>
+<td>8</td>
+<td>3</td>
+<td>11</td>
+<td>G.T.ROAD</td>
+<td>SHAHDRA</td>
+</tr>
+<tr>
+<td> 109</td>
+<td>SHAKARPUR CHUNGI</td>
+<td>12</td>
+<td>3</td>
+<td>15</td>
+<td>VIKAS MARG</td>
+<td>GANDHI NAGAR</td>
+</tr>
+<tr>
+<td> 110</td>
+<td>SHAKURPUR RED LIGHT</td>
+<td>5</td>
+<td>4</td>
+<td>9</td>
+<td>RING ROAD</td>
+<td>ASHOK VIHAR</td>
+</tr>
+<tr>
+<td> 111</td>
+<td>SHAMSHAN GHAT GEETA COLONY</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>YAMUNA PUSTA ROAD</td>
+<td>GANDHI NAGAR</td>
+</tr>
+<tr>
+<td> 112</td>
+<td>SHANI MANDIR</td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 113</td>
+<td>SHIV MURTI</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+<td>NH-8</td>
+<td>VASANT VIHAR</td>
+</tr>
+<tr>
+<td> 114</td>
+<td>SHYAM LAL COLLAGE</td>
+<td>9</td>
+<td>7</td>
+<td>16</td>
+<td>G.T.ROAD</td>
+<td>SHAHDRA</td>
+</tr>
+<tr>
+<td> 115</td>
+<td>SINGHU BORDER</td>
+<td>7</td>
+<td>5</td>
+<td>12</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 116</td>
+<td>SURAJMAL METRO STATION</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>ROHTAK ROAD</td>
+<td>PUNJABI BAGH</td>
+</tr>
+<tr>
+<td> 117</td>
+<td>SWAROOP NAGAR</td>
+<td>6</td>
+<td>4</td>
+<td>10</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 118</td>
+<td>TIKRI KHURD BUS STAND</td>
+<td>8</td>
+<td>5</td>
+<td>13</td>
+<td>GTK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 119</td>
+<td>TIKRI VILLAGE</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>ROHTAK ROAD</td>
+<td>NARELA</td>
+</tr>
+<tr>
+<td> 120</td>
+<td>UNDER PASS GAJIPUR RED LIGHT</td>
+<td>8</td>
+<td>6</td>
+<td>14</td>
+<td>NH-24</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 121</td>
+<td>UNDER PASS PATPARGANJ</td>
+<td>15</td>
+<td>4</td>
+<td>19</td>
+<td>PATPARGANJ ROAD</td>
+<td>KALYAN PURI</td>
+</tr>
+<tr>
+<td> 122</td>
+<td>UTTAM NAGAR METRO STN</td>
+<td>13</td>
+<td>2</td>
+<td>15</td>
+<td>NAJAFGARH ROAD</td>
+<td>TILAK NAGAR</td>
+</tr>
+<tr>
+<td> 123</td>
+<td>VIJAY GHAT</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>RING ROAD BYPASS</td>
+<td>KOTWALI</td>
+</tr>
+<tr>
+<td> 124</td>
+<td>WAJIRPUR DEPOT</td>
+<td>10</td>
+<td>8</td>
+<td>18</td>
+<td>RING ROAD</td>
+<td>ASHOK VIHAR</td>
+</tr>
+<tr>
+<td> 125</td>
+<td>WAZIRABAD</td>
+<td>11</td>
+<td>5</td>
+<td>16</td>
+<td>OUTER RING ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 126</td>
+<td>WAZIRABAD PULL</td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+<td>WAZIRABAD ROAD</td>
+<td>CIVIL LINES</td>
+</tr>
+<tr>
+<td> 127</td>
+<td>WEST ENCLAVE RED LIGHT</td>
+<td>4</td>
+<td>3</td>
+<td>7</td>
+<td>OUTER RING ROAD</td>
+<td>ROHINI</td>
+</tr>
+<tr>
+<td> 128</td>
+<td>ZAKHIRA FLYOVER</td>
+<td>9</td>
+<td>3</td>
+<td>12</td>
+<td>ROHTAK ROAD</td>
+<td>PATEL NAGAR</td>
+</tr>
+</tbody></table>
+
+
+
+
+                        </div>
+                    </div>
+
+
+                </div>
+                <!-- /.row -->
+
+
+            </div>
+            <!-- /.container-fluid -->
+
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="{% static 'js/jquery.js' %}"></script>
+    <script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="http://code.highcharts.com/modules/data.js"></script>
+    <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+
+
+                    $('#container').highcharts({
+
+                        chart: {
+                            type: 'bar'
+                        },
+                        data: {
+                            table: 'table1',
+startColumn:1,
+endColumn:3
+                        },
+                        title: {
+                            text: 'Data'
+
+                        },
+                        yAxis: {
+                            allowDecimals: false,
+                            title: {
+                                text: 'Units'
+                            }
+                        },
+                        tooltip: {
+                            formatter: function () {
+                                return '<b>' + this.series.name + '</b><br/>' +
+                                    this.point.y + ' ' + this.point.name.toLowerCase();
+                            }
+                        }
+                    });
+
+
+            $("#table1").DataTable({
+                "fnDrawCallback": function( oSettings ) {
+
+
+                    $('#container').highcharts({
+
+                        chart: {
+                            type: 'spline'
+                        },
+                        data: {
+                            table: 'table1',
+                            switchRowsAndColumns: true
+                        },
+                        title: {
+                            text: 'Data'
+
+                        },
+                        yAxis: {
+                            allowDecimals: false,
+                            title: {
+                                text: 'Units'
+                            }
+                        },
+                        tooltip: {
+                            formatter: function () {
+                                return '<b>' + this.series.name + '</b><br/>' +
+                                    this.point.y + ' ' + this.point.name.toLowerCase();
+                            }
+                        }
+                    });
+
+
+
+
+                }
+              });
+
+        })
+
+    </script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+</body>
+
+</html>
