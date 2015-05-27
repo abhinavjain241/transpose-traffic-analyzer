@@ -6,16 +6,18 @@ The Heatmap Visualization has been done by using **Google Maps API**
 
 Here, the data being represented are the places facing possible traffic congestion.
 
-The heat map creation is done in a series of steps:
+The heat map creation is done in a **series** of steps:
+
 1. The extracted data from Twitter/Facebook stored in JSON files is parsed using a program which uses NLP (Natural Language Processing) to return a text file containing list of places found out in various Tweets/Status Updates.
 
 2. The list of keywords is then read one by one by a script and a geocoding request for each one of them is sent to Google Maps API which returns another JSON file containing information about that place (Like Geometry etc.). There might be multiple results for a single place, so they are all indexed in the JSON file.
 
 3. A third script reads all the JSON files one-by-one and extracts the latitude and longitude from the Geometry information of the place. Filtering of data is also done at this stage, where results returning Latitude and Longitude out of range of the concerned place are ignored. This script returns a list of objects containing information of latitude and longitude, in a form like this:
+
 ```js
 new google.maps.LatLng(<LatitudeValue>,<LongitudeVal>)
 ```
-4. These objects are copied and then stored in an array in the final Javascript file which implements the heatmap.
+These objects are copied and then stored in an array in the final Javascript file which implements the heatmap.
 
 Visualization
 -------------
