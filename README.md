@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/abhinavjain241/transpose-traffic-analyzer.svg?branch=master)](https://travis-ci.org/abhinavjain241/transpose-traffic-analyzer)
+[![Build Status](https://travis-ci.org/abhinavjain241/transpose-traffic-analyzer.svg?branch=master)](https://travis-ci.org/abhinavjain241/transpose-traffic-analyzer) [![Coverage Status](https://coveralls.io/repos/abhinavjain241/transpose-traffic-analyzer/badge.svg)](https://coveralls.io/r/abhinavjain241/transpose-traffic-analyzer)
 
 # Transpose - Traffic Analyzer
 
