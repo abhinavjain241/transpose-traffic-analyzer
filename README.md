@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/abhinavjain241/transpose-traffic-analyzer.svg?branch=master)
+
 # Transpose - Traffic Analyzer
 
 ## Project Details
