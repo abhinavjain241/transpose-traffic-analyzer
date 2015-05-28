@@ -1,0 +1,10 @@
+language: python
+python:
+    - 2.7
+install:
+    - pip install python-coveralls
+    - pip install -r WebApp/requirements.txt
+script:
+    - coverage run --source='./WebApp' --omit='*migrations*' ./WebApp/manage.py test transpose
+after_success:
+    - coveralls
